@@ -2238,3 +2238,731 @@
   founded: 1931
   website: https://www.yyc.org/
   burgee: youngstown_yc.png
+- club:
+  name: Chicago Yacht Club
+  city: Chicago
+  state: Illinois
+  country: USA
+  founded: 1875
+  website: https://www.chicagoyachtclub.org/
+  burgee: chicago_yc.png
+- club:
+  name: Columbia Yacht Club
+  city: Chicago
+  state: Illinois
+  country: USA
+  founded: 1892
+  website: https://www.columbiayachtclub.org/
+  burgee: columbia_il_yc.png
+- club:
+  name: Jackson Park Yacht Club
+  city: Chicago
+  state: Illinois
+  country: USA
+  founded: 1896
+  website: https://jacksonparkyachtclub.org/
+  burgee: jackson_park_yc.png
+- club:
+  name: Burnham Park Yacht Club
+  city: Chicago
+  state: Illinois
+  country: USA
+  founded: 1938
+  website: https://www.bpyc.com/
+  burgee: burnham_park_yc.png
+- club:
+  name: Island Bay Yacht Club
+  city: Springfield
+  state: Illinois
+  country: USA
+  founded: 1935
+  website: https://www.ibyconline.com/
+  burgee: island_bay_yc.png
+- club:
+  name: St. Francis Yacht Club
+  city: San Francisco
+  state: California
+  country: USA
+  founded: 1927
+  website: https://www.stfyc.com/
+  burgee: st_francis_yc.png
+- club:
+  name: San Francisco Yacht Club
+  city: Belvedere
+  state: California
+  country: USA
+  founded: 1869
+  website: https://www.sfyc.org/
+  burgee: san_francisco_yc.png
+- club:
+  name: Golden Gate Yacht Club
+  city: San Francisco
+  state: California
+  country: USA
+  founded: 1939
+  website: https://ggyc.com/
+  burgee: golden_gate_yc.png
+- club:
+  name: Corinthian Yacht Club of San Francisco
+  city: Tiburon
+  state: California
+  country: USA
+  founded: 1886
+  website: https://www.cyc.org/
+  burgee: corinthian_sf_yc.png
+- club:
+  name: Sausalito Yacht Club
+  city: Sausalito
+  state: California
+  country: USA
+  founded: 1942
+  website: https://www.sausalitoyachtclub.org/
+  burgee: sausalito_yc.png
+- club:
+  name: Richmond Yacht Club
+  city: Richmond
+  state: California
+  country: USA
+  founded: 1932
+  website: https://www.richmondyc.org/
+  burgee: richmond_yc.png
+- club:
+  name: Encinal Yacht Club
+  city: Alameda
+  state: California
+  country: USA
+  founded: 1890
+  website: https://www.encinal.org/
+  burgee: encinal_yc.png
+- club:
+  name: Oakland Yacht Club
+  city: Alameda
+  state: California
+  country: USA
+  founded: 1913
+  website: https://www.oaklandyachtclub.net/
+  burgee: oakland_yc.png
+- club:
+  name: Island Yacht Club
+  city: Alameda
+  state: California
+  country: USA
+  founded: 1970
+  website: https://www.iyc.org/
+  burgee: island_ca_yc.png
+- club:
+  name: Vallejo Yacht Club
+  city: Vallejo
+  state: California
+  country: USA
+  founded: 1900
+  website: https://www.vyc.org/
+  burgee: vallejo_yc.png
+- club:
+  name: Sequoia Yacht Club
+  city: Redwood City
+  state: California
+  country: USA
+  founded: 1939
+  website: https://www.sequoiayc.org/
+  burgee: sequoia_yc.png
+- club:
+  name: Coyote Point Yacht Club
+  city: San Mateo
+  state: California
+  country: USA
+  founded: 1941
+  website: https://www.cpyc.com/
+  burgee: coyote_point_yc.png
+- club:
+  name: South Beach Yacht Club
+  city: San Francisco
+  state: California
+  country: USA
+  founded: 1988
+  website: https://www.southbeachyachtclub.org/
+  burgee: south_beach_yc.png
+- club:
+  name: Tiburon Yacht Club
+  city: Tiburon
+  state: California
+  country: USA
+  founded: 1965
+  website: https://tyc.org/
+  burgee: tiburon_yc.png
+- club:
+  name: Marin Yacht Club
+  city: San Rafael
+  state: California
+  country: USA
+  founded: 1935
+  website: https://www.marinyachtclub.com/
+  burgee: marin_yc.png
+- club:
+  name: Inverness Yacht Club
+  city: Inverness
+  state: California
+  country: USA
+  founded: 1912
+  website: https://www.invernessyachtclub.com/
+  burgee: inverness_yc.png
+- club:
+  name: Santa Cruz Yacht Club
+  city: Santa Cruz
+  state: California
+  country: USA
+  founded: 1928
+  website: https://www.scyc.org/
+  burgee: santa_cruz_yc.png
+- club:
+  name: San Diego Yacht Club
+  city: San Diego
+  state: California
+  country: USA
+  founded: 1886
+  website: https://www.sdyc.org/
+  burgee: san_diego_yc.png
+- club:
+  name: Mission Bay Yacht Club
+  city: San Diego
+  state: California
+  country: USA
+  founded: 1927
+  website: https://mbyc.org/
+  burgee: mission_bay_yc.png
+- club:
+  name: Southwestern Yacht Club
+  city: San Diego
+  state: California
+  country: USA
+  founded: 1925
+  website: https://www.southwesternyc.org/
+  burgee: southwestern_yc.png
+- club:
+  name: Silver Gate Yacht Club
+  city: San Diego
+  state: California
+  country: USA
+  founded: 1952
+  website: https://www.sgyc.org/
+  burgee: silver_gate_yc.png
+- club:
+  name: Newport Harbor Yacht Club
+  city: Newport Beach
+  state: California
+  country: USA
+  founded: 1916
+  website: https://www.nhyc.org/
+  burgee: newport_harbor_yc.png
+- club:
+  name: Balboa Yacht Club
+  city: Corona del Mar
+  state: California
+  country: USA
+  founded: 1922
+  website: https://www.balboayachtclub.com/
+  burgee: balboa_yc.png
+- club:
+  name: Bahia Corinthian Yacht Club
+  city: Corona del Mar
+  state: California
+  country: USA
+  founded: 1958
+  website: https://www.bcyc.org/
+  burgee: bahia_corinthian_yc.png
+- club:
+  name: Long Beach Yacht Club
+  city: Long Beach
+  state: California
+  country: USA
+  founded: 1929
+  website: https://www.lbyc.org/
+  burgee: long_beach_yc.png
+- club:
+  name: Los Angeles Yacht Club
+  city: San Pedro
+  state: California
+  country: USA
+  founded: 1901
+  website: https://www.layc.org/
+  burgee: los_angeles_yc.png
+- club:
+  name: Annapolis Yacht Club
+  city: Annapolis
+  state: Maryland
+  country: USA
+  founded: 1886
+  website: https://www.annapolisyc.com/
+  burgee: annapolis_yc.png
+- club:
+  name: Severn Sailing Association
+  city: Annapolis
+  state: Maryland
+  country: USA
+  founded: 1954
+  website: https://www.severnsailing.org/
+  burgee: severn_sailing_assoc.png
+- club:
+  name: Chesapeake Yacht Club
+  city: Shady Side
+  state: Maryland
+  country: USA
+  founded: 1947
+  website: https://www.chesapeakeyachtclub.org/
+  burgee: chesapeake_yc.png
+- club:
+  name: Grosse Pointe Yacht Club
+  city: Grosse Pointe Shores
+  state: Michigan
+  country: USA
+  founded: 1914
+  website: https://www.gpyc.org/
+  burgee: grosse_pointe_yc.png
+- club:
+  name: Bay Harbor Yacht Club
+  city: Bay Harbor
+  state: Michigan
+  country: USA
+  founded: 1995
+  website: https://bayharboryc.com/
+  burgee: bay_harbor_mi_yc.png
+- club:
+  name: Bayview Yacht Club
+  city: Detroit
+  state: Michigan
+  country: USA
+  founded: 1915
+  website: https://www.byc.com/
+  burgee: bayview_yc.png
+- club:
+  name: Detroit Yacht Club
+  city: Detroit
+  state: Michigan
+  country: USA
+  founded: 1868
+  website: https://www.dyc.com/
+  burgee: detroit_yc.png
+- club:
+  name: Grand Rapids Yacht Club
+  city: East Grand Rapids
+  state: Michigan
+  country: USA
+  founded: 1931
+  website: https://grandrapidsyachtclub.org/
+  burgee: grand_rapids_yc.png
+- club:
+  name: North Cape Yacht Club
+  city: La Salle
+  state: Michigan
+  country: USA
+  founded: 1962
+  website: https://ncyc.net/
+  burgee: north_cape_yc.png
+- club:
+  name: Saginaw Bay Yacht Club
+  city: Essexville
+  state: Michigan
+  country: USA
+  founded: 1894
+  website: https://www.sbycmi.com/
+  burgee: saginaw_bay_yc.png
+- club:
+  name: Naples Yacht Club
+  city: Naples
+  state: Florida
+  country: USA
+  founded: 1947
+  website: https://naplesyc.com/
+  burgee: naples_yc.png
+- club:
+  name: Pelican Isle Yacht Club
+  city: Naples
+  state: Florida
+  country: USA
+  founded: 1996
+  website: https://www.piyc.net/
+  burgee: pelican_isle_yc.png
+- club:
+  name: Sailfish Club of Florida
+  city: Palm Beach
+  state: Florida
+  country: USA
+  founded: 1914
+  website: https://www.sailfishclub.com/
+  burgee: sailfish_club.png
+- club:
+  name: Tampa Yacht & Country Club
+  city: Tampa
+  state: Florida
+  country: USA
+  founded: 1904
+  website: https://www.tampayacht.com/
+  burgee: tampa_yc.png
+- club:
+  name: Palm Beach Yacht Club
+  city: West Palm Beach
+  state: Florida
+  country: USA
+  founded: 1890
+  website: https://www.pbyc.com/
+  burgee: palm_beach_yc.png
+- club:
+  name: Sarasota Yacht Club
+  city: Sarasota
+  state: Florida
+  country: USA
+  founded: 1926
+  website: https://www.sarasotayachtclub.org/
+  burgee: sarasota_yc.png
+- club:
+  name: Lauderdale Yacht Club
+  city: Fort Lauderdale
+  state: Florida
+  country: USA
+  founded: 1938
+  website: https://www.lauderdaleyachtclub.com/
+  burgee: lauderdale_yc.png
+- club:
+  name: Coral Reef Yacht Club
+  city: Miami
+  state: Florida
+  country: USA
+  founded: 1955
+  website: https://www.coralreefyachtclub.org/
+  burgee: coral_reef_yc.png
+- club:
+  name: Key Biscayne Yacht Club
+  city: Key Biscayne
+  state: Florida
+  country: USA
+  founded: 1955
+  website: https://www.kbyc.org/
+  burgee: key_biscayne_yc.png
+- club:
+  name: St. Petersburg Yacht Club
+  city: St. Petersburg
+  state: Florida
+  country: USA
+  founded: 1909
+  website: https://www.spyc.org/
+  burgee: st_petersburg_yc.png
+- club:
+  name: Coral Ridge Yacht Club
+  city: Fort Lauderdale
+  state: Florida
+  country: USA
+  founded: 1947
+  website: https://coralridgeyachtclub.com/
+  burgee: coral_ridge_yc.png
+- club:
+  name: Biscayne Bay Yacht Club
+  city: Coconut Grove
+  state: Florida
+  country: USA
+  founded: 1887
+  website: https://www.biscaynebayyachtclub.com/
+  burgee: biscayne_bay_yc.png
+- club:
+  name: Clearwater Yacht Club
+  city: Clearwater
+  state: Florida
+  country: USA
+  founded: 1911
+  website: https://clearwateryachtclub.org/
+  burgee: clearwater_yc.png
+- club:
+  name: Coconut Grove Sailing Club
+  city: Miami
+  state: Florida
+  country: USA
+  founded: 1946
+  website: https://www.cgsc.org/
+  burgee: coconut_grove_sc.png
+- club:
+  name: Eau Gallie Yacht Club
+  city: Indian Harbour Beach
+  state: Florida
+  country: USA
+  founded: 1907
+  website: https://www.egyachtclub.com/
+  burgee: eau_gallie_yc.png
+- club:
+  name: Savannah Yacht Club
+  city: Savannah
+  state: Georgia
+  country: USA
+  founded: 1869
+  website: https://www.savannahyachtclub.org/
+  burgee: savannah_yc.png
+- club:
+  name: Atlanta Yacht Club
+  city: Acworth
+  state: Georgia
+  country: USA
+  founded: 1950
+  website: https://www.atlantayachtclub.org/
+  burgee: atlanta_yc.png
+- club:
+  name: Corpus Christi Yacht Club
+  city: Corpus Christi
+  state: Texas
+  country: USA
+  founded: 1923
+  website: https://www.ccyc.com/
+  burgee: corpus_christi_yc.png
+- club:
+  name: Houston Yacht Club
+  city: Shoreacres
+  state: Texas
+  country: USA
+  founded: 1897
+  website: https://www.houstonyachtclub.com/
+  burgee: houston_yc.png
+- club:
+  name: Lakewood Yacht Club
+  city: Seabrook
+  state: Texas
+  country: USA
+  founded: 1955
+  website: https://www.lakewoodyachtclub.com/
+  burgee: lakewood_yc.png
+- club:
+  name: Dallas Corinthian Yacht Club
+  city: Oak Point
+  state: Texas
+  country: USA
+  founded: 1928
+  website: https://www.dcyc.org/
+  burgee: dallas_corinthian_yc.png
+- club:
+  name: Corinthian Sailing Club
+  city: Dallas
+  state: Texas
+  country: USA
+  founded: 1939
+  website: https://www.cscsailing.org/
+  burgee: corinthian_sc.png
+- club:
+  name: Wichita Falls Sailing Club
+  city: Henrietta
+  state: Texas
+  country: USA
+  founded: 1935
+  website: https://www.wfsail.org/
+  burgee: wichita_falls_sc.png
+- club:
+  name: Buccaneer Yacht Club
+  city: Mobile
+  state: Alabama
+  country: USA
+  founded: 1928
+  website: https://www.bucyc.com/
+  burgee: buccaneer_yc.png
+- club:
+  name: Mobile Yacht Club
+  city: Mobile
+  state: Alabama
+  country: USA
+  founded: 1847
+  website: https://www.mobileyachtclub.com/
+  burgee: mobile_yc.png
+- club:
+  name: New Orleans Yacht Club
+  city: New Orleans
+  state: Louisiana
+  country: USA
+  founded: 1949
+  website: https://www.noyc.org/
+  burgee: new_orleans_yc.png
+- club:
+  name: Southern Yacht Club
+  city: New Orleans
+  state: Louisiana
+  country: USA
+  founded: 1849
+  website: https://www.southernyachtclub.org/
+  burgee: southern_yc.png
+- club:
+  name: Biloxi Yacht Club
+  city: Biloxi
+  state: Mississippi
+  country: USA
+  founded: 1849
+  website: https://www.biloxiyachtclub.org/
+  burgee: biloxi_yc.png
+- club:
+  name: Privateer Yacht Club
+  city: Hixson
+  state: Tennessee
+  country: USA
+  founded: 1940
+  website: https://www.privateeryachtclub.org/
+  burgee: privateer_yc.png
+- club:
+  name: Capital Yacht Club
+  city: Washington
+  state: District of Columbia
+  country: USA
+  founded: 1892
+  website: https://www.capitalyachtclub.com/
+  burgee: capital_yc.png
+- club:
+  name: Indianapolis Sailing Club
+  city: Indianapolis
+  state: Indiana
+  country: USA
+  founded: 1955
+  website: https://scm.indianapolissailing.org/
+  burgee: indianapolis_sc.png
+- club:
+  name: Wawasee Yacht Club
+  city: Syracuse
+  state: Indiana
+  country: USA
+  founded: 1935
+  website: https://www.wawaseeyachtclub.com/
+  burgee: wawasee_yc.png
+- club:
+  name: Chippewa Yacht Club
+  city: Chippewa Lake
+  state: Ohio
+  country: USA
+  founded: 1939
+  website: https://www.chippewasailing.org/
+  burgee: chippewa_yc.png
+- club:
+  name: Cowan Lake Sailing Association
+  city: Wilmington
+  state: Ohio
+  country: USA
+  founded: 1954
+  website: https://www.clsa.club/
+  burgee: cowan_lake_sa.png
+- club:
+  name: Toledo Yacht Club
+  city: Toledo
+  state: Ohio
+  country: USA
+  founded: 1865
+  website: https://www.thetoledoyachtclub.com/
+  burgee: toledo_yc.png
+- club:
+  name: Erie Yacht Club
+  city: Erie
+  state: Pennsylvania
+  country: USA
+  founded: 1895
+  website: https://www.erieyachtclub.org/
+  burgee: erie_yc.png
+- club:
+  name: Green Lake Yacht Club
+  city: Green Lake
+  state: Wisconsin
+  country: USA
+  founded: 1894
+  website: https://www.greenlakeyachtclub.org/
+  burgee: green_lake_yc.png
+- club:
+  name: Lake Geneva Yacht Club
+  city: Fontana-on-Geneva Lake
+  state: Wisconsin
+  country: USA
+  founded: 1874
+  website: https://www.lgyc.com/
+  burgee: lake_geneva_yc.png
+- club:
+  name: Milwaukee Yacht Club
+  city: Milwaukee
+  state: Wisconsin
+  country: USA
+  founded: 1871
+  website: https://www.milwaukeeyc.com/
+  burgee: milwaukee_yc.png
+- club:
+  name: Neenah-Nodaway Yacht Club
+  city: Neenah
+  state: Wisconsin
+  country: USA
+  founded: 1864
+  website: https://www.nnyc.org/
+  burgee: neenah_nodaway_yc.png
+- club:
+  name: Atlantic Yacht Club
+  city: Brooklyn
+  state: New York
+  country: USA
+  founded: 1866
+  website: https://www.atlanticyachtclub.com/
+  burgee: atlantic_yc.png
+- club:
+  name: Chautauqua Lake Yacht Club
+  city: Lakewood
+  state: New York
+  country: USA
+  founded: 1894
+  website: https://www.sailclyc.com/
+  burgee: chautauqua_lake_yc.png
+- club:
+  name: Newport Yacht Club
+  city: Irondequoit
+  state: New York
+  country: USA
+  founded: 1936
+  website: https://www.newportyachtclubroc.com/
+  burgee: newport_ny_yc.png
+- club:
+  name: Onondaga Yacht Club
+  city: Liverpool
+  state: New York
+  country: USA
+  founded: 1883
+  website: https://www.oyccny.org/
+  burgee: onondaga_yc.png
+- club:
+  name: Poughkeepsie Yacht Club
+  city: Staatsburg
+  state: New York
+  country: USA
+  founded: 1892
+  website: https://poughkeepsieyachtclub.org/
+  burgee: poughkeepsie_yc.png
+- club:
+  name: Sayville Yacht Club
+  city: Blue Point
+  state: New York
+  country: USA
+  founded: 1901
+  website: https://www.sayvilleyachtclub.org/
+  burgee: sayville_yc.png
+- club:
+  name: Eugene Yacht Club
+  city: Eugene
+  state: Oregon
+  country: USA
+  founded: 1940
+  website: https://www.eugeneyachtclub.org/
+  burgee: eugene_yc.png
+- club:
+  name: Multnomah Channel Yacht Club
+  city: Scappoose
+  state: Oregon
+  country: USA
+  founded: 1961
+  website: https://mcyc1.org/
+  burgee: multnomah_channel_yc.png
+- club:
+  name: Waikiki Yacht Club
+  city: Honolulu
+  state: Hawaii
+  country: USA
+  founded: 1944
+  website: https://www.waikikiyachtclub.com/
+  burgee: waikiki_yc.png
+- club:
+  name: Ponce Yacht and Fishing Club
+  city: Ponce
+  state: Puerto Rico
+  country: USA
+  founded: 1941
+  website: https://ponceyachtclub.com/
+  burgee: club_nautico_ponce.png
