@@ -3337,3 +3337,678 @@
   website: https://ponceyachtclub.com/
   burgee: club_nautico_ponce.png
   description: Blue burgee with a red cross and a white anchor at the crossing.
+- club:
+  name: Allen Harbor Yacht Club
+  city: Harwich Port
+  state: Massachusetts
+  country: USA
+  founded: 1953
+  website: https://www.ahyc.club/
+  burgee: allen_harbor_yc.png
+  description: Red swallowtail pennant on a white staff with a white horizontal stripe and a blue vertical band.
+- club:
+  name: American Legion Yacht Club
+  city: Newport Beach
+  state: California
+  country: USA
+  founded: 1966
+  website: https://www.alyc.com/
+  burgee: american_legion_yc.png
+  description: Round navy seal with white lettering and a banner, around a white and red burgee with a navy center.
+- club:
+  name: Anacortes Yacht Club
+  city: Anacortes
+  state: Washington
+  country: USA
+  founded: 1891
+  website: https://www.anacortesyachtclub.org/
+  burgee: anacortes_yc.png
+  description: White waving pennant with a red cross and border and a red square at the hoist bearing a white letter A.
+- club:
+  name: Barefoot Sailing Club
+  city: Flowery Branch
+  state: Georgia
+  country: USA
+  founded: 1971
+  website: https://www.barefootsailingclub.org/
+  burgee: barefoot_sc.png
+  description: Round white seal ringed in red and blue with blue lettering around a blue burgee bearing a white footprint.
+- club:
+  name: Bayshore Yacht Club
+  city: Holland
+  state: Michigan
+  country: USA
+  founded: 1955
+  website: https://bayshoreyachtclub.org/
+  burgee: bayshore_yc.png
+  description: Navy triangular burgee with a large white star at the hoist and seven smaller white stars.
+- club:
+  name: Boca Ciega Yacht Club
+  city: Gulfport
+  state: Florida
+  country: USA
+  founded: 1965
+  website: https://www.sailbcyc.org/
+  burgee: boca_ciega_yc.png
+  description: Blue triangular burgee with a yellow vertical band bearing a blue anchor.
+- club:
+  name: Bow Mar Yacht Club
+  city: Bow Mar
+  state: Colorado
+  country: USA
+  founded: 1954
+  website: https://bowmaryachtclub.com/
+  burgee: bow_mar_yc.png
+  description: White burgee with a navy hoist and fly and a red flag-like square shape at the center, on a gray background.
+- club:
+  name: Bradenton Yacht Club
+  city: Palmetto
+  state: Florida
+  country: USA
+  founded: 1946
+  website: https://bradentonyachtclub.com/
+  burgee: bradenton_yc.png
+  description: Blue waving swallowtail with a red and white diagonal stripe and a white star on the blue hoist.
+- club:
+  name: Buzzards Yacht Club
+  city: Bourne
+  state: Massachusetts
+  country: USA
+  founded: 1930
+  website: https://www.buzzardsyc.org/
+  burgee: buzzards_yc.png
+  description: Round white seal with navy lettering around a waving white and navy burgee with a red and white star on a staff.
+- club:
+  name: Cape Fear Yacht Club
+  city: Oak Island
+  state: North Carolina
+  country: USA
+  founded: 1994
+  website: https://www.capefearyachtclub.com/
+  burgee: cape_fear_yc.png
+  description: Round white seal with black lettering around a white burgee bearing a red sun or compass device and a navy fly.
+- club:
+  name: Captiva Island Yacht Club
+  city: Captiva
+  state: Florida
+  country: USA
+  founded: 1984
+  website: https://www.captivaiyc.net/
+  burgee: captiva_island_yc.png
+  description: Green burgee with a yellow fly and a yellow ring around a white letter C-like device.
+- club:
+  name: Carlouel Yacht Club
+  city: Clearwater Beach
+  state: Florida
+  country: USA
+  founded: 1934
+  website: https://www.carlouel.net/
+  burgee: carlouel_yc.png
+  description: White waving pennant outlined in blue with a blue palm tree at the hoist.
+- club:
+  name: Carolina Yacht Club
+  city: Charleston
+  state: South Carolina
+  country: USA
+  founded: 1883
+  website: https://www.carolinayachtclubsc.org/
+  burgee: carolina_yc.png
+  description: Red triangular burgee with navy triangles at the top and bottom of the hoist and a white star at the center.
+- club:
+  name: Channel Islands Yacht Club
+  city: Oxnard
+  state: California
+  country: USA
+  founded: 1960
+  website: https://www.ciyc.com/
+  burgee: channel_islands_yc.png
+  description: Yellow waving pennant on a tan staff with a black bird or bat-wing shape.
+- club:
+  name: Corinthian Yacht Club of Bellingham
+  city: Bellingham
+  state: Washington
+  country: USA
+  founded: 1986
+  website: https://www.cycbellingham.org/
+  burgee: corinthian_bellingham_yc.png
+  description: White waving swallowtail with a red border, a blue chevron and a red sail on a black staff.
+- club:
+  name: Corinthian Yacht Club of Edmonds
+  city: Edmonds
+  state: Washington
+  country: USA
+  founded: 1980
+  website: https://www.cycedmonds.org/
+  burgee: corinthian_edmonds_yc.png
+  description: Blue waving pennant with a white border and a white sail shape.
+- club:
+  name: Deep Creek Yacht Club
+  city: Swanton
+  state: Maryland
+  country: USA
+  founded: 1948
+  website: https://www.dcyc.net/
+  burgee: deep_creek_yc.png
+  description: Blue burgee with a red saltire edged in white, white stars at the hoist and letters DCYC at the fly.
+- club:
+  name: Deer Isle Yacht Club
+  city: Deer Isle
+  state: Maine
+  country: USA
+  founded: 1925
+  website: https://deerisleyachtclub.wildapricot.org/
+  burgee: deer_isle_yc.png
+  description: Red and navy burgee with a white diagonal stripe beneath the arched words Deer Isle Yacht Club.
+- club:
+  name: Dunkirk Yacht Club
+  city: Dunkirk
+  state: New York
+  country: USA
+  founded: 1938
+  website: https://dunkirkyachtclub.org/
+  burgee: dunkirk_yc.png
+  description: Blue triangular burgee with a red hoist bearing a white letter D and white letters YC.
+- club:
+  name: Elk Rapids Yacht Club
+  city: Elk Rapids
+  state: Michigan
+  country: USA
+  founded: 1988
+  website: https://www.elkrapidsyachtclub.com/
+  burgee: elk_rapids_yc.png
+  description: Blue burgee with a red border, a white circle bearing a white swan and white letters ERYC.
+- club:
+  name: Emeryville Yacht Club
+  city: Emeryville
+  state: California
+  country: USA
+  founded: 1989
+  website: https://www.emeryvilleyachtclub.org/
+  burgee: emeryville_yc.png
+  description: Blue waving swallowtail on a yellow staff with a white star.
+- club:
+  name: Ephraim Yacht Club
+  city: Ephraim
+  state: Wisconsin
+  country: USA
+  founded: 1906
+  website: https://www.eyc.org/
+  burgee: ephraim_yc.png
+  description: Navy triangular burgee with white letters E, Y and C stacked at the hoist and two white slashes.
+- club:
+  name: Fort Pierce Yacht Club
+  city: Fort Pierce
+  state: Florida
+  country: USA
+  founded: 1980
+  website: https://www.fortpierceyachtclub.com/
+  burgee: fort_pierce_yc.png
+  description: Light blue burgee on a black staff with a yellow sun above a darker blue lower band.
+- club:
+  name: Grand Cove Yacht Club
+  city: Dennis
+  state: Massachusetts
+  country: USA
+  founded: 2008
+  website: https://www.gcyc.org/
+  burgee: grand_cove_yc.png
+  description: Red triangular burgee with a blue ring crossed by a thin white compass line.
+- club:
+  name: Great Kills Yacht Club
+  city: Staten Island
+  state: New York
+  country: USA
+  founded: 1906
+  website: https://gkyc.org/
+  burgee: great_kills_yc.png
+  description: White waving burgee with a navy chevron and a red star.
+- club:
+  name: Gull Lake Yacht Club
+  city: Richland
+  state: Michigan
+  country: USA
+  founded: 1926
+  website: https://www.glyc.org/
+  burgee: gull_lake_yc.png
+  description: Navy triangular burgee with a white flying gull.
+- club:
+  name: Harbor Bay Yacht Club
+  city: Sandusky
+  state: Ohio
+  country: USA
+  founded: 1995
+  website: https://www.harborbayyachtclub.org/
+  burgee: harbor_bay_yc.png
+  description: Blue waving swallowtail on a blue staff with a white saltire-like Y and a red circle at the center.
+- club:
+  name: Isles Yacht Club
+  city: Punta Gorda
+  state: Florida
+  country: USA
+  founded: 1976
+  website: https://www.islesyc.com/
+  burgee: isles_yc.png
+  description: White waving swallowtail outlined in green on a green staff with green palm trees on yellow islands.
+- club:
+  name: Jackson Yacht Club
+  city: Ridgeland
+  state: Mississippi
+  country: USA
+  founded: 1960
+  website: https://jacksonyachtclub.com/
+  burgee: jackson_yc.png
+  description: Navy burgee with a red chevron edged in white and white letters JYC among white stars.
+- club:
+  name: Jefferson Yacht Club
+  city: St. Clair Shores
+  state: Michigan
+  country: USA
+  founded: 1957
+  website: https://www.jeffersonyachtclub.com/
+  burgee: jefferson_yc.png
+  description: White swallowtail with a red border and navy letters J and C around a yellow fleur-de-lis Y.
+- club:
+  name: Key West Yacht Club
+  city: Key West
+  state: Florida
+  country: USA
+  founded: 1938
+  website: https://keywestyachtclub.com/
+  burgee: key_west_yc.png
+  description: Dark red burgee with an orange border and an orange saltire over a white circle.
+- club:
+  name: Kingston Cove Yacht Club
+  city: Kingston
+  state: Washington
+  country: USA
+  founded: 1969
+  website: https://kcyc.org/
+  burgee: kingston_cove_yc.png
+  description: White waving pennant with a blue crown and blue wave across the lower half, on a blue staff.
+- club:
+  name: Konocti Bay Sailing Club
+  city: Kelseyville
+  state: California
+  country: USA
+  founded: 1988
+  website: https://www.kbsail.org/
+  burgee: konocti_bay_sc.png
+  description: Navy burgee with large white letters KB and a white fly.
+- club:
+  name: Leland Yacht Club
+  city: Leland
+  state: Michigan
+  country: USA
+  founded: 1929
+  website: https://www.lelandyachtclub.com/
+  burgee: leland_yc.png
+  description: Blue hoist and a red fly separated by a white stripe forming a letter L.
+- club:
+  name: Lewes Yacht Club
+  city: Lewes
+  state: Delaware
+  country: USA
+  founded: 1932
+  website: https://lewesyachtclub.com/
+  burgee: lewes_yc.png
+  description: Navy and white burgee with a white lighthouse on navy at the hoist and a navy letter L on the white fly.
+- club:
+  name: Lindsay Park Yacht Club
+  city: Davenport
+  state: Iowa
+  country: USA
+  founded: 1887
+  website: https://lpyc.org/
+  burgee: lindsay_park_yc.png
+  description: Navy swallowtail with a white center and red stripes, a white LP at the hoist and navy letters YC.
+- club:
+  name: Louisville Sailing Club
+  city: Prospect
+  state: Kentucky
+  country: USA
+  founded: 1955
+  website: https://louisvillesailingclub.wildapricot.org/
+  burgee: louisville_sc.png
+  description: Red hoist with a white letter L and a blue fly with a white letter C, split by a white S-shaped curve.
+- club:
+  name: Marshfield Yacht Club
+  city: Marshfield
+  state: Massachusetts
+  country: USA
+  founded: 1954
+  website: https://marshfieldyachtclub.com/
+  burgee: marshfield_yc.png
+  description: Navy waving swallowtail with a red letter M on white, between the arched words Marshfield Yacht Club.
+- club:
+  name: Maryland Yacht Club
+  city: Pasadena
+  state: Maryland
+  country: USA
+  founded: 1908
+  website: https://www.mdyc.org/
+  burgee: maryland_yc.png
+  description: Navy and yellow waving swallowtail divided diagonally, on a black staff.
+- club:
+  name: Mattapoisett Yacht Club
+  city: Mattapoisett
+  state: Massachusetts
+  country: USA
+  founded: 1901
+  website: https://www.mattapoisettyc.org/
+  burgee: mattapoisett_yc.png
+  description: White oval edged in blue with blue lettering around a red, white and blue burgee on a staff.
+- club:
+  name: Maxinkuckee Yacht Club
+  city: Culver
+  state: Indiana
+  country: USA
+  founded: 1901
+  website: https://www.myc-culver.org/
+  burgee: maxinkuckee_yc.png
+  description: Navy triangular burgee with a yellow anchor entwined with letters M, Y and C.
+- club:
+  name: Moriches Yacht Club
+  city: Center Moriches
+  state: New York
+  country: USA
+  founded: 1899
+  website: https://morichesyachtclub.org/
+  burgee: moriches_yc.png
+  description: Red triangular burgee with a white diamond at the center.
+- club:
+  name: Naples Sailing & Yacht Club
+  city: Naples
+  state: Florida
+  country: USA
+  founded: 1964
+  website: https://www.thensyc.com/
+  burgee: naples_sailing_yc.png
+  description: Yellow waving swallowtail outlined in blue with a blue letter N, a white sailboat and blue waves.
+- club:
+  name: Nawiliwili Yacht Club
+  city: Lihue
+  state: Hawaii
+  country: USA
+  founded: 1978
+  website: https://nawiliwiliyc.clubexpress.com/
+  burgee: nawiliwili_yc.png
+  description: Black waving flag with a yellow sun and yellow wave stripes.
+- club:
+  name: Nevada Yacht Club
+  city: Henderson
+  state: Nevada
+  country: USA
+  founded: 1963
+  website: https://www.nevadayachtclub.org/
+  burgee: nevada_yc.png
+  description: Navy burgee with a red border and a white triangle at the hoist pointing up.
+- club:
+  name: Oceanside Yacht Club
+  city: Oceanside
+  state: California
+  country: USA
+  founded: 1963
+  website: https://oceansideyc.net/
+  burgee: oceanside_yc.png
+  description: White waving pennant outlined in green with a green letter O and a green rope wrapped around the staff.
+- club:
+  name: Pacific Corinthian Yacht Club
+  city: Oxnard
+  state: California
+  country: USA
+  founded: 1976
+  website: https://www.pcyc.org/
+  burgee: pacific_corinthian_yc.png
+  description: Red, orange and yellow nested swallowtail pennant on a black staff.
+- club:
+  name: Palm Coast Yacht Club
+  city: Palm Coast
+  state: Florida
+  country: USA
+  founded: 1979
+  website: https://www.palmcoastyachtclub.com/
+  burgee: palm_coast_yc.png
+  description: White swallowtail flag outlined in navy with a large red letter P and small red letters CYC.
+- club:
+  name: Peekskill Yacht Club
+  city: Peekskill
+  state: New York
+  country: USA
+  founded: 1908
+  website: https://peekskillyachtclub.com/
+  burgee: peekskill_yc.png
+  description: White waving swallowtail with a blue upper stripe, a red lower stripe and a blue fly.
+- club:
+  name: Perry Yacht Club
+  city: Meriden
+  state: Kansas
+  country: USA
+  founded: 1971
+  website: https://www.perryyachtclub.com/
+  burgee: perry_yc.png
+  description: Round white seal ringed in navy with a navy and red swallowtail bearing white letters PYC.
+- club:
+  name: Point Loma Yacht Club
+  city: San Diego
+  state: California
+  country: USA
+  founded: 1994
+  website: https://www.pointlomayachtclub.org/
+  burgee: point_loma_yc.png
+  description: Red and blue waving pennant on a blue staff with a yellow arc, a white arc and a black lighthouse on a yellow circle.
+- club:
+  name: Port Angeles Yacht Club
+  city: Port Angeles
+  state: Washington
+  country: USA
+  founded: 1937
+  website: https://www.payc.org/
+  burgee: port_angeles_yc.png
+  description: White waving pennant with a red hoist bearing white letters P and A and a blue salmon.
+- club:
+  name: Port Chester Yacht Club
+  city: Port Chester
+  state: New York
+  country: USA
+  founded: 1928
+  website: https://www.portchesteryachtclub.com/
+  burgee: port_chester_yc.png
+  description: Round red seal ringed in navy and white with white lettering around a red, white and blue waving pennant.
+- club:
+  name: San Rafael Yacht Club
+  city: San Rafael
+  state: California
+  country: USA
+  founded: 1938
+  website: https://sanrafaelyachtclub.org/
+  burgee: san_rafael_yc.png
+  description: Navy waving burgee with a dark red border and a white chevron.
+- club:
+  name: Sandusky Yacht Club
+  city: Sandusky
+  state: Ohio
+  country: USA
+  founded: 1894
+  website: https://www.sanduskyyachtclub.com/
+  burgee: sandusky_yc.png
+  description: Navy waving pennant on a staff with white letters S, Y and C.
+- club:
+  name: Saugatuck Harbor Yacht Club
+  city: Westport
+  state: Connecticut
+  country: USA
+  founded: 1959
+  website: https://saugatuckharboryc.com/
+  burgee: saugatuck_harbor_yc.png
+  description: Round navy seal ringed in gold with gold lettering around a blue, green and white burgee on a gold staff.
+- club:
+  name: Seaford Yacht Club
+  city: Seaford
+  state: Virginia
+  country: USA
+  founded: 1978
+  website: https://seafordyachtclub.com/
+  burgee: seaford_yc.png
+  description: Navy triangular burgee with a white diamond bearing navy letters YSC.
+- club:
+  name: Semiahmoo Yacht Club
+  city: Blaine
+  state: Washington
+  country: USA
+  founded: 1981
+  website: https://www.semiahmooyachtclub.org/
+  burgee: semiahmoo_yc.png
+  description: Round white seal ringed in navy with red lettering and a compass around a white and navy burgee with a red triangle.
+- club:
+  name: Shore Haven Yacht Club
+  city: Point Pleasant
+  state: New Jersey
+  country: USA
+  founded: 1986
+  website: https://www.shorehavenyachtclub.com/
+  burgee: shore_haven_yc.png
+  description: White grommeted burgee with navy letters SHYC and a navy ship's wheel.
+- club:
+  name: Smyrna Yacht Club
+  city: New Smyrna Beach
+  state: Florida
+  country: USA
+  founded: 1928
+  website: https://www.smyrnayachtclub.com/
+  burgee: smyrna_yc.png
+  description: Red waving swallowtail with a white looped S-shaped symbol.
+- club:
+  name: Solomons Island Yacht Club
+  city: Solomons
+  state: Maryland
+  country: USA
+  founded: 1937
+  website: https://solomonsislandyachtclub.com/
+  burgee: solomons_island_yc.png
+  description: Yellow burgee with a red Y-shaped chevron inside a black-bordered white box with the club name.
+- club:
+  name: South Whidbey Yacht Club
+  city: Greenbank
+  state: Washington
+  country: USA
+  founded: 2003
+  website: https://swyachtclub.org/
+  burgee: south_whidbey_yc.png
+  description: Red burgee with a white hoist chevron bearing a black orca.
+- club:
+  name: Southwest Florida Yacht Club
+  city: Fort Myers
+  state: Florida
+  country: USA
+  founded: 2012
+  website: https://swflyc.com/
+  burgee: southwest_florida_yc.png
+  description: Blue waving pennant on a yellow staff with a blue knotted rope and an orange compass rose in a white circle.
+- club:
+  name: Starved Rock Yacht Club
+  city: Ottawa
+  state: Illinois
+  country: USA
+  founded: 1934
+  website: https://starvedrockyachtclub.org/
+  burgee: starved_rock_yc.png
+  description: Blue hoist with a white chevron and a red diamond at the fly.
+- club:
+  name: Tammany Yacht Club
+  city: Slidell
+  state: Louisiana
+  country: USA
+  founded: 1980
+  website: https://www.tammanyyachtclub.org/
+  burgee: tammany_yc.png
+  description: White waving swallowtail with a blue border, a red center and a yellow letter T.
+- club:
+  name: Totem Yacht Club
+  city: Tacoma
+  state: Washington
+  country: USA
+  founded: 1955
+  website: https://totem.clubexpress.com/content.aspx?page_id=0&club_id=351364
+  burgee: totem_yc.png
+  description: White swallowtail outlined in navy with a red and yellow thunderbird totem at the hoist and a navy fly.
+- club:
+  name: Tsa-La-Gi Yacht Club
+  city: Wagoner
+  state: Oklahoma
+  country: USA
+  founded: 1971
+  website: https://www.tlg-yachtclub.com/
+  burgee: tsa_la_gi_yc.png
+  description: Yellow burgee with a blue border and blue letters TLG.
+- club:
+  name: Virginia Yacht Club
+  city: Deltaville
+  state: Virginia
+  country: USA
+  founded: 1948
+  website: https://vayachtclub.org/
+  burgee: virginia_yc.png
+  description: Navy waving pennant on a gray staff with an orange and white letter V.
+- club:
+  name: Waterford Yacht Club
+  city: League City
+  state: Texas
+  country: USA
+  founded: 1999
+  website: https://www.waterfordyc.com/
+  burgee: waterford_yc.png
+  description: Blue hoist with a white propeller and white sail, and red and white horizontal stripes to the fly.
+- club:
+  name: Watkins Glen Yacht Club
+  city: Watkins Glen
+  state: New York
+  country: USA
+  founded: 1937
+  website: https://watkinsglenyachtclub.com/
+  burgee: watkins_glen_yc.png
+  description: Round white seal with a tan rope ring and blue lettering around a red and blue burgee over a gold anchor.
+- club:
+  name: Westlake Yacht Club
+  city: Westlake Village
+  state: California
+  country: USA
+  founded: 1969
+  website: https://westlakeyc.org/
+  burgee: westlake_yc.png
+  description: White waving swallowtail with a red border and an interlocking navy WYC monogram.
+- club:
+  name: Whaler's Cove Yacht Club
+  city: Cold Spring Harbor
+  state: New York
+  country: USA
+  founded: 1962
+  website: https://www.whalerscoveyachtclub.org/
+  burgee: whalers_cove_yc.png
+  description: Tan compass rose behind a white burgee bearing a black whale and red letters.
+- club:
+  name: Wicomico Yacht Club
+  city: Allen
+  state: Maryland
+  country: USA
+  founded: 1959
+  website: https://www.wicomicoyachtclub.com/
+  burgee: wicomico_yc.png
+  description: White waving pennant outlined in blue with a white ring bearing a red letter W, and blue script lettering.
+- club:
+  name: William H. Seward Yacht Club
+  city: Seward
+  state: Alaska
+  country: USA
+  founded: 1975
+  website: https://whsyc.org/
+  burgee: william_h_seward_yc.png
+  description: Yellow burgee with a blue border and a blue ring around a blue star and lightning bolt.
+- club:
+  name: Wolfeboro Corinthian Yacht Club
+  city: Wolfeboro
+  state: New Hampshire
+  country: USA
+  founded: 1982
+  website: https://www.wcycnh.com/
+  burgee: wolfeboro_corinthian_yc.png
+  description: Round navy seal with white lettering around a navy and red waving swallowtail bearing white letters WCC.
