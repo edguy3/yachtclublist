@@ -2118,3 +2118,123 @@
   founded: 1879
   website: https://yonkersyachtclub.com/
   burgee: yonkers_yc.png
+- club:
+  name: American Yacht Club
+  city: Rye
+  state: New York
+  country: USA
+  founded: 1883
+  website: https://americanyc.org/
+  burgee: american_ny_yc.png
+- club:
+  name: Babylon Yacht Club
+  city: West Islip
+  state: New York
+  country: USA
+  founded: 1903
+  website: https://babylonyachtclub.com/
+  burgee: babylon_yc.png
+- club:
+  name: Breakwater Yacht Club
+  city: Sag Harbor
+  state: New York
+  country: USA
+  founded: 1988
+  website: https://www.breakwateryc.org/
+  burgee: breakwater_yc.png
+- club:
+  name: Huguenot Yacht Club
+  city: New Rochelle
+  state: New York
+  country: USA
+  founded: 1894
+  website: https://huguenotyc.com/
+  burgee: huguenot_yc.png
+- club:
+  name: Huntington Yacht Club
+  city: Huntington
+  state: New York
+  country: USA
+  founded: 1894
+  website: https://huntingtonyachtclub.com/
+  burgee: huntington_yc.png
+- club:
+  name: Keuka Yacht Club
+  city: Hammondsport
+  state: New York
+  country: USA
+  founded: 1872
+  website: https://keukayachtclub.com/
+  burgee: keuka_yc.png
+- club:
+  name: Minisceongo Yacht Club
+  city: Stony Point
+  state: New York
+  country: USA
+  founded: 1941
+  website: https://www.minisceongoyc.org/
+  burgee: minisceongo_yc.png
+- club:
+  name: Oswego Yacht Club
+  city: Oswego
+  state: New York
+  country: USA
+  founded: 1881
+  website: https://www.oswegoyachtclub.org/
+  burgee: oswego_yc.png
+- club:
+  name: Pultneyville Yacht Club
+  city: Pultneyville
+  state: New York
+  country: USA
+  founded: 1944
+  website: https://www.pultneyvilleyachtclub.org/
+  burgee: pultneyville_yc.png
+- club:
+  name: Rochester Yacht Club
+  city: Rochester
+  state: New York
+  country: USA
+  founded: 1877
+  website: https://rochesteryc.com/
+  burgee: rochester_yc.png
+- club:
+  name: Sagamore Yacht Club
+  city: Oyster Bay
+  state: New York
+  country: USA
+  founded: 1944
+  website: https://sagamoreyc.com/
+  burgee: sagamore_yc.png
+- club:
+  name: Seawanhaka Corinthian Yacht Club
+  city: Oyster Bay
+  state: New York
+  country: USA
+  founded: 1871
+  website: https://www.seawanhaka.org/
+  burgee: seawanhaka_corinthian_yc.png
+- club:
+  name: Seneca Yacht Club
+  city: Geneva
+  state: New York
+  country: USA
+  founded: 1927
+  website: https://www.senecayc.org/
+  burgee: seneca_yc.png
+- club:
+  name: Sodus Bay Yacht Club
+  city: Sodus Point
+  state: New York
+  country: USA
+  founded: 1893
+  website: https://www.sodusbayyc.org/
+  burgee: sodus_bay_yc.png
+- club:
+  name: Youngstown Yacht Club
+  city: Youngstown
+  state: New York
+  country: USA
+  founded: 1931
+  website: https://www.yyc.org/
+  burgee: youngstown_yc.png
