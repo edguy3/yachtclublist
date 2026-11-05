@@ -6,6 +6,7 @@
   founded: 1889
   website: https://edgewoodyachtclub.com/
   burgee: edgewood_yc.png
+  description: Triangular burgee in vertical bands of blue, white and red, with a white anchor on the blue hoist.
 - club:
   name: Rhode Island Yacht Club
   city: Cranston
@@ -14,6 +15,7 @@
   founded: 1875
   website: https://www.riyachtclub.org/
   burgee: rhode_island_yc.png
+  description: Triangular burgee with a narrow red hoist, a blue vertical band bearing a large white star, and a red fly.
 - club:
   name: East Providence Yacht Club
   city: East Providence
@@ -22,6 +24,7 @@
   founded: 1938
   website: https://www.facebook.com/p/East-Providence-Yacht-Club-100063546101950/
   burgee: east_providence_yc.png
+  description: Tapered pennant with a white hoist bearing a black anchor-like device and a red fly with a wavy edge.
 - club:
   name: Narragansett Bay Yachting Association
   city: East Providence
@@ -30,6 +33,7 @@
   founded: 1938
   website: https://nbya.org/
   burgee: narragansett_bay_yc.png
+  description: Waving navy swallowtail pennant with a white triangular center bearing a navy star.
 - club:
   name: Barrington Yacht Club
   city: Barrington
@@ -38,6 +42,7 @@
   founded: 1908
   website: https://barringtonyc.com/
   burgee: east_greenwich_yc.png
+  description: Red swallowtail burgee with a deep notch in the fly and a blue star at the center.
 - club:
   name: East Greenwich Yacht Club
   city: East Greenwich
@@ -46,6 +51,7 @@
   founded: 1909
   website: https://www.egyc.com/
   burgee: barrington_yc.png
+  description: Red and white triangular burgee edged in navy, with a white circle at the hoist bearing a navy cross pattée.
 - club:
   name: Bristol Yacht Club
   city: Bristol
@@ -54,6 +60,7 @@
   founded: 1877
   website: https://www.bristolyc.com/
   burgee: bristol_yc.png
+  description: Blue triangular burgee with a white circle bearing a red trident.
 - club:
   name: Narragansett Terrace Yacht Club
   city: Riverside
@@ -62,6 +69,7 @@
   founded: 1946
   website: https://www.ntyc.org/
   burgee: narragansett_terrace_yc.png
+  description: White triangular pennant outlined in navy, with a navy double-loop figure-eight knot at the hoist.
 - club:
   name: Narragansett Boat Club
   city: Providence
@@ -70,6 +78,7 @@
   founded: 1838
   website: https://rownbc.org/
   burgee: narragansett_boat_yc.png
+  description: White swallowtail flag outlined in navy, with a navy square at the hoist bearing a white anchor.
 - club:
   name: Newport Yacht Club
   city: Newport
@@ -78,6 +87,7 @@
   founded: 1894
   website: https://www.newportyachtclub.org/
   burgee: newport_yc.png
+  description: Dark slate triangular pennant with a white diagonal band at the hoist bearing a red star.
 - club:
   name: New York Yacht Club Harbor Court
   city: Newport
@@ -86,6 +96,7 @@
   founded: 1844
   website: https://nyyc.org/
   burgee: new_york_yc.png
+  description: Navy triangular burgee with a red cross edged in white and a white star at the crossing.
 - club:
   name: Ida Lewis Yacht Club
   city: Newport
@@ -94,6 +105,7 @@
   founded: 1928
   website: https://www.ilyc.org/
   burgee: ida_lewis_yc.png
+  description: Red triangular burgee with a blue lighthouse at the hoist and white stars running up the hoist and out to the fly.
 - club:
   name: Conanicut Yacht Club
   city: Jamestown
@@ -102,6 +114,7 @@
   founded: 1892
   website: https://conanicutyachtclub.org/
   burgee: conanicut_yc.png
+  description: Black and white flag with a white cross, a white star in the upper hoist, and a black wavy swallowtail fly.
 - club:
   name: Clam Harbor Yacht Club
   city: Warwick
@@ -110,6 +123,7 @@
   founded: 1952
   website: https://www.clamharboryachtclub.com/
   burgee: clam_harbor_yc.png
+  description: Waving green pennant with a gray clam shell showing a cartoon face at the center.
 - club:
   name: Tiverton Yacht Club
   city: Tiverton
@@ -118,6 +132,7 @@
   founded: 1945
   website: https://www.tivertonyachtclub.org/
   burgee: tiverton_yc.png
+  description: Purple triangular burgee with a white inner border and white letters YTC.
 - club:
   name: Quonset Davisville Navy Yacht Club
   city: North Kingstown
@@ -126,6 +141,7 @@
   founded: 1966
   website: https://www.qdnyc.com/
   burgee: quonset_yc.png
+  description: Yellow burgee with a blue hoist triangle bearing a yellow star.
 - club:
   name: Wickford Yacht Club
   city: North Kingstown
@@ -134,6 +150,7 @@
   founded: 1935
   website: https://www.wickfordyc.com/
   burgee: wickford_yc.png
+  description: White swallowtail-edged pennant with a blue cross at the hoist and a small blue star in the fly.
 - club:
   name: Weekapaug Yacht Club
   city: Westerly
@@ -142,6 +159,7 @@
   founded: 1893
   website: https://weekapaugyachtclub.com/
   burgee: weekapaug_yc.png
+  description: White triangular burgee with blue triangles at the top and bottom of the hoist and a long red diamond at the center.
 - club:
   name: Watch Hill Yacht Club
   city: Westerly
@@ -150,6 +168,7 @@
   founded: 1913
   website: https://www.whyc.net/
   burgee: watch_hill_yc.png
+  description: Blue-outlined swallowtail pennant on a brown staff, white with a red diamond at the fly.
 - club:
   name: Westerly Yacht Club
   city: Westerly
@@ -158,6 +177,7 @@
   founded: 1928
   website: https://www.westerlyyc.org/
   burgee: westerly_yc.png
+  description: Navy triangular burgee with a yellow hoist split by a navy band bearing a white W.
 - club:
   name: Saunderstown Yacht Club
   city: Saunderstown
@@ -166,6 +186,7 @@
   founded: 1927
   website: https://saunderstownyachtclub.org/
   burgee: saunderstown_yc.png
+  description: Waving navy pennant with a large white S and a red fly.
 - club:
   name: Sakonnet Yacht Club
   city: Little Compton
@@ -174,6 +195,7 @@
   founded: 1939
   website: https://syc.clubexpress.com/
   burgee: sakonnet_yc.png
+  description: White triangular burgee with a blue cross running to the fly and a red canton bearing a black and white loon.
 - club:
   name: Point Judith Yacht Club
   city: South Kingstown
@@ -182,6 +204,7 @@
   founded: 1926
   website: https://www.pjyc.org/
   burgee: point_judith_yc.png
+  description: Waving red swallowtail pennant with a navy circle at the hoist bearing a white anchor.
 - club:
   name: Portland Yacht Club
   city: Falmouth
@@ -190,6 +213,7 @@
   founded: 1869
   website: https://www.portlandyachtclub.com/
   burgee: portland_me_yc.png
+  description: White triangular burgee with a red border and a sweeping blue outer border that crosses at the fly, with a blue star at the center.
 - club:
   name: Camden Yacht Club
   city: Camden
@@ -198,6 +222,7 @@
   founded: 1902
   website: https://camdenyachtclub.org/
   burgee: camden_yc.png
+  description: Red triangular burgee with a white inner border and small blue stars at its three corners.
 - club:
   name: Agamenticus Yacht Club
   city: York Harbor
@@ -206,6 +231,7 @@
   founded: 1937
   website: https://www.aycsail.org/
   burgee: agamenticus_yc.png
+  description: Two wavy red swallowtail tails on white with a navy star between them.
 - club:
   name: Southport Yacht Club
   city: Southport
@@ -214,6 +240,7 @@
   founded: 1946
   website: https://www.southportyachtclub.org/
   burgee: southport_yc.png
+  description: Blue triangular burgee with a white hoist chevron edged in red and a blue star in the chevron.
 - club:
   name: Biddeford Pool Yacht Club
   city: Biddeford
@@ -222,6 +249,7 @@
   founded: 1934
   website: https://www.biddefordpoolyachtclub.org/
   burgee: biddeford_pool_yc.png
+  description: Navy triangular burgee with a red border, a white chevron and a red hoist triangle.
 - club:
   name: Harraseeket Yacht Club
   city: South Freeport
@@ -230,6 +258,7 @@
   founded: 1948
   website: https://hyc.cc/
   burgee: harraseeket_yc.png
+  description: Blue triangular burgee with a white castle tower at the hoist.
 - club:
   name: Rockland Yacht Club
   city: Rockland
@@ -238,6 +267,7 @@
   founded: 1928
   website: https://www.facebook.com/rycmaine/
   burgee: rockland_yc.png
+  description: White triangular burgee with a blue border and blue inner triangle, with a red star near each corner.
 - club:
   name: Wiscasset Yacht Club
   city: Wiscasset
@@ -246,6 +276,7 @@
   founded: 1952
   website: https://wiscassetyc.com/
   burgee: wiscasset_yc.png
+  description: Blue triangular burgee with a large white W across the hoist.
 - club:
   name: Centerboard Yacht Club
   city: South Portland
@@ -254,6 +285,7 @@
   founded: 1937
   website: https://www.centerboardyachtclub.org/
   burgee: centerboard_yc.png
+  description: Blue swallowtail flag on a staff with white letters CYC and a white star.
 - club:
   name: Saco Yacht Club
   city: Saco
@@ -262,6 +294,7 @@
   founded: 1879
   website: https://www.sacoyachtclub.com/
   burgee: saco_yc.png
+  description: Short swallowtail flag divided horizontally blue over red with a white star at the center.
 - club:
   name: Androscoggin Yacht Club
   city: Wayne
@@ -270,6 +303,7 @@
   founded: 1909
   website: http://aycwayne.org/
   burgee: androscoggin_yc.png
+  description: Triangular burgee divided horizontally red over blue with a white diamond at the center bearing a blue letter A.
 - club:
   name: Boothbay Harbor Yacht Club
   city: Boothbay Harbor
@@ -278,6 +312,7 @@
   founded: 1895
   website: https://www.bhyc.net/
   burgee: boothbay_harbor_yc.png
+  description: White triangular burgee with a red saltire crossing the flag and a blue star at the hoist.
 - club:
   name: Northport Yacht Club
   city: Northport
@@ -286,6 +321,7 @@
   founded: 1939
   website: https://www.northportyachtclub.org/
   burgee: northport_yc.png
+  description: Pale blue over dark blue triangular burgee with a red-edged white hoist bearing a red letter N.
 - club:
   name: Seal Harbor Yacht Club
   city: Mount Desert Island
@@ -294,6 +330,7 @@
   founded: 1923
   website: https://shyc.me/
   burgee: seal_harbor_yc.png
+  description: White triangular burgee with a navy square at the center and a red fly.
 - club:
   name: Kollegewidgwok Yacht Club
   city: Blue Hill
@@ -302,6 +339,7 @@
   founded: 1922
   website: https://www.kycbluehill.com/
   burgee: kollegewidgwok_yc.png
+  description: Waving pennant divided navy over green with a white lower border at the hoist.
 - club:
   name: Great Cove Boat Club
   city: Eliot
@@ -310,6 +348,7 @@
   founded: 1988
   website: https://greatcove.org/
   burgee: great_cove_yc.png
+  description: White burgee with a navy chevron from the corners to the fly and a red arrow-like symbol at the hoist.
 - club:
   name: Castine Yacht Club
   city: Castine
@@ -318,6 +357,7 @@
   founded: 1952
   website: https://www.castinegolfclub.com/yacht-club/
   burgee: castine_yc.png
+  description: Blue triangular burgee with a black letter H outlined in white around a red center square.
 - club:
   name: Arundel Yacht Club
   city: Kennebunkport
@@ -326,6 +366,7 @@
   founded: 1957
   website: https://www.arundelyachtclub.org/
   burgee: arundel_yc.png
+  description: White hoist bearing a large red letter A and a navy triangular fly.
 - club:
   name: Orr’s-Bailey Yacht Club
   city: Orr's Island
@@ -334,6 +375,7 @@
   founded: 1954
   website: https://obyc.org/
   burgee: orrs_bailey_yc.png
+  description: White triangular burgee with a red diamond bearing a yellow-outlined letter B.
 - club:
   name: Bucks Harbor Yacht Club
   city: Brooksville
@@ -342,6 +384,7 @@
   founded: 1905
   website: https://bucksharboryc.org/
   burgee: bucks_harbor_yc.png
+  description: White pennant with a wide red border and a blue star at the center.
 - club:
   name: Center Harbor Yacht Club
   city: Brooklin
@@ -350,6 +393,7 @@
   founded: 1912
   website: https://www.chycinfo.com/
   burgee: center_harbor_yc.png
+  description: Red triangular burgee with a white diagonal band at the hoist bearing three navy stars.
 - club:
   name: Rockport Boat Club
   city: Rockport
@@ -358,6 +402,7 @@
   founded: 1948
   website: https://rockportboatclub.org/
   burgee: rockport_yc.png
+  description: White hoist bearing a navy lighthouse, outlined in red, with a red triangular fly.
 - club:
   name: Winter Harbor Yacht Club
   city: Winter Harbor
@@ -366,6 +411,7 @@
   founded: 1890
   website: https://www.winterharboryachtclub.com/
   burgee: winter_harbor_me_yc.png
+  description: Red triangular burgee with a white center band bearing a red pinwheel of curved arms.
 - club:
   name: Stockton Harbor Yacht Club
   city: Stockton Springs
@@ -374,6 +420,7 @@
   founded: 2016
   website: https://www.facebook.com/stocktonharboryachtclub/
   burgee: stockton_harbor_yc.png
+  description: Triangular burgee divided red over blue with a white hoist triangle bearing a navy ship's wheel or compass rose.
 - club:
   name: Taylor Pond Yacht Club
   city: Auburn
@@ -382,6 +429,7 @@
   founded: 1942
   website: https://taylorpondyachtclub.com/
   burgee: taylor_pond_yc.png
+  description: Swallowtail burgee with a white hoist bearing a red star, black chevrons, and a red and white fly.
 - club:
   name: Tarratine Club of Dark Harbor
   city: Islesboro
@@ -390,6 +438,7 @@
   founded: 1896
   website: https://tarratineclub.org/
   burgee: tarratine_yc.png
+  description: Red triangular burgee with a white diagonal stripe at the hoist.
 - club:
   name: Down East Yacht Club
   city: Boothbay Harbor
@@ -398,6 +447,7 @@
   founded: 1966
   website: https://www.downeastyachtclub.com/
   burgee: down_east_yc.png
+  description: Triangular pennant divided sky blue over navy with an orange half sun rising on the horizon.
 - club:
   name: Swans Island Yacht Club
   city: Swans Island
@@ -406,6 +456,7 @@
   founded: 2017
   website: https://www.facebook.com/profile.php?id=100064343215781
   burgee: swans_island_yc.png
+  description: Navy triangular burgee with a red diagonal band edged in white.
 - club:
   name: MDI Community Sailing Center
   city: Southwest Harbor
@@ -414,6 +465,7 @@
   founded: 1996
   website: https://mdisailing.org/
   burgee: mdi_community_yc.png
+  description: Dark green triangular burgee with large white letters MDI.
 - club:
   name: Northeast Harbor Fleet
   city: Northeast Harbor
@@ -422,6 +474,7 @@
   founded: 1923
   website: https://www.nehfleet.org/
   burgee: northeast_harbor_yc.png
+  description: Red triangular burgee with a navy and white circle crossed by a diagonal bar.
 - club:
   name: Portsmouth Yacht Club
   city: New Castle
@@ -430,6 +483,7 @@
   founded: 1898
   website: https://portsmouthyc.org/
   burgee: portsmouth_yc.png
+  description: Triangular burgee edged in blue with red and white horizontal stripes and a blue hoist bearing a white anchor.
 - club:
   name: Kittery Point Yacht Club
   city: New Castle
@@ -438,6 +492,7 @@
   founded: 1946
   website: https://www.kpyc.org/
   burgee: kittery_point_yc.png
+  description: Red tapered pennant with a navy letter K at the hoist and a white star.
 - club:
   name: Winnipesaukee Yacht Club
   city: Gilford
@@ -446,6 +501,7 @@
   founded: 1937
   website: https://wyc-nh.org/
   burgee: winnipesaukee_yc.png
+  description: White triangular burgee with a navy border and a small red triangle at the center.
 - club:
   name: Winter Harbor Yacht Club
   city: Gilford
@@ -454,6 +510,7 @@
   founded: 1940
   website: https://winterharboryachtclubnh.com/
   burgee: winter_harbor_nh_yc.png
+  description: Waving black and yellow pennant with crescent moon and stars on the black field.
 - club:
   name: Massabesic Yacht Club
   city: Auburn
@@ -462,6 +519,7 @@
   founded: 1938
   website: https://mycsailing.com/
   burgee: massabesic_yc.png
+  description: Waving swallowtail with a red upper tail and a navy lower tail on white.
 - club:
   name: Lake Sunapee Yacht Club
   city: Sunapee
@@ -470,6 +528,7 @@
   founded: 1984
   website: https://lsyc.net/
   burgee: sunapee_yc.png
+  description: Red and white horizontally striped burgee with a navy center stripe bearing a white star.
 - club:
   name: Barton & Gray Mariners Club
   city: Portsmouth
@@ -478,6 +537,7 @@
   founded: 2006
   website: https://www.bartonandgray.com/
   burgee: barton_gray_yc.png
+  description: Triangular burgee with diagonal yellow and blue stripes.
 - club:
   name: Lake Champlain Yacht Club
   city: Shelbourne
@@ -486,6 +546,7 @@
   founded: 1877
   website: https://lcyc.info/
   burgee: lake_champlain_yc.png
+  description: Red-bordered navy chevron burgee with a white star on the navy hoist.
 - club:
   name: Mallets Bay Boat Club
   city: Colchester
@@ -494,6 +555,7 @@
   founded: 1936
   website: https://mbbc-vt.org/
   burgee: malletts_bay_yc.png
+  description: White triangular burgee with two blue triangles at the hoist forming a swallowtail chevron shape.
 - club:
   name: Essex Yacht Club
   city: Essex
@@ -502,6 +564,7 @@
   founded: 1933
   website: https://www.essexyc.com/
   burgee: essex_yc.png
+  description: White triangular pennant with navy wavy horizontal stripes.
 - club:
   name: Thames Yacht Club
   city: New London
@@ -510,6 +573,7 @@
   founded: 1932
   website: https://thamesyc.org/
   burgee: thames_yc.png
+  description: White pennant outlined in navy with a blue whale at the center.
 - club:
   name: Stonington Harbor Yacht Club
   city: Stonington
@@ -518,6 +582,7 @@
   founded: 2002
   website: https://shyc.us/
   burgee: stonington_yc.png
+  description: Blue triangular burgee with two white chevrons at the hoist.
 - club:
   name: Wadawanuck Club
   city: Stonington
@@ -526,6 +591,7 @@
   founded: 1908
   website: https://wadawanuckclub.com/
   burgee: wadawanuck_yc.png
+  description: Triangular burgee divided horizontally yellow over light blue.
 - club:
   name: Branford Yacht Club
   city: Branford
@@ -534,6 +600,7 @@
   founded: 1909
   website: https://www.branfordyc.org/
   burgee: branford_yc.png
+  description: Waving navy pennant with a white circle bearing a maroon star.
 - club:
   name: Indian Neck Yacht Club
   city: Branford
@@ -542,6 +609,7 @@
   founded: 1950
   website: https://inyc.clubexpress.com/
   burgee: indian_neck_yc.png
+  description: Red and white pennant on a yellow staff with a navy Native American head on the white upper half.
 - club:
   name: Black Rock Yacht Club
   city: Bridgeport
@@ -550,6 +618,7 @@
   founded: 1926
   website: https://www.blackrockyc.org/
   burgee: bridgeport_yc.png
+  description: Tapered pennant with red and white horizontal stripes.
 - club:
   name: Fayerweather Yacht Club
   city: Bridgeport
@@ -558,6 +627,7 @@
   founded: 1919
   website: https://fycct.org/
   burgee: fayerweather_yc.png
+  description: Waving navy pennant with a red-and-white letter F in a circle at the hoist.
 - club:
   name: Stamford Yacht Club
   city: Stamford
@@ -566,6 +636,7 @@
   founded: 1890
   website: https://www.stamfordyc.com/
   burgee: stamford_yc.png
+  description: White burgee with vertical red stripes narrowing toward a red triangular fly.
 - club:
   name: Ponus Yacht Club
   city: Stamford
@@ -574,6 +645,7 @@
   founded: 1911
   website: https://www.ponusyachtclub.com/
   burgee: ponus_yc.png
+  description: White pennant outlined in red with a red Native American headdress.
 - club:
   name: Halloween Yacht Club
   city: Stamford
@@ -582,6 +654,7 @@
   founded: 1926
   website: https://www.hyc.net/
   burgee: halloween_yc.png
+  description: Black burgee with an orange diamond bearing a black witch on a broomstick.
 - club:
   name: Riverside Yacht Club
   city: Riverside
@@ -590,6 +663,7 @@
   founded: 1888
   website: https://www.riversideyc.org/
   burgee: riverside_ct_yc.png
+  description: White swallowtail pennant with a blue border and a red cross pattée on a white circle.
 - club:
   name: Shennecossett Yacht Club
   city: Groton
@@ -598,6 +672,7 @@
   founded: 1928
   website: https://www.syc-ct.com/
   burgee: shennecossett_yc.png
+  description: Waving red flag with a white circle bearing a blue triangle at the hoist.
 - club:
   name: Groton Long Point Yacht Club
   city: Groton
@@ -606,6 +681,7 @@
   founded: 1934
   website: https://www.glpyc.org/
   burgee: groton_long_point_yc.png
+  description: White triangular burgee with nested navy and red chevrons.
 - club:
   name: Ram Island Yacht Club
   city: Groton
@@ -614,6 +690,7 @@
   founded: 1941
   website: https://ramislandyachtclub.org/
   burgee: ram_island_yc.png
+  description: Navy burgee with a white ram's-horn E shape and a yellow fly.
 - club:
   name: Hartford Yacht Club
   city: South Glastonbury
@@ -622,6 +699,7 @@
   founded: 1895
   website: https://www.hartfordyachtclub.com/
   burgee: hartford_yc.png
+  description: Navy burgee with a white star at the hoist and a pink-red and white diagonal fly.
 - club:
   name: Glastonbury Yacht Club
   city: Glastonbury
@@ -630,6 +708,7 @@
   founded: 1958
   website: http://www.glastonburyyachtclub.org/
   burgee: glastonbury_yc.png
+  description: White and red diagonally divided burgee with a black border and a white letter G on the red.
 - club:
   name: Middlesex Yacht Club
   city: Chester
@@ -638,6 +717,7 @@
   founded: 1896
   website: https://middlesexyachtclub.wildapricot.org/
   burgee: chester_yc.png
+  description: Short pennant in red over navy with a pale green chevron between.
 - club:
   name: Pattaconk Yacht Club
   city: Chester
@@ -646,6 +726,7 @@
   founded: 1952
   website: https://www.pattaconk.org/
   burgee: pattaconk_yc.png
+  description: Red triangular burgee with a blue hoist bearing a white letter P.
 - club:
   name: New Haven Yacht Club
   city: New Haven
@@ -654,6 +735,7 @@
   founded: 1881
   website: https://www.nhyachtclub.club/
   burgee: new_haven_yc.png
+  description: White burgee with a blue border and blue cross bearing a red star at the crossing.
 - club:
   name: Pequonnock Yacht Club
   city: New Haven
@@ -662,6 +744,7 @@
   founded: 1905
   website: https://www.pyc-nh.com/
   burgee: pequonnock_yc.png
+  description: Waving navy pennant with a white center and red border stripes.
 - club:
   name: Waucoma Yacht Club
   city: New Haven
@@ -670,6 +753,7 @@
   founded: 1907
   website: https://waucomayachtclubct.com/
   burgee: waucoma_yc.png
+  description: Red and blue triangular burgee with a white saltire and a white star at the center.
 - club:
   name: City Point Yacht Club
   city: New Haven
@@ -678,6 +762,7 @@
   founded: 1895
   website: https://www.citypointyc.org/
   burgee: city_point_yc.png
+  description: Waving navy-bordered pennant in red with white center chevron and a red star.
 - club:
   name: Niantic Bay Yacht Club
   city: Niantic
@@ -686,6 +771,7 @@
   founded: 1940
   website: https://www.nbyc.org/
   burgee: niantic_yc.png
+  description: White hoist bearing a red crescent moon and a black triangular fly.
 - club:
   name: Guilford Yacht Club
   city: Guilford
@@ -694,6 +780,7 @@
   founded: 1954
   website: https://www.gyc.com/
   burgee: guilford_yc.png
+  description: Navy pennant on a yellow staff with a red and white square at the hoist.
 - club:
   name: Sachem's Head Yacht Club
   city: Guilford
@@ -702,6 +789,7 @@
   founded: 1897
   website: https://shyc.club/
   burgee: sachems_head_yc.png
+  description: Waving white-edged pennant divided red over navy with a wavy dividing line.
 - club:
   name: Pine Orchard Yacht & Country Club
   city: Branford
@@ -710,6 +798,7 @@
   founded: 1901
   website: https://www.poycc.org/
   burgee: pine_orchard_yc.png
+  description: Navy triangular burgee with a long white pointed shape from the hoist and small red triangles at the hoist corners.
 - club:
   name: Milford Yacht Club
   city: Milford
@@ -718,6 +807,7 @@
   founded: 1903
   website: https://milfordyachtclub.com/
   burgee: milford_yc.png
+  description: White waving swallowtail with a red chevron-like bolt and a navy star.
 - club:
   name: Valley Yacht Club
   city: Milford
@@ -726,6 +816,7 @@
   founded: 1967
   website: https://www.valleyyc.org/
   burgee: valley_ct_yc.png
+  description: White burgee with a red cross, a blue letter V in the upper hoist and a blue star in the lower hoist.
 - club:
   name: Mason's Island Yacht Club
   city: Mystic
@@ -734,6 +825,7 @@
   founded: 1928
   website: https://miyc.clubexpress.com/
   burgee: masons_island_yc.png
+  description: Yellow burgee with a navy zigzag at the hoist and a navy arrow-like stripe running to the fly.
 - club:
   name: North Cove Yacht Club
   city: Old Saybrook
@@ -742,6 +834,7 @@
   founded: 1969
   website: https://www.northcoveyc.com/
   burgee: north_cove_yc.png
+  description: Waving blue pennant with a yellow wavy swallow stripe.
 - club:
   name: Pequot Yacht Club
   city: Southport
@@ -750,6 +843,7 @@
   founded: 1920
   website: https://pequotyc.com/
   burgee: pequot_yc.png
+  description: White waving pennant with a blue hoist bearing a white star and red stripes running to the fly.
 - club:
   name: Hamburg Cove Yacht Club
   city: Old Lyme
@@ -758,6 +852,7 @@
   founded: 1946
   website: https://hcyc.com/
   burgee: hamburg_cove_yc.png
+  description: Orange-red pennant on a black staff with a black figure-eight knot.
 - club:
   name: Indian Harbor Yacht Club
   city: Greenwich
@@ -766,6 +861,7 @@
   founded: 1889
   website: https://www.indianharboryc.com/
   burgee: indian_harbor_yc.png
+  description: White triangular burgee outlined in red with a large solid red diamond at the center.
 - club:
   name: Greenwich Boat & Yacht Club
   city: Greenwich
@@ -774,6 +870,7 @@
   founded: 1938
   website: https://gbyc.wildapricot.org/
   burgee: greenwich_boat_yc.png
+  description: White burgee with a red wavy lower half and a green turtle above it.
 - club:
   name: Ischoda Yacht Club
   city: Norwalk
@@ -782,6 +879,7 @@
   founded: 1886
   website: https://www.ischoda.com/
   burgee: ischoda_yc.png
+  description: Waving pennant divided red over navy with a white ring and letter I at the hoist.
 - club:
   name: Rowayton Yacht Club
   city: Norwalk
@@ -790,6 +888,7 @@
   founded: 1986
   website: https://www.rowaytonyachtclub.com/
   burgee: rowayton_yc.png
+  description: Navy triangular burgee with a white circle bearing a red anchor and letters R, Y and C.
 - club:
   name: Sprite Island Yacht Club
   city: Norwalk
@@ -798,6 +897,7 @@
   founded: 1946
   website: https://spriteisland.com/
   burgee: sprite_island_yc.png
+  description: Blue burgee with two small white and yellow square flags at the hoist and a red sea-creature figure.
 - club:
   name: Norwalk Yacht Club
   city: Norwalk
@@ -806,6 +906,7 @@
   founded: 1894
   website: https://www.norwalkyachtclub.com/
   burgee: norwalk_yc.png
+  description: White swallowtail pennant with a red border and a navy circle bearing a white letter N.
 - club:
   name: South Norwalk Boat Club
   city: Norwalk
@@ -814,6 +915,7 @@
   founded: 1900
   website: https://www.snboatclub.com/
   burgee: south_norwalk_yc.png
+  description: Navy burgee with a red border and a white circle bearing an interlocking SNBC monogram.
 - club:
   name: Housatonic Yacht Club
   city: Stratford
@@ -822,6 +924,7 @@
   founded: 1887
   website: https://www.housatonicboatclub.com/
   burgee: housatonic_yc.png
+  description: Waving purple pennant with a red hoist bearing white stars.
 - club:
   name: Pootatuck Yacht Club
   city: Stratford
@@ -830,6 +933,7 @@
   founded: 1896
   website: http://www.pootatuckyc.com/
   burgee: pootatuck_yc.png
+  description: White and red burgee with a blue diagonal stripe near the hoist and a red fly.
 - club:
   name: Duck Island Yacht Club
   city: Westbrook
@@ -838,6 +942,7 @@
   founded: 1932
   website: http://www.diyc.com/
   burgee: duck_island_yc.png
+  description: White pennant with a salmon-orange border and a navy flying duck.
 - club:
   name: Wethersfield Cove Yacht Club
   city: Wethersfield
@@ -846,6 +951,7 @@
   founded: 1908
   website: https://wcyclub.com/
   burgee: wethersfield_cove_yc.png
+  description: Bright blue tapered pennant with a red crescent moon and a white star.
 - club:
   name: Hammonasset Cove Yacht Club
   city: Clinton
@@ -854,6 +960,7 @@
   founded: 1935
   website: https://www.hammonassetyachtclub.com/
   burgee: hammonasset_yc.png
+  description: Black triangular burgee with a thin gold border and a gold trident.
 - club:
   name: Essex Corinthian Yacht Club
   city: Essex
@@ -862,6 +969,7 @@
   founded: 1984
   website: https://www.essexcorinthian.org/
   burgee: essex_corinthian_yc.png
+  description: White swallowtail on a yellow staff with a blue-and-red circular C monogram.
 - club:
   name: Pettipaug Yacht Club
   city: Essex
@@ -870,6 +978,7 @@
   founded: 1950
   website: https://www.pettipaug.com/
   burgee: pettipaug_yc.png
+  description: Red triangular burgee with a navy square bearing a white center at the hoist.
 - club:
   name: Bantam Lake Yacht Club
   city: Morris
@@ -878,6 +987,7 @@
   founded: 1933
   website: https://www.bantamlakeyachtclub.com/
   burgee: bantam_lake_yc.png
+  description: Dark red swallowtail flag with a white border, a white rooster and white letters BLYC.
 - club:
   name: Mianus River Boat & Yacht Club
   city: Cos Cob
@@ -886,6 +996,7 @@
   founded: 1995
   website: https://mrbyc.membershiptoolkit.com/
   burgee: mianus_river_boat_yc.png
+  description: Waving blue-edged yellow pennant on a staff with a blue swooping stripe.
 - club:
   name: Darien Boat Club
   city: Darien
@@ -894,6 +1005,7 @@
   founded: 1948
   website: https://darienboatclub.org/
   burgee: darien_yc.png
+  description: Blue triangular burgee with a small white square and a large white letter T.
 - club:
   name: Noroton Yacht Club
   city: Darien
@@ -902,6 +1014,7 @@
   founded: 1928
   website: https://www.norotonyc.org/
   burgee: noroton_yc.png
+  description: White triangular burgee with two navy chevrons pointing to the hoist.
 - club:
   name: Bitter End Yacht Club
   city: Darien
@@ -910,6 +1023,7 @@
   founded: 1969
   website: https://beyc.com/
   burgee: bitter_end_yc.png
+  description: Navy burgee with a turquoise border, a white grommeted hoist and a white ring around a cannon.
 - club:
   name: Candlewood Yacht Club
   city: New Fairfield
@@ -918,6 +1032,7 @@
   founded: 1937
   website: https://candlewoodyachtclub.org/
   burgee: candlewood_yc.png
+  description: Blue pennant with a maroon center bearing a white letter C.
 - club:
   name: New Bedford Yacht Club
   city: New Bedford
@@ -926,6 +1041,7 @@
   founded: 1877
   website: https://www.nbyc.com/
   burgee: new_bedford_yc.png
+  description: Red triangular burgee with a white hoist chevron bearing a navy anchor.
 - club:
   name: Low Tide Yacht Club
   city: New Bedford
@@ -934,6 +1050,7 @@
   founded: 1930
   website: https://www.lowtideyc.net/
   burgee: low_tide_yc.png
+  description: Green burgee with a white chevron-shaped hoist bearing a black and red clam-like device.
 - club:
   name: Winthrop Yacht Club
   city: Winthrop
@@ -942,6 +1059,7 @@
   founded: 1884
   website: https://winthropyachtclub.com/
   burgee: winthrop_yc.png
+  description: Navy-bordered swallow pennant divided orange-red and navy with white crescent moons.
 - club:
   name: Cottage Park Yacht Club
   city: Winthrop
@@ -950,6 +1068,7 @@
   founded: 1902
   website: https://cpyc.org/
   burgee: cottage_park_yc.png
+  description: Red arrow-shaped burgee on a blue staff with a gold finial, with a white hoist notch bearing a blue star.
 - club:
   name: Pleasant Point Yacht Club
   city: Winthrop
@@ -958,6 +1077,7 @@
   founded: 1910
   website: https://ppyc1910.org/
   burgee: pleasant_point_yc.png
+  description: Blue-edged waving pennant with a white and red center, a white star and a white crescent moon.
 - club:
   name: Sandy Bay Yacht Club
   city: Rockport
@@ -966,6 +1086,7 @@
   founded: 1885
   website: https://www.sandybay.org/
   burgee: sandy_bay_yc.png
+  description: Red waving pennant with a large white six-pointed star at the hoist.
 - club:
   name: Newton Yacht Club
   city: Newton
@@ -974,6 +1095,7 @@
   founded: 1955
   website: https://www.newtonyachtclub.com/
   burgee: newton_yc.png
+  description: Navy triangular burgee with a dark red diamond at the center bearing a white letter N.
 - club:
   name: Marblehead Yacht Club
   city: Marblehead
@@ -982,6 +1104,7 @@
   founded: 1878
   website: https://www.marbleheadyc.org/
   burgee: marblehead_yc.png
+  description: Waving white swallowtail on a gray staff with a red zigzag M shape and a white star.
 - club:
   name: Boston Yacht Club
   city: Marblehead
@@ -990,6 +1113,7 @@
   founded: 1866
   website: https://www.bostonyc.org/
   burgee: boston_yc.png
+  description: White waving pennant with navy stripes and a red cross band bearing a white star.
 - club:
   name: Eastern Yacht Club
   city: Marblehead
@@ -998,6 +1122,7 @@
   founded: 1870
   website: https://www.easternyc.org/
   burgee: eastern_yc.png
+  description: Waving burgee with a red hoist bearing a white star and a navy fly, edged in tan.
 - club:
   name: Dolphin Yacht Club
   city: Marblehead
@@ -1006,6 +1131,7 @@
   founded: 1950
   website: https://www.dolphinyachtclub.com/
   burgee: dolphin_yc.png
+  description: White triangular burgee outlined in navy with a navy star and a navy zigzag bar.
 - club:
   name: Corinthian Yacht Club
   city: Marblehead
@@ -1014,6 +1140,7 @@
   founded: 1885
   website: https://www.corinthianyc.org/
   burgee: corinthian_yc.png
+  description: White waving pennant with a red diagonal band, a navy star at the hoist and a navy fly.
 - club:
   name: Pleon Yacht Club
   city: Marblehead
@@ -1022,6 +1149,7 @@
   founded: 1887
   website: https://pleon.org/
   burgee: pleon_yc.png
+  description: Triangular burgee divided navy over dark red with a white star on the dividing line.
 - club:
   name: Dorchester Yacht Club
   city: Dorchester
@@ -1030,6 +1158,7 @@
   founded: 1870
   website: https://dorchesteryachtclub.com/
   burgee: dorchester_yc.png
+  description: Red triangular burgee with a blue hoist triangle bearing a white star.
 - club:
   name: Savin Hill Yacht Club
   city: Dorchester
@@ -1038,6 +1167,7 @@
   founded: 1875
   website: https://shyc.org/
   burgee: savin_hill_yc.png
+  description: White triangular burgee with a long red diamond and two blue stars at the hoist.
 - club:
   name: Old Colony Boat Club
   city: Dorchester
@@ -1046,6 +1176,7 @@
   founded: 1891
   website: https://oldcolonyyc.org/wp/
   burgee: old_colony_yc.png
+  description: Small burgee divided red and purple-blue with two white stars on red.
 - club:
   name: Beverly Yacht Club
   city: Marion
@@ -1054,6 +1185,7 @@
   founded: 1872
   website: https://beverlyyachtclub.org/
   burgee: beverly_yc.png
+  description: Navy swallowtail pennant on a staff with a white center bearing a red star.
 - club:
   name: Quincy Yacht Club
   city: Quincy
@@ -1062,6 +1194,7 @@
   founded: 1874
   website: https://www.quincyyc.com/
   burgee: quincy_yc.png
+  description: White tapered pennant on a yellow staff with a single red star.
 - club:
   name: Town River Yacht Club
   city: Quincy
@@ -1070,6 +1203,7 @@
   founded: 1911
   website: https://townriveryachtclub.com/
   burgee: town_river_yc.png
+  description: Red triangular burgee with a blue diamond at the hoist bearing a white star.
 - club:
   name: Squantum Yacht Club
   city: Quincy
@@ -1078,6 +1212,7 @@
   founded: 1892
   website: https://squantumyc.clubexpress.com/
   burgee: squantum_yc.png
+  description: Navy waving pennant with a white hatchet or tomahawk.
 - club:
   name: Wequaquet Lake Yacht Club
   city: Centerville
@@ -1086,6 +1221,7 @@
   founded: 1948
   website: https://www.wlyc.com/
   burgee: wequaquet_lake_yc.png
+  description: Navy pennant with a white border and a large red letter W.
 - club:
   name: Hyannis Yacht Club
   city: Barnstable
@@ -1094,6 +1230,7 @@
   founded: 1895
   website: https://hyannisyachtclub.org/
   burgee: hyannis_yc.png
+  description: Teal waving pennant with a white letter H between red stars.
 - club:
   name: Hyannis Port Yacht Club
   city: Barnstable
@@ -1102,6 +1239,7 @@
   founded: 1909
   website: https://www.hyannisportyachtclub.com/
   burgee: hyannis_port_yc.png
+  description: Navy and red triangular burgee with white letters H and P.
 - club:
   name: Jubilee Yacht Club
   city: Beverly
@@ -1110,6 +1248,7 @@
   founded: 1896
   website: https://jubileeyacht.club/
   burgee: jubilee_yc.png
+  description: White burgee with a white cross, a blue canton with a white star, and red and blue quarters.
 - club:
   name: Bass Haven Yacht Club
   city: Beverly
@@ -1118,6 +1257,7 @@
   founded: 1910
   website: http://www.basshavenyc.com/
   burgee: bass_haven_yc.png
+  description: Triangular burgee divided red over blue with a white diamond and counterchanged fly.
 - club:
   name: Ipswich Bay Yacht Club
   city: Ipswich
@@ -1126,6 +1266,7 @@
   founded: 1940
   website: https://www.ibyc.org/
   burgee: ipswich_bay_yc.png
+  description: Waving swallowtail with red and white vertical stripes at the hoist and a blue fly bearing a white letter B.
 - club:
   name: Hull Yacht Club
   city: Hull
@@ -1134,6 +1275,7 @@
   founded: 1880
   website: https://hullyc.org/
   burgee: hull_yc.png
+  description: Dark red pennant with a blue saltire edged in white at the hoist and a white star at the crossing.
 - club:
   name: Volunteer Yacht Club
   city: Lynn
@@ -1142,6 +1284,7 @@
   founded: 1887
   website: https://www.facebook.com/groups/volunteeryachtclub/
   burgee: volunteer_yc.png
+  description: Triangular burgee in diagonal fields of dark red, white and navy.
 - club:
   name: Hingham Yacht Club
   city: Hingham
@@ -1150,6 +1293,7 @@
   founded: 1895
   website: https://www.hinghamyachtclub.com/
   burgee: hingham_yc.png
+  description: Navy waving pennant with a red chevron and a white star.
 - club:
   name: Crescent Yacht Club
   city: Haverhill
@@ -1158,6 +1302,7 @@
   founded: 1940
   website: https://www.facebook.com/groups/562227370922864/
   burgee: crescent_yc.png
+  description: Navy waving pennant with a white crescent moon and a white star.
 - club:
   name: Metropolitan Yacht Club
   city: Braintree
@@ -1166,6 +1311,7 @@
   founded: 1946
   website: https://metyc.com/
   burgee: metropolitan_yc.png
+  description: Blue swallowtail with a white saltire and a red fly.
 - club:
   name: Winchester Boat Club
   city: Winchester
@@ -1174,6 +1320,7 @@
   founded: 1900
   website: https://www.winchesterboatclub.org/
   burgee: winchester_yc.png
+  description: White triangular burgee with a red flower-like rosette at the hoist.
 - club:
   name: Swampscott Yacht Club
   city: Swampscott
@@ -1182,6 +1329,7 @@
   founded: 1933
   website: https://swampscottyachtclub.org/
   burgee: swampscott_yc.png
+  description: Navy and white swallowtail with a navy star at the hoist and navy streamers above and below.
 - club:
   name: Massapoag Yacht Club
   city: Sharon
@@ -1190,6 +1338,7 @@
   founded: 1946
   website: https://www.sailmyc.org/
   burgee: massapoag_yc.png
+  description: Bright blue waving pennant on a black staff with a white letter M and white stars.
 - club:
   name: Taunton Yacht Club
   city: Dighton
@@ -1198,6 +1347,7 @@
   founded: 1895
   website: https://www.tauntonyachtclub.com/
   burgee: taunton_yc.png
+  description: Blue burgee with a white diamond outline around a red diamond center.
 - club:
   name: Quannapowitt Yacht Club
   city: Wakefield
@@ -1206,6 +1356,7 @@
   founded: 1872
   website: https://sailqyc.com/
   burgee: quannapowitt_yc.png
+  description: Waving pennant fading from gray-white to blue, with a red hoist and letters QYC in red and blue.
 - club:
   name: Plymouth Yacht Club
   city: Plymouth
@@ -1214,6 +1365,7 @@
   founded: 1890
   website: https://plymouthyachtclub.org/
   burgee: plymouth_yc.png
+  description: Red waving pennant on a red staff with three white stars.
 - club:
   name: Palmers Cove Yacht Club
   city: Salem
@@ -1222,6 +1374,7 @@
   founded: 1934
   website: https://www.pcyc-salem.com/
   burgee: palmers_cove_yc.png
+  description: Navy swallowtail flag with a white witch on a broomstick and four white stars.
 - club:
   name: Salem Willows Yacht Club
   city: Salem
@@ -1230,6 +1383,7 @@
   founded: 1933
   website: https://swyc.com/
   burgee: salem_willows_yc.png
+  description: Navy triangular burgee with a white diagonal stripe and a white star at the hoist.
 - club:
   name: Point Independence Yacht Club
   city: Onset
@@ -1238,6 +1392,7 @@
   founded: 1908
   website: https://piyconset.com/
   burgee: point_independence_yc.png
+  description: Long red and white pennant with navy wavy borders.
 - club:
   name: Newburyport Yacht Club
   city: Newburyport
@@ -1246,6 +1401,7 @@
   founded: 2001
   website: https://www.newburyportyachtclub.com/
   burgee: newburyport_yc.png
+  description: White swallowtail pennant with a navy fly and a dark red script letter N at the hoist.
 - club:
   name: American Yacht Club
   city: Newburyport
@@ -1254,6 +1410,7 @@
   founded: 1885
   website: https://americanyachtclub.org/
   burgee: american_yc.png
+  description: Waving swallowtail with a red hoist, white center and blue lower fly.
 - club:
   name: Wianno Yacht Club
   city: Osterville
@@ -1262,6 +1419,7 @@
   founded: 1885
   website: https://www.wiannoyc.com/
   burgee: wianno_yc.png
+  description: Red triangular burgee with a navy hoist bearing a white letter W.
 - club:
   name: King Philip Yacht Club
   city: Fall River
@@ -1270,6 +1428,7 @@
   founded: 1976
   website: https://www.facebook.com/p/King-Philip-Yacht-Club-100054303889578/
   burgee: king_philip_yc.png
+  description: Waving white and blue vertical flag with a red diamond at the center.
 - club:
   name: Orient Heights Yacht Club
   city: Boston
@@ -1278,6 +1437,7 @@
   founded: 1901
   website: https://www.orientheightsyachtclub.com/
   burgee: orient_heights_yc.png
+  description: Navy triangular burgee with a red center band, a white crescent moon and a white star.
 - club:
   name: East Boston Yacht Club
   city: Boston
@@ -1286,6 +1446,7 @@
   founded: 1911
   website: https://eastbostonyachtclub.com/
   burgee: east_boston_yc.png
+  description: Blue triangular burgee with a red diamond bearing white letters E.B.
 - club:
   name: Port Norfolk Yacht Club
   city: Boston
@@ -1294,6 +1455,7 @@
   founded: 1924
   website: https://pnyclub.com/
   burgee: port_norfolk_yc.png
+  description: White triangular burgee with a red cross and a navy canton bearing a white fleur-de-lis.
 - club:
   name: Boston Sailing Center
   city: Boston
@@ -1302,6 +1464,7 @@
   founded: 1977
   website: https://bostonsailingcenter.com/
   burgee: boston_sailing_yc.png
+  description: Long burgee of navy, red and blue horizontal stripes tapering to a point.
 - club:
   name: Chelsea Yacht Club
   city: Chelsea
@@ -1310,6 +1473,7 @@
   founded: 1886
   website: https://www.chelseayachtclub.org/
   burgee: chelsea_yc.png
+  description: Red pennant on a black staff with a navy circle bearing a white star.
 - club:
   name: Bass River Yacht Club
   city: Yarmouth
@@ -1318,6 +1482,7 @@
   founded: 1931
   website: https://www.bassriveryachtclub.org/
   burgee: bass_river_yc.png
+  description: Blue triangular burgee with a yellow anchor between yellow letters B and R.
 - club:
   name: Riverside Yacht Club
   city: Medford
@@ -1326,6 +1491,7 @@
   founded: 1960
   website: https://riversideyachtclub.com/
   burgee: riverside_ma_yc.png
+  description: Bright blue burgee with a yellow Spartan helmeted head and yellow letters RYC.
 - club:
   name: Mystic Wellington Yacht Club
   city: Medford
@@ -1334,6 +1500,7 @@
   founded: 1966
   website: https://www.mysticwellingtonyachtclub.com/
   burgee: mystic_wellington_yc.png
+  description: Pale gray swallowtail flag with a navy square-rigged sailing ship.
 - club:
   name: Charles River Yacht Club
   city: Cambridge
@@ -1342,6 +1509,7 @@
   founded: 1934
   website: https://charlesriveryachtclub.com/
   burgee: charles_river_yc.png
+  description: Small pink and blue swallowtail pennant on a white staff.
 - club:
   name: Charlesgate Yacht Club
   city: Cambridge
@@ -1350,6 +1518,7 @@
   founded: 1946
   website: https://www.charlesgateyc.org/
   burgee: charlesgate_yc.png
+  description: Red triangular burgee with a blue hoist, a white Y and CG monogram, and a white star.
 - club:
   name: Cambridge Boat Club
   city: Cambridge
@@ -1358,6 +1527,7 @@
   founded: 1909
   website: https://cambridge-boat-club.org/
   burgee: cambridge_boat_yc.png
+  description: Light blue and white checkered pennant on a light blue staff.
 - club:
   name: MIT Sailing Pavilion
   city: Cambridge
@@ -1366,6 +1536,7 @@
   founded: 1935
   website: https://sailing.mit.edu/
   burgee: mit_sailing_yc.png
+  description: Dark red and white horizontally striped burgee with a red hoist bar and a blue star.
 - club:
   name: Watertown Yacht Club
   city: Watertown
@@ -1374,6 +1545,7 @@
   founded: 1940
   website: http://www.watertownyachtclub.org/
   burgee: watertown_yc.png
+  description: Red and blue burgee with a white chevron, two white stars and white double-Y letters.
 - club:
   name: Scituate Harbor Yacht Club
   city: Scituate
@@ -1382,6 +1554,7 @@
   founded: 1940
   website: https://www.shyc.net/
   burgee: scituate_yc.png
+  description: Navy triangular burgee with a red diamond bearing a white anchor.
 - club:
   name: Wessagussett Harbor Yacht Club
   city: North Weymouth
@@ -1390,6 +1563,7 @@
   founded: 1902
   website: https://www.wycma.com/
   burgee: wessagussett_harbor_yc.png
+  description: White burgee with a blue chevron outline and a red hoist triangle.
 - club:
   name: South Shore Yacht Club
   city: North Weymouth
@@ -1398,6 +1572,7 @@
   founded: 1954
   website: https://ssycma.weebly.com/
   burgee: south_shore_yc.png
+  description: Black-outlined burgee with dark red and white horizontal stripes and a black wavy hoist band.
 - club:
   name: Woods Hole Harbor Yacht Club
   city: Woods Hole
@@ -1406,6 +1581,7 @@
   founded: 1896
   website: https://woodsholeyachtclub.org/
   burgee: woods_hole_harbor_yc.png
+  description: Red triangular burgee with white radiating lines and a blue circle ringed in white.
 - club:
   name: Winter Hill Yacht Club
   city: Somerville
@@ -1414,6 +1590,7 @@
   founded: 1924
   website: https://winter-hill-yacht-club.hub.biz/
   burgee: winter_hill_yc.png
+  description: Mauve triangular burgee with nested gray and blue chevrons pointing to the hoist.
 - club:
   name: Columbia Yacht Club
   city: South Boston
@@ -1422,6 +1599,7 @@
   founded: 1892
   website: https://columbiayc.godaddysites.com/
   burgee: columbia_yc.png
+  description: White grommeted burgee with a red upper half and a navy diamond bearing a white anchor.
 - club:
   name: Lynn Yacht Club
   city: Lynn
@@ -1430,6 +1608,7 @@
   founded: 1870
   website: https://lynnyachtclub.org/
   burgee: lynn_yc.png
+  description: Red flag with a navy canton bearing a white crescent moon.
 - club:
   name: Point of Pines Yacht Club
   city: Revere
@@ -1438,6 +1617,7 @@
   founded: 1914
   website: https://popyc.org/
   burgee: point_of_pines_yc.png
+  description: Waving pennant with a navy hoist bearing a white pine tree and a red fly edged in white.
 - club:
   name: Falmouth Yacht Club
   city: Falmouth
@@ -1446,6 +1626,7 @@
   founded: 1946
   website: https://www.falmouthyachtclub.com/
   burgee: falmouth_yc.png
+  description: Navy burgee with a white letter F blending into a red fly.
 - club:
   name: Quissett Yacht Club
   city: Falmouth
@@ -1454,6 +1635,7 @@
   founded: 1912
   website: https://quissettyachtclub.org/
   burgee: quissett_yc.png
+  description: Orange-red burgee on a pole with a white saltire and a letter Q in a white center.
 - club:
   name: Green Pond Yacht Club
   city: Falmouth
@@ -1462,6 +1644,7 @@
   founded: 1978
   website: https://greenpondyachtclub.org/
   burgee: green_pond_ma_yc.png
+  description: Navy triangular burgee with white letters G and P and white chevron pinstripes.
 - club:
   name: Menauhant Yacht Club
   city: Falmouth
@@ -1470,6 +1653,7 @@
   founded: 1914
   website: https://www.menauhantyachtclub.org/
   burgee: menauhant_yc.png
+  description: Navy and red burgee with a stylized letter M.
 - club:
   name: Waquoit Bay Yacht Club
   city: East Falmouth
@@ -1478,6 +1662,7 @@
   founded: 1926
   website: https://www.wbyc.org/
   burgee: waquoit_bay_yc.png
+  description: Bright blue waving pennant with a red circle bearing a white letter W.
 - club:
   name: Megansett Yacht Club
   city: North Falmouth
@@ -1486,6 +1671,7 @@
   founded: 1953
   website: https://www.megansettyachtclub.com/
   burgee: megansett_yc.png
+  description: Navy swallowtail flag with a red feather and a white stripe at the fly.
 - club:
   name: Pioneer Valley Yacht Club
   city: Longmeadow
@@ -1494,6 +1680,7 @@
   founded: 1955
   website: https://www.ourpvyc.net/
   burgee: pioneer_valley_yc.png
+  description: Navy triangular burgee with wavy red and white hoist stripes and a white star.
 - club:
   name: Manchester Yacht Club
   city: Manchester-by-the-Sea
@@ -1502,6 +1689,7 @@
   founded: 1892
   website: https://www.manchesteryc.org/
   burgee: manchester_by_the_sea_yc.png
+  description: White burgee with a thick navy border and saltire and a navy star at the hoist.
 - club:
   name: Milton Yacht Club
   city: Milton Village
@@ -1510,6 +1698,7 @@
   founded: 1902
   website: https://www.miltonyachtclub.org/
   burgee: milton_yc.png
+  description: Small white swallowtail outlined in black with a blue cross and red stars.
 - club:
   name: Green Harbor Yacht Club
   city: Marshfield
@@ -1518,6 +1707,7 @@
   founded: 1958
   website: https://www.greenharboryc.com/
   burgee: green_harbor_yc.png
+  description: Green triangular burgee with white GH monogram, three white stars and a gold border.
 - club:
   name: Orleans Yacht Club
   city: Orleans
@@ -1526,6 +1716,7 @@
   founded: 1947
   website: https://www.orleansyachtclub.org/
   burgee: orleans_yc.png
+  description: Blue triangular burgee with a red hoist bearing a white-outlined circle.
 - club:
   name: Cohasset Yacht Club
   city: Cohasset
@@ -1534,6 +1725,7 @@
   founded: 1894
   website: https://cohassetyc.org/
   burgee: cohasset_yc.png
+  description: White waving pennant on a red staff with a blue fly and a red star.
 - club:
   name: Nahunt Dory Club
   city: Nahunt
@@ -1542,6 +1734,7 @@
   founded: 1894
   website: https://www.doryclub.org/
   burgee: nahant_dory_yc.png
+  description: Navy triangular burgee with concentric white rings at the hoist.
 - club:
   name: Eastern Point Club
   city: Gloucester
@@ -1550,6 +1743,7 @@
   founded: 1923
   website: https://www.epyc.net/
   burgee: eastern_point_yc.png
+  description: Navy waving pennant with a red saltire and tan border on a dark staff.
 - club:
   name: Duxbury Yacht Club
   city: Duxbury
@@ -1558,6 +1752,7 @@
   founded: 1875
   website: https://www.duxburyyachtclub.org/
   burgee: duxbury_yc.png
+  description: White tapered pennant with a blue upper hoist, a navy star and a red lower fly.
 - club:
   name: Chatham Yacht Club
   city: Chatham
@@ -1566,6 +1761,7 @@
   founded: 1921
   website: https://www.chathamyachtclub.org/
   burgee: chatham_yc.png
+  description: Green triangular burgee with a white inner border and a white CYC monogram.
 - club:
   name: Stage Harbor Yacht Club
   city: Chatham
@@ -1574,6 +1770,7 @@
   founded: 1932
   website: https://www.shyc.com/
   burgee: stage_harbor_yc.png
+  description: Red waving pennant with a white horseshoe crab.
 - club:
   name: Edgartown Yacht Club
   city: Edgartown
@@ -1582,6 +1779,7 @@
   founded: 1905
   website: https://www.edgartownyc.org/
   burgee: edgartown_yc.png
+  description: Slate blue burgee with three white stars and a dark red fly.
 - club:
   name: Nantucket Yacht Club
   city: Nantucket
@@ -1590,6 +1788,7 @@
   founded: 1906
   website: https://www.nantucketyachtclub.org/
   burgee: nantucket_yc.png
+  description: Navy waving pennant with a white inner outline and a white star.
 - club:
   name: Springfield Yacht and Canoe Club
   city: Agawam
@@ -1598,6 +1797,7 @@
   founded: 1850
   website: https://www.sycc.website/
   burgee: springfield_canoe_yc.png
+  description: Long diamond-shaped white and navy pennant with navy circles and red stars.
 - club:
   name: Kingston Yacht and Canoe Club
   city: Kingston
@@ -1606,6 +1806,7 @@
   founded: 1885
   website: https://kingstonyc.com/
   burgee: kingston_yc.png
+  description: Dark red burgee with a white letter K and a blue chevron fly.
 - club:
   name: Stone Horse Yacht Club
   city: Harwich
@@ -1614,6 +1815,7 @@
   founded: 1933
   website: https://www.stonehorseyachtclub.org/
   burgee: stone_horse_yc.png
+  description: White swallowtail pennant with navy panels and a row of red stars.
 - club:
   name: Wollaston Yacht Club
   city: Wollaston
@@ -1622,6 +1824,7 @@
   founded: 1897
   website: https://wollastonyc.com/
   burgee: wollaston_yc.png
+  description: White burgee with a navy border and a large red letter W.
 - club:
   name: Riverton Yacht Club
   city: Riverton
@@ -1630,6 +1833,7 @@
   founded: 1865
   website: http://www.rivertonyachtclub.org/
   burgee: riverton_yc.png
+  description: White burgee with red chevron stripes and a navy hoist field of white stars.
 - club:
   name: Keyport Yacht Club
   city: Keyport
@@ -1638,6 +1842,7 @@
   founded: 1908
   website: https://www.keyportyachtclub.com/
   burgee: keyport_yc.png
+  description: Red pennant with a navy edge and a white key.
 - club:
   name: Cooper River Yacht Club
   city: Collingswood
@@ -1646,6 +1851,7 @@
   founded: 1945
   website: https://cryc.clubexpress.com/
   burgee: cooper_river_yc.png
+  description: White waving swallowtail edged in navy with a red hoist triangle.
 - club:
   name: Bay Head Yacht Club
   city: Bay Head
@@ -1654,6 +1860,7 @@
   founded: 1888
   website: https://www.bayheadyachtclub.org/
   burgee: bay_head_yc.png
+  description: White waving swallowtail edged in navy on a navy staff, with a navy star.
 - club:
   name: Island Heights Yacht Club
   city: Island Heights
@@ -1662,6 +1869,7 @@
   founded: 1898
   website: https://ihyc.clubexpress.com/
   burgee: island_heights_yc.png
+  description: White swallow pennant with a red saltire and a small navy star.
 - club:
   name: Garden State Yacht Club
   city: Hopatcong
@@ -1670,6 +1878,7 @@
   founded: 1948
   website: https://www.gsyc.org/
   burgee: garden_state_yc.png
+  description: Navy burgee with a gold border, gold letters GSYC at the hoist and a gold anchor.
 - club:
   name: Shrewsbury River Yacht Club
   city: Fair Haven
@@ -1678,6 +1887,7 @@
   founded: 1910
   website: https://sryc.net/
   burgee: shrewsbury_river_yc.png
+  description: Navy pennant with red and white chevrons and a letter S in a circle.
 - club:
   name: Toms River Yacht Club
   city: Fair Haven
@@ -1686,6 +1896,7 @@
   founded: 1871
   website: https://www.tryc.com/
   burgee: toms_river_yc.png
+  description: Waving silver-white and navy striped pennant on a navy staff.
 - club:
   name: Avalon Yacht Club
   city: Avalon
@@ -1694,6 +1905,7 @@
   founded: 1941
   website: https://avalonyachtclub.com/
   burgee: avalon_yc.png
+  description: Navy burgee with a gold circle bearing AYC and a gold chevron.
 - club:
   name: Raritan Yacht Club
   city: Perth Amboy
@@ -1702,6 +1914,7 @@
   founded: 1865
   website: https://www.ryc.org/
   burgee: raritan_yc.png
+  description: White pennant with a red cross on a white staff.
 - club:
   name: Yacht Club of Sea Isle City
   city: Sea Isle City
@@ -1710,6 +1923,7 @@
   founded: 1940
   website: https://www.ycsic.com/
   burgee: sea_isle_city_yc.png
+  description: Navy triangular burgee with a white anchor-like symbol.
 - club:
   name: Brant Beach Yacht Club
   city: Long Beach City
@@ -1718,6 +1932,7 @@
   founded: 1947
   website: https://www.bbyc.net/
   burgee: brant_beach_yc.png
+  description: Blue burgee with a yellow circle bearing a black flying goose.
 - club:
   name: Atlantic Highlands Yacht Club
   city: Atlantic Highlands
@@ -1726,6 +1941,7 @@
   founded: 1953
   website: https://www.ahyc.net/
   burgee: atlantic_highlands_yc.png
+  description: Blue swallowtail with white stars and red letters AHYC on a white wedge.
 - club:
   name: Bordentown Yacht Club
   city: Bordentown
@@ -1734,6 +1950,7 @@
   founded: 1937
   website: http://www.bordentownyachtclub.com/
   burgee: bordentown_yc.png
+  description: Navy burgee with white hoist and letters B, Y, C split by a white chevron.
 - club:
   name: Mantoloking Yacht Club
   city: Mantoloking
@@ -1742,6 +1959,7 @@
   founded: 1890
   website: https://mantolokingyachtclub.org/
   burgee: mantoloking_yc.png
+  description: Red triangular burgee with a white jagged letter M.
 - club:
   name: Beachwood Yacht Club
   city: Beachwood
@@ -1750,6 +1968,7 @@
   founded: 1939
   website: https://beachwoodyachtclub.com/
   burgee: beachwood_yc.png
+  description: White burgee outlined in navy with a red letter B enclosing Y and C.
 - club:
   name: Yacht Club of Stone Harbor
   city: Stone Harbor
@@ -1758,6 +1977,7 @@
   founded: 1939
   website: https://ycsh.org/
   burgee: stone_harbor_yc.png
+  description: Waving red and blue pennant on a gold staff with a red and blue saltire effect and a white star.
 - club:
   name: Seaside Park Yacht Club
   city: Seaside Park
@@ -1766,6 +1986,7 @@
   founded: 1899
   website: https://www.seasideparkyachtclub.com/
   burgee: seaside_park_yc.png
+  description: Red triangular burgee with a white anchor.
 - club:
   name: Ocean Gate Yacht Club
   city: Ocean Gate
@@ -1774,6 +1995,7 @@
   founded: 1909
   website: https://oceangateyachtclub.com/
   burgee: ocean_gate_yc.png
+  description: White burgee with a red border and a blue triangle at the center.
 - club:
   name: Lake Hopatcong Yacht Club
   city: Mount Arlington
@@ -1782,6 +2004,7 @@
   founded: 1909
   website: https://www.lhyc.com/
   burgee: lake_hopatcong_yc.png
+  description: Red pennant with a thick blue border and a white anchor.
 - club:
   name: Surf City Yacht Club
   city: Surf City
@@ -1790,6 +2013,7 @@
   founded: 1894
   website: https://scyc-nj.org/
   burgee: surf_city_yc.png
+  description: Yellow over black burgee with a wave dividing line, a ship's wheel and letters SC YC.
 - club:
   name: Shark River Beach and Yacht Club
   city: Neptune City
@@ -1798,6 +2022,7 @@
   founded: 1971
   website: https://www.srbyc.org/
   burgee: shark_river_yc.png
+  description: White burgee with a gray hoist band and navy chevrons with shark teeth effect.
 - club:
   name: Brigantine Yacht Club
   city: Brigantine
@@ -1806,6 +2031,7 @@
   founded: 1945
   website: https://www.bycsail.com/
   burgee: brigantine_yc.png
+  description: Navy waving pennant with yellow letters BYC and a yellow fly bearing a navy star.
 - club:
   name: Atlantis Yacht Club
   city: Atlantis
@@ -1814,6 +2040,7 @@
   founded: 1961
   website: https://www.atlantisyachtclub.org/
   burgee: atlantis_yc.png
+  description: White burgee with a red border and blue triangles.
 - club:
   name: Greater Wildwood Yacht Club
   city: Wildwood Crest
@@ -1822,6 +2049,7 @@
   founded: 1938
   website: https://www.greaterwildwoodyachtclub.org/
   burgee: greater_wildwood_yc.png
+  description: Red and blue burgee with a blue center diamond bearing white letters GWYC.
 - club:
   name: Hackensack Yacht Club
   city: Hackensack
@@ -1830,6 +2058,7 @@
   founded: 1908
   website: https://hackensackyachtclub.com/
   burgee: hackensack_yc.png
+  description: Bright blue triangular burgee with a white letter H.
 - club:
   name: The Corinthian Yacht Club of Cape May
   city: Cape May
@@ -1838,6 +2067,7 @@
   founded: 1913
   website: https://www.cyccm.com/
   burgee: corinthian_cape_may_yc.png
+  description: White waving pennant with a navy border and a ring of white dots around a red star on navy.
 - club:
   name: Little Egg Harbor Yacht Club
   city: Beach Haven
@@ -1846,6 +2076,7 @@
   founded: 1912
   website: https://www.lehyc.com/
   burgee: little_egg_harbor_yc.png
+  description: Slate blue triangular burgee with a red-brown circle bearing a white cross.
 - club:
   name: Spray Beach Yacht Club
   city: Beach Haven
@@ -1854,6 +2085,7 @@
   founded: 1922
   website: https://www.spraybeachyachtclub.com/
   burgee: spray_beach_yc.png
+  description: Navy and white burgee with a red anchor and a white lower half.
 - club:
   name: Shrewsbury Sailing & Yacht Club
   city: Oceanport
@@ -1862,6 +2094,7 @@
   founded: 1936
   website: https://www.ssycsailnj.org/
   burgee: shrewsbury_yc.png
+  description: Navy hoist and a red fly separated by a white wavy band.
 - club:
   name: Normandy Beach Yacht Club
   city: Toms River
@@ -1870,6 +2103,7 @@
   founded: 1946
   website: https://www.nbycnj.com/
   burgee: normandy_beach_yc.png
+  description: White burgee with a red border and navy letters NB.
 - club:
   name: Liberty Yacht Club
   city: Jersey City
@@ -1878,6 +2112,7 @@
   founded: 1998
   website: https://www.libertyyachtclub.org/
   burgee: liberty_yc.png
+  description: Red and white striped burgee with a Statue of Liberty head and crown in green.
 - club:
   name: Manhattan Yacht Club
   city: Jersey City
@@ -1886,6 +2121,7 @@
   founded: 1987
   website: https://myc.org/
   burgee: manhattan_yc.png
+  description: White waving pennant with a red-orange border on a gold staff and a navy star.
 - club:
   name: Barnegat Light Yacht Club
   city: Harvey Cedars
@@ -1894,6 +2130,7 @@
   founded: 1928
   website: https://www.barnegatlightyachtclub.com/
   burgee: barnegat_light_yc.png
+  description: Orange and white flag with a navy and white lighthouse at the center.
 - club:
   name: Manasquan River Yacht Club
   city: Brielle
@@ -1902,6 +2139,7 @@
   founded: 1899
   website: https://www.mryc.org/
   burgee: manasquan_yc.png
+  description: White burgee with a navy chevron, navy border and a navy stripe to the fly.
 - club:
   name: Metedeconk River Yacht Club
   city: Brick Township
@@ -1910,6 +2148,7 @@
   founded: 1936
   website: https://metedeconkriveryc.org/
   burgee: metedeconk_yc.png
+  description: Waving pennant quartered navy and white with a white island-like shape on the navy hoist.
 - club:
   name: Shore Acres Club
   city: Brick Township
@@ -1918,6 +2157,7 @@
   founded: 1941
   website: https://shoreacresyachtclub.org/
   burgee: shore_acres_yc.png
+  description: White swallowtail with a navy border and two red stars.
 - club:
   name: Lavallette Yacht Club
   city: Lavallette
@@ -1926,6 +2166,7 @@
   founded: 1905
   website: https://www.lavalletteyc.org/
   burgee: lavallette_yc.png
+  description: White triangular burgee outlined in red with a red chevron and a red letter L.
 - club:
   name: Raritan River Boat Club
   city: Edison
@@ -1934,6 +2175,7 @@
   founded: 1934
   website: http://raritanriverboatclub.com/
   burgee: raritan_river_yc.png
+  description: White burgee with navy upper and lower hoist bands, a red star at the center and a navy fly.
 - club:
   name: Lake Mohawk Yacht Club
   city: Sparta
@@ -1942,6 +2184,7 @@
   founded: 1933
   website: https://sites.google.com/site/lakemohawkyachtclub
   burgee: lake_mohawk_yc.png
+  description: Navy waving pennant on a dark staff with a brown finial and a yellow downward-pointing arrowhead.
 - club:
   name: The South River Boat Club
   city: South River
@@ -1950,6 +2193,7 @@
   founded: 1958
   website: https://www.southriverboatclub.com/
   burgee: south_river_yc.png
+  description: Magenta burgee with a gray border, a pale anchor and letters SRBC.
 - club:
   name: Hunterdon Sailing Club
   city: Clinton
@@ -1958,6 +2202,7 @@
   founded: 1964
   website: https://sailhsc.org/
   burgee: hunterdon_yc.png
+  description: White triangular burgee with a dark green letter H.
 - club:
   name: Monmouth Boat Club
   city: Red Bank
@@ -1966,6 +2211,7 @@
   founded: 1879
   website: https://monmouthboatclub.org/
   burgee: monmouth_yc.png
+  description: White pennant outlined in blue with blue letters MBC.
 - club:
   name: Lake Forest Yacht Club
   city: Lake Hopatcong
@@ -1974,6 +2220,7 @@
   founded: 1958
   website: https://www.lfyc.org/
   burgee: lake_forest_yc.png
+  description: White waving pennant with purple stripes and outline and an orange-red shield at the hoist.
 - club:
   name: Sea Cliff Yacht Club
   city: Sea Cliff
@@ -1982,6 +2229,7 @@
   founded: 1892
   website: https://www.seacliffyc.org/
   burgee: sea_cliff_yc.png
+  description: Dark navy triangular burgee with a white diamond bearing a red star.
 - club:
   name: City Island Yacht Club
   city: City Island, New York
@@ -1990,6 +2238,7 @@
   founded: 1907
   website: https://www.cityislandyc.org/
   burgee: city_island_yc.png
+  description: White and red burgee with a navy fly and a navy star at the hoist.
 - club:
   name: The Harlem Yacht Club
   city: City Island, New York
@@ -1998,6 +2247,7 @@
   founded: 1883
   website: https://www.hyc.org/
   burgee: harlem_yc.png
+  description: White burgee with a navy cross and navy horizontal stripes.
 - club:
   name: North Shore Yacht Club
   city: Port Washington
@@ -2006,6 +2256,7 @@
   founded: 1871
   website: https://nsyc.net/
   burgee: north_shore_yc.png
+  description: Red pennant with white stripes running toward the fly.
 - club:
   name: Woodmere Bay Yacht Club
   city: East Rockaway, LI
@@ -2014,6 +2265,7 @@
   founded: 1947
   website: https://www.wbyc.us
   burgee: woodmere_bay_yc.jpg
+  description: White swallow-cut hoist inside a blue burgee with two white stars.
 - club:
   name: Richmond County Yacht Club
   city: Staten Island
@@ -2022,6 +2274,7 @@
   founded: 1923
   website: https://rcyachtclub.org/
   burgee: rcyachtclub.png
+  description: Burgee divided blue over red by a white chevron, with a blue star on a white hoist triangle.
 - club:
   name: The Belle Harbor Yacht Club
   city: Belle Harbor, LI
@@ -2030,6 +2283,7 @@
   founded: 1904
   website: https://www.thebhyc.com/
   burgee: belle_harbor_yc.png
+  description: Red-orange pennant fading to white with a blue star in a white center.
 - club:
   name: Glen Cove Yacht Club
   city: Glen Cove, LI
@@ -2038,6 +2292,7 @@
   founded: 1960
   website: https://www.glencoveyachtclub.org/
   burgee: glen_cove_yc.png
+  description: Navy burgee with a yellow eagle head and wing.
 - club:
   name: Larchmont Yacht Club
   city: Larchmont
@@ -2046,6 +2301,7 @@
   founded: 1880
   website: https://www.larchmontyc.org/
   burgee: larchmont_yc.png
+  description: Waving white pennant with broad navy vertical stripes.
 - club:
   name: Manhasset Bay Yacht Club
   city: Manhasset, LI
@@ -2054,6 +2310,7 @@
   founded: 1891
   website: https://www.manhassetbayyc.org/
   burgee: manhasset_bay_yc.png
+  description: Red pennant with white chevrons.
 - club:
   name: Miramar Yacht Club
   city: Brooklyn
@@ -2062,6 +2319,7 @@
   founded: 1932
   website: https://www.miramaryc.com/
   burgee: miramar_yc.png
+  description: Red and navy nested swallow pennant with a white center.
 - club:
   name: Morris Yacht and Beach Club
   city: City Island, NY
@@ -2070,6 +2328,7 @@
   founded: 1900
   website: https://www.morrisybc.com/
   burgee: morris_yc.png
+  description: White pennant with a blue stylized zigzag letter at the hoist.
 - club:
   name: Nyack Boat Club
   city: Nyack
@@ -2078,6 +2337,7 @@
   founded: 1909
   website: https://nyackboatclub.org/
   burgee: nyack_yc.png
+  description: White swallowtail with a navy lower half, a red upper band and a red star.
 - club:
   name: Port Washington Yacht Club
   city: Port Washington
@@ -2086,6 +2346,7 @@
   founded: 1905
   website: https://www.pwyc.com/
   burgee: port_washington_yc.png
+  description: Blue waving pennant with a red chevron and a white star on a blue hoist.
 - club:
   name: Rockaway Point Yacht Club
   city: Brooklyn
@@ -2094,6 +2355,7 @@
   founded: 1909
   website: https://www.rockawaypointyachtclub.com/
   burgee: rockaway_point_yc.png
+  description: White and red burgee with a small blue diamond at the hoist and a long blue diamond at the fly.
 - club:
   name: Sheepshead Bay Yacht Club
   city: Sheepshead Bay, Brooklyn
@@ -2102,6 +2364,7 @@
   founded: 1908
   website: https://www.sheepsheadbayyachtclub.com/
   burgee: sheepshead_bay_yc.png
+  description: Long tapered pennant with stripes of rust red, white and navy on a dark staff.
 - club:
   name: Williamsburgh Yacht Club
   city: Williamsburgh, Brooklyn
@@ -2110,6 +2373,7 @@
   founded: 1865
   website: https://www.thebhyc.com/
   burgee: williamsburg_yc.png
+  description: Light blue waving pennant with a red border and a white star.
 - club:
   name: Yonkers Yacht Club
   city: Yonkers
@@ -2118,6 +2382,7 @@
   founded: 1879
   website: https://yonkersyachtclub.com/
   burgee: yonkers_yc.png
+  description: Navy burgee with a white center point bearing a red star.
 - club:
   name: American Yacht Club
   city: Rye
@@ -2126,6 +2391,7 @@
   founded: 1883
   website: https://americanyc.org/
   burgee: american_ny_yc.png
+  description: Blue triangular burgee with a red border and a white square bearing a blue-outlined cross at the hoist.
 - club:
   name: Babylon Yacht Club
   city: West Islip
@@ -2134,6 +2400,7 @@
   founded: 1903
   website: https://babylonyachtclub.com/
   burgee: babylon_yc.png
+  description: Navy triangular burgee with a red hoist forming a letter B and a white star.
 - club:
   name: Breakwater Yacht Club
   city: Sag Harbor
@@ -2142,6 +2409,7 @@
   founded: 1988
   website: https://www.breakwateryc.org/
   burgee: breakwater_yc.png
+  description: Navy swallowtail pennant with white wavy stripes and a black diagonal band.
 - club:
   name: Huguenot Yacht Club
   city: New Rochelle
@@ -2150,6 +2418,7 @@
   founded: 1894
   website: https://huguenotyc.com/
   burgee: huguenot_yc.png
+  description: Navy round seal with white lettering around a white burgee bearing a red cross edged in navy.
 - club:
   name: Huntington Yacht Club
   city: Huntington
@@ -2158,6 +2427,7 @@
   founded: 1894
   website: https://huntingtonyachtclub.com/
   burgee: huntington_yc.png
+  description: Navy waving pennant on a gray staff with two red diagonal stripes and a white star.
 - club:
   name: Keuka Yacht Club
   city: Hammondsport
@@ -2166,6 +2436,7 @@
   founded: 1872
   website: https://keukayachtclub.com/
   burgee: keuka_yc.png
+  description: Red triangular burgee with a navy hoist triangle bearing a white letter K.
 - club:
   name: Minisceongo Yacht Club
   city: Stony Point
@@ -2174,6 +2445,7 @@
   founded: 1941
   website: https://www.minisceongoyc.org/
   burgee: minisceongo_yc.png
+  description: Round white seal ringed in green with green lettering around a green burgee bearing a white letter M.
 - club:
   name: Oswego Yacht Club
   city: Oswego
@@ -2182,6 +2454,7 @@
   founded: 1881
   website: https://www.oswegoyachtclub.org/
   burgee: oswego_yc.png
+  description: Navy burgee with a red diagonal band bearing a white letter O and a swallow-cut fly.
 - club:
   name: Pultneyville Yacht Club
   city: Pultneyville
@@ -2190,6 +2463,7 @@
   founded: 1944
   website: https://www.pultneyvilleyachtclub.org/
   burgee: pultneyville_yc.png
+  description: Navy triangular burgee with a red hoist triangle bearing a white letter P.
 - club:
   name: Rochester Yacht Club
   city: Rochester
@@ -2198,6 +2472,7 @@
   founded: 1877
   website: https://rochesteryc.com/
   burgee: rochester_yc.png
+  description: Blue pennant with a red border and a white letter R.
 - club:
   name: Sagamore Yacht Club
   city: Oyster Bay
@@ -2206,6 +2481,7 @@
   founded: 1944
   website: https://sagamoreyc.com/
   burgee: sagamore_yc.png
+  description: Navy waving swallowtail with a red horizontal stripe and a white star.
 - club:
   name: Seawanhaka Corinthian Yacht Club
   city: Oyster Bay
@@ -2214,6 +2490,7 @@
   founded: 1871
   website: https://www.seawanhaka.org/
   burgee: seawanhaka_corinthian_yc.png
+  description: Navy ship's wheel seal around a navy burgee with a white dotted cross and a white star.
 - club:
   name: Seneca Yacht Club
   city: Geneva
@@ -2222,6 +2499,7 @@
   founded: 1927
   website: https://www.senecayc.org/
   burgee: seneca_yc.png
+  description: Red triangular burgee with a navy hoist bearing a white star.
 - club:
   name: Sodus Bay Yacht Club
   city: Sodus Point
@@ -2230,6 +2508,7 @@
   founded: 1893
   website: https://www.sodusbayyc.org/
   burgee: sodus_bay_yc.png
+  description: Round sky-blue seal with a waving white burgee bearing a navy stripe and a navy star.
 - club:
   name: Youngstown Yacht Club
   city: Youngstown
@@ -2238,6 +2517,7 @@
   founded: 1931
   website: https://www.yyc.org/
   burgee: youngstown_yc.png
+  description: Navy triangular burgee with a large red letter Y.
 - club:
   name: Chicago Yacht Club
   city: Chicago
@@ -2246,6 +2526,7 @@
   founded: 1875
   website: https://www.chicagoyachtclub.org/
   burgee: chicago_yc.png
+  description: White burgee with a navy border and center chevron and a red star at the hoist.
 - club:
   name: Columbia Yacht Club
   city: Chicago
@@ -2254,6 +2535,7 @@
   founded: 1892
   website: https://www.columbiayachtclub.org/
   burgee: columbia_il_yc.png
+  description: Red waving pennant with a large white interlocking C and Y monogram.
 - club:
   name: Jackson Park Yacht Club
   city: Chicago
@@ -2262,6 +2544,7 @@
   founded: 1896
   website: https://jacksonparkyachtclub.org/
   burgee: jackson_park_yc.png
+  description: Round white seal with black lettering around a blue waving pennant with a white chevron.
 - club:
   name: Burnham Park Yacht Club
   city: Chicago
@@ -2270,6 +2553,7 @@
   founded: 1938
   website: https://www.bpyc.com/
   burgee: burnham_park_yc.png
+  description: Round white seal with navy lettering around a navy waving pennant with a white star and white stripe.
 - club:
   name: Island Bay Yacht Club
   city: Springfield
@@ -2278,6 +2562,7 @@
   founded: 1935
   website: https://www.ibyconline.com/
   burgee: island_bay_yc.png
+  description: Blue triangular burgee with a large white star bearing a red center star.
 - club:
   name: St. Francis Yacht Club
   city: San Francisco
@@ -2286,6 +2571,7 @@
   founded: 1927
   website: https://www.stfyc.com/
   burgee: st_francis_yc.png
+  description: White waving swallowtail with a navy center, a red fly and two red stars.
 - club:
   name: San Francisco Yacht Club
   city: Belvedere
@@ -2294,6 +2580,7 @@
   founded: 1869
   website: https://www.sfyc.org/
   burgee: san_francisco_yc.png
+  description: Red swallowtail burgee with a white chevron, a red star and a slate-blue fly bearing a white star.
 - club:
   name: Golden Gate Yacht Club
   city: San Francisco
@@ -2302,6 +2589,7 @@
   founded: 1939
   website: https://ggyc.com/
   burgee: golden_gate_yc.png
+  description: Blue burgee with a white center bearing a red bridge symbol.
 - club:
   name: Corinthian Yacht Club of San Francisco
   city: Tiburon
@@ -2310,6 +2598,7 @@
   founded: 1886
   website: https://www.cyc.org/
   burgee: corinthian_sf_yc.png
+  description: Blue and white horizontally striped burgee with a red hoist triangle bearing a white star.
 - club:
   name: Sausalito Yacht Club
   city: Sausalito
@@ -2318,6 +2607,7 @@
   founded: 1942
   website: https://www.sausalitoyachtclub.org/
   burgee: sausalito_yc.png
+  description: Blue waving pennant on a brown staff with a red-and-white star.
 - club:
   name: Richmond Yacht Club
   city: Richmond
@@ -2326,6 +2616,7 @@
   founded: 1932
   website: https://www.richmondyc.org/
   burgee: richmond_yc.png
+  description: Dark red triangular burgee with a white chevron and navy hoist bearing a navy letter R.
 - club:
   name: Encinal Yacht Club
   city: Alameda
@@ -2334,6 +2625,7 @@
   founded: 1890
   website: https://www.encinal.org/
   burgee: encinal_yc.png
+  description: White and rust-red pennant with a blue star on the white hoist.
 - club:
   name: Oakland Yacht Club
   city: Alameda
@@ -2342,6 +2634,7 @@
   founded: 1913
   website: https://www.oaklandyachtclub.net/
   burgee: oakland_yc.png
+  description: White and navy burgee with a red letter O on the white center and a navy fly on a white staff.
 - club:
   name: Island Yacht Club
   city: Alameda
@@ -2350,6 +2643,7 @@
   founded: 1970
   website: https://www.iyc.org/
   burgee: island_ca_yc.png
+  description: Multicolored waving pennant in orange, yellow and blue with a black interlocking I and Y monogram.
 - club:
   name: Vallejo Yacht Club
   city: Vallejo
@@ -2358,6 +2652,7 @@
   founded: 1900
   website: https://www.vyc.org/
   burgee: vallejo_yc.png
+  description: Navy waving pennant with a white star and a red border swept into a swallowtail.
 - club:
   name: Sequoia Yacht Club
   city: Redwood City
@@ -2366,6 +2661,7 @@
   founded: 1939
   website: https://www.sequoiayc.org/
   burgee: sequoia_yc.png
+  description: Yellow burgee with a green border and a green tree.
 - club:
   name: Coyote Point Yacht Club
   city: San Mateo
@@ -2374,6 +2670,7 @@
   founded: 1941
   website: https://www.cpyc.com/
   burgee: coyote_point_yc.png
+  description: Bright blue and red burgee with a white diamond bearing a red star.
 - club:
   name: South Beach Yacht Club
   city: San Francisco
@@ -2382,6 +2679,7 @@
   founded: 1988
   website: https://www.southbeachyachtclub.org/
   burgee: south_beach_yc.png
+  description: Navy triangular burgee with a white wave line across the hoist.
 - club:
   name: Tiburon Yacht Club
   city: Tiburon
@@ -2390,6 +2688,7 @@
   founded: 1965
   website: https://tyc.org/
   burgee: tiburon_yc.png
+  description: White burgee with a navy fly and a red hoist triangle bearing a white letter T.
 - club:
   name: Marin Yacht Club
   city: San Rafael
@@ -2398,6 +2697,7 @@
   founded: 1935
   website: https://www.marinyachtclub.com/
   burgee: marin_yc.png
+  description: Navy and yellow quartered waving pennant.
 - club:
   name: Inverness Yacht Club
   city: Inverness
@@ -2406,6 +2706,7 @@
   founded: 1912
   website: https://www.invernessyachtclub.com/
   burgee: inverness_yc.png
+  description: Blue triangular burgee with a white pelican.
 - club:
   name: Santa Cruz Yacht Club
   city: Santa Cruz
@@ -2414,6 +2715,7 @@
   founded: 1928
   website: https://www.scyc.org/
   burgee: santa_cruz_yc.png
+  description: Red triangular burgee with a white hoist and a navy circle bearing a white cross.
 - club:
   name: San Diego Yacht Club
   city: San Diego
@@ -2422,6 +2724,7 @@
   founded: 1886
   website: https://www.sdyc.org/
   burgee: san_diego_yc.png
+  description: White triangular burgee with a blue border and a red star.
 - club:
   name: Mission Bay Yacht Club
   city: San Diego
@@ -2430,6 +2733,7 @@
   founded: 1927
   website: https://mbyc.org/
   burgee: mission_bay_yc.png
+  description: Yellow burgee with a red border and a red mission bell.
 - club:
   name: Southwestern Yacht Club
   city: San Diego
@@ -2438,6 +2742,7 @@
   founded: 1925
   website: https://www.southwesternyc.org/
   burgee: southwestern_yc.png
+  description: Blue flag on a blue staff with a red triangle bearing a white star.
 - club:
   name: Silver Gate Yacht Club
   city: San Diego
@@ -2446,6 +2751,7 @@
   founded: 1952
   website: https://www.sgyc.org/
   burgee: silver_gate_yc.png
+  description: Bright blue burgee with a white center and three blue stars.
 - club:
   name: Newport Harbor Yacht Club
   city: Newport Beach
@@ -2454,6 +2760,7 @@
   founded: 1916
   website: https://www.nhyc.org/
   burgee: newport_harbor_yc.png
+  description: Navy burgee with an orange ring around a white letter N.
 - club:
   name: Balboa Yacht Club
   city: Corona del Mar
@@ -2462,6 +2769,7 @@
   founded: 1922
   website: https://www.balboayachtclub.com/
   burgee: balboa_yc.png
+  description: Black and orange horizontally striped burgee with a white star.
 - club:
   name: Bahia Corinthian Yacht Club
   city: Corona del Mar
@@ -2470,6 +2778,7 @@
   founded: 1958
   website: https://www.bcyc.org/
   burgee: bahia_corinthian_yc.png
+  description: Red triangular burgee with a white diamond bearing a blue star.
 - club:
   name: Long Beach Yacht Club
   city: Long Beach
@@ -2478,6 +2787,7 @@
   founded: 1929
   website: https://www.lbyc.org/
   burgee: long_beach_yc.png
+  description: Yellow burgee with a black Y-shaped chevron and a red star.
 - club:
   name: Los Angeles Yacht Club
   city: San Pedro
@@ -2486,6 +2796,7 @@
   founded: 1901
   website: https://www.layc.org/
   burgee: los_angeles_yc.png
+  description: White burgee with a blue hoist triangle and a red fly diamond.
 - club:
   name: Annapolis Yacht Club
   city: Annapolis
@@ -2494,6 +2805,7 @@
   founded: 1886
   website: https://www.annapolisyc.com/
   burgee: annapolis_yc.png
+  description: Maroon triangular burgee with a gold and black checkered Maryland-style diamond.
 - club:
   name: Severn Sailing Association
   city: Annapolis
@@ -2502,6 +2814,7 @@
   founded: 1954
   website: https://www.severnsailing.org/
   burgee: severn_sailing_assoc.png
+  description: White burgee outlined in navy with a navy bulb-shaped chess-pawn figure at the hoist.
 - club:
   name: Chesapeake Yacht Club
   city: Shady Side
@@ -2510,6 +2823,7 @@
   founded: 1947
   website: https://www.chesapeakeyachtclub.org/
   burgee: chesapeake_yc.png
+  description: Round white seal ringed in gold with blue lettering around a yellow and blue wave burgee.
 - club:
   name: Grosse Pointe Yacht Club
   city: Grosse Pointe Shores
@@ -2518,6 +2832,7 @@
   founded: 1914
   website: https://www.gpyc.org/
   burgee: grosse_pointe_yc.png
+  description: Navy swallowtail pennant with a red saltire, a white star and white letters G, P, Y and C.
 - club:
   name: Bay Harbor Yacht Club
   city: Bay Harbor
@@ -2526,6 +2841,7 @@
   founded: 1995
   website: https://bayharboryc.com/
   burgee: bay_harbor_mi_yc.png
+  description: Navy burgee with a red border, white letters BHYC and a yellow anchor device.
 - club:
   name: Bayview Yacht Club
   city: Detroit
@@ -2534,6 +2850,7 @@
   founded: 1915
   website: https://www.byc.com/
   burgee: bayview_yc.png
+  description: Navy burgee with a red and white hoist chevron and a letter B, with Bayview Yacht Club text.
 - club:
   name: Detroit Yacht Club
   city: Detroit
@@ -2542,6 +2859,7 @@
   founded: 1868
   website: https://www.dyc.com/
   burgee: detroit_yc.png
+  description: Navy burgee with red borders and large white letters DYC.
 - club:
   name: Grand Rapids Yacht Club
   city: East Grand Rapids
@@ -2550,6 +2868,7 @@
   founded: 1931
   website: https://grandrapidsyachtclub.org/
   burgee: grand_rapids_yc.png
+  description: White burgee with blue hoist triangles and red letters GR.
 - club:
   name: North Cape Yacht Club
   city: La Salle
@@ -2558,6 +2877,7 @@
   founded: 1962
   website: https://ncyc.net/
   burgee: north_cape_yc.png
+  description: Red hoist with white letters N and C and a blue fly with white letters YC.
 - club:
   name: Saginaw Bay Yacht Club
   city: Essexville
@@ -2566,6 +2886,7 @@
   founded: 1894
   website: https://www.sbycmi.com/
   burgee: saginaw_bay_yc.png
+  description: Light blue burgee with white letters SBYC and red stripes along the edges.
 - club:
   name: Naples Yacht Club
   city: Naples
@@ -2574,6 +2895,7 @@
   founded: 1947
   website: https://naplesyc.com/
   burgee: naples_yc.png
+  description: White burgee with a navy and red border and a navy circle bearing a white star.
 - club:
   name: Pelican Isle Yacht Club
   city: Naples
@@ -2582,6 +2904,7 @@
   founded: 1996
   website: https://www.piyc.net/
   burgee: pelican_isle_yc.png
+  description: White burgee with a navy and red border and a multicolored compass rose at the hoist.
 - club:
   name: Sailfish Club of Florida
   city: Palm Beach
@@ -2590,6 +2913,7 @@
   founded: 1914
   website: https://www.sailfishclub.com/
   burgee: sailfish_club.png
+  description: Rectangular blue and white striped flag with a red circle bearing a blue sailfish.
 - club:
   name: Tampa Yacht & Country Club
   city: Tampa
@@ -2598,6 +2922,7 @@
   founded: 1904
   website: https://www.tampayacht.com/
   burgee: tampa_yc.png
+  description: White and navy waving swallow pennant on a staff.
 - club:
   name: Palm Beach Yacht Club
   city: West Palm Beach
@@ -2606,6 +2931,7 @@
   founded: 1890
   website: https://www.pbyc.com/
   burgee: palm_beach_yc.png
+  description: White waving swallowtail with a red border and a green palm tree on a yellow staff.
 - club:
   name: Sarasota Yacht Club
   city: Sarasota
@@ -2614,6 +2940,7 @@
   founded: 1926
   website: https://www.sarasotayachtclub.org/
   burgee: sarasota_yc.png
+  description: Blue, white and red waving pennant on a tan staff.
 - club:
   name: Lauderdale Yacht Club
   city: Fort Lauderdale
@@ -2622,6 +2949,7 @@
   founded: 1938
   website: https://www.lauderdaleyachtclub.com/
   burgee: lauderdale_yc.png
+  description: White burgee with a red border and blue letters LYC.
 - club:
   name: Coral Reef Yacht Club
   city: Miami
@@ -2630,6 +2958,7 @@
   founded: 1955
   website: https://www.coralreefyachtclub.org/
   burgee: coral_reef_yc.png
+  description: Orange and blue waving pennant on a gold staff above a gold 70-year medal knot.
 - club:
   name: Key Biscayne Yacht Club
   city: Key Biscayne
@@ -2638,6 +2967,7 @@
   founded: 1955
   website: https://www.kbyc.org/
   burgee: key_biscayne_yc.png
+  description: Round white seal with navy lettering around a navy burgee bearing a gold lighthouse and key.
 - club:
   name: St. Petersburg Yacht Club
   city: St. Petersburg
@@ -2646,6 +2976,7 @@
   founded: 1909
   website: https://www.spyc.org/
   burgee: st_petersburg_yc.png
+  description: Red triangular burgee with a blue diagonal band edged in white and a white anchor.
 - club:
   name: Coral Ridge Yacht Club
   city: Fort Lauderdale
@@ -2654,6 +2985,7 @@
   founded: 1947
   website: https://coralridgeyachtclub.com/
   burgee: coral_ridge_yc.png
+  description: White waving pennant with a red border and a navy anchor combined with the letters CRYC.
 - club:
   name: Biscayne Bay Yacht Club
   city: Coconut Grove
@@ -2662,6 +2994,7 @@
   founded: 1887
   website: https://www.biscaynebayyachtclub.com/
   burgee: biscayne_bay_yc.png
+  description: Blue burgee with a red hoist triangle and a white number 25 in a white square.
 - club:
   name: Clearwater Yacht Club
   city: Clearwater
@@ -2670,6 +3003,7 @@
   founded: 1911
   website: https://clearwateryachtclub.org/
   burgee: clearwater_yc.png
+  description: Blue burgee with a white chevron and a red hoist triangle.
 - club:
   name: Coconut Grove Sailing Club
   city: Miami
@@ -2678,6 +3012,7 @@
   founded: 1946
   website: https://www.cgsc.org/
   burgee: coconut_grove_sc.png
+  description: Blue burgee with a white sailboat and letters CGSC.
 - club:
   name: Eau Gallie Yacht Club
   city: Indian Harbour Beach
@@ -2686,6 +3021,7 @@
   founded: 1907
   website: https://www.egyachtclub.com/
   burgee: eau_gallie_yc.png
+  description: White burgee with a red cross pattée in a circle at the hoist.
 - club:
   name: Savannah Yacht Club
   city: Savannah
@@ -2694,6 +3030,7 @@
   founded: 1869
   website: https://www.savannahyachtclub.org/
   burgee: savannah_yc.png
+  description: White waving swallowtail with a red border and a red star.
 - club:
   name: Atlanta Yacht Club
   city: Acworth
@@ -2702,6 +3039,7 @@
   founded: 1950
   website: https://www.atlantayachtclub.org/
   burgee: atlanta_yc.png
+  description: Navy burgee with white stars around the edge and a red center triangle bearing white letters AYC.
 - club:
   name: Corpus Christi Yacht Club
   city: Corpus Christi
@@ -2710,6 +3048,7 @@
   founded: 1923
   website: https://www.ccyc.com/
   burgee: corpus_christi_yc.png
+  description: Blue burgee with a red and white saltire and a white star.
 - club:
   name: Houston Yacht Club
   city: Shoreacres
@@ -2718,6 +3057,7 @@
   founded: 1897
   website: https://www.houstonyachtclub.com/
   burgee: houston_yc.png
+  description: White burgee with a red border and a blue hoist bearing a white propeller and letters H, Y, C.
 - club:
   name: Lakewood Yacht Club
   city: Seabrook
@@ -2726,6 +3066,7 @@
   founded: 1955
   website: https://www.lakewoodyachtclub.com/
   burgee: lakewood_yc.png
+  description: White over navy burgee with a red seahorse and red letters LYC.
 - club:
   name: Dallas Corinthian Yacht Club
   city: Oak Point
@@ -2734,6 +3075,7 @@
   founded: 1928
   website: https://www.dcyc.org/
   burgee: dallas_corinthian_yc.png
+  description: White and red burgee with a blue hoist bearing a white star in the style of the Texas flag.
 - club:
   name: Corinthian Sailing Club
   city: Dallas
@@ -2742,6 +3084,7 @@
   founded: 1939
   website: https://www.cscsailing.org/
   burgee: corinthian_sc.png
+  description: White burgee with a red star at the hoist and a blue diagonal fly.
 - club:
   name: Wichita Falls Sailing Club
   city: Henrietta
@@ -2750,6 +3093,7 @@
   founded: 1935
   website: https://www.wfsail.org/
   burgee: wichita_falls_sc.png
+  description: Red, white and blue flag in the style of the Texas flag with a white anchor on the blue hoist.
 - club:
   name: Buccaneer Yacht Club
   city: Mobile
@@ -2758,6 +3102,7 @@
   founded: 1928
   website: https://www.bucyc.com/
   burgee: buccaneer_yc.png
+  description: White swallowtail with a black border, a white skull and crossbones on black and letters BYC.
 - club:
   name: Mobile Yacht Club
   city: Mobile
@@ -2766,6 +3111,7 @@
   founded: 1847
   website: https://www.mobileyachtclub.com/
   burgee: mobile_yc.png
+  description: White and red burgee with a blue hoist bearing a white letter M.
 - club:
   name: New Orleans Yacht Club
   city: New Orleans
@@ -2774,6 +3120,7 @@
   founded: 1949
   website: https://www.noyc.org/
   burgee: new_orleans_yc.png
+  description: White waving swallowtail with a red border and a navy oval wheel device.
 - club:
   name: Southern Yacht Club
   city: New Orleans
@@ -2782,6 +3129,7 @@
   founded: 1849
   website: https://www.southernyachtclub.org/
   burgee: southern_yc.png
+  description: White burgee with a blue center bearing white letters S.Y.C.
 - club:
   name: Biloxi Yacht Club
   city: Biloxi
@@ -2790,6 +3138,7 @@
   founded: 1849
   website: https://www.biloxiyachtclub.org/
   burgee: biloxi_yc.png
+  description: White burgee with blue upper and lower bands and a navy star with letters BYC on white.
 - club:
   name: Privateer Yacht Club
   city: Hixson
@@ -2798,6 +3147,7 @@
   founded: 1940
   website: https://www.privateeryachtclub.org/
   burgee: privateer_yc.png
+  description: Gold-yellow burgee with a green circle bearing a white ship.
 - club:
   name: Capital Yacht Club
   city: Washington
@@ -2806,6 +3156,7 @@
   founded: 1892
   website: https://www.capitalyachtclub.com/
   burgee: capital_yc.png
+  description: Blue burgee with a red center point and a white star at the hoist.
 - club:
   name: Indianapolis Sailing Club
   city: Indianapolis
@@ -2814,6 +3165,7 @@
   founded: 1955
   website: https://scm.indianapolissailing.org/
   burgee: indianapolis_sc.png
+  description: Red swallowtail flag with a blue anchor and white letters I, S and C.
 - club:
   name: Wawasee Yacht Club
   city: Syracuse
@@ -2822,6 +3174,7 @@
   founded: 1935
   website: https://www.wawaseeyachtclub.com/
   burgee: wawasee_yc.png
+  description: White burgee with blue upper and red lower hoist triangles and black letters WYC.
 - club:
   name: Chippewa Yacht Club
   city: Chippewa Lake
@@ -2830,6 +3183,7 @@
   founded: 1939
   website: https://www.chippewasailing.org/
   burgee: chippewa_yc.png
+  description: White burgee with a Native American head in a feather headdress and blue letters CYC.
 - club:
   name: Cowan Lake Sailing Association
   city: Wilmington
@@ -2838,6 +3192,7 @@
   founded: 1954
   website: https://www.clsa.club/
   burgee: cowan_lake_sa.png
+  description: White burgee with a slate blue field bearing a white sailboat.
 - club:
   name: Toledo Yacht Club
   city: Toledo
@@ -2846,6 +3201,7 @@
   founded: 1865
   website: https://www.thetoledoyachtclub.com/
   burgee: toledo_yc.png
+  description: Red hoist with white star and red letters T, Y, C on a white diagonal with a blue fly and white star.
 - club:
   name: Erie Yacht Club
   city: Erie
@@ -2854,6 +3210,7 @@
   founded: 1895
   website: https://www.erieyachtclub.org/
   burgee: erie_yc.png
+  description: Blue burgee with a white keystone bearing a blue letter E.
 - club:
   name: Green Lake Yacht Club
   city: Green Lake
@@ -2862,6 +3219,7 @@
   founded: 1894
   website: https://www.greenlakeyachtclub.org/
   burgee: green_lake_yc.png
+  description: White burgee with blue upper and lower hoist triangles and a red star.
 - club:
   name: Lake Geneva Yacht Club
   city: Fontana-on-Geneva Lake
@@ -2870,6 +3228,7 @@
   founded: 1874
   website: https://www.lgyc.com/
   burgee: lake_geneva_yc.png
+  description: Triangular burgee in vertical bands of black, red and black.
 - club:
   name: Milwaukee Yacht Club
   city: Milwaukee
@@ -2878,6 +3237,7 @@
   founded: 1871
   website: https://www.milwaukeeyc.com/
   burgee: milwaukee_yc.png
+  description: White burgee with a red hoist, a blue star and a blue fly.
 - club:
   name: Neenah-Nodaway Yacht Club
   city: Neenah
@@ -2886,6 +3246,7 @@
   founded: 1864
   website: https://www.nnyc.org/
   burgee: neenah_nodaway_yc.png
+  description: Blue swallowtail flag with a white star.
 - club:
   name: Atlantic Yacht Club
   city: Brooklyn
@@ -2894,6 +3255,7 @@
   founded: 1866
   website: https://www.atlanticyachtclub.com/
   burgee: atlantic_yc.png
+  description: Red outline burgee forming a white letter A on a white field.
 - club:
   name: Chautauqua Lake Yacht Club
   city: Lakewood
@@ -2902,6 +3264,7 @@
   founded: 1894
   website: https://www.sailclyc.com/
   burgee: chautauqua_lake_yc.png
+  description: Red burgee with a white chevron and a blue fly bearing a white star.
 - club:
   name: Newport Yacht Club
   city: Irondequoit
@@ -2910,6 +3273,7 @@
   founded: 1936
   website: https://www.newportyachtclubroc.com/
   burgee: newport_ny_yc.png
+  description: Navy burgee with a white hoist chevron bearing a navy letter N.
 - club:
   name: Onondaga Yacht Club
   city: Liverpool
@@ -2918,6 +3282,7 @@
   founded: 1883
   website: https://www.oyccny.org/
   burgee: onondaga_yc.png
+  description: Blue burgee with a red center point bearing a white letter O and two white stars.
 - club:
   name: Poughkeepsie Yacht Club
   city: Staatsburg
@@ -2926,6 +3291,7 @@
   founded: 1892
   website: https://poughkeepsieyachtclub.org/
   burgee: poughkeepsie_yc.png
+  description: Navy burgee with a red hoist triangle, a white star and red letters P.Y.C.
 - club:
   name: Sayville Yacht Club
   city: Blue Point
@@ -2934,6 +3300,7 @@
   founded: 1901
   website: https://www.sayvilleyachtclub.org/
   burgee: sayville_yc.png
+  description: Red triangular burgee with white stars forming a cross.
 - club:
   name: Eugene Yacht Club
   city: Eugene
@@ -2942,6 +3309,7 @@
   founded: 1940
   website: https://www.eugeneyachtclub.org/
   burgee: eugene_yc.png
+  description: Red and blue burgee with a white diamond bearing a red letter E.
 - club:
   name: Multnomah Channel Yacht Club
   city: Scappoose
@@ -2950,6 +3318,7 @@
   founded: 1961
   website: https://mcyc1.org/
   burgee: multnomah_channel_yc.png
+  description: White over dark red burgee with letters MC and YC at the hoist.
 - club:
   name: Waikiki Yacht Club
   city: Honolulu
@@ -2958,6 +3327,7 @@
   founded: 1944
   website: https://www.waikikiyachtclub.com/
   burgee: waikiki_yc.png
+  description: Navy burgee with an orange zigzag lightning-bolt stripe.
 - club:
   name: Ponce Yacht and Fishing Club
   city: Ponce
@@ -2966,3 +3336,4 @@
   founded: 1941
   website: https://ponceyachtclub.com/
   burgee: club_nautico_ponce.png
+  description: Blue burgee with a red cross and a white anchor at the crossing.

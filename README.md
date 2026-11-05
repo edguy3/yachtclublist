@@ -11,6 +11,7 @@ The clublist.yml file contains a list of yachting and boating clubs, with the 
 * Date founded
 * Website
 * Burgee (name of associated image file)
+* Description (what the burgee looks like, to help identify a club from its burgee)
 
 The images directory contains the burgee image for each club. Some yacht clubs across different states have the same name. In these cases, the state abbreviation has been added to the name.
 
