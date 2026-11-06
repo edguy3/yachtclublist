@@ -1,6 +1,11 @@
 <!doctype html>
 <html lang="en">
 <head>
+  <script>
+    // Paths are relative to this page.
+    const CLUBLIST_PATH = "../clublist.yml";
+    const IMAGE_PATH = "../images/";
+  </script>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>Club List Statistics</title>
@@ -21,9 +26,14 @@
     <p class="lede">Worked out from <code>clublist.yml</code> each time this page loads.</p>
     <div id="stats"></div>
   </main>
-  <div class="tooltip" id="tooltip" hidden></div>
   <script src="vendor/js-yaml.min.js"></script>
   <script src="clubs.js"></script>
   <script src="stats.js"></script>
+  <script>
+    const statsRoot = document.getElementById("stats");
+    ClubData.load(CLUBLIST_PATH, IMAGE_PATH)
+      .then((clubs) => ClubStats.render(clubs, statsRoot))
+      .catch((error) => ClubData.showLoadError(statsRoot, error));
+  </script>
 </body>
 </html>

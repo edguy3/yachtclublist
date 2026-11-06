@@ -4,6 +4,7 @@
   const results = document.getElementById("results");
   const count = document.getElementById("count");
   const lede = document.getElementById("lede");
+  const statsPanel = document.getElementById("stats-panel");
   let clubs = [];
 
   function el(tag, className, text) {
@@ -108,6 +109,7 @@
 
   function render() {
     const query = input.value;
+    statsPanel.hidden = Boolean(query.trim());
     const found = matches(query);
     results.replaceChildren(...found.slice(0, MAX_RESULTS).map(card));
     if (!query.trim()) count.textContent = "";
@@ -120,8 +122,9 @@
     history.replaceState(null, "", url);
   }
 
-  ClubData.load().then((loaded) => {
+  ClubData.load(CLUBLIST_PATH, IMAGE_PATH).then((loaded) => {
     clubs = loaded;
+    ClubStats.render(clubs, document.getElementById("stats"));
     lede.textContent = "Search " + clubs.length.toLocaleString() + " yacht and boat clubs by name.";
     input.value = new URLSearchParams(location.search).get("q") || "";
     input.addEventListener("input", render);

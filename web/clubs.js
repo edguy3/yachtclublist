@@ -1,8 +1,5 @@
 /* Loads clublist.yml and normalizes each club for the search and statistics pages. */
 (function () {
-  const LIST_URL = "../clublist.yml";
-  const IMAGE_DIR = "../images/";
-
   function parseFounded(value) {
     if (typeof value === "number") return { kind: "exact", year: value, label: String(value) };
     const text = String(value ?? "").trim();
@@ -28,7 +25,7 @@
       .replace(/&/g, " and ").replace(/[^a-z0-9]+/g, " ").trim();
   }
 
-  function normalize(entry) {
+  function normalize(entry, imagePath) {
     const coordinates = Array.isArray(entry.coordinates) ? entry.coordinates : null;
     return {
       name: entry.name,
@@ -39,17 +36,17 @@
       website: entry.website || "",
       coordinates,
       precision: coordinatePrecision(coordinates),
-      burgee: entry.burgee ? IMAGE_DIR + entry.burgee : "",
+      burgee: entry.burgee ? imagePath + entry.burgee : "",
       description: entry.description || "",
       searchName: fold(entry.name),
     };
   }
 
-  async function load() {
-    const response = await fetch(LIST_URL, { cache: "no-cache" });
-    if (!response.ok) throw new Error("Could not load clublist.yml (" + response.status + ")");
+  async function load(listPath, imagePath) {
+    const response = await fetch(listPath, { cache: "no-cache" });
+    if (!response.ok) throw new Error("Could not load " + listPath + " (" + response.status + ")");
     const data = jsyaml.load(await response.text());
-    return data.filter((entry) => entry && entry.name).map(normalize);
+    return data.filter((entry) => entry && entry.name).map((entry) => normalize(entry, imagePath));
   }
 
   function showLoadError(target, error) {

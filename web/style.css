@@ -112,10 +112,11 @@ h1 { font-size: 30px; line-height: 1.2; margin: 0 0 8px; }
 .burgee-desc { color: var(--text-secondary); font-size: 14px; margin: 12px 0 0; }
 
 /* Statistics */
+.stats-heading { font-size: 24px; line-height: 1.2; margin: 8px 0 16px; }
 .stat-section { margin-top: 40px; }
 .stat-section h2 { font-size: 21px; margin: 0 0 4px; }
 .stat-section .note { color: var(--text-secondary); margin: 0 0 16px; font-size: 15px; }
-.tiles { display: grid; gap: 12px; grid-template-columns: repeat(auto-fit, minmax(min(100%, 160px), 1fr)); }
+.tiles { display: grid; gap: 12px; grid-template-columns: repeat(auto-fit, minmax(min(100%, 148px), 1fr)); }
 .tile { background: var(--surface-1); border: 1px solid var(--border); border-radius: 8px; padding: 14px 16px; }
 .tile .value { font-size: 34px; font-weight: 650; line-height: 1.15; font-variant-numeric: tabular-nums; }
 .tile .label { color: var(--text-secondary); font-size: 14px; }
