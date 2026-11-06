@@ -23,5 +23,5 @@ check-duplicates:
 	@python3 scripts/check_duplicate_burgees.py
 
 serve:
-	@echo "Open http://localhost:8000/web/"
+	@echo "Open http://localhost:8000/"
 	@python3 -m http.server 8000

@@ -18,9 +18,9 @@ The images directory contains the burgee image for each club. Some yacht clubs
 
 I'm using the data to create a modern website listing clubs across the US. Visit [ycburgees.com](https://www.ycburgees.com).
 
-## Web pages
+## Website
 
-The `web` directory has a searchable club list (`index.html`) and statistics (`stats.html`). Both read `clublist.yml` when they load, so they need a web server. Run `make serve`, then open <http://localhost:8000/web/>.
+`index.html` is a single-file site with a searchable club list and statistics. It reads `clublist.yml` and the `images` directory when it loads, so it needs a web server. Run `make serve`, then open <http://localhost:8000/>.
 
 ## Status
 
