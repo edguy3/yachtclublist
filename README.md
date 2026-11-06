@@ -29,15 +29,16 @@ Devin Beliveau used the data to create a modern website listing clubs across the
 
 ## Status
 
-Devin Beliveau focused on clubs in the US first. The list now covers clubs worldwide, in 43 countries and territories:
+Devin Beliveau focused on clubs in the US first. The list now covers clubs worldwide, in 76 countries and territories:
 
-* North America: USA, Canada, Mexico
-* Central America and the Caribbean: Antigua and Barbuda, Bahamas, Barbados, Honduras
-* Europe: Croatia, Denmark, Finland, France, Germany, Iceland, Ireland, Isle of Man, Italy, Malta, Monaco, Norway, Poland, Portugal, Spain, Sweden, Switzerland, United Kingdom
-* Asia: Brunei, China, India, Malaysia, Philippines, Singapore, Sri Lanka, Thailand
+* North America: USA, Canada, Mexico, Bermuda
+* Central America and the Caribbean: Anguilla, Antigua and Barbuda, Bahamas, Barbados, British Virgin Islands, Cayman Islands, Costa Rica, Curaçao, Honduras, Jamaica, Sint Maarten
+* South America: Argentina, Brazil, Chile, Colombia, Ecuador, Peru, Uruguay, Venezuela
+* Europe: Austria, Belgium, Bulgaria, Croatia, Cyprus, Denmark, Estonia, Finland, France, Germany, Greece, Guernsey, Iceland, Ireland, Isle of Man, Italy, Jersey, Malta, Monaco, Montenegro, Netherlands, Norway, Poland, Portugal, Russia, Spain, Sweden, Switzerland, United Kingdom
+* Asia: Brunei, China, India, Indonesia, Malaysia, Philippines, Singapore, Sri Lanka, Thailand
 * Middle East: Saudi Arabia, Turkey, United Arab Emirates
-* Africa and the South Atlantic: Egypt, Saint Helena, South Africa
-* Oceania: Australia, Marshall Islands, New Zealand, Papua New Guinea
+* Africa and the South Atlantic: Egypt, Kenya, Namibia, Saint Helena, South Africa
+* Oceania: Australia, Marshall Islands, New Caledonia, New Zealand, Niue, Palau, Papua New Guinea
 
 ## Contact & usage
 

@@ -11942,3 +11942,4724 @@
   founded: about 1978
   website: https://www.enbyc.com/
   coordinates: [41.09851, -73.40613]
+- club:
+  name: Royal Sydney Yacht Squadron
+  uuid: 33dc3f66-ac5c-4010-9621-47112056751e
+  city: Kirribilli
+  state: New South Wales
+  country: Australia
+  founded: 1862
+  website: https://www.rsys.com.au/
+  coordinates: [-33.85, 151.22]
+- club:
+  name: Royal Burnham Yacht Club
+  uuid: ab1cab47-c95b-4896-9a66-4a2966057ee2
+  city: Burnham-on-Crouch
+  state: England
+  country: United Kingdom
+  founded: 1895
+  website: https://rbyc.uk/
+  coordinates: [51.64, 0.85]
+- club:
+  name: Royal Cornwall Yacht Club
+  uuid: c4d846de-8b9a-414e-8200-265ae46e2e14
+  city: Falmouth
+  state: England
+  country: United Kingdom
+  founded: 1871
+  website: https://royalcornwallyachtclub.org/
+  coordinates: [50.16, -5.07]
+- club:
+  name: Royal Dart Yacht Club
+  uuid: 03bda9e7-8e49-4b58-8589-60066f1f053d
+  city: Kingswear
+  state: England
+  country: United Kingdom
+  founded: 1866
+  website: https://www.royaldart.co.uk/
+  coordinates: [50.37, -3.55]
+- club:
+  name: Royal Motor Yacht Club
+  uuid: 766d630d-0aee-4748-beaa-2081baad198c
+  city: Poole
+  state: England
+  country: United Kingdom
+  founded: 1905
+  website: https://rmyc.club/
+  coordinates: [50.74, -1.95]
+- club:
+  name: Royal North of Ireland Yacht Club
+  uuid: fb84a500-6b10-491b-a1cb-04c3dfbf9a41
+  city: Holywood
+  state: Northern Ireland
+  country: United Kingdom
+  founded: 1899
+  website: https://rniyc.org/
+  coordinates: [54.64, -5.84]
+- club:
+  name: Royal Northern and Clyde Yacht Club
+  uuid: cc1fdef5-73de-41cc-b196-96cfd75ebed7
+  city: Rhu
+  state: Scotland
+  country: United Kingdom
+  founded: 1824
+  website: https://www.rncyc.com/
+  coordinates: [56.02, -4.78]
+- club:
+  name: Royal Ulster Yacht Club
+  uuid: e9fc91f0-14e2-4914-acbf-d67d2345220f
+  city: Bangor
+  state: Northern Ireland
+  country: United Kingdom
+  founded: 1866
+  website: https://www.ruyc.uk/
+  coordinates: [54.66, -5.67]
+  burgee: royal_ulster_yc.png
+  description: Blue burgee with a white shield and red hand under a crown, above a ribbon reading Royal Ulster Yacht Club.
+- club:
+  name: Royal Western Yacht Club of England
+  uuid: 0e34d512-0386-4266-bac7-f8ad0ba0b939
+  city: Plymouth
+  state: England
+  country: United Kingdom
+  founded: 1827
+  website: https://rwyc.org/
+  coordinates: [50.37, -4.14]
+- club:
+  name: Royal Brighton Yacht Club
+  uuid: 3331906e-bc48-4fee-8bc6-e283353283d1
+  city: Brighton
+  state: Victoria
+  country: Australia
+  founded: 1875
+  website: https://rbyc.org.au/
+  coordinates: [-37.91, 145.0]
+  burgee: royal_brighton_yc.png
+  description: White cross on a navy burgee with a gold and red crown at the center.
+- club:
+  name: Royal South Australian Yacht Squadron
+  uuid: 92f8690b-818c-49ab-877e-a7ff782a0e65
+  city: North Haven
+  state: South Australia
+  country: Australia
+  founded: 1869
+  website: https://www.rsays.com.au/
+  coordinates: [-34.79, 138.49]
+  burgee: royal_south_australian_yacht_squadron.png
+  description: Navy swallow-tailed burgee with a white cross and a crown.
+- club:
+  name: Bruxelles Royal Yacht Club
+  uuid: f40c6ee2-afdb-49a0-aa97-a6f7299fc5eb
+  city: Brussels
+  state: Brussels
+  country: Belgium
+  founded: unknown
+  website: https://www.bryc.net/
+  coordinates: [50.84, 4.37]
+- club:
+  name: Royal Yacht Club van België
+  uuid: 47e061ec-75a2-4760-a443-c9c2fe236e51
+  city: Antwerp
+  state: Flanders
+  country: Belgium
+  founded: 1851
+  website: https://www.rycb.be/
+  coordinates: [51.22, 4.4]
+- club:
+  name: Royal Bermuda Yacht Club
+  uuid: 4fb18779-f118-4d55-a831-b766af1f2c02
+  city: Hamilton
+  country: Bermuda
+  founded: 1844
+  website: https://www.rbyc.bm/
+  coordinates: [32.29, -64.79]
+- club:
+  name: Iate Clube do Rio de Janeiro
+  uuid: 25e695e4-cb6c-48b6-ba57-e89ee427be84
+  city: Rio de Janeiro
+  state: Rio de Janeiro
+  country: Brazil
+  founded: 1920
+  website: https://www.icrj.com.br/
+  coordinates: [-22.91, -43.21]
+- club:
+  name: Royal Nova Scotia Yacht Squadron
+  uuid: 8702b0c1-8912-459f-a100-6003791e0468
+  city: Halifax
+  state: Nova Scotia
+  country: Canada
+  founded: 1837
+  website: https://www.rnsys.com/
+  coordinates: [44.65, -63.59]
+- club:
+  name: Royal Channel Islands Yacht Club
+  uuid: 6d543281-3d59-4c48-be46-13e1e834fb53
+  city: St Aubin
+  country: Jersey
+  founded: unknown
+  website: https://www.rciyc.je/
+  coordinates: [49.19, -2.17]
+- club:
+  name: Kongelig Dansk Yachtklub
+  uuid: 2791827f-09ca-4ff0-a736-09aa1d6ee772
+  city: Hellerup
+  state: Capital Region
+  country: Denmark
+  founded: 1866
+  website: https://kdy.dk/
+  coordinates: [55.73, 12.57]
+- club:
+  name: Yacht Club of Greece
+  uuid: d21a4dff-8197-47e5-b889-a22d2f3b81d8
+  city: Piraeus
+  state: Attica
+  country: Greece
+  founded: 1933
+  website: https://ycg.gr/
+  coordinates: [37.94, 23.65]
+- club:
+  name: Koninklijke Nederlandsche Zeil- en Roeivereeniging
+  uuid: b6714dac-eafa-4d63-9fef-9dfea3186a4a
+  city: Muiden
+  state: North Holland
+  country: Netherlands
+  founded: 1847
+  website: https://www.knzrv.nl/
+  coordinates: [52.35, 5.07]
+- club:
+  name: Koninklijke Roei- en Zeilvereniging De Maas
+  uuid: 251d113b-2535-4feb-96a5-fe6222c37e3d
+  city: Rotterdam
+  state: South Holland
+  country: Netherlands
+  founded: 1851
+  website: https://www.de-maas.nl/
+  coordinates: [51.92, 4.48]
+- club:
+  name: Yacht Club Costa Smeralda
+  uuid: 24aeb078-46b4-4f39-add5-b4835b9f534c
+  city: Porto Cervo
+  state: Sardinia
+  country: Italy
+  founded: 1967
+  website: https://www.yccs.it/
+  coordinates: [41.13, 9.54]
+  burgee: yc_costa_smeralda.png
+  description: Blue pennant with a large red four-pointed star at the hoist on a white field.
+- club:
+  name: Reale Yacht Club Canottieri Savoia
+  uuid: 1d330ba5-daa3-46b3-8971-ff7f31186636
+  city: Naples
+  state: Campania
+  country: Italy
+  founded: 1893
+  website: https://www.ryccsavoia.it/
+  coordinates: [40.84, 14.25]
+  burgee: reale_yc_canottieri_savoia.png
+  description: Navy pennant with a white cross and the red shield of Savoy under a crown.
+- club:
+  name: Yacht Club Como
+  uuid: 9b847c78-f180-4c7f-837c-42faf51317c1
+  city: Como
+  state: Lombardy
+  country: Italy
+  founded: 1932
+  website: https://www.yachtclubcomo.com/
+  coordinates: [45.94, 9.15]
+- club:
+  name: Compagnia della Vela
+  uuid: 67777058-2169-4453-b045-d3cec4ccda8e
+  city: Venice
+  state: Veneto
+  country: Italy
+  founded: 1911
+  website: https://www.compagniadellavela.org/
+  coordinates: [45.44, 12.33]
+- club:
+  name: Kongelig Norsk Seilforening
+  uuid: 2101e72b-d067-47e5-b6d1-341a0f380602
+  city: Oslo
+  state: Oslo
+  country: Norway
+  founded: 1883
+  website: https://www.kns.no/
+  coordinates: [59.97, 10.78]
+- club:
+  name: Royal Irish Yacht Club
+  uuid: 3a836b72-5d4d-4750-b535-31fde4c8665e
+  city: Dún Laoghaire
+  state: County Dublin
+  country: Ireland
+  founded: 1831
+  website: https://www.riyc.ie/
+  coordinates: [53.29, -6.14]
+- club:
+  name: Royal St. George Yacht Club
+  uuid: 1b8b14f4-16b9-421f-8c23-aa1390634ce6
+  city: Dún Laoghaire
+  state: County Dublin
+  country: Ireland
+  founded: 1838
+  website: https://rsgyc.ie/
+  coordinates: [53.29, -6.14]
+  burgee: royal_st_george_yc.png
+  description: Red pennant with a white cross and a gold crown at the center.
+- club:
+  name: Royal Natal Yacht Club
+  uuid: f5c3d77a-09b6-4cfe-9193-52be0adea6f8
+  city: Durban
+  state: KwaZulu-Natal
+  country: South Africa
+  founded: 1858
+  website: https://rnyc.org.za/
+  coordinates: [-29.86, 31.01]
+  burgee: royal_natal_yc.png
+  description: White pennant with a navy and red cross and a crown in the upper hoist.
+- club:
+  name: Real Club Náutico de Barcelona
+  uuid: 39d4c275-8cde-412f-9911-4f98089289a2
+  city: Barcelona
+  state: Catalonia
+  country: Spain
+  founded: 1876
+  website: https://www.rcnb.com/
+  coordinates: [41.38, 2.18]
+- club:
+  name: Real Club Náutico de Palma
+  uuid: 7fadc300-113c-4027-b43f-9cb06bedd980
+  city: Palma
+  state: Balearic Islands
+  country: Spain
+  founded: 1948
+  website: https://www.rcnp.es/
+  coordinates: [39.57, 2.65]
+- club:
+  name: Real Club Marítimo del Abra
+  uuid: 676e5d4c-2a1f-48f2-8eea-8ecd91335b94
+  city: Getxo
+  state: Basque Country
+  country: Spain
+  founded: unknown
+  website: https://www.rcmarsc.es/
+  coordinates: [43.34, -3.01]
+- club:
+  name: Kungliga Svenska Segel Sällskapet
+  uuid: 38c4dbdf-3e29-42c4-a7ee-de44480668a3
+  city: Saltsjöbaden
+  state: Stockholm
+  country: Sweden
+  founded: 1830
+  website: https://www.ksss.se/
+  coordinates: [59.28, 18.3]
+- club:
+  name: Göteborgs Kungliga Segel Sällskap
+  uuid: 08a5dad1-5295-4e37-90b5-5c5476da77a8
+  city: Gothenburg
+  state: Västra Götaland
+  country: Sweden
+  founded: 1860
+  website: https://gkss.se/
+  coordinates: [57.71, 11.97]
+  burgee: goteborgs_kungliga_segel_sallskap.png
+  description: Blue pennant with a white cross, a crown, and the letters G, K, S and S.
+- club:
+  name: Island Sailing Club
+  uuid: 9cfad495-ace6-4eb6-9af6-1d13349e07b0
+  city: Cowes
+  state: England
+  country: United Kingdom
+  founded: 1889
+  website: https://islandsc.org.uk/
+  coordinates: [50.76, -1.3]
+  burgee: island_sc.png
+  description: Red pennant with a gold tower.
+- club:
+  name: Royal Forth Yacht Club
+  uuid: efd5571f-27a3-47bd-bd23-8a21173ac25b
+  city: Edinburgh
+  state: Scotland
+  country: United Kingdom
+  founded: 1868
+  website: https://www.royalforth.org/
+  coordinates: [55.95, -3.19]
+- club:
+  name: Royal Mersey Yacht Club
+  uuid: 7bbe2124-0a96-41fb-908c-c5aaddfb50f8
+  city: Birkenhead
+  state: England
+  country: United Kingdom
+  founded: 1844
+  website: https://royalmersey-yc.co.uk/
+  coordinates: [53.39, -3.02]
+  burgee: royal_mersey_yc.png
+  description: Navy pennant with a white liver bird under a crown.
+- club:
+  name: Royal Ocean Racing Club
+  uuid: 77e721bc-6770-447b-ab8a-a209efd3f96b
+  city: London
+  state: England
+  country: United Kingdom
+  founded: 1925
+  website: https://rorc.org/
+  coordinates: [51.51, -0.13]
+- club:
+  name: Royal Southampton Yacht Club
+  uuid: c3b9402c-6b98-42c8-b35d-b65907cd2b22
+  city: Southampton
+  state: England
+  country: United Kingdom
+  founded: 1875
+  website: https://www.rsyc.org.uk/
+  coordinates: [50.9, -1.4]
+- club:
+  name: Royal Temple Yacht Club
+  uuid: dd1d040f-faec-4a13-887e-f330077dd7c3
+  city: Ramsgate
+  state: England
+  country: United Kingdom
+  founded: 1857
+  website: https://www.rtyc.com/
+  coordinates: [51.33, 1.42]
+- club:
+  name: Royal Torbay Yacht Club
+  uuid: b78f734d-fe3b-4e26-ab66-a60d13c3771a
+  city: Torquay
+  state: England
+  country: United Kingdom
+  founded: 1863
+  website: https://rtyc.org/
+  coordinates: [50.47, -3.52]
+  burgee: royal_torbay_yc.png
+  description: Blue swallow-tailed burgee with a white panel bearing a gold crown.
+- club:
+  name: Club Náutico San Isidro
+  uuid: b7315421-1edd-4a17-aad7-adc870bba7d1
+  city: San Isidro
+  state: Buenos Aires
+  country: Argentina
+  founded: 1910
+  website: https://cnsi.org.ar/
+  coordinates: [-34.47, -58.53]
+- club:
+  name: Nassau Yacht Club
+  uuid: b8c7a808-e1d8-45c6-89b1-9eeffe84e3bc
+  city: Nassau
+  state: New Providence
+  country: Bahamas
+  founded: 1931
+  website: https://www.nassauyachtclub.org/
+  coordinates: [25.08, -77.34]
+  burgee: nassau_yc.png
+  description: Blue and red swallow-tailed pennant with a white center and the letters N, Y and C.
+- club:
+  name: Iate Clube de Santos
+  uuid: bbd0f6d3-3ce8-44da-a0c9-6b13213354b5
+  city: Santos
+  state: São Paulo
+  country: Brazil
+  founded: unknown
+  website: https://www.icsantos.com.br/
+  coordinates: [-23.96, -46.32]
+- club:
+  name: Salinas Yacht Club
+  uuid: 8d1ec16f-07a0-4c88-9269-cf9339dc8ddb
+  city: Salinas
+  state: Santa Elena
+  country: Ecuador
+  founded: unknown
+  website: https://salinasyachtclub.com/
+  coordinates: [-2.26, -80.92]
+- club:
+  name: Yacht Club de Cannes
+  uuid: 77e02b2d-4d8f-449f-90ed-67d4b3f62b7c
+  city: Cannes
+  state: "Provence-Alpes-Côte d'Azur"
+  country: France
+  founded: 1859
+  website: https://www.yachtclubdecannes.org/
+  coordinates: [43.55, 7.01]
+- club:
+  name: Société Nautique de Saint-Tropez
+  uuid: e2993e99-2a09-4eda-936c-c8f8ba36173c
+  city: Saint-Tropez
+  state: "Provence-Alpes-Côte d'Azur"
+  country: France
+  founded: 1862
+  website: https://www.societe-nautique-saint-tropez.fr/
+  coordinates: [43.27, 6.64]
+  burgee: societe_nautique_de_saint_tropez.png
+  description: Red pennant with a white center bearing a blue anchor.
+- club:
+  name: Yacht Club Porto Rotondo
+  uuid: babdafd0-c582-4d79-b99a-d19babde4029
+  city: Porto Rotondo
+  state: Sardinia
+  country: Italy
+  founded: 1985
+  website: https://www.ycpr.it/
+  coordinates: [41.03, 9.55]
+- club:
+  name: Porto Montenegro Yacht Club
+  uuid: 8b9b1155-8aad-4b33-aaa3-8972c9099dd4
+  city: Tivat
+  country: Montenegro
+  founded: 2019
+  website: https://pmyc.portomontenegro.com/
+  coordinates: [42.43, 18.7]
+- club:
+  name: Yacht Club of St. Petersburg
+  uuid: 9626b18c-984e-4226-82de-698a24663c5c
+  city: Saint Petersburg
+  country: Russia
+  founded: unknown
+  website: http://www.yacht-club-spb.ru/
+  coordinates: [59.96, 30.16]
+- club:
+  name: Bayerischer Yacht-Club
+  uuid: d53f82d1-19a7-40d2-8861-ec7d553b5779
+  city: Starnberg
+  state: Bavaria
+  country: Germany
+  founded: 1888
+  website: https://www.byc.de/
+  coordinates: [48.0, 11.34]
+- club:
+  name: Société Nautique de Genève
+  uuid: 6a4feda8-c44c-482c-971a-407ee9979b72
+  city: Geneva
+  state: Geneva
+  country: Switzerland
+  founded: 1872
+  website: https://www.nautique.ch/
+  coordinates: [46.2, 6.15]
+  burgee: societe_nautique_de_geneve.png
+  description: White pennant with blue horizontal stripes and a red and yellow canton.
+- club:
+  name: Thunersee-Yachtclub
+  uuid: 002cfad4-e51e-46d8-a678-87ff24221af8
+  city: Thun
+  state: Bern
+  country: Switzerland
+  founded: unknown
+  website: https://tyc.ch/
+  coordinates: [46.76, 7.63]
+  burgee: thunersee_yachtclub.png
+  description: Red pennant with a black and yellow Y.
+- club:
+  name: Royal Yacht Squadron
+  uuid: 3a460cc1-4425-4afd-8eac-119452036178
+  city: Cowes
+  state: England
+  country: United Kingdom
+  founded: 1815
+  website: https://www.rys.org.uk/
+  coordinates: [50.76, -1.3]
+- club:
+  name: Aggertaler Segel-Club
+  uuid: adbf64f2-9c77-4ff9-9c60-1b1b0f1faa49
+  city: Olpe
+  state: North Rhine-Westphalia
+  country: Germany
+  founded: unknown
+  website: https://www.aggertalersegelclub.de/
+  coordinates: [51.03, 7.84]
+- club:
+  name: Alamitos Bay Yacht Club
+  uuid: 60934b7e-208e-4733-ab3f-df1a41479695
+  city: Long Beach
+  state: California
+  country: USA
+  founded: unknown
+  website: https://abyc.org/
+  coordinates: [33.77, -118.19]
+  burgee: alamitos_bay_yc.png
+  description: Pennant split diagonally, navy blue above and white below.
+- club:
+  name: Albert Sailing Club
+  uuid: 0d00a722-e1c4-472f-bf31-b148384a5c15
+  city: Albert Park
+  state: Victoria
+  country: Australia
+  founded: unknown
+  website: https://albertsc.org.au/
+  coordinates: [-37.85, 144.96]
+- club:
+  name: Aldenham Sailing Club
+  uuid: f8a948e3-94a5-46cc-89ca-a0911c68c8bc
+  city: Aldenham
+  state: England
+  country: United Kingdom
+  founded: unknown
+  website: https://aldenhamsc.co.uk/
+  coordinates: [51.67, -0.35]
+- club:
+  name: American International Yacht Club Berlin
+  uuid: 6945c2b1-37e6-4265-bf98-f6789f4ac016
+  city: Berlin
+  state: Berlin
+  country: Germany
+  founded: unknown
+  website: https://aiycb.de/
+  coordinates: [52.5, 13.34]
+- club:
+  name: Annapolis Naval Sailing Association
+  uuid: 8cef7dff-dbbd-4dbf-8952-0b62e5973f06
+  city: Annapolis
+  state: Maryland
+  country: USA
+  founded: 1968
+  website: https://ansa.org/
+  coordinates: [38.98, -76.49]
+- club:
+  name: Arizona Yacht Club
+  uuid: aa732542-4ff5-4600-8695-1b30667b11a6
+  city: Phoenix
+  state: Arizona
+  country: USA
+  founded: 1958
+  website: https://arizonayachtclub.org/
+  coordinates: [33.45, -112.07]
+  burgee: arizona_yc.png
+  description: White pennant outlined in green with a green saguaro cactus and lightning bolts.
+- club:
+  name: Armdale Yacht Club
+  uuid: 22f06b1f-2cbc-4b3f-b7ae-7d4ad34cc199
+  city: Halifax
+  state: Nova Scotia
+  country: Canada
+  founded: unknown
+  website: https://armdaleyachtclub.ns.ca/
+  coordinates: [44.65, -63.59]
+- club:
+  name: Austin Yacht Club
+  uuid: b435844b-d4dc-4ac7-8b10-65433a7e7f75
+  city: Austin
+  state: Texas
+  country: USA
+  founded: 1951
+  website: https://austinyachtclub.net/
+  coordinates: [30.26, -97.75]
+- club:
+  name: Balmain Sailing Club
+  uuid: 3e65a9fa-1619-4a67-b869-03bafdb2f724
+  city: Balmain
+  state: New South Wales
+  country: Australia
+  founded: 1885
+  website: https://www.balmainsailingclub.com/
+  coordinates: [-33.86, 151.18]
+- club:
+  name: Bay View Boat Club
+  uuid: b7f2eb2c-e77c-44ef-8a8c-2bbd1514b7ed
+  city: San Francisco
+  state: California
+  country: USA
+  founded: 1963
+  website: https://www.bayviewboatclub.org/
+  coordinates: [37.79, -122.41]
+  burgee: bay_view_boat_club.png
+  description: Yellow pennant with a navy compass star.
+- club:
+  name: Bay-Waveland Yacht Club
+  uuid: c841deb0-3344-4028-8f23-e03e9311d91d
+  city: Bay St. Louis
+  state: Mississippi
+  country: USA
+  founded: 1896
+  website: https://www.bwyc.org/
+  coordinates: [30.31, -89.33]
+- club:
+  name: Berkeley Yacht Club
+  uuid: 09e1a578-fb27-4981-8b5c-fd72e2b3539a
+  city: Berkeley
+  state: California
+  country: USA
+  founded: 1939
+  website: https://www.berkeleyyc.org/
+  coordinates: [37.87, -122.27]
+  burgee: berkeley_yc.png
+  description: Navy pennant with a yellow disc bearing a navy letter B.
+- club:
+  name: Blithfield Sailing Club
+  uuid: a577a282-ca8f-4efc-be9a-0802bec882a3
+  city: Abbots Bromley
+  state: England
+  country: United Kingdom
+  founded: unknown
+  website: https://www.blithfield.org.uk/
+  coordinates: [52.82, -1.88]
+- club:
+  name: Blue Valley Yacht Club
+  uuid: a44cd247-7c34-4feb-b64c-ea7b11d252c9
+  city: Manhattan
+  state: Kansas
+  country: USA
+  founded: 1963
+  website: https://www.bluevalleyyachtclub.org/
+  coordinates: [39.18, -96.57]
+- club:
+  name: "Bluffer's Park Yacht Club"
+  uuid: 46fb25f7-25e9-4ece-94c9-e20c53c46f32
+  city: Toronto
+  state: Ontario
+  country: Canada
+  founded: unknown
+  website: https://welcome.bpyc.on.ca/
+  coordinates: [43.65, -79.38]
+- club:
+  name: Community Boating
+  uuid: c07c51a1-0f9d-4ad1-a823-cd4d129cadd3
+  city: Boston
+  state: Massachusetts
+  country: USA
+  founded: 1946
+  website: https://www.community-boating.org/
+  coordinates: [42.36, -71.06]
+- club:
+  name: Botany Bay Yacht Club
+  uuid: cfb43b0c-ea89-45b2-8115-ab3f17433b1b
+  city: Dolls Point
+  state: New South Wales
+  country: Australia
+  founded: 1964
+  website: https://www.bbyc.com.au/
+  coordinates: [-33.99, 151.14]
+- club:
+  name: Brabant Wallon Yachting Club
+  uuid: a8ca05fb-d741-477e-b6b3-dab7c29a86c7
+  city: Genval
+  state: Wallonia
+  country: Belgium
+  founded: unknown
+  website: https://www.bwyc.be/
+  coordinates: [50.72, 4.5]
+- club:
+  name: Britannia Yacht Club
+  uuid: 0b844eb9-b111-45d3-800a-950227fe907e
+  city: Ottawa
+  state: Ontario
+  country: Canada
+  founded: 1887
+  website: https://byc.ca/
+  coordinates: [45.42, -75.69]
+  burgee: britannia_yc.png
+  description: White pennant with a navy border and a large navy letter B.
+- club:
+  name: Bronte Harbour Yacht Club
+  uuid: b3b4c33a-be2a-4d98-bb55-c9267a58e7d8
+  city: Oakville
+  state: Ontario
+  country: Canada
+  founded: unknown
+  website: https://bhyc.on.ca/
+  coordinates: [43.45, -79.67]
+- club:
+  name: Brookville Lake Sailing Association
+  uuid: 9f02f061-7e9e-49dd-ac1b-2a5286f0eb94
+  city: Brookville
+  state: Indiana
+  country: USA
+  founded: unknown
+  website: https://www.blsa.us/
+  coordinates: [39.42, -85.01]
+- club:
+  name: Buffalo Yacht Club
+  uuid: 653ad448-b79d-4f2f-b6ba-0dbf32172b61
+  city: Buffalo
+  state: New York
+  country: USA
+  founded: 1860
+  website: https://www.buffaloyachtclub.org/
+  coordinates: [42.89, -78.88]
+- club:
+  name: Burgenländischer Yacht-Club
+  uuid: 88ebba61-96fa-44a3-b244-a1cb941dd435
+  city: Neusiedl am See
+  state: Burgenland
+  country: Austria
+  founded: unknown
+  website: https://www.byc.at/
+  coordinates: [47.95, 16.84]
+- club:
+  name: "Burlington Sailing & Boating Club"
+  uuid: 71c489b7-66d3-4c84-82cc-322f067da3d6
+  city: Burlington
+  state: Ontario
+  country: Canada
+  founded: 1974
+  website: https://www.burlbay.com/
+  coordinates: [43.32, -79.8]
+- club:
+  name: Cabrillo Beach Yacht Club
+  uuid: 146d47f0-ee71-4891-aba3-6f3a588eff4c
+  city: San Pedro
+  state: California
+  country: USA
+  founded: 1932
+  website: https://www.cbyc.org/
+  coordinates: [33.74, -118.29]
+- club:
+  name: Calshot Sailing Club
+  uuid: 0711fe6a-d6e6-47d1-92b9-2230675bad27
+  city: Calshot
+  state: England
+  country: United Kingdom
+  founded: unknown
+  website: https://calshot-sailing.co.uk/
+  coordinates: [50.81, -1.33]
+- club:
+  name: Carlyle Sailing Association
+  uuid: df50e7ce-380b-406c-87df-f42fc347c7da
+  city: Carlyle
+  state: Illinois
+  country: USA
+  founded: unknown
+  website: https://csa-sailing.org/
+  coordinates: [38.61, -89.37]
+- club:
+  name: Cairns Cruising Yacht Squadron
+  uuid: 3f5c4fe4-1d26-49ff-ac3a-ced4c885507a
+  city: Cairns
+  state: Queensland
+  country: Australia
+  founded: 1967
+  website: https://www.ccys.com.au/
+  coordinates: [-16.92, 145.77]
+- club:
+  name: Carolina Sailing Club
+  uuid: ed55f907-6a88-4418-9081-3f5f14aa60b5
+  city: Pittsboro
+  state: North Carolina
+  country: USA
+  founded: 1955
+  website: https://www.carolinasailingclub.org/
+  coordinates: [35.72, -79.18]
+- club:
+  name: Carrickfergus Sailing Club
+  uuid: 37f5dd9d-6b6c-48bf-8924-bfaa94622b74
+  city: Carrickfergus
+  state: Northern Ireland
+  country: United Kingdom
+  founded: unknown
+  website: http://www.CarrickfergusSC.org/
+  coordinates: [54.71, -5.81]
+- club:
+  name: Cercle de la Voile de Neuchâtel
+  uuid: 1490f843-21e5-449e-85c2-fcc0fd5235df
+  city: Neuchâtel
+  state: Neuchâtel
+  country: Switzerland
+  founded: 1936
+  website: https://www.cvn.ch/
+  coordinates: [46.99, 6.93]
+- club:
+  name: Clinton Lake Sailing Association
+  uuid: 105d2fd0-39b9-4525-be94-1025aef60960
+  city: Weldon
+  state: Illinois
+  country: USA
+  founded: 1978
+  website: https://www.clsasailing.org/
+  coordinates: [40.12, -88.75]
+- club:
+  name: "Clontarf Yacht & Boat Club"
+  uuid: 90cc06b9-0197-4b65-ad84-9f7e4ef71d06
+  city: Dublin
+  state: County Dublin
+  country: Ireland
+  founded: 1875
+  website: https://www.cybc.ie/
+  coordinates: [53.35, -6.26]
+- club:
+  name: Club Nautique Morgien
+  uuid: 3a383478-0cfe-4877-9a31-7cc6a998f980
+  city: Morges
+  state: Vaud
+  country: Switzerland
+  founded: unknown
+  website: https://cnmorges.ch/
+  coordinates: [46.51, 6.5]
+- club:
+  name: Coleraine Yacht Club
+  uuid: 68fe4377-80f6-4388-a252-6ccbfd5fbc2d
+  city: Coleraine
+  state: Northern Ireland
+  country: United Kingdom
+  founded: 1962
+  website: https://www.coleraineyachtclub.co.uk/
+  coordinates: [55.13, -6.67]
+- club:
+  name: Columbia Basin Sailing Club
+  uuid: 6b6c89a3-f6bf-4c54-ab13-5ccfc5becfff
+  city: Burbank
+  state: Washington
+  country: USA
+  founded: unknown
+  website: http://www.cbsc.info/
+  coordinates: [46.2, -118.97]
+  burgee: columbia_basin_sc.png
+  description: White pennant bordered in purple, with a purple fly and a red sail.
+- club:
+  name: Columbia Sailing Club
+  uuid: 915b942d-7301-46f4-8f4e-245568481b43
+  city: Columbia
+  state: South Carolina
+  country: USA
+  founded: about 1930
+  website: https://columbiasailingclub.org/
+  coordinates: [34.0, -81.04]
+  burgee: columbia_sc.png
+  description: Red and navy burgee with a white star at the hoist.
+- club:
+  name: Corinthian Yacht Club of Seattle
+  uuid: abe1ab6c-5442-489f-b8a5-8d3167a77a5b
+  city: Seattle
+  state: Washington
+  country: USA
+  founded: unknown
+  website: https://cycseattle.org/
+  coordinates: [47.6, -122.33]
+  burgee: corinthian_yc_of_seattle.png
+  description: Red and navy burgee with white letters C inside a white circular crest reading Corinthian Yacht Club Seattle 1945.
+- club:
+  name: Datchet Water Sailing Club
+  uuid: c059a749-b376-4e7d-af2a-e2b669a65f72
+  city: Datchet
+  state: England
+  country: United Kingdom
+  founded: unknown
+  website: https://www.dwsc.co.uk/
+  coordinates: [51.48, -0.58]
+- club:
+  name: Denver Sailing Association
+  uuid: da598b66-0178-46f5-9209-9424bc4dff26
+  city: Denver
+  state: Colorado
+  country: USA
+  founded: 1946
+  website: https://denversailing.org/
+  coordinates: [39.74, -104.98]
+  burgee: denver_sailing_association.png
+  description: Navy and red pennant divided by a white mountain line, with a yellow sun.
+- club:
+  name: Discovery Sailing Club
+  uuid: b73ce0f5-705e-402b-bddb-d5a6d94341a2
+  city: Vancouver
+  state: British Columbia
+  country: Canada
+  founded: unknown
+  website: https://discoverysailing.org/
+  coordinates: [49.26, -123.11]
+- club:
+  name: Dixie Sailing Club
+  uuid: 64b5b20b-3d2c-4213-a073-0b3ea883ea69
+  city: Dadeville
+  state: Alabama
+  country: USA
+  founded: unknown
+  website: https://www.dixiesailingclub.com/
+  coordinates: [32.83, -85.76]
+- club:
+  name: Double Bay Sailing Club
+  uuid: 1224c7ea-b890-4870-9773-8eecc2d19795
+  city: Double Bay
+  state: New South Wales
+  country: Australia
+  founded: unknown
+  website: https://www.dbsc.com.au/
+  coordinates: [-33.88, 151.24]
+- club:
+  name: Eastport Yacht Club
+  uuid: 43f2a2ec-c01c-46c0-8033-f69447cfb929
+  city: Annapolis
+  state: Maryland
+  country: USA
+  founded: unknown
+  website: https://www.eastportyc.org/
+  coordinates: [38.98, -76.49]
+- club:
+  name: Edgewater Yacht Club
+  uuid: 0a0a395c-c279-481d-8a55-f454f3f3668c
+  city: Cleveland
+  state: Ohio
+  country: USA
+  founded: unknown
+  website: https://edgewateryachtclub.com/
+  coordinates: [41.5, -81.69]
+- club:
+  name: Erith Yacht Club
+  uuid: d07589aa-c852-4b78-85cf-eee460b944a0
+  city: Erith
+  state: England
+  country: United Kingdom
+  founded: 1900
+  website: https://erithyachtclub.org.uk/
+  coordinates: [51.48, 0.18]
+- club:
+  name: Fort Worth Boat Club
+  uuid: ce979a1b-cbd8-4666-bb0c-38dfabb75349
+  city: Fort Worth
+  state: Texas
+  country: USA
+  founded: unknown
+  website: https://www.fortworthboatclub.com/
+  coordinates: [32.75, -97.33]
+- club:
+  name: Glenmore Sailing Club
+  uuid: cb76b276-2778-481b-a485-83ab077f9e7c
+  city: Calgary
+  state: Alberta
+  country: Canada
+  founded: unknown
+  website: https://www.glenmoresailingclub.com/
+  coordinates: [51.05, -114.06]
+- club:
+  name: Grande Maumelle Sailing Club
+  uuid: 93cf797e-0d87-4443-a363-2e1723ee5e73
+  city: Little Rock
+  state: Arkansas
+  country: USA
+  founded: 1959
+  website: https://www.gmsc.org/
+  coordinates: [34.75, -92.29]
+- club:
+  name: Grand Traverse Yacht Club
+  uuid: dd6b1567-ef1a-47d1-ae85-d971be2e4240
+  city: Traverse City
+  state: Michigan
+  country: USA
+  founded: unknown
+  website: https://gtyc.org/
+  coordinates: [44.76, -85.62]
+  burgee: grand_traverse_yc.png
+  description: White pennant bordered in red with a navy shield at the hoist bearing letters GT YC.
+- club:
+  name: Greater Richmond Sailing Association
+  uuid: 05eec2ff-3697-4d47-a3a9-a950d5392fbd
+  city: Richmond
+  state: Virginia
+  country: USA
+  founded: 1975
+  website: https://grsa.org/
+  coordinates: [37.54, -77.43]
+- club:
+  name: Grosse Pointe Sail Club
+  uuid: 6942c15b-2230-4ce7-a008-a499e9ec8b8d
+  city: Grosse Pointe
+  state: Michigan
+  country: USA
+  founded: 1948
+  website: https://gpsc.org/
+  coordinates: [42.39, -82.91]
+  burgee: grosse_pointe_sail_club.png
+  description: Blue pennant with a red and white cross and the white letters G, P, S and C.
+- club:
+  name: Gulfstream Sailing Club
+  uuid: 053d1f4b-d91e-4ff0-a443-1c84d69cd108
+  city: Fort Lauderdale
+  state: Florida
+  country: USA
+  founded: 1957
+  website: https://www.gulfstreamsailingclub.org/
+  coordinates: [26.12, -80.14]
+- club:
+  name: Haarlemsche Jachtclub
+  uuid: 61534306-4a76-400a-9ec9-c16408ef34b9
+  city: Spaarndam
+  state: North Holland
+  country: Netherlands
+  founded: unknown
+  website: http://www.haarlemschejachtclub.nl/
+  coordinates: [52.41, 4.68]
+- club:
+  name: Hamburger Segel-Club
+  uuid: bf252de5-6e60-4661-95f0-d1eed965b0c6
+  city: Hamburg
+  state: Hamburg
+  country: Germany
+  founded: unknown
+  website: https://hamburger-segel-club.de/
+  coordinates: [53.59, 9.98]
+- club:
+  name: Hampton Yacht Club
+  uuid: bacabf44-47b1-4e41-8dc7-64a563b7c58c
+  city: Hampton
+  state: Virginia
+  country: USA
+  founded: 1903
+  website: https://www.hamptonyc.com/
+  coordinates: [37.03, -76.34]
+  burgee: hampton_yc.png
+  description: Pennant with a red hoist and navy fly bearing a white anchor and cross bar.
+- club:
+  name: Herrington Harbour Sailing Association
+  uuid: d8a4cd29-8bce-4b2a-bf76-725fec002626
+  city: Deale
+  state: Maryland
+  country: USA
+  founded: unknown
+  website: https://www.hhsa.org/
+  coordinates: [38.79, -76.55]
+  burgee: herrington_harbour_sailing_association.png
+  description: Navy pennant bordered in red with a white gull in flight.
+- club:
+  name: Hickling Broad Sailing Club
+  uuid: 560a25e1-b720-46fa-ba8b-898a63a40812
+  city: Hickling
+  state: England
+  country: United Kingdom
+  founded: unknown
+  website: https://www.hicklingbroad.com/
+  coordinates: [52.75, 1.58]
+- club:
+  name: Hoofer Sailing Club
+  uuid: 27f8508a-82fe-468e-b003-fbdda699475a
+  city: Madison
+  state: Wisconsin
+  country: USA
+  founded: 1939
+  website: https://www.hoofersailing.org/
+  coordinates: [43.07, -89.38]
+- club:
+  name: İstanbul Yelken Kulübü
+  uuid: 07f89c49-9b25-4f0a-9189-203d42a81118
+  city: Istanbul
+  state: Istanbul
+  country: Turkey
+  founded: unknown
+  website: https://www.istanbulyelken.org.tr/
+  coordinates: [41.01, 28.98]
+- club:
+  name: Jacomo Sailing Club
+  uuid: 16485163-0047-4c6e-be45-05d62c25cedb
+  city: Blue Springs
+  state: Missouri
+  country: USA
+  founded: 1958
+  website: https://www.jacomosailingclub.org/
+  coordinates: [39.02, -94.28]
+- club:
+  name: Jericho Sailing Centre
+  uuid: 1b0886cf-9c31-4fa0-ad5a-f6eb536f3bdf
+  city: Vancouver
+  state: British Columbia
+  country: Canada
+  founded: unknown
+  website: https://jsca.bc.ca/
+  coordinates: [49.26, -123.11]
+- club:
+  name: Jyväskylän Veneseura
+  uuid: a8aa3a91-9774-42b4-9ca3-660782a5a1eb
+  city: Jyväskylä
+  state: Central Finland
+  country: Finland
+  founded: unknown
+  website: https://jvs.fi/
+  coordinates: [62.24, 25.75]
+- club:
+  name: Lake Kegonsa Sailors Club
+  uuid: 61562f54-6a9a-4867-8ffb-90609b8831a7
+  city: Stoughton
+  state: Wisconsin
+  country: USA
+  founded: unknown
+  website: https://lksc.org/
+  coordinates: [42.92, -89.22]
+- club:
+  name: Kingston Yacht Club
+  uuid: 288b7c1e-af02-4bbf-a40a-69a35bd2929c
+  city: Kingston
+  state: Ontario
+  country: Canada
+  founded: unknown
+  website: https://kingstonyachtclub.ca/
+  coordinates: [44.31, -76.43]
+- club:
+  name: Lagoon City Yacht Club
+  uuid: 5ed4e3a4-ab03-4c04-8d20-78a896a5d35e
+  city: Brechin
+  state: Ontario
+  country: Canada
+  founded: 1964
+  website: https://www.lcyc.com/
+  coordinates: [44.55, -79.18]
+- club:
+  name: Lagoon View Yacht Club
+  uuid: 6bd86b3e-8973-4938-9887-2ef1d586b2dc
+  city: Ocean Township
+  state: New Jersey
+  country: USA
+  founded: 1987
+  website: http://www.lagoonviewyachtclub.org/
+  coordinates: [40.25, -74.05]
+  burgee: lagoon_view_yc.png
+  description: White pennant outlined in navy with a round navy club seal.
+- club:
+  name: Lake Lanier Sailing Club
+  uuid: c3cbdbf4-e299-4e55-b6c1-f0ea0242c5aa
+  city: Flowery Branch
+  state: Georgia
+  country: USA
+  founded: unknown
+  website: https://llsc.com/
+  coordinates: [34.19, -83.93]
+- club:
+  name: Lake Shore Yacht Club
+  uuid: b61d5521-d601-4237-8901-6af888e6127b
+  city: Toronto
+  state: Ontario
+  country: Canada
+  founded: 1991
+  website: http://www.lsyc.com/
+  coordinates: [43.65, -79.38]
+- club:
+  name: Lake Yosemite Sailing Association
+  uuid: 22d1f3ff-91d9-45e5-9ea2-c8be4b104e02
+  city: Merced
+  state: California
+  country: USA
+  founded: unknown
+  website: https://www.lakeyosemitesailing.org/
+  coordinates: [37.16, -120.77]
+- club:
+  name: Lansing Sailing Club
+  uuid: 8ca08411-9f75-4d13-bd16-86bf4413aa50
+  city: Haslett
+  state: Michigan
+  country: USA
+  founded: 1963
+  website: https://lansingsailing.clubexpress.com/
+  coordinates: [42.75, -84.4]
+- club:
+  name: Lido Isle Yacht Club
+  uuid: 3789e687-2618-4b9f-8e3b-5f39aeff47d2
+  city: Newport Beach
+  state: California
+  country: USA
+  founded: 1928
+  website: https://www.liyc.net/
+  coordinates: [33.62, -117.93]
+  burgee: lido_isle_yc.png
+  description: White flag with a red cross and a navy anchor in the upper hoist.
+- club:
+  name: Lowry Bay Yacht Club
+  uuid: 0370871a-6792-4ca4-b96c-2e7e4030a2c6
+  city: Lower Hutt
+  state: Wellington
+  country: New Zealand
+  founded: 1935
+  website: https://www.lbyc.org.nz/
+  coordinates: [-41.21, 174.91]
+- club:
+  name: Looe Sailing Club
+  uuid: 0398f168-ccd6-46d8-937d-2b58b67fc716
+  city: Looe
+  state: England
+  country: United Kingdom
+  founded: 1934
+  website: http://www.looesailingclub.co.uk/
+  coordinates: [50.35, -4.45]
+- club:
+  name: Lower Mainland Yacht Cooperative
+  uuid: 7a4afd6e-7c01-4f51-ac75-9a56a2b81ce3
+  city: Vancouver
+  state: British Columbia
+  country: Canada
+  founded: unknown
+  website: https://lmyc.ca/
+  coordinates: [49.26, -123.11]
+- club:
+  name: Maple Bay Yacht Club
+  uuid: bf918c1f-c997-45dd-b337-cbc57ed51b0d
+  city: Duncan
+  state: British Columbia
+  country: Canada
+  founded: unknown
+  website: https://mbyc.ca/
+  coordinates: [48.78, -123.71]
+- club:
+  name: Middle Harbour Yacht Club
+  uuid: ccc5b9ee-4704-4cc1-9851-f4e049ca6a58
+  city: Mosman
+  state: New South Wales
+  country: Australia
+  founded: 1939
+  website: https://mhyc.com.au/
+  coordinates: [-33.83, 151.25]
+- club:
+  name: Mississauga Sailing Club
+  uuid: bc38b722-9db5-4dbd-ad56-18b5110740ac
+  city: Mississauga
+  state: Ontario
+  country: Canada
+  founded: 1972
+  website: http://www.mississaugasailingclub.com/
+  coordinates: [43.59, -79.64]
+- club:
+  name: Monterey Peninsula Yacht Club
+  uuid: 46a7261a-74a2-41de-8219-24ea7716f9c7
+  city: Monterey
+  state: California
+  country: USA
+  founded: unknown
+  website: https://mpyc.org/
+  coordinates: [36.22, -121.39]
+  burgee: monterey_peninsula_yc.png
+  description: White pennant bordered in red with a brown California bear and a red star.
+- club:
+  name: Mordialloc Sailing Club
+  uuid: 2183fe13-709c-410a-a52e-6507cf04953e
+  city: Mordialloc
+  state: Victoria
+  country: Australia
+  founded: unknown
+  website: https://www.mordiallocsc.com.au/
+  coordinates: [-38.01, 145.09]
+- club:
+  name: Mumbles Yacht Club
+  uuid: 2f0d7638-7123-4659-954e-ba9f9cca6f1f
+  city: Swansea
+  state: Wales
+  country: United Kingdom
+  founded: unknown
+  website: https://mumblesyachtclub.co.uk/
+  coordinates: [51.62, -3.95]
+  burgee: mumbles_yc.png
+  description: Light blue and navy swallow-tailed pennant with a white gull.
+- club:
+  name: Navy Yacht Club of Pensacola
+  uuid: 9b61b78a-4744-4b7d-ae65-c91fda2fd9d9
+  city: Pensacola
+  state: Florida
+  country: USA
+  founded: unknown
+  website: https://navypnsyc.org/
+  coordinates: [30.42, -87.22]
+  burgee: navy_yc_of_pensacola.png
+  description: Black pennant with a white center bearing a gold eagle and anchor emblem.
+- club:
+  name: Nepean Sailing Club
+  uuid: c224ad69-49bb-4221-8592-34ccbe3266de
+  city: Ottawa
+  state: Ontario
+  country: Canada
+  founded: unknown
+  website: https://nsc.ca/
+  coordinates: [45.42, -75.69]
+- club:
+  name: Nockamixon Sail Club
+  uuid: f89675fa-1fd2-4ed4-aaf3-2abaaa7d07c1
+  city: Quakertown
+  state: Pennsylvania
+  country: USA
+  founded: 1974
+  website: https://nockamixonsailclub.org/
+  coordinates: [40.44, -75.34]
+- club:
+  name: North Florida Cruising Club
+  uuid: ad347360-6440-4aaf-8a2a-8403c919b7c8
+  city: Jacksonville
+  state: Florida
+  country: USA
+  founded: 1968
+  website: https://nfccsail.weebly.com/
+  coordinates: [30.33, -81.66]
+- club:
+  name: North Wales Cruising Club
+  uuid: c9e30a63-d99e-4a29-a99e-b1a492d93012
+  city: Conwy
+  state: Wales
+  country: United Kingdom
+  founded: 1928
+  website: https://nwcc.info/
+  coordinates: [53.15, -3.76]
+  burgee: north_wales_cruising_club.png
+  description: Blue swallow-tailed burgee with a white shield and blue cross.
+- club:
+  name: Oakville Yacht Squadron
+  uuid: e462e7f3-65ec-494b-be70-0e9803d0dc94
+  city: Oakville
+  state: Ontario
+  country: Canada
+  founded: 1946
+  website: https://www.oysqn.com/
+  coordinates: [43.45, -79.67]
+  burgee: oakville_yacht_squadron.png
+  description: Pennant divided into red, navy and white with the letters O, Y and S.
+- club:
+  name: Ocean Racing Club of Victoria
+  uuid: ec23c2a8-6847-4963-b759-d6cc23a0b86e
+  city: Williamstown
+  state: Victoria
+  country: Australia
+  founded: unknown
+  website: https://www.orcv.org.au/
+  coordinates: [-37.86, 144.89]
+- club:
+  name: "Oregon Women's Sailing Association"
+  uuid: 8079e867-5db9-45b4-9bba-6befa656b3b1
+  city: Portland
+  state: Oregon
+  country: USA
+  founded: 1994
+  website: https://owsa.net/
+  coordinates: [45.52, -122.67]
+- club:
+  name: Outrigger Yacht Club
+  uuid: ddeb7d87-f558-4d8c-b62e-ad5b6e26958f
+  city: Cornelius
+  state: North Carolina
+  country: USA
+  founded: 1974
+  website: https://www.outriggeryachtclub.org/
+  coordinates: [35.48, -80.86]
+- club:
+  name: Palm Beach Sailing Club
+  uuid: d7cbf558-d7d0-4a6e-88a0-6155b897a8eb
+  city: West Palm Beach
+  state: Florida
+  country: USA
+  founded: 1966
+  website: https://www.pbsail.org/
+  coordinates: [26.72, -80.05]
+- club:
+  name: Paupack Sailing Club
+  uuid: 42297e57-2f18-4c87-8f9b-bc5c9868bd3a
+  city: Hawley
+  state: Pennsylvania
+  country: USA
+  founded: unknown
+  website: https://www.paupacksailclub.com/
+  coordinates: [41.48, -75.18]
+  burgee: paupack_sc.png
+  description: Navy outlined white pennant with large navy letters PSC and a small sailboat.
+- club:
+  name: Pensacola Yacht Club
+  uuid: 4f9f83d4-f5ee-4ed9-a44b-e71744acfe68
+  city: Pensacola
+  state: Florida
+  country: USA
+  founded: 1908
+  website: https://www.pensacolayachtclub.org/
+  coordinates: [30.42, -87.22]
+- club:
+  name: Pointe-Claire Yacht Club
+  uuid: 40858cff-e519-40c6-b16b-8a097fcc81ab
+  city: Pointe-Claire
+  state: Quebec
+  country: Canada
+  founded: 1879
+  website: https://www.pcyc.qc.ca/
+  coordinates: [45.46, -73.81]
+- club:
+  name: Port Edgar Yacht Club
+  uuid: 23811e2b-3fe4-4fb3-b900-a3cfd6924d01
+  city: South Queensferry
+  state: Scotland
+  country: United Kingdom
+  founded: unknown
+  website: https://peyc.org.uk/
+  coordinates: [55.99, -3.4]
+- club:
+  name: Port Huron Yacht Club
+  uuid: 9db365ba-36d6-4d6c-b6ac-6a21475aa035
+  city: Port Huron
+  state: Michigan
+  country: USA
+  founded: unknown
+  website: https://phyc.org/
+  coordinates: [42.98, -82.43]
+- club:
+  name: Port Lincoln Yacht Club
+  uuid: 624390f5-dbf3-49ac-a960-525232984595
+  city: Port Lincoln
+  state: South Australia
+  country: Australia
+  founded: 1931
+  website: https://www.plyc.com.au/
+  coordinates: [-34.72, 135.86]
+  burgee: port_lincoln_yc.png
+  description: White pennant with a red diagonal cross.
+- club:
+  name: Port Melbourne Yacht Club
+  uuid: 6783a6e3-f344-4dd6-9bf8-0428ad50010c
+  city: Port Melbourne
+  state: Victoria
+  country: Australia
+  founded: 1889
+  website: https://www.pmyc.asn.au/
+  coordinates: [-37.83, 144.92]
+- club:
+  name: Portsmouth Boat Club
+  uuid: 99217491-4dad-4b3a-b2e5-627838d515f5
+  city: Portsmouth
+  state: Virginia
+  country: USA
+  founded: 1905
+  website: https://www.portsmouthboatclub.org/
+  coordinates: [36.83, -76.3]
+- club:
+  name: Reading Sailing Club
+  uuid: 0e7c7739-a97e-4bb1-8ff2-1cac6e729192
+  city: Reading
+  state: England
+  country: United Kingdom
+  founded: unknown
+  website: https://www.readingsc.org.uk/
+  coordinates: [51.46, -0.97]
+  burgee: reading_sc.png
+  description: Blue pennant with a wavy yellow vertical stripe.
+- club:
+  name: Royal Northumberland Yacht Club
+  uuid: b643242d-876a-4892-9853-148e1fce5408
+  city: Blyth
+  state: England
+  country: United Kingdom
+  founded: 1890
+  website: https://rnyc.org.uk/
+  coordinates: [55.13, -1.51]
+- club:
+  name: Royal St. Lawrence Yacht Club
+  uuid: 3f25e808-419e-424e-baa7-cc24089ba789
+  city: Dorval
+  state: Quebec
+  country: Canada
+  founded: 1888
+  website: https://rstlyc.qc.ca/
+  coordinates: [45.45, -73.75]
+- club:
+  name: Rush Creek Yacht Club
+  uuid: 06e77a22-faaa-4166-9111-694e04cd0453
+  city: Heath
+  state: Texas
+  country: USA
+  founded: 1969
+  website: https://rcyc.org/
+  coordinates: [32.84, -96.47]
+  burgee: rush_creek_yc.png
+  description: White swallow-tailed pennant with blue wavy stripes.
+- club:
+  name: St. Croix Sailing Club
+  uuid: aee5076d-7d50-4773-9dc1-c560ed3117c0
+  city: Hudson
+  state: Wisconsin
+  country: USA
+  founded: unknown
+  website: https://stcroixsailing.com/
+  coordinates: [44.98, -92.76]
+- club:
+  name: Saldanha Bay Yacht Club
+  uuid: 8cdf8eee-f053-4252-82f7-fa4e1c715b1a
+  city: Saldanha
+  state: Western Cape
+  country: South Africa
+  founded: 1964
+  website: https://www.sbyc.co.za/
+  coordinates: [-33.0, 17.95]
+- club:
+  name: Santa Barbara Yacht Club
+  uuid: 5abbe471-380f-45d2-8340-1fd732deeca3
+  city: Santa Barbara
+  state: California
+  country: USA
+  founded: 1872
+  website: https://www.sbyc.org/
+  coordinates: [34.42, -119.7]
+- club:
+  name: Saundersfoot Sailing Club
+  uuid: 85162494-711e-4f0d-bab8-d897a2c14d03
+  city: Saundersfoot
+  state: Wales
+  country: United Kingdom
+  founded: 1949
+  website: https://www.saundersfootsailingclub.org.uk/
+  coordinates: [51.71, -4.7]
+- club:
+  name: Sea View Yacht Club
+  uuid: 53923790-1738-4878-9354-cdf0a8e50567
+  city: Seaview
+  state: England
+  country: United Kingdom
+  founded: unknown
+  website: https://www.svyc.org.uk/
+  coordinates: [50.72, -1.12]
+- club:
+  name: South Brisbane Sailing Club
+  uuid: 7e5ffe69-87cd-454a-8ac1-ba8f50ea83d8
+  city: Brisbane
+  state: Queensland
+  country: Australia
+  founded: unknown
+  website: https://www.sbsc.org.au/
+  coordinates: [-27.47, 153.02]
+- club:
+  name: South Cerney Sailing Club
+  uuid: ed9c519b-b1ec-4b85-afca-d336f1182d27
+  city: South Cerney
+  state: England
+  country: United Kingdom
+  founded: unknown
+  website: https://southcerneysailingclub.org.uk/
+  coordinates: [51.67, -1.93]
+- club:
+  name: Southern Maryland Sailing Association
+  uuid: 855e4f3c-9308-4a02-8e35-4c9f2612b195
+  city: Solomons
+  state: Maryland
+  country: USA
+  founded: 1972
+  website: https://www.smsa.com/
+  coordinates: [38.34, -76.46]
+  burgee: southern_maryland_sailing_association.png
+  description: Pennant with the red and white and black and gold quarters of the Maryland flag.
+- club:
+  name: South of Perth Yacht Club
+  uuid: ce070a17-3973-4519-a9f4-d66ad716f28a
+  city: Applecross
+  state: Western Australia
+  country: Australia
+  founded: unknown
+  website: https://sopyc.com.au/
+  coordinates: [-32.01, 115.84]
+- club:
+  name: Stockton Sailing Club
+  uuid: 4fbad476-225d-48a3-8cde-6780889204ea
+  city: Stockton
+  state: California
+  country: USA
+  founded: 1933
+  website: https://stocktonsc.org/
+  coordinates: [37.96, -121.29]
+  burgee: stockton_sc.png
+  description: Blue and white swallow-tailed burgee with a white disc bearing a red S.
+- club:
+  name: Sugarloaf Sailing Club
+  uuid: e801fbf5-5613-4851-bace-c4899532115f
+  city: Christmas Hills
+  state: Victoria
+  country: Australia
+  founded: unknown
+  website: https://www.sailsugarloaf.com/
+  coordinates: [-37.65, 145.32]
+- club:
+  name: Sydney Amateur Sailing Club
+  uuid: ce2bb24d-dba5-4c90-8e8d-114fbf93f6bb
+  city: Mosman
+  state: New South Wales
+  country: Australia
+  founded: 1872
+  website: https://sasc.com.au/
+  coordinates: [-33.83, 151.25]
+- club:
+  name: Thunder Bay Yacht Club
+  uuid: f1b2ca84-490f-40aa-8e18-06f28b3d550a
+  city: Thunder Bay
+  state: Ontario
+  country: Canada
+  founded: 1945
+  website: http://www.tbyc.on.ca/
+  coordinates: [48.41, -89.26]
+- club:
+  name: "Toronto Sailing & Canoe Club"
+  uuid: c9f3bf81-3cbb-40ff-81c7-42c92c352c34
+  city: Toronto
+  state: Ontario
+  country: Canada
+  founded: 1880
+  website: https://www.tscc.net/
+  coordinates: [43.65, -79.38]
+- club:
+  name: Toward Seasports Club
+  uuid: 7077b8db-bfb1-4d13-be29-4a6c611b3119
+  city: Toward
+  state: Scotland
+  country: United Kingdom
+  founded: unknown
+  website: https://www.towardsc.org/
+  coordinates: [55.86, -4.98]
+- club:
+  name: UBC Sailing Club
+  uuid: c9ca6fc3-cf57-4f60-b8dd-3e3be87d0089
+  city: Vancouver
+  state: British Columbia
+  country: Canada
+  founded: unknown
+  website: https://ubcsailing.org/
+  coordinates: [49.26, -123.11]
+- club:
+  name: Vancouver Lake Sailing Club
+  uuid: 2cbfab59-e5bc-4cce-86b8-a39469e81042
+  city: Vancouver
+  state: Washington
+  country: USA
+  founded: 1967
+  website: https://vlsc.org/
+  coordinates: [45.63, -122.67]
+  burgee: vancouver_lake_sc.png
+  description: Blue and white pennant with a large white V at the hoist.
+- club:
+  name: Vincentia Sailing Club
+  uuid: 62fad012-e794-4a77-88f7-d4e09ff7159e
+  city: Vincentia
+  state: New South Wales
+  country: Australia
+  founded: unknown
+  website: https://vincentiasailingclub.com.au/
+  coordinates: [-35.07, 150.68]
+- club:
+  name: Water Rat Sailing Club
+  uuid: 31a7dba0-7fc2-4ca1-a13d-51e3ea730ba8
+  city: Toronto
+  state: Ontario
+  country: Canada
+  founded: 1969
+  website: https://waterratssailingclub.wildapricot.org/
+  coordinates: [43.65, -79.38]
+- club:
+  name: Watersportvereniging Schiphol
+  uuid: ce52e708-8b98-4707-a5ed-7d5746045502
+  city: Aalsmeer
+  state: North Holland
+  country: Netherlands
+  founded: unknown
+  website: https://wvschiphol.nl/
+  coordinates: [52.26, 4.76]
+- club:
+  name: Wayzata Yacht Club
+  uuid: 8638b5ee-670a-43f1-af61-65cc06977cea
+  city: Wayzata
+  state: Minnesota
+  country: USA
+  founded: unknown
+  website: https://wyc.org/
+  coordinates: [44.97, -93.51]
+  burgee: wayzata_yc.png
+  description: White pennant with a blue border, a red square, and the letters W, Y and C.
+- club:
+  name: Western Carolina Sailing Club
+  uuid: 356d01f2-6cb8-4353-a136-1dc84625c829
+  city: Anderson
+  state: South Carolina
+  country: USA
+  founded: unknown
+  website: https://www.wcsc-sailing.org/
+  coordinates: [34.53, -82.65]
+  burgee: western_carolina_sc.png
+  description: Blue pennant with three white sails.
+- club:
+  name: Weston Sailing Club
+  uuid: 108b3458-721b-4539-8357-d7044dffb26d
+  city: Southampton
+  state: England
+  country: United Kingdom
+  founded: unknown
+  website: https://www.weston.org.uk/
+  coordinates: [50.9, -1.4]
+- club:
+  name: Whiskeytown Sailing Club
+  uuid: 78c29cc3-4060-4329-894c-d4ff34eb2b5d
+  city: Redding
+  state: California
+  country: USA
+  founded: unknown
+  website: https://www.whiskeytownsailing.org/
+  coordinates: [40.59, -122.39]
+- club:
+  name: Willamette Sailing Club
+  uuid: e2a17c98-798c-4375-b5b9-eaa93b60a5bc
+  city: Portland
+  state: Oregon
+  country: USA
+  founded: unknown
+  website: https://willamettesailingclub.com/
+  coordinates: [45.52, -122.67]
+- club:
+  name: Windycrest Sailing Club
+  uuid: 33907c99-e1e9-4aed-936d-9e9279dd0210
+  city: Tulsa
+  state: Oklahoma
+  country: USA
+  founded: 1965
+  website: https://www.windycrest.com/
+  coordinates: [36.16, -95.99]
+- club:
+  name: Yacht-Club Lister
+  uuid: d461be81-d8be-4a04-83ef-793990549909
+  city: Meinerzhagen
+  state: North Rhine-Westphalia
+  country: Germany
+  founded: unknown
+  website: https://ycl.de/
+  coordinates: [51.11, 7.64]
+  burgee: yacht_club_lister.png
+  description: White pennant with a green and red Y and the letters Y, C and L.
+- club:
+  name: Yacht- und Ruder-Club Attendorn
+  uuid: d353625b-c1a4-40a6-9f51-82e969558b2f
+  city: Attendorn
+  state: North Rhine-Westphalia
+  country: Germany
+  founded: unknown
+  website: https://www.yrca.de/
+  coordinates: [51.13, 7.9]
+- club:
+  name: York River Yacht Club
+  uuid: 1c914da4-4ae1-466e-ac86-e4001c78da8d
+  city: Gloucester Point
+  state: Virginia
+  country: USA
+  founded: 1985
+  website: https://www.yryc.org/
+  coordinates: [37.28, -76.51]
+  burgee: york_river_yc.png
+  description: Navy pennant with a white inner border and a white YR monogram.
+- club:
+  name: St Helier Yacht Club
+  uuid: 51b44a4a-58e1-4376-bfd9-92c4fd1fd194
+  city: St Helier
+  country: Jersey
+  founded: 1903
+  website: https://www.shyc.je/
+  coordinates: [49.19, -2.11]
+- club:
+  name: Anguilla Youth Sailing Club
+  uuid: b50a3bdd-202c-4549-aa66-70dd38736b2b
+  city: Sandy Ground
+  country: Anguilla
+  founded: unknown
+  website: https://www.anguillayouthsailing.com/
+  coordinates: [18.2, -63.09]
+- club:
+  name: Jolly Harbour Yacht Club
+  uuid: e02d2324-feb6-431b-9640-780e6290c8fa
+  city: Jolly Harbour
+  country: Antigua and Barbuda
+  founded: 1993
+  website: https://www.jhycantigua.com/
+  coordinates: [17.06, -61.89]
+- club:
+  name: Montego Bay Yacht Club
+  uuid: 96eb0c69-7672-4273-92df-52d3b3f3e762
+  city: Montego Bay
+  state: St. James
+  country: Jamaica
+  founded: unknown
+  website: https://www.mobayyachtclub.com/
+  coordinates: [18.47, -77.92]
+- club:
+  name: Royal BVI Yacht Club
+  uuid: b4ab13f3-95aa-4776-b11f-c8e7b83c6d80
+  city: Road Town
+  state: Tortola
+  country: British Virgin Islands
+  founded: 1973
+  website: https://www.royalbviyc.org/
+  coordinates: [18.43, -64.62]
+- club:
+  name: Sint Maarten Yacht Club
+  uuid: b4f33b9e-17aa-4ff8-b621-773d6c9175cc
+  city: Simpson Bay
+  country: Sint Maarten
+  founded: 1980
+  website: https://smyc.com/
+  coordinates: [18.04, -63.1]
+- club:
+  name: Davis Island Yacht Club
+  uuid: 717441a2-3c80-4e20-9015-bcac8bbd6fa1
+  city: Tampa
+  state: Florida
+  country: USA
+  founded: unknown
+  website: https://diyc.org/
+  coordinates: [27.94, -82.46]
+- club:
+  name: Fairhope Yacht Club
+  uuid: 4126d709-911a-4d30-b25f-0376d4de85d5
+  city: Fairhope
+  state: Alabama
+  country: USA
+  founded: 1942
+  website: https://fairhopeyachtclub.com/
+  coordinates: [30.52, -87.9]
+- club:
+  name: Fort Walton Yacht Club
+  uuid: d578b7d3-2e32-4d05-aae6-6a933958d46e
+  city: Fort Walton Beach
+  state: Florida
+  country: USA
+  founded: 1951
+  website: https://www.fwyc.org/
+  coordinates: [30.41, -86.62]
+- club:
+  name: Gulfport Yacht Club
+  uuid: 7aec0539-f115-4249-8142-82b65c56b422
+  city: Gulfport
+  state: Mississippi
+  country: USA
+  founded: 1902
+  website: https://www.gulfportyachtclub.org/
+  coordinates: [30.37, -89.09]
+- club:
+  name: Ocean Springs Yacht Club
+  uuid: 3c836638-831d-4c29-935b-4a52bd1571cb
+  city: Ocean Springs
+  state: Mississippi
+  country: USA
+  founded: 1969
+  website: https://osyc.com/
+  coordinates: [30.41, -88.83]
+  burgee: ocean_springs_yc.png
+  description: Yellow and blue pennant with two gulls and the yellow letters OS.
+- club:
+  name: Pensacola Beach Yacht Club
+  uuid: a0edadad-37d7-4742-aca0-98712f1f48b3
+  city: Pensacola Beach
+  state: Florida
+  country: USA
+  founded: 1980
+  website: https://www.pensacolabeachyachtclub.org/
+  coordinates: [30.33, -87.14]
+- club:
+  name: Point Yacht Club
+  uuid: fce3e28a-0268-46a3-8d76-54c6e990ad62
+  city: Elberta
+  state: Alabama
+  country: USA
+  founded: unknown
+  website: https://pointyachtclub.net/
+  coordinates: [30.41, -87.6]
+- club:
+  name: St. Andrews Bay Yacht Club
+  uuid: 2be63a9e-e3bb-4a02-8ee3-901dc5256309
+  city: Panama City
+  state: Florida
+  country: USA
+  founded: unknown
+  website: https://stabyc.com/
+  coordinates: [30.16, -85.66]
+- club:
+  name: Pelican Yacht Club
+  uuid: 401a3cea-a6ed-42d7-9b04-b7037d4983f7
+  city: Jarreau
+  state: Louisiana
+  country: USA
+  founded: 1960
+  website: https://www.pycl.org/
+  coordinates: [30.62, -91.45]
+- club:
+  name: Buffalo Canoe Club
+  uuid: 58b34f9f-ce8d-4797-9248-38b651361817
+  city: Ridgeway
+  state: Ontario
+  country: Canada
+  founded: 1882
+  website: https://www.buffalocanoeclub.com/
+  coordinates: [42.88, -79.05]
+- club:
+  name: Royal Hamilton Yacht Club
+  uuid: dbd2efb8-da8c-48d5-ac3d-a9db2c6ec288
+  city: Hamilton
+  state: Ontario
+  country: Canada
+  founded: unknown
+  website: https://www.rhyc.ca/
+  coordinates: [43.26, -79.87]
+  burgee: royal_hamilton_yc.png
+  description: White and navy pennant with a crown and a navy letter H.
+- club:
+  name: Bay of Quinte Yacht Club
+  uuid: 0df06192-ffb2-4454-aaf6-71f25bc26559
+  city: Belleville
+  state: Ontario
+  country: Canada
+  founded: 1876
+  website: https://bqyc.ca/
+  coordinates: [44.24, -77.36]
+- club:
+  name: Cobourg Yacht Club
+  uuid: 5aeae46d-0fb3-4ea9-a006-35c98803afe7
+  city: Cobourg
+  state: Ontario
+  country: Canada
+  founded: unknown
+  website: https://cobourgyachtclub.ca/
+  coordinates: [43.96, -78.17]
+- club:
+  name: Dalhousie Yacht Club
+  uuid: 325e7fc5-272c-4ddc-85fb-f0836d79eeed
+  city: St. Catharines
+  state: Ontario
+  country: Canada
+  founded: unknown
+  website: https://www.dalhousieyachtclub.com/
+  coordinates: [43.16, -79.24]
+- club:
+  name: "Frenchman's Bay Yacht Club"
+  uuid: 41ec995d-9d10-4b4e-8f36-fee15ec59392
+  city: Pickering
+  state: Ontario
+  country: Canada
+  founded: unknown
+  website: https://www.fbyc.ca/
+  coordinates: [43.84, -79.09]
+  burgee: frenchmans_bay_yc.png
+  description: Yellow and black swallow-tailed pennant with a black fleur-de-lis.
+- club:
+  name: The Boulevard Club
+  uuid: a9aefedc-dbb1-46ef-80fc-7f37e34d74dd
+  city: Toronto
+  state: Ontario
+  country: Canada
+  founded: 1905
+  website: https://www.boulevardclub.com/
+  coordinates: [43.65, -79.38]
+- club:
+  name: Yacht Club de Québec
+  uuid: 0c2a134e-8705-4f58-81f1-53dc9e0875f0
+  city: Quebec City
+  state: Quebec
+  country: Canada
+  founded: 1861
+  website: https://ycq.ca/
+  coordinates: [46.81, -71.21]
+- club:
+  name: "Ashbridge's Bay Yacht Club"
+  uuid: 7114c709-7341-4c57-b967-b594fbddaa18
+  city: Toronto
+  state: Ontario
+  country: Canada
+  founded: unknown
+  website: https://abyc.ca/
+  coordinates: [43.65, -79.38]
+- club:
+  name: Bayfield Yacht Club
+  uuid: 814ca3ce-75a6-49a3-a096-d1bd145b0a68
+  city: Bayfield
+  state: Wisconsin
+  country: USA
+  founded: unknown
+  website: https://www.bayfieldyachtclub.org/
+  coordinates: [46.47, -91.2]
+- club:
+  name: Little Current Yacht Club
+  uuid: c2402711-6c3c-44bd-9501-24bd1fc057e9
+  city: Little Current
+  state: Ontario
+  country: Canada
+  founded: 2003
+  website: https://www.lcyc.ca/
+  coordinates: [45.98, -81.93]
+- club:
+  name: Macatawa Bay Yacht Club
+  uuid: 8a22e7e3-5493-4d50-900a-c19367c2c987
+  city: Holland
+  state: Michigan
+  country: USA
+  founded: unknown
+  website: https://www.mbyc.com/
+  coordinates: [42.79, -86.11]
+- club:
+  name: Prairie Harbor Yacht Club
+  uuid: 5ecf79c0-1386-421d-a6d1-c5522df091ec
+  city: Pleasant Prairie
+  state: Wisconsin
+  country: USA
+  founded: unknown
+  website: https://www.prairieharboryachtclub.com/
+  coordinates: [42.53, -87.85]
+- club:
+  name: Royal Hamilton Amateur Dinghy Club
+  uuid: adee6e7f-90a2-49ab-8b87-a3d627f123e2
+  city: Paget
+  country: Bermuda
+  founded: 1882
+  website: https://www.rhadc.bm/
+  coordinates: [32.28, -64.78]
+  burgee: royal_hamilton_amateur_dinghy_club.png
+  description: White pennant with a crown and the red letters R.H.A.D.C.
+- club:
+  name: Vallarta Yacht Club
+  uuid: a12e7ec4-43a0-46ce-ae57-deecc16aa8b8
+  city: Nuevo Vallarta
+  state: Nayarit
+  country: Mexico
+  founded: 2002
+  website: https://www.vallartayachtclub.org/
+  coordinates: [20.7, -105.29]
+- club:
+  name: Club Náutico de Cartagena
+  uuid: 08d1dbef-017c-4c15-b604-a8c9ab369bcb
+  city: Cartagena
+  state: Bolívar
+  country: Colombia
+  founded: unknown
+  website: https://www.clubnauticocartagena.com/
+  coordinates: [10.43, -75.54]
+- club:
+  name: Club Náutico Hacoaj
+  uuid: 273b00b2-7acd-41cd-b8bd-31d34251782b
+  city: Tigre
+  state: Buenos Aires
+  country: Argentina
+  founded: unknown
+  website: https://hacoaj.org.ar/
+  coordinates: [-34.42, -58.58]
+- club:
+  name: Yacht Club Uruguayo
+  uuid: 09dc0e0d-256b-47f2-ae0b-92c6b7574c59
+  city: Montevideo
+  state: Montevideo
+  country: Uruguay
+  founded: 1906
+  website: https://ycu.org.uy/
+  coordinates: [-34.91, -56.19]
+- club:
+  name: Club de Yates Higuerillas
+  uuid: 60114bd8-40eb-40be-9764-9e351fb8a429
+  city: Concón
+  state: Valparaíso
+  country: Chile
+  founded: unknown
+  website: https://www.higuerillas.cl/
+  coordinates: [-32.92, -71.52]
+- club:
+  name: Cofradía Náutica del Pacífico
+  uuid: 0d42258e-bd0b-422d-8720-b7a4732aa879
+  city: Algarrobo
+  state: Valparaíso
+  country: Chile
+  founded: unknown
+  website: https://www.cofradianautica.cl/
+  coordinates: [-33.37, -71.67]
+- club:
+  name: Iate Clube de Brasília
+  uuid: fbd19c6b-cb8c-458a-aaac-485d5230cc9b
+  city: Brasília
+  state: Federal District
+  country: Brazil
+  founded: 1960
+  website: https://iateclubedebrasilia.com.br/
+  coordinates: [-15.79, -47.88]
+- club:
+  name: Iate Clube Veleiros da Ilha
+  uuid: 0d14deb1-5ea0-4dad-8d52-00160bd8d2e6
+  city: Florianópolis
+  state: Santa Catarina
+  country: Brazil
+  founded: unknown
+  website: https://icsc.com.br/
+  coordinates: [-27.6, -48.55]
+- club:
+  name: Cabanga Iate Clube
+  uuid: f0f254f1-6be3-4f83-a9ce-5049259b8509
+  city: Recife
+  state: Pernambuco
+  country: Brazil
+  founded: unknown
+  website: https://cabanga.com.br/
+  coordinates: [-8.06, -34.88]
+- club:
+  name: Aberdeen Marina Club
+  uuid: 9fa64091-e7fd-4570-90a0-40b101fc692f
+  city: Aberdeen
+  state: Hong Kong
+  country: China
+  founded: unknown
+  website: https://www.aberdeenmarinaclub.com/
+  coordinates: [22.25, 114.16]
+- club:
+  name: Royal Langkawi Yacht Club
+  uuid: 20a5f710-d55b-46cf-a68b-5ebb11305a8c
+  city: Kuah
+  state: Kedah
+  country: Malaysia
+  founded: 1996
+  website: https://langkawiyachtclub.com/
+  coordinates: [6.32, 99.85]
+- club:
+  name: Royal Bali Yacht Club
+  uuid: 26d1a728-99a0-4074-88f5-efb2ff4735cb
+  city: Denpasar
+  state: Bali
+  country: Indonesia
+  founded: unknown
+  website: https://www.royalbaliyachtclub.com/
+  coordinates: [-8.67, 115.22]
+- club:
+  name: Dubai International Marine Club
+  uuid: f25f43cf-c32f-44c6-9f7b-e91dec1fceec
+  city: Dubai
+  state: Dubai
+  country: United Arab Emirates
+  founded: 1988
+  website: https://www.dimc.ae/
+  coordinates: [25.07, 55.19]
+- club:
+  name: Limassol Nautical Club
+  uuid: 4d6dc60f-b56f-47b3-947a-ee7b0bec7e52
+  city: Limassol
+  country: Cyprus
+  founded: unknown
+  website: https://www.limassolnauticalclub.com/
+  coordinates: [34.69, 33.03]
+- club:
+  name: Nautical Club of Kalamata
+  uuid: a6b2f81e-c686-45cc-b490-6f06cbea9584
+  city: Kalamata
+  state: Peloponnese
+  country: Greece
+  founded: unknown
+  website: https://nok.gr/
+  coordinates: [37.04, 22.11]
+- club:
+  name: Kalev Yacht Club
+  uuid: 7540e0d5-80be-48ad-83a5-dd492b023f55
+  city: Tallinn
+  state: Harju
+  country: Estonia
+  founded: unknown
+  website: https://kjk.ee/
+  coordinates: [59.44, 24.76]
+- club:
+  name: Hellerup Sejlklub
+  uuid: 0c15694a-5511-49d5-939d-b385a06c22ec
+  city: Hellerup
+  state: Capital Region
+  country: Denmark
+  founded: unknown
+  website: https://hellerupsejlklub.dk/
+  coordinates: [55.73, 12.57]
+- club:
+  name: Kjøbenhavns Amatør-Sejlklub
+  uuid: e9090899-a70d-4be8-86c5-c6027dff3895
+  city: Copenhagen
+  state: Capital Region
+  country: Denmark
+  founded: unknown
+  website: https://kas.dk/
+  coordinates: [55.69, 12.57]
+  burgee: kjbenhavns_amatr_sejlklub.png
+  description: White swallow-tailed pennant with a red cross and a red star in the upper hoist.
+- club:
+  name: Aarhus Sejlklub
+  uuid: e04af468-d823-4f9c-8447-de63bde08905
+  city: Aarhus
+  state: Central Jutland
+  country: Denmark
+  founded: unknown
+  website: https://aarhussejlklub.dk/
+  coordinates: [56.15, 10.21]
+- club:
+  name: Skovshoved Sejlklub
+  uuid: 09f955c9-8d9c-4392-86e5-4c76c3675399
+  city: Klampenborg
+  state: Capital Region
+  country: Denmark
+  founded: unknown
+  website: https://skovshovedsejlklub.dk/
+  coordinates: [55.77, 12.58]
+- club:
+  name: Koninklijke Watersport Vereeniging Loosdrecht
+  uuid: 78bf9b61-07d0-424e-9dd1-4b0c6434cb9a
+  city: Loosdrecht
+  state: North Holland
+  country: Netherlands
+  founded: unknown
+  website: https://www.kwvl.nl/
+  coordinates: [52.2, 5.09]
+- club:
+  name: Royal Belgian Sailing Club
+  uuid: b1105b9b-4f47-4d9c-a0a7-bf565037e094
+  city: Zeebrugge
+  state: Flanders
+  country: Belgium
+  founded: 1863
+  website: https://www.rbsc.be/
+  coordinates: [51.33, 3.21]
+- club:
+  name: Union-Yacht-Club Traunsee
+  uuid: 58c3131e-d3e5-4704-bc9a-ba14bec74c44
+  city: Gmunden
+  state: Upper Austria
+  country: Austria
+  founded: unknown
+  website: https://uyct.at/
+  coordinates: [47.92, 13.8]
+- club:
+  name: Kärntner Yachtclub Millstätter See
+  uuid: fa50be08-6af8-43ea-9952-d4cbb27ef961
+  city: Millstatt
+  state: Carinthia
+  country: Austria
+  founded: unknown
+  website: https://yachtclub.at/
+  coordinates: [46.81, 13.57]
+- club:
+  name: Verein Seglerhaus am Wannsee
+  uuid: ce650732-340b-4372-9740-860331b553c6
+  city: Berlin
+  state: Berlin
+  country: Germany
+  founded: unknown
+  website: https://vsaw.de/
+  coordinates: [52.5, 13.34]
+  burgee: verein_seglerhaus_am_wannsee.png
+  description: Pennant with a white cross, black at the hoist and red at the fly.
+- club:
+  name: Kieler Yacht-Club
+  uuid: 01957c62-a488-43b6-967f-37243aa70665
+  city: Kiel
+  state: Schleswig-Holstein
+  country: Germany
+  founded: 1887
+  website: https://www.kyc.de/
+  coordinates: [54.32, 10.14]
+  burgee: kieler_yacht_club.png
+  description: White swallow-tailed pennant with a black cross edged in red.
+- club:
+  name: Lindauer Segler-Club
+  uuid: 99e36668-437d-4166-a50c-06c98194a123
+  city: Lindau
+  state: Bavaria
+  country: Germany
+  founded: unknown
+  website: https://www.lsc.de/
+  coordinates: [47.57, 9.7]
+- club:
+  name: Circolo della Vela Bari
+  uuid: fdb9afaa-c798-41f4-893e-d1724974d1a8
+  city: Bari
+  state: Apulia
+  country: Italy
+  founded: unknown
+  website: https://circolodellavelabari.it/
+  coordinates: [41.13, 16.86]
+- club:
+  name: Yacht Club de la Pointe Rouge
+  uuid: bf4612af-38eb-4817-a750-a242902f364c
+  city: Marseille
+  state: "Provence-Alpes-Côte d'Azur"
+  country: France
+  founded: unknown
+  website: https://www.ycpr.net/
+  coordinates: [43.3, 5.38]
+- club:
+  name: Real Club Náutico de Vigo
+  uuid: fbe3e5bb-8fe2-43cd-8d82-29dfd7822fce
+  city: Vigo
+  state: Galicia
+  country: Spain
+  founded: unknown
+  website: https://rcnauticovigo.com/
+  coordinates: [42.2, -8.73]
+- club:
+  name: Real Club Náutico de Gran Canaria
+  uuid: d20e6558-5aa5-4ad9-b4d4-3ce289081bd2
+  city: Las Palmas de Gran Canaria
+  state: Canary Islands
+  country: Spain
+  founded: 1908
+  website: https://www.rcngc.com/
+  coordinates: [28.13, -15.43]
+- club:
+  name: Real Club Náutico de Tenerife
+  uuid: e9c5a0f8-b4fd-4fc8-98d3-4daea4895d5a
+  city: Santa Cruz de Tenerife
+  state: Canary Islands
+  country: Spain
+  founded: unknown
+  website: https://www.rcnt.es/
+  coordinates: [28.47, -16.25]
+- club:
+  name: Reial Club Marítim de Barcelona
+  uuid: 78cd9b48-d731-45ac-9aa3-e1542c84309c
+  city: Barcelona
+  state: Catalonia
+  country: Spain
+  founded: unknown
+  website: https://www.maritimbarcelona.org/
+  coordinates: [41.38, 2.18]
+- club:
+  name: Real Club Mediterráneo
+  uuid: d0a184c6-ee22-42cc-8f8d-1f12b4df3d30
+  city: Málaga
+  state: Andalusia
+  country: Spain
+  founded: unknown
+  website: https://realclubmediterraneo.com/
+  coordinates: [36.76, -4.44]
+- club:
+  name: Dun Laoghaire Motor Yacht Club
+  uuid: ead06ccc-e905-4433-bceb-60fca0714bcd
+  city: Dún Laoghaire
+  state: County Dublin
+  country: Ireland
+  founded: 1965
+  website: https://www.dmyc.ie/
+  coordinates: [53.29, -6.14]
+  burgee: dun_laoghaire_motor_yc.png
+  description: White pennant outlined in blue with a blue shape at the hoist and a blue wave at the base.
+- club:
+  name: Galway Bay Sailing Club
+  uuid: 7400ff2a-035d-4cdb-9b9f-f5b4a3999a41
+  city: Oranmore
+  state: County Galway
+  country: Ireland
+  founded: unknown
+  website: https://www.gbsc.ie/
+  coordinates: [53.28, -8.95]
+- club:
+  name: Sligo Yacht Club
+  uuid: ef70bc55-bb10-4bc1-8fa3-2cf9990a8525
+  city: Rosses Point
+  state: County Sligo
+  country: Ireland
+  founded: 1821
+  website: https://sligoyachtclub.ie/
+  coordinates: [54.31, -8.56]
+- club:
+  name: Royal Anglesey Yacht Club
+  uuid: 2206f7d6-a4eb-4102-b549-da4c4df1ae31
+  city: Beaumaris
+  state: Wales
+  country: United Kingdom
+  founded: 1885
+  website: https://royalanglesey.org.uk/
+  coordinates: [53.26, -4.09]
+- club:
+  name: Royal Western Yacht Club (Clyde)
+  uuid: 4afc54b5-cb5e-405a-8068-1443c6525e27
+  city: Largs
+  state: Scotland
+  country: United Kingdom
+  founded: 1875
+  website: https://rwyc.org.uk/
+  coordinates: [55.79, -4.87]
+- club:
+  name: Royal Yorkshire Yacht Club
+  uuid: a628776b-e016-44d2-8874-82e1b1bb1a9e
+  city: Bridlington
+  state: England
+  country: United Kingdom
+  founded: 1847
+  website: https://www.ryyc.org.uk/
+  coordinates: [54.08, -0.19]
+- club:
+  name: Royal Cinque Ports Yacht Club
+  uuid: 5eb545d4-9717-4956-973d-9c2f58987a91
+  city: Dover
+  state: England
+  country: United Kingdom
+  founded: 1872
+  website: https://rcpyc.org.uk/
+  coordinates: [51.13, 1.31]
+  burgee: royal_cinque_ports_yc.png
+  description: Dark navy pennant with a heraldic shield under a crown.
+- club:
+  name: Royal Air Force Yacht Club
+  uuid: 9568ff2b-e5fa-41a8-aef9-95f0cc0a6d65
+  city: Hamble
+  state: England
+  country: United Kingdom
+  founded: unknown
+  website: https://rafyc.org.uk/
+  coordinates: [50.87, -1.33]
+  burgee: royal_air_force_yc.png
+  description: Light blue swallow-tailed pennant with a Royal Air Force roundel.
+- club:
+  name: Parkstone Yacht Club
+  uuid: 575f2e2f-e698-4452-8b09-7ab0b4edffa2
+  city: Poole
+  state: England
+  country: United Kingdom
+  founded: unknown
+  website: https://www.parkstoneyachtclub.com/
+  coordinates: [50.74, -1.95]
+- club:
+  name: Lymington Town Sailing Club
+  uuid: 52404481-9340-4f89-be37-34bd1fb35fa3
+  city: Lymington
+  state: England
+  country: United Kingdom
+  founded: unknown
+  website: https://www.ltsc.co.uk/
+  coordinates: [50.76, -1.54]
+- club:
+  name: Bembridge Sailing Club
+  uuid: 82ed9509-41eb-43ce-ae46-dcbe0b2da084
+  city: Bembridge
+  state: England
+  country: United Kingdom
+  founded: 1886
+  website: https://www.bembridgesailingclub.org/
+  coordinates: [50.69, -1.08]
+- club:
+  name: Hamble River Sailing Club
+  uuid: b20671fd-e452-4912-b5e4-741f31f47f1b
+  city: Hamble
+  state: England
+  country: United Kingdom
+  founded: unknown
+  website: https://www.hrsc.org.uk/
+  coordinates: [50.87, -1.33]
+- club:
+  name: Itchenor Sailing Club
+  uuid: 96bff3dd-96dc-4ff0-9ec0-45dc19430fc6
+  city: Itchenor
+  state: England
+  country: United Kingdom
+  founded: 1927
+  website: https://www.itchenorsc.co.uk/
+  coordinates: [50.8, -0.87]
+- club:
+  name: Cruising Association
+  uuid: a3674b70-db70-4c19-a89a-62608b49a765
+  city: London
+  state: England
+  country: United Kingdom
+  founded: 1908
+  website: https://www.theca.org.uk/
+  coordinates: [51.51, -0.13]
+- club:
+  name: Little Ship Club
+  uuid: 22d9723b-f65d-43a4-ac67-6de0ac0abcd6
+  city: London
+  state: England
+  country: United Kingdom
+  founded: 1926
+  website: https://littleshipclub.co.uk/
+  coordinates: [51.51, -0.13]
+- club:
+  name: Royal Cruising Club
+  uuid: a75433a8-4965-48a5-a268-343b125433aa
+  city: London
+  state: England
+  country: United Kingdom
+  founded: 1880
+  website: https://www.rcc.org.uk/
+  coordinates: [51.51, -0.13]
+- club:
+  name: Tamesis Club
+  uuid: 2b1a5f1e-2631-4976-9e4b-dad48635fcb2
+  city: Teddington
+  state: England
+  country: United Kingdom
+  founded: unknown
+  website: https://www.tamesisclub.co.uk/
+  coordinates: [51.43, -0.33]
+- club:
+  name: Upper Thames Sailing Club
+  uuid: 1a747198-2a63-444a-afcc-18d16c987fe3
+  city: Bourne End
+  state: England
+  country: United Kingdom
+  founded: unknown
+  website: https://www.utsc.org.uk/
+  coordinates: [51.58, -0.71]
+- club:
+  name: Medway Yacht Club
+  uuid: 640077c8-f2b5-449b-a86b-61044213fecb
+  city: Rochester
+  state: England
+  country: United Kingdom
+  founded: 1880
+  website: https://medwayyachtclub.com/
+  coordinates: [51.39, 0.5]
+- club:
+  name: Burnham Sailing Club
+  uuid: 1ceefdb3-86b6-4c1f-8363-17e469334ddf
+  city: Burnham-on-Crouch
+  state: England
+  country: United Kingdom
+  founded: 1930
+  website: https://www.burnhamsc.co.uk/
+  coordinates: [51.64, 0.85]
+- club:
+  name: Mombasa Yacht Club
+  uuid: a1e2c8a9-bc27-4ead-a127-28ea0c801eb2
+  city: Mombasa
+  state: Mombasa
+  country: Kenya
+  founded: unknown
+  website: https://www.mombasayachtclub.com/
+  coordinates: [-4.05, 39.67]
+- club:
+  name: Zululand Yacht Club
+  uuid: 4d43f24c-f3ea-435d-a4cf-2693356e6b2b
+  city: Richards Bay
+  state: KwaZulu-Natal
+  country: South Africa
+  founded: unknown
+  website: https://www.zyc.co.za/
+  coordinates: [-28.77, 32.06]
+- club:
+  name: Walvis Bay Yacht Club
+  uuid: ec5063f3-889d-401d-b238-61b9bf551834
+  city: Walvis Bay
+  state: Erongo
+  country: Namibia
+  founded: unknown
+  website: https://www.wbyc.com.na/
+  coordinates: [-22.96, 14.51]
+- club:
+  name: Mooloolaba Yacht Club
+  uuid: 2dd3dbda-be9f-4aae-8f24-94217cff955e
+  city: Mooloolaba
+  state: Queensland
+  country: Australia
+  founded: 1967
+  website: https://www.mooloolabayachtclub.com.au/
+  coordinates: [-26.69, 153.11]
+- club:
+  name: Port Douglas Yacht Club
+  uuid: 353966fe-d454-4220-b784-d3fdffc3bdfa
+  city: Port Douglas
+  state: Queensland
+  country: Australia
+  founded: 2000
+  website: https://pdyc.org/
+  coordinates: [-16.48, 145.46]
+- club:
+  name: Royal Port Nicholson Yacht Club
+  uuid: 8c850b94-19e4-4932-bda9-0bba3adfb033
+  city: Wellington
+  state: Wellington
+  country: New Zealand
+  founded: 1883
+  website: https://www.rpnyc.org.nz/
+  coordinates: [-41.29, 174.78]
+- club:
+  name: Wakatere Boating Club
+  uuid: b70273aa-b720-4dc7-bcf0-eb331de85289
+  city: Auckland
+  state: Auckland
+  country: New Zealand
+  founded: 1926
+  website: https://www.wakatere.org.nz/
+  coordinates: [-36.85, 174.76]
+- club:
+  name: Nelson Yacht Club
+  uuid: 50080f77-34e2-4c11-8862-fde9c59d9a2e
+  city: Nelson
+  state: Nelson
+  country: New Zealand
+  founded: 1857
+  website: https://www.nelsonyachtclub.org.nz/
+  coordinates: [-41.27, 173.28]
+- club:
+  name: Otago Yacht Club
+  uuid: 69ea8c9b-0331-4648-8f81-a99b09f2959c
+  city: Dunedin
+  state: Otago
+  country: New Zealand
+  founded: 1869
+  website: https://www.otagoyachtclub.org.nz/
+  coordinates: [-45.87, 170.5]
+- club:
+  name: East London Yacht Club
+  uuid: dbe9efe4-2ab5-49ab-854e-1e04fdb222ec
+  city: East London
+  state: Eastern Cape
+  country: South Africa
+  founded: unknown
+  website: https://www.elyc.co.za/
+  coordinates: [-33.02, 27.9]
+- club:
+  name: Redhouse Yacht Club
+  uuid: 6404a796-4f84-453b-a8b0-980453bcbf44
+  city: Gqeberha
+  state: Eastern Cape
+  country: South Africa
+  founded: 1904
+  website: https://www.ryc.co.za/
+  coordinates: [-33.96, 25.62]
+- club:
+  name: Deneysville Aquatic Club
+  uuid: 2521957e-08a1-454d-ab27-b5df551edce5
+  city: Deneysville
+  state: Free State
+  country: South Africa
+  founded: 1963
+  website: https://dac-club.co.za/
+  coordinates: [-26.89, 28.1]
+- club:
+  name: Emmarentia Sailing Club
+  uuid: 29468433-1c9b-4ed7-a864-4f3d93d0a6e8
+  city: Johannesburg
+  state: Gauteng
+  country: South Africa
+  founded: unknown
+  website: http://www.emmarentiasailingclub.co.za/
+  coordinates: [-26.2, 28.05]
+- club:
+  name: Lake Deneys Yacht Club
+  uuid: e03e2b99-3512-45ff-8f60-130e462e36c7
+  city: Deneysville
+  state: Free State
+  country: South Africa
+  founded: 1958
+  website: https://www.ldyc.co.za/
+  coordinates: [-26.89, 28.1]
+- club:
+  name: "Mountain Sailing & Sports Club"
+  uuid: da3006e1-b883-4c21-8e8a-975becc8c1af
+  city: Haenertsburg
+  state: Limpopo
+  country: South Africa
+  founded: unknown
+  website: http://www.mountainyachtclub.co.za/
+  coordinates: [-23.94, 29.94]
+- club:
+  name: Stilbaai Yacht Club
+  uuid: 2b78cd42-3ee1-4651-9d39-48367c38c288
+  city: Deneysville
+  state: Free State
+  country: South Africa
+  founded: 1981
+  website: https://www.stilbaaiyachtclub.co.za/
+  coordinates: [-26.89, 28.1]
+- club:
+  name: The Catamaran Club
+  uuid: 98066289-7b79-4327-b97e-2d91a518c364
+  city: Bronkhorstspruit
+  state: Gauteng
+  country: South Africa
+  founded: 1974
+  website: https://www.catclub.co.za/
+  coordinates: [-25.81, 28.74]
+- club:
+  name: Transvaal Yacht Club
+  uuid: 2ea988b7-ab02-4229-ba57-cd0ef1fe993c
+  city: Hartbeespoort
+  state: North West
+  country: South Africa
+  founded: unknown
+  website: https://tyc.co.za/
+  coordinates: [-25.75, 27.87]
+- club:
+  name: Witbank Yacht and Aquatic Club
+  uuid: 23724c28-bcd0-4c29-99f4-276cbb44d3f4
+  city: eMalahleni
+  state: Mpumalanga
+  country: South Africa
+  founded: unknown
+  website: https://wyac.co.za/
+  coordinates: [-25.88, 29.21]
+- club:
+  name: Henley Midmar Yacht Club
+  uuid: c44a90c2-96cb-4fd3-8970-d1393ccc4a0b
+  city: Howick
+  state: KwaZulu-Natal
+  country: South Africa
+  founded: unknown
+  website: https://www.hmyc.org.za/
+  coordinates: [-29.48, 30.22]
+- club:
+  name: Point Yacht Club
+  uuid: fb271ca6-62f6-407e-b7e1-19a6f0eddd48
+  city: Durban
+  state: KwaZulu-Natal
+  country: South Africa
+  founded: 1892
+  website: https://pyc.co.za/
+  coordinates: [-29.86, 31.01]
+- club:
+  name: Courtown Sailing Club
+  uuid: 19dad5e6-8701-4242-ab56-d5096730ab02
+  city: Courtown
+  state: County Wexford
+  country: Ireland
+  founded: unknown
+  website: https://www.courtownsailingclub.com/
+  coordinates: [52.65, -6.23]
+- club:
+  name: Thurrock Yacht Club
+  uuid: 06ad36b4-60b8-41cf-aeb9-c306208f483f
+  city: Grays
+  state: England
+  country: United Kingdom
+  founded: unknown
+  website: https://www.thurrockyachtclub.org.uk/
+  coordinates: [51.48, 0.33]
+- club:
+  name: "Gordon's Bay Yacht Club"
+  uuid: 47617c5b-b870-4c73-852d-e643c08fd754
+  city: "Gordon's Bay"
+  state: Western Cape
+  country: South Africa
+  founded: 1966
+  website: https://www.gbyc.co.za/
+  coordinates: [-34.16, 18.87]
+  burgee: gordons_bay_yc.png
+  description: Black pennant bordered in gold with a gold emblem at the hoist.
+- club:
+  name: Napier Sailing Club
+  uuid: e421ae0e-36fc-4573-b395-25123d4c779e
+  city: Napier
+  state: "Hawke's Bay"
+  country: New Zealand
+  founded: 1891
+  website: https://www.napiersailingclub.org.nz/
+  coordinates: [-39.49, 176.92]
+- club:
+  name: Jedriličarski klub Split
+  uuid: 4b0e5646-dd6b-4d05-bfa2-984705d6fd96
+  city: Split
+  state: Split-Dalmatia
+  country: Croatia
+  founded: unknown
+  website: https://jk-split.hr/
+  coordinates: [43.51, 16.44]
+- club:
+  name: Koninklijke Marine Jacht Club
+  uuid: 4ff1ba8a-f219-4fbb-aaca-07798216a050
+  city: Den Helder
+  state: North Holland
+  country: Netherlands
+  founded: unknown
+  website: https://kmjc-site.e-captain.nl/
+  coordinates: [52.95, 4.79]
+- club:
+  name: Little Ship Club of Canterbury
+  uuid: f73eb4a9-9e81-4c66-8c8b-dd8df5476ad7
+  city: Christchurch
+  state: Canterbury
+  country: New Zealand
+  founded: 1961
+  website: https://littleshipclubcanterbury.wordpress.com/
+  coordinates: [-43.53, 172.64]
+- club:
+  name: Hobsons Bay Yacht Club
+  uuid: e8c583d6-057f-4e4b-b50b-e56083f60c8f
+  city: Williamstown
+  state: Victoria
+  country: Australia
+  founded: 1888
+  website: https://hbyc.org.au/
+  coordinates: [-37.86, 144.89]
+- club:
+  name: St George Sailing Club
+  uuid: 739d26ae-2fbb-4e00-bc6e-baad537f9ea4
+  city: Sans Souci
+  state: New South Wales
+  country: Australia
+  founded: 1897
+  website: https://www.stgeorgesailingclub.com.au/
+  coordinates: [-33.99, 151.13]
+- club:
+  name: Port of Yamba Yacht Club
+  uuid: 73a22795-49c6-45c8-a853-d10bfc9345b8
+  city: Yamba
+  state: New South Wales
+  country: Australia
+  founded: unknown
+  website: https://www.portofyambayachtclub.com.au/
+  coordinates: [-29.44, 153.36]
+- club:
+  name: Grand Bahama Yacht Club
+  uuid: 8c3ac932-6f0b-4755-b938-729b6e5c4aaa
+  city: Freeport
+  state: Grand Bahama
+  country: Bahamas
+  founded: unknown
+  website: https://www.grandbahamayachtclub.com/
+  coordinates: [26.59, -78.55]
+- club:
+  name: Exuma Yacht Club
+  uuid: b13a6729-e156-460b-a0cb-5131d3c04e23
+  city: George Town
+  state: Exuma
+  country: Bahamas
+  founded: unknown
+  website: https://exumayachtclub.wixsite.com/
+  coordinates: [23.51, -75.77]
+- club:
+  name: Trans-Ocean
+  uuid: d72ee250-749d-4130-b39a-00941074e5e2
+  city: Cuxhaven
+  state: Lower Saxony
+  country: Germany
+  founded: unknown
+  website: https://www.trans-ocean.org/
+  coordinates: [53.83, 8.69]
+- club:
+  name: Irish Cruising Club
+  uuid: ca482b39-00ed-4963-a6ee-582fb2cc1259
+  city: Dublin
+  state: County Dublin
+  country: Ireland
+  founded: 1929
+  website: https://irishcruisingclub.com/
+  coordinates: [53.35, -6.26]
+  burgee: irish_cruising_club.png
+  description: Red and black pennant with a white center bearing a black and white ship emblem, above a gold ribbon reading Irish Cruising Club.
+- club:
+  name: Yacht Klub Stal Gdynia
+  uuid: fb4ec8de-ca7d-4bb4-9688-912abae4146f
+  city: Gdynia
+  state: Pomerania
+  country: Poland
+  founded: unknown
+  website: https://www.ykstal.org.pl/
+  coordinates: [54.52, 18.6]
+- club:
+  name: Real Club El Candado
+  uuid: 9f9ab8ca-c127-4a5b-af53-45d66689f73c
+  city: Málaga
+  state: Andalusia
+  country: Spain
+  founded: unknown
+  website: https://www.clubelcandado.com/
+  coordinates: [36.76, -4.44]
+- club:
+  name: Club Náutico Los Nietos
+  uuid: 860c2589-f7b6-4878-aaa1-ad6fc852662a
+  city: Los Nietos
+  state: Murcia
+  country: Spain
+  founded: unknown
+  website: https://cnlosnietos.com/
+  coordinates: [37.65, -0.79]
+- club:
+  name: Real Club Náutico de Estepona
+  uuid: 92f5365e-2720-487e-bb50-971a66df1f59
+  city: Estepona
+  state: Andalusia
+  country: Spain
+  founded: unknown
+  website: https://rcne.es/
+  coordinates: [36.43, -5.15]
+- club:
+  name: Yacht Club Port-Leucate
+  uuid: b4787459-3868-4092-999c-6d41990525d6
+  city: Leucate
+  state: Occitanie
+  country: France
+  founded: unknown
+  website: https://www.ycpl.fr/
+  coordinates: [42.91, 3.03]
+- club:
+  name: Club Vela Blanes
+  uuid: 1fbbf972-d79e-4385-ab03-9f3414f1d780
+  city: Blanes
+  state: Catalonia
+  country: Spain
+  founded: unknown
+  website: https://www.cvblanes.cat/
+  coordinates: [41.68, 2.79]
+- club:
+  name: Yacht Club Lakkios
+  uuid: 6b18acb1-c0bd-43bc-ab76-24e54ed285bb
+  city: Syracuse
+  state: Sicily
+  country: Italy
+  founded: unknown
+  website: https://www.yachtclublakkios.com/
+  coordinates: [37.03, 15.21]
+- club:
+  name: Mediterraneo Yachting Club
+  uuid: 9a3253cb-601d-419c-b137-95f7cc435a59
+  city: Agrigento
+  state: Sicily
+  country: Italy
+  founded: unknown
+  website: http://www.mediterraneoyachtingclub.it/
+  coordinates: [37.31, 13.57]
+- club:
+  name: Club Marítimo de Mahón
+  uuid: 8321a9ef-e3c3-48c0-abd9-42654e9c9d02
+  city: Mahón
+  state: Balearic Islands
+  country: Spain
+  founded: 1900
+  website: https://www.clubmaritimomahon.com/
+  coordinates: [39.89, 4.27]
+- club:
+  name: Société Nautique du Grau du Roi Port Camargue
+  uuid: 0eb9e92e-0ff0-49b2-9dbf-1efa06fdca1a
+  city: Le Grau-du-Roi
+  state: Occitanie
+  country: France
+  founded: unknown
+  website: http://www.sngrpc.com/
+  coordinates: [43.54, 4.14]
+- club:
+  name: Club Nàutic Ciutadella
+  uuid: 31b4a9bd-43cd-4d7d-b6eb-36e30a11786a
+  city: Ciutadella
+  state: Balearic Islands
+  country: Spain
+  founded: unknown
+  website: https://cnciutadella.com/
+  coordinates: [39.99, 3.9]
+- club:
+  name: Société Nautique de La Ciotat
+  uuid: 0fd0de96-a1df-4538-8ebd-c0f3057724d2
+  city: La Ciotat
+  state: "Provence-Alpes-Côte d'Azur"
+  country: France
+  founded: unknown
+  website: https://www.snclaciotat.com/
+  coordinates: [43.18, 5.61]
+- club:
+  name: New York Sailing Center and Yacht Club
+  uuid: 8df20707-80f4-4f1e-be51-e874dfaea356
+  city: Bronx
+  state: New York
+  country: USA
+  founded: 1968
+  website: https://newyorksailing.club/
+  coordinates: [40.85, -73.88]
+- club:
+  name: Ravenna Yacht Club
+  uuid: c3ed7c72-3165-460b-a6e9-05aa6dcba834
+  city: Ravenna
+  state: Emilia-Romagna
+  country: Italy
+  founded: unknown
+  website: https://www.ravennayachtclub.com/
+  coordinates: [44.36, 12.06]
+- club:
+  name: Keyhaven Yacht Club
+  uuid: 886cb86f-58c6-4898-a914-73b38d3ba111
+  city: Keyhaven
+  state: England
+  country: United Kingdom
+  founded: 1928
+  website: https://www.keyhavenyc.co.uk/
+  coordinates: [50.72, -1.57]
+- club:
+  name: James Island Yacht Club
+  uuid: a62d8a7b-a189-408e-a60c-73ca190ed4d0
+  city: Charleston
+  state: South Carolina
+  country: USA
+  founded: 1898
+  website: https://www.jiyc.org/
+  coordinates: [32.79, -79.94]
+- club:
+  name: Gosport Cruising Club
+  uuid: 3dbddd1b-03b2-4ff8-882b-c0ea1545b86e
+  city: Gosport
+  state: England
+  country: United Kingdom
+  founded: 1959
+  website: https://gosportcruising.club/
+  coordinates: [50.8, -1.12]
+- club:
+  name: Royal Highland Yacht Club
+  uuid: c0ff9e16-e014-4d84-a943-a326535c4e02
+  city: Oban
+  state: Scotland
+  country: United Kingdom
+  founded: 1881
+  website: https://rhyc.org.uk/
+  coordinates: [56.41, -5.47]
+- club:
+  name: Starcross Yacht Club
+  uuid: c697ae27-d3cc-448e-bb16-5faa184ead59
+  city: Starcross
+  state: England
+  country: United Kingdom
+  founded: 1957
+  website: https://www.starcrossyc.org.uk/
+  coordinates: [50.62, -3.47]
+- club:
+  name: Topsham Sailing Club
+  uuid: 537147de-1ec6-4850-8d98-f09e9eceba62
+  city: Topsham
+  state: England
+  country: United Kingdom
+  founded: unknown
+  website: https://www.topsham-sc.org.uk/
+  coordinates: [50.69, -3.47]
+- club:
+  name: Helensburgh Sailing Club
+  uuid: dcad20dd-90c3-4dbc-8211-3ba251b316d9
+  city: Rhu
+  state: Scotland
+  country: United Kingdom
+  founded: 1951
+  website: http://www.helensburghsailingclub.co.uk/
+  coordinates: [56.02, -4.78]
+- club:
+  name: East Lothian Yacht Club
+  uuid: a89dff32-59c6-44a1-9979-8320d6090361
+  city: North Berwick
+  state: Scotland
+  country: United Kingdom
+  founded: 1928
+  website: https://elyc.org.uk/
+  coordinates: [56.06, -2.72]
+- club:
+  name: Axe Yacht Club
+  uuid: e686b7e7-fa98-4f82-a35e-87aa5300992c
+  city: Axmouth
+  state: England
+  country: United Kingdom
+  founded: 1936
+  website: https://www.axeyachtclub.co.uk/
+  coordinates: [50.71, -3.05]
+- club:
+  name: "Pasadena Yacht & Country Club"
+  uuid: 2a074d9e-50bd-401a-8f5c-6b3e21ff106b
+  city: St. Petersburg
+  state: Florida
+  country: USA
+  founded: 1924
+  website: https://www.pyccgolf.com/
+  coordinates: [27.77, -82.63]
+- club:
+  name: Jachtclub Scheveningen
+  uuid: 960ce835-6f77-40a2-b9c9-32942e737ffd
+  city: The Hague
+  state: South Holland
+  country: Netherlands
+  founded: unknown
+  website: https://www.jachtclubscheveningen.com/
+  coordinates: [52.08, 4.31]
+- club:
+  name: Skerries Sailing Club
+  uuid: c0e09424-34c7-4f73-96b1-9f8a9d70edd7
+  city: Skerries
+  state: County Dublin
+  country: Ireland
+  founded: unknown
+  website: https://skerriessailingclub.com/
+  coordinates: [53.57, -6.12]
+- club:
+  name: Hamilton Harbor Yacht Club
+  uuid: 459b72b1-24c6-4b44-b35e-69a353d8385f
+  city: Naples
+  state: Florida
+  country: USA
+  founded: unknown
+  website: https://www.hamiltonharboryachtclub.com/
+  coordinates: [26.14, -81.79]
+- club:
+  name: Carlingford Lough Yacht Club
+  uuid: eb8ac372-43ad-4b10-af9f-279a47c06692
+  city: Rostrevor
+  state: Northern Ireland
+  country: United Kingdom
+  founded: unknown
+  website: https://clyc.info/
+  coordinates: [54.1, -6.2]
+- club:
+  name: Sunderland Yacht Club
+  uuid: 4db4ddc9-edbf-48d9-8b3c-34545f994a7d
+  city: Sunderland
+  state: England
+  country: United Kingdom
+  founded: unknown
+  website: https://sunderlandyachtclub.co.uk/
+  coordinates: [54.91, -1.38]
+- club:
+  name: Thorpe Bay Yacht Club
+  uuid: 25b3fe3c-a6db-4ed6-9c6a-ed9dcfa81bb3
+  city: Southend-on-Sea
+  state: England
+  country: United Kingdom
+  founded: unknown
+  website: https://www.tbyc.org/
+  coordinates: [51.54, 0.71]
+- club:
+  name: Blackwater Sailing Club
+  uuid: 94329fa7-5d82-4e02-9943-f60c5e71619a
+  city: Maldon
+  state: England
+  country: United Kingdom
+  founded: 1899
+  website: https://blackwatersailingclub.org.uk/
+  coordinates: [51.72, 0.68]
+- club:
+  name: Benfleet Yacht Club
+  uuid: 718fb7f3-a934-4697-9571-5435896ca39b
+  city: Canvey Island
+  state: England
+  country: United Kingdom
+  founded: unknown
+  website: https://www.benfleetyachtclub.org/
+  coordinates: [51.52, 0.61]
+- club:
+  name: Thames Estuary Yacht Club
+  uuid: cfdb539c-3eda-4920-950a-ea20e9664fbe
+  city: Westcliff-on-Sea
+  state: England
+  country: United Kingdom
+  founded: unknown
+  website: http://www.teyc.co.uk/
+  coordinates: [51.54, 0.69]
+  burgee: thames_estuary_yc.png
+  description: Navy and red striped pennant with a red shield at the hoist bearing three white Essex seaxes.
+- club:
+  name: Island Yacht Club (Canvey Island)
+  uuid: cf50dcd1-29d8-47be-bbd6-409d8898919d
+  city: Canvey Island
+  state: England
+  country: United Kingdom
+  founded: 1936
+  website: https://islandyachtclub.org.uk/
+  coordinates: [51.52, 0.61]
+- club:
+  name: Grimsby and Cleethorpes Yacht Club
+  uuid: 315b3cb3-5538-4cff-a0d7-550ea957101c
+  city: Cleethorpes
+  state: England
+  country: United Kingdom
+  founded: unknown
+  website: https://www.gcyc.co.uk/
+  coordinates: [53.56, -0.03]
+- club:
+  name: Weston Bay Yacht Club
+  uuid: 2142b681-271a-4af6-ac4d-001e650c88b8
+  city: Weston-super-Mare
+  state: England
+  country: United Kingdom
+  founded: 1933
+  website: https://wbyc.co.uk/
+  coordinates: [51.35, -2.98]
+- club:
+  name: Malahide Yacht Club
+  uuid: 23869925-ce6e-47d0-9c01-0d7a01f20bdd
+  city: Malahide
+  state: County Dublin
+  country: Ireland
+  founded: 1958
+  website: https://www.myc.ie/
+  coordinates: [53.45, -6.15]
+- club:
+  name: Coquet Yacht Club
+  uuid: 4d734706-44aa-4e94-9ed2-0dac4c11171c
+  city: Amble
+  state: England
+  country: United Kingdom
+  founded: unknown
+  website: https://www.coquetyachtclub.org.uk/
+  coordinates: [55.33, -1.58]
+- club:
+  name: Mayo Sailing Club
+  uuid: e5a56768-c39a-4257-844f-db75a9173faf
+  city: Rosturk
+  state: County Mayo
+  country: Ireland
+  founded: unknown
+  website: https://www.mayosailingclub.com/
+  coordinates: [53.9, -9.72]
+- club:
+  name: Dingle Sailing Club
+  uuid: a46464cb-dc7c-4f56-82bb-a3a2877afdc2
+  city: Dingle
+  state: County Kerry
+  country: Ireland
+  founded: unknown
+  website: https://www.dinglesailingclub.com/
+  coordinates: [52.14, -10.29]
+- club:
+  name: Club de Veleros Barlovento
+  uuid: 5251455e-f54a-4e00-9fa7-1873a0b5daad
+  city: San Fernando
+  state: Buenos Aires
+  country: Argentina
+  founded: 1958
+  website: https://barlovento.org.ar/
+  coordinates: [-34.45, -58.57]
+- club:
+  name: Kotkan Pursiseura
+  uuid: 54386b80-1998-42c8-9b80-36e378cb9617
+  city: Kotka
+  state: Kymenlaakso
+  country: Finland
+  founded: unknown
+  website: https://kotkanpursiseura.fi/
+  coordinates: [60.47, 26.95]
+- club:
+  name: Carenero Yacht Club
+  uuid: 89b3516b-c20d-46db-b916-a4d1c4ee28ee
+  city: Higuerote
+  state: Miranda
+  country: Venezuela
+  founded: unknown
+  website: https://www.careneroyachtclub.org.ve/
+  coordinates: [10.49, -66.1]
+- club:
+  name: Yachtclub Strelasund
+  uuid: 89b418ad-0424-45e5-8272-4cb228506b7b
+  city: Stralsund
+  state: Mecklenburg-Vorpommern
+  country: Germany
+  founded: unknown
+  website: https://ycstr.de/
+  coordinates: [54.31, 13.08]
+- club:
+  name: Lübecker Yacht-Club
+  uuid: b129351d-3b00-4a71-8fbb-95ab4c5210d2
+  city: Lübeck
+  state: Schleswig-Holstein
+  country: Germany
+  founded: unknown
+  website: https://www.lyc.de/
+  coordinates: [53.87, 10.68]
+- club:
+  name: Yachtclub Fischereihafen
+  uuid: f67d3d16-3756-41a5-a03a-f4a0635077f8
+  city: Travemünde
+  state: Schleswig-Holstein
+  country: Germany
+  founded: unknown
+  website: https://www.yachtclub-fischereihafen.de/
+  coordinates: [53.94, 10.86]
+- club:
+  name: Royal Yacht Club Oostende
+  uuid: c1e5fc45-30db-4490-b619-79eb1a33ad30
+  city: Ostend
+  state: Flanders
+  country: Belgium
+  founded: unknown
+  website: http://www.ryco.be/
+  coordinates: [51.23, 2.92]
+- club:
+  name: WSKLuM
+  uuid: c590c1c9-8f9b-4b70-a307-66496bc6f80b
+  city: Nieuwpoort
+  state: Flanders
+  country: Belgium
+  founded: unknown
+  website: https://www.wsklum.be/
+  coordinates: [51.13, 2.75]
+- club:
+  name: Royal North Sea Yacht Club
+  uuid: ad346c50-6664-45de-a0b8-3f8439fdf5b9
+  city: Ostend
+  state: Flanders
+  country: Belgium
+  founded: unknown
+  website: https://www.rnsyc.be/
+  coordinates: [51.23, 2.92]
+- club:
+  name: Brugse Zeil- en Yachtclub
+  uuid: 79f7d23c-8f9a-4511-a75d-994fd87434c3
+  city: Bruges
+  state: Flanders
+  country: Belgium
+  founded: unknown
+  website: https://www.bzyc.be/
+  coordinates: [51.21, 3.23]
+- club:
+  name: Vlaamse Yachthaven Nieuwpoort
+  uuid: 37659363-0566-43d2-99e1-68d208046bc4
+  city: Nieuwpoort
+  state: Flanders
+  country: Belgium
+  founded: unknown
+  website: https://vynieuwpoort.be/
+  coordinates: [51.13, 2.75]
+- club:
+  name: Real Club de Regatas de Cartagena
+  uuid: ab94c466-7e82-40df-88a2-75480ce897e0
+  city: Cartagena
+  state: Murcia
+  country: Spain
+  founded: unknown
+  website: https://clubregatascartagena.es/
+  coordinates: [37.62, -0.99]
+- club:
+  name: Reial Club Nàutic Portopetro
+  uuid: a87732de-60b1-4110-9fbf-d8c88bf191ca
+  city: Portopetro
+  state: Balearic Islands
+  country: Spain
+  founded: unknown
+  website: https://www.rcnportopetro.com/
+  coordinates: [39.36, 3.21]
+- club:
+  name: Club Nàutic Portocolom
+  uuid: 73a1164e-1a54-4585-9411-02ea9fd36bb3
+  city: Portocolom
+  state: Balearic Islands
+  country: Spain
+  founded: unknown
+  website: https://www.cnportocolom.com/
+  coordinates: [39.43, 3.26]
+- club:
+  name: Niue Yacht Club
+  uuid: e09ddaf9-77a9-44b2-90fd-e5a82a009d73
+  city: Alofi
+  country: Niue
+  founded: unknown
+  website: https://www.niueisland.com/niue-yacht-club
+  coordinates: [-19.05, -169.92]
+- club:
+  name: Hout Bay Yacht Club
+  uuid: add07b08-5ec2-45aa-a257-56306171a448
+  city: Hout Bay
+  state: Western Cape
+  country: South Africa
+  founded: unknown
+  website: https://hbyc.co.za/
+  coordinates: [-34.04, 18.36]
+- club:
+  name: Atlantic Boat Club
+  uuid: dff53fe1-6be4-40c3-a58d-1d58cbde4615
+  city: Hout Bay
+  state: Western Cape
+  country: South Africa
+  founded: unknown
+  website: https://www.atlanticboatclub.co.za/
+  coordinates: [-34.04, 18.36]
+- club:
+  name: False Bay Yacht Club
+  uuid: 290e308a-a96f-4600-94d5-044a8ee71e43
+  city: "Simon's Town"
+  state: Western Cape
+  country: South Africa
+  founded: unknown
+  website: https://fbyc.co.za/
+  coordinates: [-34.19, 18.43]
+- club:
+  name: Yacht Club Peruano
+  uuid: a6f7d906-6bf1-4edf-98bb-fb759db6f222
+  city: La Punta
+  state: Callao
+  country: Peru
+  founded: unknown
+  website: https://ycp.com.pe/
+  coordinates: [-12.07, -77.16]
+- club:
+  name: Christchurch Yacht Club
+  uuid: 116b48c6-ddd2-454e-8983-46a3a10ea882
+  city: Christchurch
+  state: Canterbury
+  country: New Zealand
+  founded: 1891
+  website: https://www.cyc.net.nz/
+  coordinates: [-43.53, 172.64]
+- club:
+  name: Heraklion Sailing Club
+  uuid: 205f1e79-ccdd-4ac6-82ac-f8ccd1b3eeb4
+  city: Heraklion
+  state: Crete
+  country: Greece
+  founded: unknown
+  website: https://www.heryc.gr/
+  coordinates: [35.34, 25.13]
+- club:
+  name: Marianas Yacht Club
+  uuid: 60f6fbf9-fb29-428e-b058-d06bc4a26fa9
+  city: Agat
+  state: Guam
+  country: USA
+  founded: 1969
+  website: https://www.marianasyachtclub.org/
+  coordinates: [13.38, 144.66]
+- club:
+  name: Société Nautique de Sète
+  uuid: bf2e2466-6598-4638-8772-e8fbe3e8162b
+  city: Sète
+  state: Occitanie
+  country: France
+  founded: 1863
+  website: https://snsete.fr/
+  coordinates: [43.4, 3.7]
+- club:
+  name: Flushing Sailing Club
+  uuid: 598565be-352b-418a-be7a-c1c321ebc2da
+  city: Flushing
+  state: England
+  country: United Kingdom
+  founded: 1921
+  website: https://flushingsailingclub.co.uk/
+  coordinates: [50.17, -5.07]
+  burgee: flushing_sc.png
+  description: Black pennant with a large yellow letter V.
+- club:
+  name: Bosham Sailing Club
+  uuid: 73f183c4-f130-40ba-a0a7-069024295105
+  city: Bosham
+  state: England
+  country: United Kingdom
+  founded: 1907
+  website: https://www.boshamsailingclub.com/
+  coordinates: [50.83, -0.84]
+- club:
+  name: Arun Yacht Club
+  uuid: ade18429-b321-4109-a996-89b63e38efd2
+  city: Littlehampton
+  state: England
+  country: United Kingdom
+  founded: 1956
+  website: https://arunyc.co.uk/
+  coordinates: [50.81, -0.54]
+- club:
+  name: Cowes Corinthian Yacht Club
+  uuid: bfd765ed-c810-4e81-ad74-abbbd3a439a6
+  city: Cowes
+  state: England
+  country: United Kingdom
+  founded: 1952
+  website: https://www.ccyc.org.uk/
+  coordinates: [50.76, -1.3]
+  burgee: cowes_corinthian_yc.png
+  description: Red pennant with a gold sailing ship.
+- club:
+  name: East Cowes Sailing Club
+  uuid: c120b2ec-b175-4a1f-b61b-c5e89d728d23
+  city: East Cowes
+  state: England
+  country: United Kingdom
+  founded: unknown
+  website: https://www.eastcowessc.co.uk/
+  coordinates: [50.76, -1.29]
+- club:
+  name: Brading Haven Yacht Club
+  uuid: ddbd2ed9-dd4b-4daa-b408-75c94153a2f0
+  city: Bembridge
+  state: England
+  country: United Kingdom
+  founded: 1949
+  website: https://www.bradinghavenyachtclub.co.uk/
+  coordinates: [50.69, -1.08]
+  burgee: brading_haven_yc.png
+  description: "Navy pennant with a gold bishop's crook emblem."
+- club:
+  name: Lowestoft Cruising Club
+  uuid: 1ec0c665-d760-4d79-8a0a-6926a9aafc24
+  city: Lowestoft
+  state: England
+  country: United Kingdom
+  founded: 1965
+  website: https://www.lowestoftcruisingclub.co.uk/
+  coordinates: [52.48, 1.75]
+- club:
+  name: Chichester Yacht Club
+  uuid: 8e9253a7-6963-4c3e-b773-7612ed4d3a69
+  city: Birdham
+  state: England
+  country: United Kingdom
+  founded: unknown
+  website: https://www.cyc.co.uk/
+  coordinates: [50.79, -0.83]
+- club:
+  name: Castle Cove Sailing Club
+  uuid: e638962e-7dad-4319-8577-fca106d681c5
+  city: Weymouth
+  state: England
+  country: United Kingdom
+  founded: 1923
+  website: https://www.ccsc.org.uk/
+  coordinates: [50.61, -2.45]
+- club:
+  name: Colne Yacht Club
+  uuid: aed7185d-92ee-45a3-ba50-b5bb843d5181
+  city: Brightlingsea
+  state: England
+  country: United Kingdom
+  founded: 1870
+  website: https://colneyachtclub.org.uk/
+  coordinates: [51.82, 1.01]
+- club:
+  name: Lochaber Yacht Club
+  uuid: 2ee2bdf2-040a-489c-98ad-54a6791a9dd7
+  city: Fort William
+  state: Scotland
+  country: United Kingdom
+  founded: 1954
+  website: https://www.lochaber-yacht-club.co.uk/
+  coordinates: [56.82, -5.11]
+- club:
+  name: Brightlingsea Sailing Club
+  uuid: f714eea2-65d0-4483-b950-048f286598b9
+  city: Brightlingsea
+  state: England
+  country: United Kingdom
+  founded: unknown
+  website: https://www.sailbrightlingsea.com/
+  coordinates: [51.82, 1.01]
+- club:
+  name: Forth Corinthian Yacht Club
+  uuid: 39151bcb-bb7b-451e-bae9-0b5fdb6fca68
+  city: Edinburgh
+  state: Scotland
+  country: United Kingdom
+  founded: unknown
+  website: https://www.fcyc.org.uk/
+  coordinates: [55.95, -3.19]
+  burgee: forth_corinthian_yc.png
+  description: Navy pennant with a gold shield bearing a red lion.
+- club:
+  name: Tamar River Sailing Club
+  uuid: 30eac604-30a8-42af-98ef-ade2ec394424
+  city: Plymouth
+  state: England
+  country: United Kingdom
+  founded: unknown
+  website: https://www.tamarriversailingclub.co.uk/
+  coordinates: [50.37, -4.14]
+- club:
+  name: Restronguet Sailing Club
+  uuid: 654716f5-92b8-42a7-a10d-a5024fb02e93
+  city: Mylor Bridge
+  state: England
+  country: United Kingdom
+  founded: 1933
+  website: http://www.restronguetsc.org/
+  coordinates: [50.19, -5.08]
+- club:
+  name: North Haven Yacht Club
+  uuid: 0640caba-0de5-4fde-b2fc-a8bafde4e4ce
+  city: Poole
+  state: England
+  country: United Kingdom
+  founded: 1965
+  website: https://nhyc.org.uk/
+  coordinates: [50.74, -1.95]
+- club:
+  name: Portsmouth Sailing Club
+  uuid: f4b163d9-e9ae-41dc-9f71-36dcf967f461
+  city: Portsmouth
+  state: England
+  country: United Kingdom
+  founded: 1920
+  website: https://www.portsmouthsc.co.uk/
+  coordinates: [50.8, -1.09]
+- club:
+  name: Yarmouth Sailing Club
+  uuid: 4621348d-8d75-4551-a87f-ff19c817e647
+  city: Yarmouth
+  state: England
+  country: United Kingdom
+  founded: unknown
+  website: https://www.yarmouthsailingclub.org.uk/
+  coordinates: [52.61, 1.73]
+- club:
+  name: Saltash Sailing Club
+  uuid: da89e7ec-9187-45a7-842a-4dfca66fb831
+  city: Saltash
+  state: England
+  country: United Kingdom
+  founded: 1898
+  website: https://www.saltashsailingclub.co.uk/
+  coordinates: [50.41, -4.21]
+- club:
+  name: Yealm Yacht Club
+  uuid: fec421e1-69e8-4b80-8b5e-0e96675602b0
+  city: Newton Ferrers
+  state: England
+  country: United Kingdom
+  founded: unknown
+  website: https://yealmyachtclub.co.uk/
+  coordinates: [50.31, -4.04]
+- club:
+  name: Pembrokeshire Yacht Club
+  uuid: 22e2d1d6-7c8d-405c-86a7-6a89ba62f162
+  city: Milford Haven
+  state: Wales
+  country: United Kingdom
+  founded: 1923
+  website: https://pembsyachtclub.org.uk/
+  coordinates: [51.71, -5.04]
+- club:
+  name: Ouse Amateur Sailing Club
+  uuid: c507a0d9-5d09-4b2f-b6a9-b280deb87650
+  city: "King's Lynn"
+  state: England
+  country: United Kingdom
+  founded: unknown
+  website: https://www.oasc.co.uk/
+  coordinates: [52.75, 0.4]
+- club:
+  name: Wexford Harbour Boat and Tennis Club
+  uuid: af9d72db-94fa-4842-92f0-0ce3e26a2f7c
+  city: Wexford
+  state: County Wexford
+  country: Ireland
+  founded: 1873
+  website: https://whbtc.ie/
+  coordinates: [52.34, -6.46]
+  burgee: wexford_harbour_boat_and_tennis_club.png
+  description: White round crest with a red border, two red fish and the words Wexford Harbour Boat and Tennis Club Founded 1873.
+- club:
+  name: Weymouth Sailing Club
+  uuid: 35b57124-ace2-4479-9703-64d2d56892be
+  city: Weymouth
+  state: England
+  country: United Kingdom
+  founded: 1913
+  website: https://www.wsc.org.uk/
+  coordinates: [50.61, -2.45]
+  burgee: weymouth_sc.png
+  description: Red pennant with a yellow panel bearing a black Viking ship.
+- club:
+  name: Orkney Sailing Club
+  uuid: 57fbd073-f865-4024-8637-bc21e27a329a
+  city: Kirkwall
+  state: Scotland
+  country: United Kingdom
+  founded: unknown
+  website: http://www.orkneysailingclub.org.uk/
+  coordinates: [58.98, -2.96]
+- club:
+  name: Port of Falmouth Sailing Association
+  uuid: 2bc6e0b4-bad5-4f05-96c3-1a2966e9b0be
+  city: Falmouth
+  state: England
+  country: United Kingdom
+  founded: unknown
+  website: http://www.pofsa.co.uk/
+  coordinates: [50.16, -5.07]
+- club:
+  name: Newport and Uskmouth Sailing Club
+  uuid: fdfcd358-3be5-47ba-8b5b-53567afc3df1
+  city: Newport
+  state: Wales
+  country: United Kingdom
+  founded: unknown
+  website: https://www.nusc.co.uk/
+  coordinates: [51.57, -2.98]
+  burgee: newport_and_uskmouth_sc.png
+  description: Navy swallow-tailed pennant with an orange cross and the letters N, U, S and C.
+- club:
+  name: Orwell Yacht Club
+  uuid: 344dc743-3c83-4beb-9675-52df3514fdbf
+  city: Ipswich
+  state: England
+  country: United Kingdom
+  founded: 1918
+  website: https://orwellyachtclub.org.uk/
+  coordinates: [52.06, 1.15]
+- club:
+  name: Port Navas Yacht Club
+  uuid: ab567036-e6be-4970-8210-523d5d44420d
+  city: Port Navas
+  state: England
+  country: United Kingdom
+  founded: 1958
+  website: https://pnyc.co.uk/
+  coordinates: [50.11, -5.14]
+  burgee: port_navas_yc.png
+  description: "Black and white pennant with a gold ship's wheel and the letters P, N, Y and C."
+- club:
+  name: Brighton Marina Yacht Club
+  uuid: c5fc000c-afc5-4c53-986e-0c3cfa4bb042
+  city: Brighton
+  state: England
+  country: United Kingdom
+  founded: 1978
+  website: https://bmyc.uk/
+  coordinates: [50.82, -0.14]
+- club:
+  name: Dell Quay Sailing Club
+  uuid: b0b0b040-401c-4b2b-b10f-026351611f9a
+  city: Chichester
+  state: England
+  country: United Kingdom
+  founded: 1925
+  website: https://www.dellquaysc.co.uk/
+  coordinates: [50.84, -0.78]
+  burgee: dell_quay_sc.png
+  description: Red and yellow swallow-tailed pennant in wavy bands.
+- club:
+  name: Brixham Yacht Club
+  uuid: e6a0407d-12a6-43d0-aaaa-faf94175d033
+  city: Brixham
+  state: England
+  country: United Kingdom
+  founded: unknown
+  website: https://www.brixhamyachtclub.com/
+  coordinates: [50.4, -3.51]
+- club:
+  name: Blackpool and Fleetwood Yacht Club
+  uuid: 212d2c99-1154-4138-9af5-2fe04113b445
+  city: Fleetwood
+  state: England
+  country: United Kingdom
+  founded: 1906
+  website: https://www.bfyc.org.uk/
+  coordinates: [53.92, -3.01]
+  burgee: blackpool_and_fleetwood_yc.png
+  description: Navy pennant with a white gull in flight.
+- club:
+  name: Ballyholme Yacht Club
+  uuid: feea0cf3-531c-45d7-bf7a-553d6f26939b
+  city: Bangor
+  state: Northern Ireland
+  country: United Kingdom
+  founded: 1900
+  website: https://ballyholme.com/
+  coordinates: [54.66, -5.67]
+- club:
+  name: Hoo Ness Yacht Club
+  uuid: d8a39e9a-e01c-46b1-a1f8-6c61d71ba87e
+  city: Hoo
+  state: England
+  country: United Kingdom
+  founded: unknown
+  website: https://www.hooness.org.uk/
+  coordinates: [52.18, 1.3]
+- club:
+  name: Aberdeen and Stonehaven Yacht Club
+  uuid: afd35f97-8c1a-47a8-99f7-bf5467c57b95
+  city: Stonehaven
+  state: Scotland
+  country: United Kingdom
+  founded: unknown
+  website: https://asyc.org.uk/
+  coordinates: [56.96, -2.21]
+- club:
+  name: Largs Sailing Club
+  uuid: d88eaff1-d51b-47a3-9d70-5e56bc3552c7
+  city: Largs
+  state: Scotland
+  country: United Kingdom
+  founded: 1936
+  website: https://www.largssc.co.uk/
+  coordinates: [55.79, -4.87]
+- club:
+  name: Costa Rica Yacht Club
+  uuid: d3239ed2-265e-416a-b1fe-2a8515202fa1
+  city: Puntarenas
+  state: Puntarenas
+  country: Costa Rica
+  founded: 1955
+  website: http://www.costaricayachtclub.com/
+  coordinates: [9.98, -84.83]
+- club:
+  name: Iate Clube Armação de Búzios
+  uuid: 08f433a6-339c-456a-99bb-9c3b3bf3abfc
+  city: Armação dos Búzios
+  state: Rio de Janeiro
+  country: Brazil
+  founded: 1973
+  website: https://icab.esp.br/
+  coordinates: [-22.78, -41.95]
+- club:
+  name: Isle of Man Yacht Club
+  uuid: 5aa75f5c-81f3-4b66-b142-dfe917b75174
+  city: Port St Mary
+  country: Isle of Man
+  founded: 1910
+  website: https://www.iomyc.com/
+  coordinates: [54.08, -4.74]
+- club:
+  name: Yacht Club Puerto Madero
+  uuid: b4001255-f26d-4003-b531-6e041a812f51
+  city: Buenos Aires
+  state: Buenos Aires
+  country: Argentina
+  founded: unknown
+  website: https://www.yacht.com.ar/
+  coordinates: [-34.62, -58.36]
+- club:
+  name: Knysna Yacht Club
+  uuid: 45717892-b4df-44e5-88c3-8c4797d4095d
+  city: Knysna
+  state: Western Cape
+  country: South Africa
+  founded: 1910
+  website: https://knysnayachtclub.com/
+  coordinates: [-34.04, 23.05]
+- club:
+  name: Phuket Yacht Club
+  uuid: 704aa7a9-d216-4027-8c98-29fda1092452
+  city: Chalong
+  state: Phuket
+  country: Thailand
+  founded: unknown
+  website: https://phuketyachtclub.com/
+  coordinates: [7.85, 98.33]
+- club:
+  name: Royal Tay Yacht Club
+  uuid: 8ea1b7c3-cb92-4c1a-b779-9af3c5a2f179
+  city: Broughty Ferry
+  state: Scotland
+  country: United Kingdom
+  founded: 1885
+  website: https://www.royaltay.org/
+  coordinates: [56.47, -2.87]
+- club:
+  name: Monte Real Club de Yates
+  uuid: 3da2cd0f-60b1-4451-8c08-beb3a4620f47
+  city: Baiona
+  state: Galicia
+  country: Spain
+  founded: unknown
+  website: https://www.mrcyb.es/
+  coordinates: [42.09, -8.85]
+- club:
+  name: Yacht Club Port Bourgas
+  uuid: 69079744-880d-4636-a705-01885137b4b4
+  city: Burgas
+  country: Bulgaria
+  founded: unknown
+  website: http://www.yachtclubportbourgas.org/
+  coordinates: [42.49, 27.47]
+- club:
+  name: Mieco Beach Yacht Club
+  uuid: 56bb9cf7-3389-4c45-99e0-1b52d52c4f8b
+  city: Majuro
+  country: Marshall Islands
+  founded: 2004
+  website: https://www.sailingmarshallislands.com/
+  coordinates: [7.09, 171.38]
+  burgee: mieco_beach_yc.png
+  description: Blue pennant with a white and red palm tree.
+- club:
+  name: Yacht Club Port Varna
+  uuid: 45b4cf25-716e-4102-a745-7e72c47ba1c5
+  city: Varna
+  country: Bulgaria
+  founded: unknown
+  website: https://yachtclubportvarna.com/
+  coordinates: [43.21, 27.92]
+- club:
+  name: Port Owen Yacht Club
+  uuid: 6475b606-f0c5-45a9-bb5d-422797e0383c
+  city: Velddrif
+  state: Western Cape
+  country: South Africa
+  founded: unknown
+  website: https://www.portowenyc.co.za/
+  coordinates: [-32.79, 18.18]
+- club:
+  name: West Mersea Yacht Club
+  uuid: 7b327ea6-f0a0-4924-8209-91e00df99fbb
+  city: West Mersea
+  state: England
+  country: United Kingdom
+  founded: 1899
+  website: https://www.wmyc.org.uk/
+  coordinates: [51.78, 0.92]
+- club:
+  name: Bradwell Quay Yacht Club
+  uuid: e8ec1f29-9f76-4b7d-8ad3-0608cd39a696
+  city: Bradwell-on-Sea
+  state: England
+  country: United Kingdom
+  founded: 1952
+  website: https://bradwellquayyc.org/
+  coordinates: [51.73, 0.91]
+  burgee: bradwell_quay_yc.png
+  description: Green and blue swallow-tailed pennant with a white stylized sailboat.
+- club:
+  name: Club de Yates Palmira
+  uuid: 4bd22a3a-80d1-47b4-b301-2512cd753a66
+  city: Nueva Palmira
+  state: Colonia
+  country: Uruguay
+  founded: 1987
+  website: https://marinapalmira.com/
+  coordinates: [-33.87, -58.41]
+- club:
+  name: Opua Cruising Club
+  uuid: f441365e-ebe3-4404-9b9d-a892133d44a0
+  city: Opua
+  state: Northland
+  country: New Zealand
+  founded: unknown
+  website: https://opuacruisingclub.co.nz/
+  coordinates: [-35.31, 174.12]
+- club:
+  name: Naval Point Club
+  uuid: e4b54f0b-9c3f-4024-a15a-2af57af1d4d2
+  city: Lyttelton
+  state: Canterbury
+  country: New Zealand
+  founded: 2001
+  website: https://www.navalpoint.co.nz/
+  coordinates: [-43.6, 172.72]
+- club:
+  name: Club Náutico Dos Mares
+  uuid: cf45b93d-13bf-4d1f-b56d-8fbb16d162a5
+  city: La Manga del Mar Menor
+  state: Murcia
+  country: Spain
+  founded: unknown
+  website: https://clubnauticodosmares.com/
+  coordinates: [37.65, -0.72]
+- club:
+  name: Curaçao Yacht Club
+  uuid: 65d25712-0e35-4594-9190-a8a99a0dc9e8
+  city: Willemstad
+  country: Curaçao
+  founded: 1962
+  website: https://www.curacaoyachtclub.com/
+  coordinates: [12.11, -68.94]
+- club:
+  name: Club de Regatas Mar Menor
+  uuid: 19a6ea5c-e466-437d-bea0-f8d85d3389db
+  city: Los Urrutias
+  state: Murcia
+  country: Spain
+  founded: unknown
+  website: http://www.clubregatasmarmenor.com/
+  coordinates: [37.68, -0.83]
+- club:
+  name: "Hampton Harbour Boat & Sailing Club"
+  uuid: d5e007f6-a2f5-4397-bb5f-439775b3032f
+  city: Hampton
+  state: Victoria
+  country: Australia
+  founded: 1967
+  website: https://www.hamptonharbour.com.au/
+  coordinates: [-37.94, 145.0]
+- club:
+  name: Townsville Yacht Club
+  uuid: 893fcf10-213d-4a60-be9f-a117d6c7be37
+  city: Townsville
+  state: Queensland
+  country: Australia
+  founded: unknown
+  website: https://www.townsvilleyachtclub.com.au/
+  coordinates: [-19.26, 146.82]
+- club:
+  name: Princess Royal Sailing Club
+  uuid: c9826ff3-a11a-483a-baca-9ef2c7925842
+  city: Albany
+  state: Western Australia
+  country: Australia
+  founded: 1909
+  website: https://www.prsc.com.au/
+  coordinates: [-35.02, 117.88]
+- club:
+  name: Yorkeys Knob Boating Club
+  uuid: 45a7e304-e17d-490b-8abe-aa595ddd4f13
+  city: Yorkeys Knob
+  state: Queensland
+  country: Australia
+  founded: unknown
+  website: https://www.ykbc.com.au/
+  coordinates: [-16.81, 145.72]
+- club:
+  name: Warsash Sailing Club
+  uuid: d829a099-bddc-4e2a-b77a-85a2e1554640
+  city: Warsash
+  state: England
+  country: United Kingdom
+  founded: unknown
+  website: https://warsashsc.org.uk/
+  coordinates: [50.85, -1.3]
+- club:
+  name: WSV Aeolus
+  uuid: 1fce4bd9-651d-4731-8fbe-284334feffa3
+  city: Amsterdam
+  state: North Holland
+  country: Netherlands
+  founded: unknown
+  website: https://www.wsv-aeolus.nl/
+  coordinates: [52.37, 4.89]
+- club:
+  name: Watersport Vereniging Amsterdam
+  uuid: 77bbfe1d-4853-44f2-ba7b-0916ab893d9f
+  city: Amsterdam
+  state: North Holland
+  country: Netherlands
+  founded: unknown
+  website: https://www.wvamsterdam.info/
+  coordinates: [52.37, 4.89]
+- club:
+  name: Darwin Sailing Club
+  uuid: 5440fbf9-ffee-4ff3-a557-9278d17feadd
+  city: Darwin
+  state: Northern Territory
+  country: Australia
+  founded: unknown
+  website: https://www.darwinsailingclub.com.au/
+  coordinates: [-12.46, 130.84]
+- club:
+  name: Penzance Sailing Club
+  uuid: 2a2b841b-b24c-41ca-bde1-2cdae42553aa
+  city: Penzance
+  state: England
+  country: United Kingdom
+  founded: 1939
+  website: https://pzsc.org.uk/
+  coordinates: [50.12, -5.54]
+- club:
+  name: Royal Port Pirie Yacht Club
+  uuid: 8fd3fa6d-93a7-4dd3-b5dc-695795d73771
+  city: Port Pirie
+  state: South Australia
+  country: Australia
+  founded: unknown
+  website: https://royalportpirieyachtclub.org.au/
+  coordinates: [-33.18, 138.01]
+- club:
+  name: Gosford Sailing Club
+  uuid: 26ea13d5-9f39-471d-a3a1-0f0714c658e0
+  city: Gosford
+  state: New South Wales
+  country: Australia
+  founded: 1932
+  website: https://www.gosfordsailingclub.com/
+  coordinates: [-33.42, 151.34]
+- club:
+  name: Southport Yacht Club (Australia)
+  uuid: 5ee53730-4983-4459-82d9-c0f4228afe54
+  city: Main Beach
+  state: Queensland
+  country: Australia
+  founded: 1946
+  website: https://southportyachtclub.com.au/
+  coordinates: [-27.98, 153.43]
+- club:
+  name: Dinah Beach Cruising Yacht Association
+  uuid: ec71e80a-7322-4c0b-b41d-6ba375f61c68
+  city: Darwin
+  state: Northern Territory
+  country: Australia
+  founded: unknown
+  website: https://www.dbcya.com.au/
+  coordinates: [-12.46, 130.84]
+- club:
+  name: Real Club Náutico de La Coruña
+  uuid: f3e28112-af6a-4b9d-a1f1-072408e1b66d
+  city: A Coruña
+  state: Galicia
+  country: Spain
+  founded: unknown
+  website: https://rcncoruna.com/
+  coordinates: [43.35, -8.41]
+- club:
+  name: Clube Naval de Ponta Delgada
+  uuid: 2f369336-d93a-4da4-9bb4-4309d82d877d
+  city: Ponta Delgada
+  state: Azores
+  country: Portugal
+  founded: unknown
+  website: https://cnpdl.pt/
+  coordinates: [37.74, -25.67]
+- club:
+  name: Coastal Cruising Club of Australia
+  uuid: cf7af4bb-f4ec-4daf-bf79-c9db9a4f31ff
+  city: Sydney
+  state: New South Wales
+  country: Australia
+  founded: 1969
+  website: https://www.coastalcruisingclub.org/
+  coordinates: [-33.87, 151.21]
+- club:
+  name: Robe Yacht Club
+  uuid: e1472722-a1cc-4bf8-a62e-83bc8035baaf
+  city: Robe
+  state: South Australia
+  country: Australia
+  founded: unknown
+  website: http://www.robeyachtclub.org.au/
+  coordinates: [-37.19, 140.0]
+- club:
+  name: Whitsunday Sailing Club
+  uuid: 2b99f306-d206-466f-bd65-49eb2ef2d02a
+  city: Airlie Beach
+  state: Queensland
+  country: Australia
+  founded: unknown
+  website: https://www.whitsundaysailingclub.com.au/
+  coordinates: [-20.27, 148.72]
+- club:
+  name: Port Stephens Yacht Club
+  uuid: a812d45a-e472-4c42-9bec-0132eda1b4bb
+  city: Nelson Bay
+  state: New South Wales
+  country: Australia
+  founded: unknown
+  website: https://www.psyc.com.au/
+  coordinates: [-32.72, 152.14]
+- club:
+  name: Clube Naval Povoense
+  uuid: 59b09262-ab6f-4760-9984-1bdfd01cf2d9
+  city: Póvoa de Varzim
+  state: Porto
+  country: Portugal
+  founded: unknown
+  website: http://www.clubenavalpovoense.com/
+  coordinates: [41.38, -8.76]
+- club:
+  name: Clube Naval da Nazaré
+  uuid: 1b5ecac3-205d-4357-90ee-5f4acea68d52
+  city: Nazaré
+  state: Leiria
+  country: Portugal
+  founded: unknown
+  website: http://www.cnnazare.pt/
+  coordinates: [39.6, -9.07]
+- club:
+  name: Joinville Iate Clube
+  uuid: e4d4cd7f-9a2a-4304-b2f2-38cb2b345c39
+  city: Joinville
+  state: Santa Catarina
+  country: Brazil
+  founded: unknown
+  website: https://joinvilleiateclube.com.br/
+  coordinates: [-26.3, -48.85]
+- club:
+  name: Guernsey Yacht Club
+  uuid: 5acbec70-b02b-4944-9c82-4a96daf11a77
+  city: St Peter Port
+  country: Guernsey
+  founded: unknown
+  website: https://www.gyc.org.gg/
+  coordinates: [49.46, -2.54]
+  burgee: guernsey_yc.png
+  description: White pennant with a red fly and a red shield bearing three gold lions.
+- club:
+  name: Bellerive Yacht Club
+  uuid: 4143f350-a844-4fed-9195-8fceb5f75211
+  city: Bellerive
+  state: Tasmania
+  country: Australia
+  founded: unknown
+  website: https://www.byc.org.au/
+  coordinates: [-42.88, 147.37]
+- club:
+  name: Bay of Islands Yacht Club
+  uuid: ab226afb-6e09-40e1-874c-848ee367704e
+  city: Opua
+  state: Northland
+  country: New Zealand
+  founded: unknown
+  website: https://www.boiyc.org/
+  coordinates: [-35.31, 174.12]
+- club:
+  name: Clube Naval Charitas
+  uuid: 2b1268c9-8ee9-45c0-8e73-5d276e71e184
+  city: Niterói
+  state: Rio de Janeiro
+  country: Brazil
+  founded: unknown
+  website: https://cncharitas.org.br/
+  coordinates: [-22.89, -43.11]
+- club:
+  name: Club Náutico de Rianxo
+  uuid: e789a1df-0daf-4e56-bd2a-e84f0b37a292
+  city: Rianxo
+  state: Galicia
+  country: Spain
+  founded: unknown
+  website: http://www.nauticorianxo.com/
+  coordinates: [42.69, -8.79]
+- club:
+  name: Tallinn Yacht Club
+  uuid: 5c1f7af7-17b6-4bde-b8f6-046a48bc4e94
+  city: Tallinn
+  state: Harju
+  country: Estonia
+  founded: unknown
+  website: https://tjk.ee/
+  coordinates: [59.44, 24.76]
+- club:
+  name: Royal Belau Yacht Club
+  uuid: f31ceafc-679b-49d5-98d0-f46b34052aef
+  city: Koror
+  country: Palau
+  founded: unknown
+  website: http://rbycpalau.blogspot.com/
+  coordinates: [7.23, 134.13]
+  burgee: royal_belau_yc.png
+  description: Light blue pennant with a yellow moon and a black sailboat.
+- club:
+  name: Kaneohe Yacht Club
+  uuid: f631fc05-c30a-419d-a87b-7cd8faa194e7
+  city: Kaneohe
+  state: Hawaii
+  country: USA
+  founded: unknown
+  website: https://kaneoheyachtclub.com/
+  coordinates: [21.42, -157.8]
+- club:
+  name: Rio Yacht Club
+  uuid: b6df1f44-f798-4829-82d4-a4ab167f63ee
+  city: Niterói
+  state: Rio de Janeiro
+  country: Brazil
+  founded: 1914
+  website: https://rycsailing.com.br/
+  coordinates: [-22.89, -43.11]
+- club:
+  name: Iate Clube de Angra dos Reis
+  uuid: 03b3b5a7-30ec-4ef5-9fda-6e97f47aaa2f
+  city: Angra dos Reis
+  state: Rio de Janeiro
+  country: Brazil
+  founded: unknown
+  website: https://icar.com.br/
+  coordinates: [-23.16, -44.23]
+- club:
+  name: Clube Náutico Cabo Frio
+  uuid: 07fd9c90-39ad-4e82-acfe-45ee8d13875c
+  city: Cabo Frio
+  state: Rio de Janeiro
+  country: Brazil
+  founded: unknown
+  website: https://cncf.com.br/
+  coordinates: [-22.74, -42.02]
+- club:
+  name: Club Nautique de la Marine à Brest
+  uuid: 4e24e67c-f43f-4f62-9530-9baeaa11dc07
+  city: Brest
+  state: Brittany
+  country: France
+  founded: unknown
+  website: https://brest.clubnautiquemarine.fr/
+  coordinates: [48.39, -4.49]
+- club:
+  name: Puerto Lucía Yacht Club
+  uuid: fd3cdd49-9bb3-4d81-a74e-31e3b87f9b14
+  city: La Libertad
+  state: Santa Elena
+  country: Ecuador
+  founded: unknown
+  website: https://puertolucia.com.ec/
+  coordinates: [-2.22, -80.91]
+- club:
+  name: Cayman Islands Yacht Club
+  uuid: 9c9eead7-7ec5-4649-8fd4-de1d7e1bf449
+  city: West Bay
+  country: Cayman Islands
+  founded: unknown
+  website: https://www.ciyachtclub.ky/
+  coordinates: [19.37, -81.39]
+- club:
+  name: Cardiff Yacht Club
+  uuid: 76709325-8a6e-45d1-b074-938560f83227
+  city: Cardiff
+  state: Wales
+  country: United Kingdom
+  founded: 1900
+  website: https://www.cardiffyachtclub.org.uk/
+  coordinates: [51.48, -3.18]
+- club:
+  name: Upnor Sailing Club
+  uuid: 00a57808-da45-4608-84ce-9cedeacba0d0
+  city: Upnor
+  state: England
+  country: United Kingdom
+  founded: unknown
+  website: http://usc.upnor.info/
+  coordinates: [51.41, 0.53]
+- club:
+  name: Club de Mar Almería
+  uuid: 81f6b598-2774-447b-b05f-b0760e733789
+  city: Almería
+  state: Andalusia
+  country: Spain
+  founded: unknown
+  website: https://clubdemaralmeria.es/
+  coordinates: [36.87, -2.31]
+- club:
+  name: Real Club Náutico de El Puerto de Santa María
+  uuid: fbb4611c-7856-4dcb-9ead-3160b0ed4006
+  city: El Puerto de Santa María
+  state: Andalusia
+  country: Spain
+  founded: unknown
+  website: https://www.rcnpsm.es/
+  coordinates: [36.6, -6.23]
+- club:
+  name: Vliho Yacht Club
+  uuid: f521ce78-00f3-4d84-8a42-34d3875917b5
+  city: Vlychó
+  state: Ionian Islands
+  country: Greece
+  founded: 2003
+  website: https://vlihoyc.com/
+  coordinates: [38.68, 20.7]
+- club:
+  name: Cardiff Bay Yacht Club
+  uuid: 3c8fcc46-37aa-448c-a62a-85444ea04107
+  city: Cardiff
+  state: Wales
+  country: United Kingdom
+  founded: unknown
+  website: https://cbyc.co.uk/
+  coordinates: [51.48, -3.18]
+- club:
+  name: Manta Yacht Club
+  uuid: 13691565-8ebc-4f54-b3c5-616187d40659
+  city: Manta
+  state: Manabí
+  country: Ecuador
+  founded: unknown
+  website: https://www.mantayachtclub.com/
+  coordinates: [-1.03, -80.82]
+- club:
+  name: Keppel Bay Sailing Club
+  uuid: c994ec49-ca33-4895-8c7a-fc86c5035a74
+  city: Yeppoon
+  state: Queensland
+  country: Australia
+  founded: 1957
+  website: https://kbsc.com.au/
+  coordinates: [-23.13, 150.74]
+- club:
+  name: Koninklijke Liberty Yacht Club
+  uuid: 91a85001-c0dd-4f50-a6a4-28dfc7e4f42d
+  city: Nieuwpoort
+  state: Flanders
+  country: Belgium
+  founded: unknown
+  website: https://klyc.be/
+  coordinates: [51.13, 2.75]
+- club:
+  name: Antwerps Zeilcentrum Noordkasteel
+  uuid: 64f67ecc-7b53-42dc-a131-460ccf41a829
+  city: Antwerp
+  state: Flanders
+  country: Belgium
+  founded: 1988
+  website: https://www.azcn.be/
+  coordinates: [51.22, 4.4]
+- club:
+  name: Gulf Harbour Yacht and Country Club
+  uuid: 81666f2e-a72b-43e7-986f-29e06d6abf96
+  city: Fort Myers
+  state: Florida
+  country: USA
+  founded: unknown
+  website: https://www.gulfharbour.com/
+  coordinates: [26.64, -81.87]
+- club:
+  name: Cat Cay Yacht Club
+  uuid: acb78e41-ab1c-4482-8330-dcbd9e09cd7b
+  city: Cat Cay
+  state: Bimini
+  country: Bahamas
+  founded: unknown
+  website: https://www.catcayyachtclub.com/
+  coordinates: [25.55, -79.28]
+- club:
+  name: Club Marítimo Varadero
+  uuid: 61daa8eb-8f5b-44c0-aada-e37f12d12fa2
+  city: Las Palmas de Gran Canaria
+  state: Canary Islands
+  country: Spain
+  founded: unknown
+  website: https://clubmaritimovaradero.com/
+  coordinates: [28.13, -15.43]
+- club:
+  name: Moreton Bay Boat Club
+  uuid: af3ef72f-f74b-44d6-b6b6-b7363d517cc6
+  city: Scarborough
+  state: Queensland
+  country: Australia
+  founded: unknown
+  website: https://mbbc.org.au/
+  coordinates: [-27.21, 153.11]
+- club:
+  name: Carnarvon Yacht Club
+  uuid: ddfa569c-89fe-4e5c-b49b-d4ccf7e9efac
+  city: Carnarvon
+  state: Western Australia
+  country: Australia
+  founded: unknown
+  website: https://www.carnarvonyachtclub.com/
+  coordinates: [-24.88, 113.66]
+- club:
+  name: Arklow Sailing Club
+  uuid: ba8efe0d-20c9-405f-aad1-e8d75e3d4bf0
+  city: Arklow
+  state: County Wicklow
+  country: Ireland
+  founded: 1969
+  website: https://www.arklowsc.com/
+  coordinates: [52.8, -6.15]
+- club:
+  name: Exmouth Yacht Club
+  uuid: dbc4bc73-c044-4c7e-93f8-d4011cdbd270
+  city: Exmouth
+  state: Western Australia
+  country: Australia
+  founded: unknown
+  website: https://www.exmouthyachtclub.org.au/
+  coordinates: [-21.93, 114.13]
+- club:
+  name: Liverpool Yacht Club
+  uuid: 48b05e96-fc6c-4b21-a6af-3045921167c0
+  city: Liverpool
+  state: England
+  country: United Kingdom
+  founded: unknown
+  website: http://www.lyc.org.uk/
+  coordinates: [53.39, -2.92]
+- club:
+  name: Alexandra Yacht Club
+  uuid: 4c888eb0-5bd1-4703-9490-8f6bc8f0a8cf
+  city: Southend-on-Sea
+  state: England
+  country: United Kingdom
+  founded: unknown
+  website: http://www.alexyachtclub.co.uk/
+  coordinates: [51.54, 0.71]
+- club:
+  name: Holywood Yacht Club
+  uuid: 868251ef-d75e-4cb9-b52b-e451570cd16f
+  city: Holywood
+  state: Northern Ireland
+  country: United Kingdom
+  founded: 1862
+  website: https://holywoodyachtclub.co.uk/
+  coordinates: [54.64, -5.84]
+- club:
+  name: Tees and Hartlepool Yacht Club
+  uuid: 273938f5-45e6-4745-aa68-84cd3e62df28
+  city: Hartlepool
+  state: England
+  country: United Kingdom
+  founded: unknown
+  website: https://www.thyc.org.uk/
+  coordinates: [54.69, -1.21]
+- club:
+  name: Iate Clube Brasileiro
+  uuid: 840c9ce2-9455-4916-b754-4be1aa714de5
+  city: Niterói
+  state: Rio de Janeiro
+  country: Brazil
+  founded: 1906
+  website: https://icb.org.br/
+  coordinates: [-22.89, -43.11]
+- club:
+  name: Kerikeri Cruising Club
+  uuid: 1246aa0f-6a5c-4dcb-a3aa-1030fefe8fc2
+  city: Kerikeri
+  state: Northland
+  country: New Zealand
+  founded: 1935
+  website: https://www.kerikericruisingclub.org.nz/
+  coordinates: [-35.23, 173.95]
+- club:
+  name: Harwich Town Sailing Club
+  uuid: e0f31a90-6d6e-4027-ad31-0506017223a3
+  city: Harwich
+  state: England
+  country: United Kingdom
+  founded: unknown
+  website: https://www.htsc.co.uk/
+  coordinates: [51.94, 1.29]
+- club:
+  name: Campbeltown Sailing Club
+  uuid: 75cfd3e0-d70d-4f9e-8cd2-60106a022d38
+  city: Campbeltown
+  state: Scotland
+  country: United Kingdom
+  founded: unknown
+  website: https://www.campbeltownsc.co.uk/
+  coordinates: [55.42, -5.61]
+- club:
+  name: Real Club de Regatas de Alicante
+  uuid: 66785941-c3fc-40a0-9471-122550fa2379
+  city: Alicante
+  state: Valencian Community
+  country: Spain
+  founded: unknown
+  website: https://rcra.es/
+  coordinates: [38.34, -0.49]
+- club:
+  name: Greenwich Yacht Club
+  uuid: 726d856c-2682-4845-b6f1-87eb0c41a428
+  city: London
+  state: England
+  country: United Kingdom
+  founded: unknown
+  website: https://www.greenwichyachtclub.co.uk/
+  coordinates: [51.51, -0.13]
+- club:
+  name: Cercle Nautique Calédonien
+  uuid: 4314d81e-df12-4150-87a4-06291fc5b010
+  city: Nouméa
+  country: New Caledonia
+  founded: unknown
+  website: https://cnc.asso.nc/
+  coordinates: [-22.27, 166.44]
+- club:
+  name: Melbourne Trailable Yacht Club
+  uuid: 80632c6d-d89d-4a66-a1ff-3451b3a4cc12
+  city: Melbourne
+  state: Victoria
+  country: Australia
+  founded: 1973
+  website: https://mtyc.yachting.org.au/
+  coordinates: [-37.81, 144.96]
+- club:
+  name: Poolbeg Yacht and Boat Club
+  uuid: a5027978-feda-4b13-8e71-9ad953b9cbb2
+  city: Dublin
+  state: County Dublin
+  country: Ireland
+  founded: unknown
+  website: https://www.poolbegmarina.ie/
+  coordinates: [53.35, -6.26]
+- club:
+  name: Club Nàutic Vilanova
+  uuid: e6ca7cd5-7eab-47ad-8e9d-c6ce9468038e
+  city: Vilanova i la Geltrú
+  state: Catalonia
+  country: Spain
+  founded: unknown
+  website: https://www.cnvilanova.cat/
+  coordinates: [41.22, 1.73]
+- club:
+  name: Club Nàutic Llançà
+  uuid: a45cd523-6dc0-46ac-b2fd-b97afe2d0e4e
+  city: Llançà
+  state: Catalonia
+  country: Spain
+  founded: unknown
+  website: http://www.cnllanca.cat/
+  coordinates: [42.36, 3.15]
+- club:
+  name: Club Nàutic Cambrils
+  uuid: d9e2c922-09be-42e9-afde-b6d7ac853479
+  city: Cambrils
+  state: Catalonia
+  country: Spain
+  founded: unknown
+  website: https://www.clubnauticcambrils.com/
+  coordinates: [41.07, 1.07]
+- club:
+  name: "Club Nàutic d'Arenys de Mar"
+  uuid: 8ca1cfe2-1f6e-4903-a444-8948c0e740e3
+  city: Arenys de Mar
+  state: Catalonia
+  country: Spain
+  founded: unknown
+  website: https://www.cnarenys.com/
+  coordinates: [41.58, 2.55]
+- club:
+  name: Akademicki Klub Morski w Gdańsku
+  uuid: f3ab83b4-a698-45c0-a7ca-1882db67c400
+  city: Gdańsk
+  state: Pomerania
+  country: Poland
+  founded: unknown
+  website: http://www.akm.gda.pl/
+  coordinates: [54.43, 18.8]
+- club:
+  name: Lewisporte Yacht Club
+  uuid: 513be43e-2817-4215-8a26-4c1328e3a7e3
+  city: Lewisporte
+  state: Newfoundland and Labrador
+  country: Canada
+  founded: unknown
+  website: https://lewisporteyachtclub.com/
+  coordinates: [49.25, -55.06]
+- club:
+  name: Jacht Klub Morski Gryf
+  uuid: e33b62c9-63ab-456b-9c62-9c30780fcfe7
+  city: Gdynia
+  state: Pomerania
+  country: Poland
+  founded: unknown
+  website: https://jkmgryf.pl/
+  coordinates: [54.52, 18.6]
+- club:
+  name: Watchet Boat Owners Association
+  uuid: 8bd5aea6-0e2e-4b72-b7f8-9265b1556411
+  city: Watchet
+  state: England
+  country: United Kingdom
+  founded: unknown
+  website: https://www.wboa.co.uk/
+  coordinates: [51.18, -3.33]
+  burgee: watchet_boat_owners_association.png
+  description: Navy and white pennant with a red lighthouse and the letters W, B, O and A.
+- club:
+  name: Torpoint Mosquito Sailing Club
+  uuid: 4aff9025-cc45-4d1a-9bed-6cca3d9ae8b3
+  city: Torpoint
+  state: England
+  country: United Kingdom
+  founded: 1891
+  website: https://www.tmsc.org.uk/
+  coordinates: [50.38, -4.21]
+- club:
+  name: Lilliput Sailing Club
+  uuid: 790d1b50-2861-4169-b58e-8f52ca78683b
+  city: Poole
+  state: England
+  country: United Kingdom
+  founded: unknown
+  website: http://www.lilliputsc.org.uk/
+  coordinates: [50.74, -1.95]
+- club:
+  name: Locks Sailing Club
+  uuid: c5fb54dd-eb2f-4192-a8b6-3fda1e1a26c6
+  city: Portsmouth
+  state: England
+  country: United Kingdom
+  founded: 1907
+  website: https://www.lockssc.co.uk/
+  coordinates: [50.8, -1.09]
+- club:
+  name: Solway Yacht Club
+  uuid: 6794420e-a3c3-4b03-a9ac-68a7bc0d6eaf
+  city: Kippford
+  state: Scotland
+  country: United Kingdom
+  founded: unknown
+  website: https://www.thesyc.co.uk/
+  coordinates: [54.88, -3.81]
+- club:
+  name: East Dorset Sailing Club
+  uuid: aadbb246-0302-4ec1-9063-c33ae02da03f
+  city: Poole
+  state: England
+  country: United Kingdom
+  founded: 1875
+  website: https://eastdorsetsailingclub.co.uk/
+  coordinates: [50.74, -1.95]
+  burgee: east_dorset_sc.png
+  description: White pennant with a red cross edged in navy and a gold fleur-de-lis.
+- club:
+  name: Stornoway Sailing Club
+  uuid: da776263-ce7c-4aa4-84d6-532680447494
+  city: Stornoway
+  state: Scotland
+  country: United Kingdom
+  founded: unknown
+  website: https://www.stornowaysailingclub.org.uk/
+  coordinates: [58.21, -6.39]
+- club:
+  name: Lerwick Boating Club
+  uuid: e3b9db8f-d6fb-4e0a-b4d6-71ae04198762
+  city: Lerwick
+  state: Scotland
+  country: United Kingdom
+  founded: unknown
+  website: https://www.lerwickboatingclub.co.uk/
+  coordinates: [60.15, -1.14]
+- club:
+  name: Douglas Bay Yacht Club
+  uuid: f266aa1e-82f7-4810-bbc0-dad03a3322c5
+  city: Douglas
+  country: Isle of Man
+  founded: unknown
+  website: https://douglasbayyachtclub.com/
+  coordinates: [54.15, -4.48]
+  burgee: douglas_bay_yc.png
+  description: Red and blue pennant with the white and gold three-legged symbol of the Isle of Man.
+- club:
+  name: Oban Sailing Club
+  uuid: 6f2d893d-7dc4-4961-bbc1-e67b5300e2c1
+  city: Oban
+  state: Scotland
+  country: United Kingdom
+  founded: 1935
+  website: https://www.obansailingclub.org/
+  coordinates: [56.41, -5.47]
+- club:
+  name: Rochester Cruising Club
+  uuid: 71f211bd-d6d1-4937-9338-66a1dacfe500
+  city: Rochester
+  state: England
+  country: United Kingdom
+  founded: 1905
+  website: https://rochestercruisingclub.co.uk/
+  coordinates: [51.39, 0.5]
+- club:
+  name: Western Isles Yacht Club
+  uuid: 76c54e91-5423-4153-afd0-54d8925f2fba
+  city: Tobermory
+  state: Scotland
+  country: United Kingdom
+  founded: unknown
+  website: http://www.wiyc.org.uk/
+  coordinates: [56.62, -6.07]
