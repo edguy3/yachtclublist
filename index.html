@@ -102,10 +102,6 @@
     .notice code { color: var(--text-primary); }
 
     /* Search */
-    .search-mode { border: 0; padding: 0; margin: 0 0 14px; display: flex; flex-wrap: wrap; gap: 4px 20px; }
-    .search-mode legend { padding: 0; margin-bottom: 4px; font-weight: 600; }
-    .search-mode label { display: inline-flex; align-items: center; gap: 6px; }
-    .search-label { display: block; font-weight: 600; margin-bottom: 6px; }
     .search-input {
       width: 100%; font: inherit; font-size: 18px; color: var(--text-primary);
       background: var(--surface-1); border: 1px solid var(--text-muted); border-radius: 8px;
@@ -203,14 +199,8 @@
   <main>
     <h1>Find a club</h1>
     <p class="lede" id="lede">Loading the club list…</p>
-    <fieldset class="search-mode">
-      <legend>Search by</legend>
-      <label><input type="radio" name="mode" value="name" checked> Club name</label>
-      <label><input type="radio" name="mode" value="burgee"> Burgee description</label>
-    </fieldset>
-    <label class="search-label" for="search" id="search-label">Club name</label>
     <input class="search-input" id="search" type="search" autocomplete="off" spellcheck="false" autofocus
-           placeholder="Start typing, for example Newport" aria-controls="results">
+           placeholder="Name a club or describe a burgee" aria-label="Name a club or describe a burgee" aria-controls="results">
     <p class="result-count" id="count" role="status"></p>
     <ul class="cards" id="results"></ul>
     <section id="stats-panel" aria-labelledby="stats-heading" hidden>
@@ -587,16 +577,10 @@
       const count = document.getElementById("count");
       const lede = document.getElementById("lede");
       const statsPanel = document.getElementById("stats-panel");
-      const searchLabel = document.getElementById("search-label");
-      const modeInputs = document.querySelectorAll('input[name="mode"]');
-      const MODES = {
-        name: { label: "Club name", placeholder: "Start typing, for example Newport" },
-        burgee: { label: "Burgee description", placeholder: "For example red star on a blue swallowtail" },
-      };
       let clubs = [];
       let described = [];
       let vocabulary = new Map();
-      let mode = "name";
+      let activeTerms = [];
 
       function el(tag, className, text) {
         const node = document.createElement(tag);
@@ -622,7 +606,7 @@
         return 3;
       }
 
-      function matches(query) {
+      function nameMatches(query) {
         const words = terms(query);
         if (!words.length) return [];
         return clubs
@@ -729,8 +713,7 @@
         return possible ? earned / possible : 0;
       }
 
-      function burgeeMatches(query) {
-        const terms = burgeeTerms(query);
+      function burgeeMatches(terms) {
         if (!terms.length) return [];
         const pass = terms.length === 1 ? 0.5 : 0.45;
         const scored = described
@@ -742,8 +725,7 @@
       }
 
       /* Marks the description words that the query matched. */
-      function highlighted(text, query) {
-        const terms = burgeeTerms(query);
+      function highlighted(text, terms) {
         const line = el("p", "burgee-desc");
         for (const piece of text.split(/([^\p{L}\p{N}]+)/u)) {
           const word = stem(ClubData.fold(piece));
@@ -814,44 +796,39 @@
         }
         body.append(facts);
         if (club.description) {
-          body.append(mode === "burgee" ? highlighted(club.description, input.value) : el("p", "burgee-desc", club.description));
+          body.append(highlighted(club.description, activeTerms));
         }
         item.append(body);
         return item;
       }
 
-      function countText(query, found) {
-        const noun = mode === "burgee" ? "burgees" : "clubs";
-        if (!query) {
-          return mode === "burgee" ? "Searches the " + described.length.toLocaleString() + " clubs with a burgee description." : "";
-        }
-        if (!found) {
-          return mode === "burgee" ? "No burgee descriptions match “" + query + "”." : "No club names match “" + query + "”.";
-        }
-        const order = mode === "burgee" ? ", closest first" : "";
-        if (found <= MAX_RESULTS) return (found === 1 ? "1 match" : found + " matches") + order;
-        return "First " + MAX_RESULTS + " of " + found.toLocaleString() + " matching " + noun + order;
+      function countText(query, byName, total) {
+        if (!query) return "";
+        if (!total) return "No club names or burgee descriptions match “" + query + "”.";
+        const shown = total <= MAX_RESULTS ? (total === 1 ? "1 match" : total + " matches")
+          : "First " + MAX_RESULTS + " of " + total.toLocaleString() + " matches";
+        const byBurgee = total - byName;
+        if (!byBurgee) return shown + " by club name";
+        if (!byName) return shown + " by burgee description, closest first";
+        return shown + ": " + byName.toLocaleString() + " by club name, then "
+          + byBurgee.toLocaleString() + " by burgee description";
       }
 
+      /* Club name matches come first, then burgee descriptions, each club only once. */
       function render() {
         const query = input.value.trim();
         statsPanel.hidden = Boolean(query);
-        const found = mode === "burgee" ? burgeeMatches(query) : matches(query);
+        activeTerms = burgeeTerms(query);
+        const byName = nameMatches(query);
+        const named = new Set(byName);
+        const found = byName.concat(burgeeMatches(activeTerms).filter((club) => !named.has(club)));
         results.replaceChildren(...found.slice(0, MAX_RESULTS).map(card));
-        count.textContent = countText(query, found.length);
+        count.textContent = countText(query, byName.length, found.length);
         const url = new URL(location.href);
         if (query) url.searchParams.set("q", query);
         else url.searchParams.delete("q");
-        if (mode === "burgee") url.searchParams.set("mode", "burgee");
-        else url.searchParams.delete("mode");
+        url.searchParams.delete("mode");
         history.replaceState(null, "", url);
-      }
-
-      function setMode(next) {
-        mode = next;
-        searchLabel.textContent = MODES[mode].label;
-        input.placeholder = MODES[mode].placeholder;
-        modeInputs.forEach((radio) => { radio.checked = radio.value === mode; });
       }
 
       ClubData.load(CLUBLIST_PATH, IMAGE_PATH).then((loaded) => {
@@ -859,15 +836,8 @@
         ClubStats.render(clubs, document.getElementById("stats"));
         prepareBurgeeSearch();
         lede.textContent = "Search " + clubs.length.toLocaleString() + " yacht and boat clubs by name, or by what their burgee looks like.";
-        const params = new URLSearchParams(location.search);
-        input.value = params.get("q") || "";
-        setMode(params.get("mode") === "burgee" ? "burgee" : "name");
+        input.value = new URLSearchParams(location.search).get("q") || "";
         input.addEventListener("input", render);
-        modeInputs.forEach((radio) => radio.addEventListener("change", () => {
-          setMode(radio.value);
-          render();
-          input.focus();
-        }));
         render();
       }).catch((error) => ClubData.showLoadError(results.parentElement.querySelector("#count"), error));
     })();

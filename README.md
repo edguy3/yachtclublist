@@ -25,7 +25,7 @@ Devin Beliveau used the data to create a modern website listing clubs across the
 
 ## Website
 
-`index.html` is a single-file site with statistics and a club list you can search by name or by a description of the burgee. It reads `clublist.yml` and the `images` directory when it loads, so it needs a web server. Run `make serve`, then open <http://localhost:8000/>.
+`index.html` is a single-file site with statistics and a single search box that finds clubs by name or by a loose description of the burgee. It reads `clublist.yml` and the `images` directory when it loads, so it needs a web server. Run `make serve`, then open <http://localhost:8000/>.
 
 ## Status
 
