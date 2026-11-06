@@ -10191,3 +10191,13 @@
   founded: unknown
   website: https://sites.google.com/view/fridayharborsailing/
   coordinates: [48.53607, -123.01364]
+- club:
+  name: Royal Bombay Yacht Club
+  city: Mumbai
+  state: Maharashtra
+  country: India
+  founded: 1846
+  website: https://rbyc.co.in/
+  coordinates: [18.92352, 72.83349]
+  burgee: royal_bombay_yc.png
+  description: Club crest rather than a burgee, an oval shield split navy and red inside a white ring lettered Royal Bombay Yacht Club, with a crown above and two crossed anchors behind.
