@@ -6,6 +6,7 @@ help:
 	@echo "  check-missing-burgees - Check for missing burgee images"
 	@echo "  check-duplicates - Check for burgee images used by more than one club"
 	@echo "  all - Run all checks"
+	@echo "  serve - Serve the web pages at http://localhost:8000/web/"
 
 all: check-orphan-burgees check-missing-burgees check-duplicates
 
@@ -20,3 +21,7 @@ check-missing-burgees:
 check-duplicates:
 	@echo "Checking for duplicate burgee references..."
 	@python3 scripts/check_duplicate_burgees.py
+
+serve:
+	@echo "Open http://localhost:8000/web/"
+	@python3 -m http.server 8000
