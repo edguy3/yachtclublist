@@ -9,6 +9,7 @@ To be listed, a yacht or boat club needs only a name and a live official website
 The clublist.yml file contains a list of yachting and boating clubs, with the following information:
 
 * Name
+* UUID (a permanent unique identifier for the club)
 * City
 * State (or province/region outside the US)
 * Country
@@ -42,4 +43,4 @@ Devin Beliveau focused on clubs in the US first. The list now covers clubs world
 
 If you are a member of a yacht or boat club who has stumbled on this page and would like to add or remove your club, correct any information, or provide a high quality burgee image for your club, [open an issue](https://github.com/edguy3/yachtclublist/issues/new) or [make a pull request](https://github.com/edguy3/yachtclublist/pulls).
 
-This is open source data, here for anyone's convenience and released under the [MIT License](LICENSE).
+This is open source data, here for anyone's convenience and released under the [MIT License](LICENSE). The MIT License covers the data and code. Burgee images and crests are not covered: they remain the property of their clubs, and any club can ask to have its image removed by opening an issue.

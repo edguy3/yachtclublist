@@ -9,6 +9,7 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>Yacht Club Burgees</title>
+  <link rel="icon" href="favicon.ico" sizes="any">
   <style>
     :root {
       color-scheme: light;
@@ -87,6 +88,8 @@
     .site-nav a:hover { color: var(--text-primary); text-decoration: underline; }
     .site-nav a[aria-current="page"] { color: var(--text-primary); font-weight: 600; border-bottom: 2px solid var(--accent); }
     main { padding-block: 32px 64px; }
+    .site-footer { max-width: 1120px; margin: 0 auto; padding: 0 16px 32px; color: var(--text-muted); font-size: 14px; }
+    .site-footer p { margin: 0; border-top: 1px solid var(--border); padding-top: 16px; }
     h1 { font-size: 30px; line-height: 1.2; margin: 0 0 8px; }
     .lede { color: var(--text-secondary); margin: 0 0 24px; }
     .notice {
@@ -203,6 +206,9 @@
       <div id="stats"></div>
     </section>
   </main>
+  <footer class="site-footer">
+    <p>The MIT License covers the data and code. Burgee images and crests remain the property of their clubs.</p>
+  </footer>
   <!-- js-yaml 4.1.0, MIT license -->
   <script>
 /*! js-yaml 4.1.0 https://github.com/nodeca/js-yaml @license MIT */
