@@ -1,6 +1,9 @@
 (function () {
-  const root = document.getElementById("stats");
-  const tooltip = document.getElementById("tooltip");
+  let root;
+  const tooltip = document.createElement("div");
+  tooltip.className = "tooltip";
+  tooltip.hidden = true;
+  document.body.append(tooltip);
 
   function el(tag, className, text) {
     const node = document.createElement(tag);
@@ -155,7 +158,9 @@
     box.append(more);
   }
 
-  function render(clubs) {
+  function render(clubs, target) {
+    root = target;
+    root.replaceChildren();
     const total = clubs.length;
     const count = (test) => clubs.filter(test).length;
     const withBurgee = count((c) => c.burgee);
@@ -279,5 +284,5 @@
       tally(clubs, platformOf).map(([name, n]) => [name, fmt(n), pct(n, total)]), [false, true, true]));
   }
 
-  ClubData.load().then(render).catch((error) => ClubData.showLoadError(root, error));
+  window.ClubStats = { render };
 })();
