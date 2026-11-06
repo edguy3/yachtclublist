@@ -10115,14 +10115,6 @@
   website: https://www.zisc.club/
   coordinates: [47.35746, 8.5363]
 - club:
-  name: Arlington Yacht Club
-  city: Fort Worth
-  state: Texas
-  country: USA
-  founded: unknown
-  website: https://arlingtonyachtclub.com/
-  coordinates: [32.69587, -97.22814]
-- club:
   name: Cherokee Lake Sailing Club
   state: Tennessee
   country: USA
@@ -10573,3 +10565,133 @@
   coordinates: [47.36423, 8.53831]
   burgee: zurcher_yc.png
   description: Navy disc lettered Zürcher Yacht Club, 1902, with a red rim, a white sail and a red, white and blue swallow-cut pennant.
+- club:
+  name: Baltimore Yacht Club
+  city: Baltimore
+  state: Maryland
+  country: USA
+  founded: 1939
+  website: https://www.baltimoreyachtclub.org/
+  coordinates: [39.28847, -76.39707]
+  burgee: baltimore_yc.png
+  description: Black triangular burgee with an orange hoist bearing a black cross-shaped emblem.
+- club:
+  name: Bodkin Yacht Club
+  city: Pasadena
+  state: Maryland
+  country: USA
+  founded: 1957
+  website: https://www.bodkinyachtclub.com/
+  coordinates: [39.16, -76.55]
+- club:
+  name: Bush River Yacht Club
+  city: Abingdon
+  state: Maryland
+  country: USA
+  founded: 1939
+  website: https://bushriveryc.org/
+  coordinates: [39.45479, -76.24379]
+  burgee: bush_river_yc.png
+  description: Black ring lettered Bush River Yacht Club around an orange disc with a black goose in flight.
+- club:
+  name: Coveleigh Club
+  city: Rye
+  state: New York
+  country: USA
+  founded: unknown
+  website: https://www.coveleighclub.com/
+  coordinates: [40.94619, -73.69287]
+- club:
+  name: East End Yacht Club
+  city: Bridgeport
+  state: Connecticut
+  country: USA
+  founded: unknown
+  website: https://eeyc.org/
+  coordinates: [41.17317, -73.16193]
+- club:
+  name: Eastern Yacht Club
+  city: Essex
+  state: Maryland
+  country: USA
+  founded: 1956
+  website: https://easternyachtclub.com/
+  coordinates: [39.2955, -76.4001]
+  burgee: eastern_yc_maryland.png
+  description: Yellow swallow-edged pennant on a staff with a black curved device, in front of a life ring.
+- club:
+  name: Fishers Island Yacht Club
+  city: Fishers Island
+  state: New York
+  country: USA
+  founded: 1886
+  website: https://fiyc.net/
+  coordinates: [41.27, -72.00]
+- club:
+  name: Keystone Yacht Club
+  city: Woodmere
+  state: New York
+  country: USA
+  founded: 1888
+  website: https://www.keystoneyachtclub.com/
+  coordinates: [40.64188, -73.72179]
+  burgee: keystone_yc.png
+  description: Navy swallow-edged pennant on a staff with two red diagonal stripes and a white star.
+- club:
+  name: Marlboro Yacht Club
+  city: Lamoine
+  state: Maine
+  country: USA
+  founded: 1975
+  website: https://www.marlboroyachtclub.org/
+  coordinates: [44.47563, -68.27002]
+- club:
+  name: Monomoy Yacht Club
+  city: Chatham
+  state: Massachusetts
+  country: USA
+  founded: 1937
+  website: https://www.monomoyyachtclub.org/
+  coordinates: [41.66962, -69.96257]
+- club:
+  name: Pacific Mariners Yacht Club
+  city: Marina del Rey
+  state: California
+  country: USA
+  founded: 1963
+  website: https://pmyc.org/
+  coordinates: [33.97924, -118.45263]
+- club:
+  name: Shelter Island Yacht Club
+  city: Shelter Island Heights
+  state: New York
+  country: USA
+  founded: 1886
+  website: https://www.siyc.com/
+  coordinates: [41.08665, -72.35237]
+- club:
+  name: Beach Haven Yacht Club
+  city: Beach Haven
+  state: New Jersey
+  country: USA
+  founded: about 1882
+  website: https://www.beachhavenyachtclubmarina.com/
+  coordinates: [39.55425, -74.24899]
+- club:
+  name: Long Branch Ice Boat & Yacht Club
+  city: Long Branch
+  state: New Jersey
+  country: USA
+  founded: 1901
+  website: https://www.lbibyc.org/
+  coordinates: [40.32669, -73.9941]
+  burgee: long_branch_ice_boat_and_yc.png
+  description: White triangular burgee with a red upper edge, a navy hoist bearing a white star and a navy star on the white.
+- club:
+  name: Tred Avon Yacht Club
+  city: Oxford
+  state: Maryland
+  country: USA
+  founded: 1931
+  website: https://www.tayc.com/
+  coordinates: [38.6926, -76.17574]
