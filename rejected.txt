@@ -370,53 +370,45 @@ Yacht Club Of Pleasantville	no website listed
 Yachting Vacations	not a club (school, charter or business)	www.yachtingvacations.com
 Yale Corinthian Yacht Club	site unreachable	sportsandrecreation.yale.edu/recreation-centers/mcnay-family-s
 Yonkers Corinthian Yacht Club	no website listed	
-Agmenticus Yacht Club (York Harbor, ME)	no website found	
-Atlas Yacht Club (Bayonne, NJ)	no website found	
-Baldwin Harbor Yacht Club (Freeport, NY)	no website found	
-Breton Woods Yacht Club (Breton Woods, NJ)	no website found	
-Bronxonia Yacht Club (Bronx, NY)	no website found	
-Brooklyn Yacht Club (Brooklyn, NY)	no website found	
-Castaways Yacht Club (New Rochelle, NY)	no website found	
-Cedar Point Yacht Club (Westport, CT)	no website found	
-East Norwalk Boating & Yacht Club (East Norwalk, CT)	no website found	
-East Rockaway Yacht Club (East Rockaway, NY)	no website found	
-Eatons Light Yacht Club (Northport, NY)	no website found	
-Excelsior Yacht Club (Brooklyn, NY)	no website found	
-Glen Cove City Yacht Club (Glen Cove, NY)	no website found	
-Glen Island Yacht Club (New Rochelle, NY)	no website found	
-Harbor Valley Yacht Club (Shelton, CT)	no website found	
+Agmenticus Yacht Club (York Harbor, ME)	already listed as Agamenticus Yacht Club	
+Atlas Yacht Club (Bayonne, NJ)	searched, no website found	
+Baldwin Harbor Yacht Club (Freeport, NY)	searched, no website found; may be closed	
+Breton Woods Yacht Club (Breton Woods, NJ)	searched, no website found	
+Bronxonia Yacht Club (Bronx, NY)	searched, no website found	
+East Rockaway Yacht Club (East Rockaway, NY)	reported closed	
+Eatons Light Yacht Club (Northport, NY)	searched, no website found	
+Excelsior Yacht Club (Brooklyn, NY)	searched, no website found	
+Glen Cove City Yacht Club (Glen Cove, NY)	already listed as Glen Cove Yacht Club	
+Glen Island Yacht Club (New Rochelle, NY)	site glenislandyachtclub.com hijacked	
+Harbor Valley Yacht Club (Shelton, CT)	probably Valley Yacht Club, already listed	
 Highland Yacht Club (Scarborough, ON)	highlandyachtclub.org is a Tennessee club; no site for the Ontario club	
 Knickerbocker Yacht Club (Port Washington, NY)	defunct, closed in 2009	
 Lighthouse Point Yacht Club (Toms River, NJ)	site unreachable	
-Mamaroneck Yacht Club (Mamaroneck, NY)	no website found	
+Mamaroneck Yacht Club (Mamaroneck, NY)	searched, no website found	
 Marlboro Yacht Club (Marlboro, NY)	site found is the Maine club; no site for the New York club	
-Maryland Capital Yacht Club (Annapolis, MD)	no website found	
-Mastic Beach Yacht Club (Mastic Beach, NY)	no website found	
-Miamoque Yacht Club (Bridgeport, CT)	no website found	
-Middletown Yacht Club (Chester, CT)	no website found	
-Morrisania Yacht Club (Bronx, NY)	no website found	
-Narragansett Yacht Club (Edgewood, RI)	no website found	
-Neptune Yacht Club (Baltimore, MD)	no website found	
-North Hudson Yacht Club (Edgewater, NJ)	no website found	
-Prouts Neck Yacht Club (Prouts Neck, ME)	no website found	
-Patten Point Yacht Club (Long Branch, NJ)	no website found	
-Pepperrell Cove Yacht Club (Kittery Point, ME)	no website found	
-Rahway Yacht Club (Rahway, NJ)	no website found	
-River Club of Greenwich (Greenwich, CT)	no website found	
+Maryland Capital Yacht Club (Annapolis, MD)	already listed as Annapolis Maryland Capital Yacht Club	
+Miamoque Yacht Club (Bridgeport, CT)	Miamogue Yacht Club; site miamogue.com hijacked	
+Middletown Yacht Club (Chester, CT)	renamed Middlesex Yacht Club, already listed	
+Morrisania Yacht Club (Bronx, NY)	searched, no club by this name found	
+Narragansett Yacht Club (Edgewood, RI)	searched, no club by this name found	
+Neptune Yacht Club (Baltimore, MD)	searched, no website found	
+North Hudson Yacht Club (Edgewater, NJ)	searched, no website found; Facebook only	
+Prouts Neck Yacht Club (Prouts Neck, ME)	searched, no website found	
+Pepperrell Cove Yacht Club (Kittery Point, ME)	searched, no website found	
+Rahway Yacht Club (Rahway, NJ)	searched, no website found	
+River Club of Greenwich (Greenwich, CT)	searched, no club by this name found	
 Robbins Reef Yacht Club (Bayonne, NJ)	site robbinsreefyc.com hijacked by a casino	
-Sandwich Yacht Club (Pocasset, MA)	no website found	
-Seaford Harbor Yacht Club (Seaford Harbor, NY)	no website found	
+Sandwich Yacht Club (Pocasset, MA)	searched, no website found	
+Seaford Harbor Yacht Club (Seaford Harbor, NY)	searched, no website found	
 Setauket Yacht Club (Port Jefferson, NY)	renamed Port Jefferson Yacht Club, already listed	
-Smithtown Bay Yacht Club (Smithtown, NY)	no website found	
-Snug Harbor Yacht Club (Amityville, NY)	no website found	
-South Boston Yacht Club (South Boston, MA)	no website found	
-Southampton Yacht Club (Southampton, NY)	no website found	
-Spinnaker Island Yacht Club (Hull, MA)	no website found	
-Staten Island Yacht Club (Staten Island, NY)	no website found	
+Snug Harbor Yacht Club (Amityville, NY)	searched, no website found	
+South Boston Yacht Club (South Boston, MA)	site southbostonyc.com unreachable	
+Spinnaker Island Yacht Club (Hull, MA)	searched, no website found	
+Staten Island Yacht Club (Staten Island, NY)	searched, no website found	
 Stuyvesant Yacht Club (City Island, NY)	site is a Launching Soon placeholder	
-Sunrise Yacht Club (Merrick, NY)	no website found	
-Swan Creek Yacht Club (Rock Hall, MD)	no website found	
-Swan Yacht Club (East Patchogue, NY)	no website found	
-Tarratine Yacht Club (Islesboro, ME)	no website found	
-Upper Chesapeake Yacht Club (Havre De Grace, MD)	no website found	
+Sunrise Yacht Club (Merrick, NY)	searched, no website found	
+Swan Creek Yacht Club (Rock Hall, MD)	searched, no website found	
+Swan Yacht Club (East Patchogue, NY)	searched, no website found	
+Tarratine Yacht Club (Islesboro, ME)	already listed as Tarratine Club of Dark Harbor	
+Upper Chesapeake Yacht Club (Havre De Grace, MD)	searched, no website found	
 Arlington Yacht Club	site is a generic template with no club content	arlingtonyachtclub.com

@@ -10695,3 +10695,71 @@
   founded: 1931
   website: https://www.tayc.com/
   coordinates: [38.6926, -76.17574]
+- club:
+  name: Southampton Yacht Club
+  city: Southampton
+  state: New York
+  country: USA
+  founded: about 1937
+  website: https://southamptonyachtclub.org/
+  coordinates: [40.87986, -72.44203]
+- club:
+  name: Patten Point Yacht Club
+  city: Long Branch
+  state: New Jersey
+  country: USA
+  founded: 1964
+  website: https://www.ppycnj.com/
+  coordinates: [40.32652, -73.99234]
+  burgee: patten_point_yc.png
+  description: White triangular burgee with a red bar at the hoist and two interlocking navy squares.
+- club:
+  name: Cedar Point Yacht Club
+  city: Westport
+  state: Connecticut
+  country: USA
+  founded: 1887
+  website: https://www.cedarpointyc.org/
+  coordinates: [41.10092, -73.36833]
+- club:
+  name: Castaways Yacht Club
+  city: New Rochelle
+  state: New York
+  country: USA
+  founded: unknown
+  website: https://www.castawaysyachtclub.com/
+  coordinates: [40.89478, -73.77607]
+- club:
+  name: Mastic Beach Yacht Club
+  city: Mastic Beach
+  state: New York
+  country: USA
+  founded: 1920
+  website: http://www.masticbeachyachtclub.com/
+  coordinates: [40.75958, -72.83329]
+- club:
+  name: Smithtown Bay Yacht Club
+  city: St. James
+  state: New York
+  country: USA
+  founded: about 1954
+  website: https://sbycli.com/
+  coordinates: [40.88, -73.15]
+  burgee: smithtown_bay_yc.png
+  description: Blue triangular burgee with a white leaping dolphin.
+- club:
+  name: Brooklyn Yacht Club
+  city: Brooklyn
+  state: New York
+  country: USA
+  founded: unknown
+  website: https://www.bycmembership.com/
+  coordinates: [40.58836, -73.93065]
+- club:
+  name: East Norwalk Boating & Yacht Club
+  city: Norwalk
+  state: Connecticut
+  country: USA
+  founded: about 1978
+  website: https://www.enbyc.com/
+  coordinates: [41.09851, -73.40613]
