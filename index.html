@@ -84,6 +84,7 @@
     .brand { font-size: 18px; font-weight: 650; }
     .site-nav { display: flex; gap: 20px; }
     .site-nav a { color: var(--text-secondary); text-decoration: none; padding-block: 4px; }
+    .site-nav a:hover { color: var(--text-primary); text-decoration: underline; }
     .site-nav a[aria-current="page"] { color: var(--text-primary); font-weight: 600; border-bottom: 2px solid var(--accent); }
     main { padding-block: 32px 64px; }
     h1 { font-size: 30px; line-height: 1.2; margin: 0 0 8px; }
@@ -183,6 +184,10 @@
   <header class="site-header">
     <div class="site-header-inner">
       <div class="brand">Yacht Club Burgees</div>
+      <nav class="site-nav" aria-label="Project">
+        <a href="https://github.com/edguy3/yachtclublist/blob/HEAD/LICENSE">Open Data (MIT License)</a>
+        <a href="https://github.com/edguy3/yachtclublist">GitHub Source Data</a>
+      </nav>
     </div>
   </header>
   <main>

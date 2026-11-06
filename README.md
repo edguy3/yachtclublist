@@ -1,6 +1,10 @@
 # Yacht & boat clubs
 
-I wanted to create an easily accessible collection of yacht and boat club information. To be listed, a yacht or boat club needs only a name and a live official website (or Facebook page). Every other field is included when known.
+Browse the data at <https://edguy3.github.io/yachtclublist/>
+
+Around 2024, original author Devin Beliveau wanted to create an easily accessible collection of yacht and boat club information. In 2026, while making a cruiser contest web page for Liberty Yacht Club, Ed Guy leveraged this page for that work. Since that time, the project has grown further, greatly expanding the number of clubs listed and the functionality.
+
+To be listed, a yacht or boat club needs only a name and a live official website (or Facebook page). Every other field is included when known.
 
 The clublist.yml file contains a list of yachting and boating clubs, with the following information:
 
@@ -16,7 +20,7 @@ The clublist.yml file contains a list of yachting and boating clubs, with the 
 
 The images directory contains the burgee image for each club. Some yacht clubs across different states have the same name. In these cases, the state abbreviation has been added to the name.
 
-I'm using the data to create a modern website listing clubs across the US. Visit [ycburgees.com](https://www.ycburgees.com).
+Devin Beliveau used the data to create a modern website listing clubs across the US. Visit [ycburgees.com](https://www.ycburgees.com).
 
 ## Website
 
@@ -24,18 +28,18 @@ I'm using the data to create a modern website listing clubs across the US. Visit
 
 ## Status
 
-I'm focusing on clubs in the US first. Clubs in the following states have been added:
+Devin Beliveau focused on clubs in the US first. The list now covers clubs worldwide, in 43 countries and territories:
 
-* Rhode Island
-* Maine
-* Vermont
-* New Hampshire
-* Connecticut
-* Massachusetts
-* New Jersey
+* North America: USA, Canada, Mexico
+* Central America and the Caribbean: Antigua and Barbuda, Bahamas, Barbados, Honduras
+* Europe: Croatia, Denmark, Finland, France, Germany, Iceland, Ireland, Isle of Man, Italy, Malta, Monaco, Norway, Poland, Portugal, Spain, Sweden, Switzerland, United Kingdom
+* Asia: Brunei, China, India, Malaysia, Philippines, Singapore, Sri Lanka, Thailand
+* Middle East: Saudi Arabia, Turkey, United Arab Emirates
+* Africa and the South Atlantic: Egypt, Saint Helena, South Africa
+* Oceania: Australia, Marshall Islands, New Zealand, Papua New Guinea
 
 ## Contact & usage
 
-If you are a member of a yacht or boat club who has stumbled on this page and would like to add or remove your club, correct any information, or provide a high quality burgee image for your club, email ycburgees@gmail.com
+If you are a member of a yacht or boat club who has stumbled on this page and would like to add or remove your club, correct any information, or provide a high quality burgee image for your club, [open an issue](https://github.com/edguy3/yachtclublist/issues/new) or [make a pull request](https://github.com/edguy3/yachtclublist/pulls).
 
-This data is here for anyone's convenience.
+This is open source data, here for anyone's convenience and released under the [MIT License](LICENSE).
