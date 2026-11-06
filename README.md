@@ -1,16 +1,18 @@
 # Yacht & boat clubs
 
-I wanted to create an easily accessible collection of yacht and boat club information. Yacht and boat clubs without official websites (or Facebook), or without a burgee, will not be included.
+I wanted to create an easily accessible collection of yacht and boat club information. To be listed, a yacht or boat club needs only a name and a live official website (or Facebook page). Every other field is included when known.
 
 The clublist.yml file contains a list of yachting and boating clubs, with the following information:
 
 * Name
 * City
-* State
+* State (or province/region outside the US)
 * Country
-* Date founded
+* Date founded (a year, `about <year>` if inexact, or `unknown`)
 * Website
-* Burgee (name of associated image file)
+* Coordinates (`[latitude, longitude]`)
+* Burgee (name of associated image file, omitted if no burgee was found)
+* Description (what the burgee looks like, to help identify a club from its burgee, omitted with the burgee)
 
 The images directory contains the burgee image for each club. Some yacht clubs across different states have the same name. In these cases, the state abbreviation has been added to the name.
 
