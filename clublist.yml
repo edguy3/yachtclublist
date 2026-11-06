@@ -10201,3 +10201,375 @@
   coordinates: [18.92352, 72.83349]
   burgee: royal_bombay_yc.png
   description: Club crest rather than a burgee, an oval shield split navy and red inside a white ring lettered Royal Bombay Yacht Club, with a crown above and two crossed anchors behind.
+- club:
+  name: Aberdeen Boat Club
+  city: Aberdeen
+  state: Hong Kong
+  country: China
+  founded: unknown
+  website: https://abclubhk.com/
+  coordinates: [22.24458, 114.16543]
+- club:
+  name: Boat House Club
+  city: Nainital
+  state: Uttarakhand
+  country: India
+  founded: about 1947
+  website: https://boathouseclub.in/
+  coordinates: [29.3911, 79.45641]
+- club:
+  name: Bombay Sailing Association
+  city: Mandwa
+  state: Maharashtra
+  country: India
+  founded: unknown
+  website: https://www.bombaysailing.com/
+  coordinates: [18.80, 72.88]
+  burgee: bombay_sailing_association.png
+  description: Round emblem lettered Bombay Sailing Association with a dark teal pennant bearing a red and white shield above a white sailboat.
+- club:
+  name: Calcutta Rowing Club
+  city: Kolkata
+  state: West Bengal
+  country: India
+  founded: unknown
+  website: https://www.calcuttarowingclub.co.in/
+  coordinates: [22.57, 88.36]
+- club:
+  name: California Yacht Club
+  city: Marina del Rey
+  state: California
+  country: USA
+  founded: 1922
+  website: https://calyachtclub.com/
+  coordinates: [33.98347, -118.44617]
+  burgee: california_yc.png
+  description: Navy triangular burgee with a white chevron near the hoist separating a navy triangle from a navy diamond-shaped fly.
+- club:
+  name: Ceylon Motor Yacht Club
+  city: Moratuwa
+  state: Western Province
+  country: Sri Lanka
+  founded: 1929
+  website: https://cmyc.lk/
+  coordinates: [6.77, 79.88]
+  burgee: ceylon_motor_yc.png
+  description: White triangular burgee with a blue cross and a red elephant at the center, above the Ceylon Motor Yacht Club wordmark.
+- club:
+  name: Circolo del Remo e della Vela Italia
+  city: Naples
+  state: Campania
+  country: Italy
+  founded: unknown
+  website: https://www.crvitalia.it/
+  coordinates: [40.84, 14.25]
+  burgee: circolo_del_remo_e_della_vela_italia.png
+  description: Red swallow-edged pennant with a wavy navy stripe and a gold star at the center.
+- club:
+  name: Clube Naval de Cascais
+  city: Cascais
+  state: Lisbon
+  country: Portugal
+  founded: 1938
+  website: https://www.cncascais.com/
+  coordinates: [38.69478, -9.41888]
+- club:
+  name: Cochin Yacht Club
+  city: Kochi
+  state: Kerala
+  country: India
+  founded: 1982
+  website: https://www.cochinyachtclub.com/
+  coordinates: [9.94301, 76.30383]
+- club:
+  name: Colombo Rowing Club
+  city: Colombo
+  state: Western Province
+  country: Sri Lanka
+  founded: 1864
+  website: https://colomborowingclub.org/
+  coordinates: [6.93098, 79.84771]
+- club:
+  name: Dubai Marina Yacht Club
+  city: Dubai
+  state: Dubai
+  country: United Arab Emirates
+  founded: unknown
+  website: https://dubaimarinayachtclub.com/
+  coordinates: [25.07247, 55.13619]
+- club:
+  name: Dubai Offshore Sailing Club
+  city: Dubai
+  state: Dubai
+  country: United Arab Emirates
+  founded: about 1974
+  website: https://www.dosc.ae/
+  coordinates: [25.17489, 55.21729]
+  burgee: dubai_offshore_sc.png
+  description: White pennant with a red sail emblem at the hoist and red, black and green stripes curving along the fly.
+- club:
+  name: Etobicoke Yacht Club
+  city: Toronto
+  state: Ontario
+  country: Canada
+  founded: 1968
+  website: https://www.eyc.ca/
+  coordinates: [43.61487, -79.48118]
+  burgee: etobicoke_yc.png
+  description: White disc lettered Etobicoke Yacht Club around a blue swallow-cut pennant with a yellow and white hoist.
+- club:
+  name: Gstaad Yacht Club
+  city: Gstaad
+  state: Bern
+  country: Switzerland
+  founded: 1998
+  website: https://www.gstaadyachtclub.com/
+  coordinates: [46.47762, 7.28414]
+- club:
+  name: Hebe Haven Yacht Club
+  city: Sai Kung
+  state: Hong Kong
+  country: China
+  founded: 1963
+  website: https://www.hhyc.org.hk/
+  coordinates: [22.365, 114.26103]
+  burgee: hebe_haven_yc.png
+  description: Red triangular burgee with a gold dragon, above the name Hebe Haven Yacht Club.
+- club:
+  name: Howth Yacht Club
+  city: Howth
+  state: County Dublin
+  country: Ireland
+  founded: 1895
+  website: https://hyc.ie/
+  coordinates: [53.38913, -6.06782]
+  burgee: howth_yc.png
+  description: White pennant with a red hoist, a red fly and a red anchor on the white center, above the words Howth Yacht Club.
+- club:
+  name: Port Credit Yacht Club
+  city: Mississauga
+  state: Ontario
+  country: Canada
+  founded: 1936
+  website: https://pcyc.net/index.cfm
+  coordinates: [43.56476, -79.5579]
+  burgee: port_credit_yc.png
+  description: Blue swallow-cut pennant on a gold staff with one large and two small yellow dots, above the letters PCYC and an 85th anniversary mark.
+- club:
+  name: Royal Brunei Yacht Club
+  city: Bandar Seri Begawan
+  state: Brunei-Muara
+  country: Brunei
+  founded: 1952
+  website: https://www.royalbruneiyachtclub.org/
+  coordinates: [4.94, 115.02]
+  burgee: royal_brunei_yc.png
+  description: Yellow triangular burgee edged in black with a red and white crest at the hoist.
+- club:
+  name: Royal Cape Yacht Club
+  city: Cape Town
+  state: Western Cape
+  country: South Africa
+  founded: 1905
+  website: https://rcyc.co.za/
+  coordinates: [-33.91942, 18.44343]
+  burgee: royal_cape_yc.png
+  description: Triangular burgee with a red hoist bearing a white anchor under a gold crown and a navy fly, above the name Royal Cape Yacht Club.
+- club:
+  name: Royal Freshwater Bay Yacht Club
+  city: Peppermint Grove
+  state: Western Australia
+  country: Australia
+  founded: about 1897
+  website: https://rfbyc.asn.au/
+  coordinates: [-32.00252, 115.77394]
+  burgee: royal_freshwater_bay_yc.png
+  description: Upright oval crest lettered Royal Freshwater Bay Yacht Club, with a red crown above a small blue, red and white pennant and an anchor.
+- club:
+  name: Royal London Yacht Club
+  city: Cowes
+  state: England
+  country: United Kingdom
+  founded: 1838
+  website: https://www.rlyc.org.uk/
+  coordinates: [50.76575, -1.30028]
+- club:
+  name: Royal Lymington Yacht Club
+  city: Lymington
+  state: England
+  country: United Kingdom
+  founded: unknown
+  website: https://rlymyc.org.uk/
+  coordinates: [50.75436, -1.52859]
+- club:
+  name: Royal Malta Yacht Club
+  city: Ta' Xbiex
+  country: Malta
+  founded: 1835
+  website: https://rmyc.org
+  coordinates: [35.89765, 14.49986]
+  burgee: royal_malta_yc.png
+  description: White triangular burgee with a large red panel and a gold crown at its center.
+- club:
+  name: Royal Naval Sailing Association
+  city: Gosport
+  state: England
+  country: United Kingdom
+  founded: 1935
+  website: https://rnsa.org.uk/
+  coordinates: [50.79157, -1.12166]
+  burgee: royal_naval_sailing_association.png
+  description: White triangular burgee with a red cross and a navy naval crown at the center.
+- club:
+  name: Royal Norfolk & Suffolk Yacht Club
+  city: Lowestoft
+  state: England
+  country: United Kingdom
+  founded: 1859
+  website: https://rnsyc.net/
+  coordinates: [52.47212, 1.7512]
+- club:
+  name: Royal Papua Yacht Club
+  city: Port Moresby
+  state: National Capital District
+  country: Papua New Guinea
+  founded: 1921
+  website: https://www.rpyc.com.pg/
+  coordinates: [-9.47, 147.16]
+- club:
+  name: Royal Selangor Yacht Club
+  city: Port Klang
+  state: Selangor
+  country: Malaysia
+  founded: 1969
+  website: https://rsyc.com.my/
+  coordinates: [3.00528, 101.38998]
+  burgee: royal_selangor_yc.png
+  description: Navy triangular burgee with a white horizontal bar, a yellow crescent and star above a yellow anchor at the hoist, above the name Royal Selangor Yacht Club.
+- club:
+  name: Royal Solent Yacht Club
+  city: Yarmouth
+  state: England
+  country: United Kingdom
+  founded: 1878
+  website: https://www.royalsolent.org/
+  coordinates: [50.70672, -1.49856]
+- club:
+  name: Royal Southern Yacht Club
+  city: Hamble
+  state: England
+  country: United Kingdom
+  founded: 1837
+  website: https://www.royal-southern.co.uk/
+  coordinates: [50.87, -1.33]
+- club:
+  name: Royal Thames Yacht Club
+  city: London
+  state: England
+  country: United Kingdom
+  founded: 1775
+  website: https://royalthames.com/
+  coordinates: [51.50239, -0.15916]
+  burgee: royal_thames_yc.png
+  description: Navy and white quartered pennant with a gold border, a red crown at the center and a gold staff.
+- club:
+  name: Royal Vancouver Yacht Club
+  city: Vancouver
+  state: British Columbia
+  country: Canada
+  founded: unknown
+  website: https://www.royalvan.com/
+  coordinates: [49.2728, -123.18791]
+  burgee: royal_vancouver_yc.png
+  description: Navy, white and red swallow-edged pennant on a gold staff with a gold and red crown on the navy hoist.
+- club:
+  name: Royal Varuna Yacht Club
+  city: Pattaya
+  state: Chon Buri
+  country: Thailand
+  founded: 1957
+  website: https://varuna.org/
+  coordinates: [12.91762, 100.85713]
+- club:
+  name: Royal Victoria Yacht Club
+  city: Oak Bay
+  state: British Columbia
+  country: Canada
+  founded: 1892
+  website: https://rvyc.bc.ca/
+  coordinates: [48.45256, -123.29521]
+- club:
+  name: Tacoma Yacht Club
+  city: Tacoma
+  state: Washington
+  country: USA
+  founded: 1889
+  website: https://www.tacomayachtclub.org/
+  coordinates: [47.30684, -122.51235]
+  burgee: tacoma_yc.png
+  description: Blue swallow-cut flag with a red and white diagonal panel at the hoist on a slanted blue staff.
+- club:
+  name: Royal Canadian Yacht Club
+  city: Toronto
+  state: Ontario
+  country: Canada
+  founded: 1852
+  website: https://rcyc.ca/
+  coordinates: [43.62319, -79.36897]
+- club:
+  name: Royal Fowey Yacht Club
+  city: Fowey
+  state: England
+  country: United Kingdom
+  founded: unknown
+  website: https://www.rfyc-fowey.org.uk/
+  coordinates: [50.3345, -4.63573]
+- club:
+  name: Royal Yacht Club of Tasmania
+  city: Sandy Bay
+  state: Tasmania
+  country: Australia
+  founded: 1859
+  website: https://ryct.org.au/
+  coordinates: [-42.89784, 147.33364]
+  burgee: royal_yc_of_tasmania.png
+  description: White flying pennant with a red cross, a navy lower band and a gold and red crown at the center.
+- club:
+  name: Yacht Club de France
+  city: Paris
+  state: Île-de-France
+  country: France
+  founded: unknown
+  website: https://ycf-club.fr/
+  coordinates: [48.87203, 2.28441]
+  burgee: yc_de_france.png
+  description: Crossed blue, white and red flags behind an anchor and a scroll lettered Y.C.F., under a navy star.
+- club:
+  name: Yacht Club de Monaco
+  city: Monaco
+  country: Monaco
+  founded: 1953
+  website: https://yacht-club-monaco.mc/
+  coordinates: [43.73748, 7.4279]
+  burgee: yc_de_monaco.png
+  description: Pair of crossed red and white striped pennants with a small crest at the center.
+- club:
+  name: Yacht Club Italiano
+  city: Genoa
+  state: Liguria
+  country: Italy
+  founded: 1879
+  website: https://www.yachtclubitaliano.it/
+  coordinates: [44.40039, 8.93201]
+  burgee: yc_italiano.png
+  description: Crossed dark red and white pennants with the letters YCI above and the word Heritage below.
+- club:
+  name: Zürcher Yacht Club
+  city: Zurich
+  state: Canton of Zurich
+  country: Switzerland
+  founded: 1902
+  website: https://www.zyc.ch/de/home
+  coordinates: [47.36423, 8.53831]
+  burgee: zurcher_yc.png
+  description: Navy disc lettered Zürcher Yacht Club, 1902, with a red rim, a white sail and a red, white and blue swallow-cut pennant.
