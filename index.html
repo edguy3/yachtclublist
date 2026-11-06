@@ -27,6 +27,7 @@
       --on-series-1: #ffffff;
       --on-series-2: #0b0b0b;
       --on-series-3: #0b0b0b;
+      --mark: #fbe7a1;
     }
     @media (prefers-color-scheme: dark) {
       :root:where(:not([data-theme="light"])) {
@@ -45,6 +46,7 @@
         --on-series-1: #0b0b0b;
         --on-series-2: #0b0b0b;
         --on-series-3: #0b0b0b;
+        --mark: #5a4710;
       }
     }
     :root[data-theme="dark"] {
@@ -63,6 +65,7 @@
       --on-series-1: #0b0b0b;
       --on-series-2: #0b0b0b;
       --on-series-3: #0b0b0b;
+      --mark: #5a4710;
     }
 
     * { box-sizing: border-box; }
@@ -99,6 +102,9 @@
     .notice code { color: var(--text-primary); }
 
     /* Search */
+    .search-mode { border: 0; padding: 0; margin: 0 0 14px; display: flex; flex-wrap: wrap; gap: 4px 20px; }
+    .search-mode legend { padding: 0; margin-bottom: 4px; font-weight: 600; }
+    .search-mode label { display: inline-flex; align-items: center; gap: 6px; }
     .search-label { display: block; font-weight: 600; margin-bottom: 6px; }
     .search-input {
       width: 100%; font: inherit; font-size: 18px; color: var(--text-primary);
@@ -126,6 +132,7 @@
     .facts dt { color: var(--text-muted); }
     .facts dd { margin: 0; overflow-wrap: anywhere; }
     .burgee-desc { color: var(--text-secondary); font-size: 14px; margin: 12px 0 0; }
+    .burgee-desc mark { background: var(--mark); color: var(--text-primary); border-radius: 2px; padding-inline: 1px; }
 
     /* Statistics */
     .stats-heading { font-size: 24px; line-height: 1.2; margin: 8px 0 16px; }
@@ -196,7 +203,12 @@
   <main>
     <h1>Find a club</h1>
     <p class="lede" id="lede">Loading the club list…</p>
-    <label class="search-label" for="search">Club name</label>
+    <fieldset class="search-mode">
+      <legend>Search by</legend>
+      <label><input type="radio" name="mode" value="name" checked> Club name</label>
+      <label><input type="radio" name="mode" value="burgee"> Burgee description</label>
+    </fieldset>
+    <label class="search-label" for="search" id="search-label">Club name</label>
     <input class="search-input" id="search" type="search" autocomplete="off" spellcheck="false" autofocus
            placeholder="Start typing, for example Newport" aria-controls="results">
     <p class="result-count" id="count" role="status"></p>
@@ -575,7 +587,16 @@
       const count = document.getElementById("count");
       const lede = document.getElementById("lede");
       const statsPanel = document.getElementById("stats-panel");
+      const searchLabel = document.getElementById("search-label");
+      const modeInputs = document.querySelectorAll('input[name="mode"]');
+      const MODES = {
+        name: { label: "Club name", placeholder: "Start typing, for example Newport" },
+        burgee: { label: "Burgee description", placeholder: "For example red star on a blue swallowtail" },
+      };
       let clubs = [];
+      let described = [];
+      let vocabulary = new Map();
+      let mode = "name";
 
       function el(tag, className, text) {
         const node = document.createElement(tag);
@@ -610,6 +631,126 @@
           .sort((a, b) => a.score - b.score || a.club.name.length - b.club.name.length ||
             a.club.name.localeCompare(b.club.name))
           .map((match) => match.club);
+      }
+
+      /* Burgee description search: every query word is matched loosely against the words of
+         each description, rarer words count for more, and neighbouring words earn a bonus. */
+      const FILLER = new Set(("a an and at around all also as by for from has have in into is it its "
+        + "looks like of on one or that the their this to two under over with").split(" "));
+      const RELATED = [
+        ["red", "crimson", "scarlet", "maroon", "burgundy"], ["blue", "navy", "azure", "teal"],
+        ["yellow", "gold", "golden", "orange"], ["green", "teal", "aqua"], ["gray", "grey", "silver"],
+        ["burgee", "pennant", "flag", "triangular", "triangle"], ["swallow", "swallowtail", "fork", "forked", "notched"],
+        ["circle", "disc", "disk", "ring", "round", "ball", "dot"], ["stripe", "band", "bar", "line"],
+        ["boat", "ship", "sailboat", "yacht", "sail", "schooner", "sloop"], ["wheel", "helm"],
+        ["bird", "gull", "seagull", "eagle", "osprey", "goose", "pelican"], ["fish", "dolphin"],
+        ["cross", "saltire"], ["sun", "star"], ["letter", "lettered", "initial"],
+        ["emblem", "crest", "shield", "badge", "seal"],
+      ];
+      const related = new Map();
+      for (const group of RELATED) {
+        for (const word of group) {
+          if (!related.has(word)) related.set(word, new Set());
+          group.forEach((other) => { if (other !== word) related.get(word).add(other); });
+        }
+      }
+
+      function stem(word) {
+        if (word.length > 3 && word.endsWith("s") && !/(ss|us|is)$/.test(word)) return word.slice(0, -1);
+        return word;
+      }
+      const tokens = (text) => ClubData.fold(text).split(" ").filter(Boolean).map(stem);
+
+      function editDistance(a, b, limit) {
+        if (Math.abs(a.length - b.length) > limit) return limit + 1;
+        let previous = Array.from({ length: b.length + 1 }, (_, i) => i);
+        for (let i = 1; i <= a.length; i++) {
+          const current = [i];
+          for (let j = 1; j <= b.length; j++) {
+            current[j] = Math.min(previous[j] + 1, current[j - 1] + 1, previous[j - 1] + (a[i - 1] === b[j - 1] ? 0 : 1));
+          }
+          previous = current;
+        }
+        return previous[b.length];
+      }
+
+      function closeness(word, candidate) {
+        if (word === candidate) return 1;
+        if (word.length >= 3 && candidate.startsWith(word)) return 0.85;
+        if (candidate.length >= 4 && word.startsWith(candidate)) return 0.75;
+        const near = related.get(word);
+        let best = near && near.has(candidate) ? 0.65 : 0;
+        if (word.length >= 4) {
+          const distance = editDistance(word, candidate, 2);
+          if (distance === 1) best = Math.max(best, 0.8);
+          else if (distance === 2 && word.length >= 6) best = Math.max(best, 0.6);
+        }
+        return best;
+      }
+
+      function prepareBurgeeSearch() {
+        described = clubs.filter((club) => club.description).map((club) => ({ club, words: tokens(club.description) }));
+        vocabulary = new Map();
+        for (const entry of described) {
+          for (const word of new Set(entry.words)) vocabulary.set(word, (vocabulary.get(word) || 0) + 1);
+        }
+      }
+
+      function burgeeTerms(query) {
+        const total = described.length;
+        return tokens(query).filter((word) => !FILLER.has(word)).map((word) => {
+          const strengths = new Map();
+          for (const candidate of vocabulary.keys()) {
+            const strength = closeness(word, candidate);
+            if (strength) strengths.set(candidate, strength);
+          }
+          const seen = vocabulary.get(word) || 0;
+          return { strengths, weight: Math.log(1 + total / (seen + 1)) };
+        });
+      }
+
+      function burgeeScore(entry, terms) {
+        let earned = 0;
+        let possible = 0;
+        let previousAt = -1;
+        terms.forEach((term) => {
+          let best = 0;
+          let at = -1;
+          entry.words.forEach((word, index) => {
+            const strength = term.strengths.get(word) || 0;
+            const nearPrevious = previousAt >= 0 && index > previousAt && index - previousAt <= 2;
+            if (strength > best || (strength === best && strength > 0 && nearPrevious)) { best = strength; at = index; }
+          });
+          possible += term.weight;
+          earned += term.weight * best;
+          if (best && previousAt >= 0 && at > previousAt && at - previousAt <= 2) earned += term.weight * 0.15;
+          previousAt = at;
+        });
+        return possible ? earned / possible : 0;
+      }
+
+      function burgeeMatches(query) {
+        const terms = burgeeTerms(query);
+        if (!terms.length) return [];
+        const pass = terms.length === 1 ? 0.5 : 0.45;
+        const scored = described
+          .map((entry) => ({ entry, score: burgeeScore(entry, terms) }))
+          .filter((match) => match.score >= pass)
+          .sort((a, b) => b.score - a.score || a.entry.club.description.length - b.entry.club.description.length ||
+            a.entry.club.name.localeCompare(b.entry.club.name));
+        return scored.map((match) => match.entry.club);
+      }
+
+      /* Marks the description words that the query matched. */
+      function highlighted(text, query) {
+        const terms = burgeeTerms(query);
+        const line = el("p", "burgee-desc");
+        for (const piece of text.split(/([^\p{L}\p{N}]+)/u)) {
+          const word = stem(ClubData.fold(piece));
+          if (word && terms.some((term) => term.strengths.has(word))) line.append(el("mark", "", piece));
+          else line.append(piece);
+        }
+        return line;
       }
 
       function fact(list, term, value) {
@@ -672,32 +813,61 @@
           fact(facts, "Website", externalLink(club.website, club.website.replace(/^https?:\/\/(www\.)?/i, "").replace(/\/$/, "")));
         }
         body.append(facts);
-        if (club.description) body.append(el("p", "burgee-desc", club.description));
+        if (club.description) {
+          body.append(mode === "burgee" ? highlighted(club.description, input.value) : el("p", "burgee-desc", club.description));
+        }
         item.append(body);
         return item;
       }
 
+      function countText(query, found) {
+        const noun = mode === "burgee" ? "burgees" : "clubs";
+        if (!query) {
+          return mode === "burgee" ? "Searches the " + described.length.toLocaleString() + " clubs with a burgee description." : "";
+        }
+        if (!found) {
+          return mode === "burgee" ? "No burgee descriptions match “" + query + "”." : "No club names match “" + query + "”.";
+        }
+        const order = mode === "burgee" ? ", closest first" : "";
+        if (found <= MAX_RESULTS) return (found === 1 ? "1 match" : found + " matches") + order;
+        return "First " + MAX_RESULTS + " of " + found.toLocaleString() + " matching " + noun + order;
+      }
+
       function render() {
-        const query = input.value;
-        statsPanel.hidden = Boolean(query.trim());
-        const found = matches(query);
+        const query = input.value.trim();
+        statsPanel.hidden = Boolean(query);
+        const found = mode === "burgee" ? burgeeMatches(query) : matches(query);
         results.replaceChildren(...found.slice(0, MAX_RESULTS).map(card));
-        if (!query.trim()) count.textContent = "";
-        else if (!found.length) count.textContent = "No club names match “" + query.trim() + "”.";
-        else if (found.length <= MAX_RESULTS) count.textContent = found.length === 1 ? "1 match" : found.length + " matches";
-        else count.textContent = "First " + MAX_RESULTS + " of " + found.length.toLocaleString() + " matches";
+        count.textContent = countText(query, found.length);
         const url = new URL(location.href);
-        if (query.trim()) url.searchParams.set("q", query.trim());
+        if (query) url.searchParams.set("q", query);
         else url.searchParams.delete("q");
+        if (mode === "burgee") url.searchParams.set("mode", "burgee");
+        else url.searchParams.delete("mode");
         history.replaceState(null, "", url);
+      }
+
+      function setMode(next) {
+        mode = next;
+        searchLabel.textContent = MODES[mode].label;
+        input.placeholder = MODES[mode].placeholder;
+        modeInputs.forEach((radio) => { radio.checked = radio.value === mode; });
       }
 
       ClubData.load(CLUBLIST_PATH, IMAGE_PATH).then((loaded) => {
         clubs = loaded;
         ClubStats.render(clubs, document.getElementById("stats"));
-        lede.textContent = "Search " + clubs.length.toLocaleString() + " yacht and boat clubs by name.";
-        input.value = new URLSearchParams(location.search).get("q") || "";
+        prepareBurgeeSearch();
+        lede.textContent = "Search " + clubs.length.toLocaleString() + " yacht and boat clubs by name, or by what their burgee looks like.";
+        const params = new URLSearchParams(location.search);
+        input.value = params.get("q") || "";
+        setMode(params.get("mode") === "burgee" ? "burgee" : "name");
         input.addEventListener("input", render);
+        modeInputs.forEach((radio) => radio.addEventListener("change", () => {
+          setMode(radio.value);
+          render();
+          input.focus();
+        }));
         render();
       }).catch((error) => ClubData.showLoadError(results.parentElement.querySelector("#count"), error));
     })();
