@@ -112,6 +112,7 @@ City Yacht Club – Riga	site unreachable	andrejsala.lv
 Clear Lake Sailing Club	site unreachable	www.clearlakesailingclub.org
 Cleveland Sailing Association	site unreachable	clevsail.com
 Club AFASyN	site unreachable	afasyn.com.ar
+Club Cienfuegos	no official site found	
 Club de Mar Mallorca	site unreachable	clubdemar-mallorca.com
 Club de Mar-Mallorca	site unreachable	www.clubdemar-mallorca.com
 Club de Yates Algarrobo	site unreachable	clubdeyatesalgarrobo.cl
@@ -119,6 +120,7 @@ Club de Yates de Ensenada	site unreachable	clubdeyatesensenada.com
 Club de Yates Valdivia	site unreachable	clubdeyatesvaldivia.cl
 Club de Yates y Pesca de Panama	site unreachable	clubdeyates.com.pa
 Club del Mare	site unreachable	clubdelmare.isoladelba.it
+Club Habana	no official site found	clubhabana.com
 Club Nautico de Barbate	site unreachable	cnbarbate.es
 Club Nautico de Montevideo	site unreachable	clubnautico.com.uy
 Club Nautico de Motril	site unreachable	realclubnauticomotril.com
@@ -262,11 +264,10 @@ Harbor Sailboats	not a club (school, charter or business)	harborsailboats.com
 Harbor Valley Yacht Club (Shelton, CT)	probably Valley Yacht Club, already listed	
 Harbour West Sailing Club	site unreachable	sailing.harbourwest.com
 Hat Island Yachts and Golf Club	site parked, hijacked or broken	www.hatislandyachtclub.com
+Havana Yacht Club	closed club, no site	
 Haven Yacht Club	no website listed	
 Hayling Ferry Sailing Club	site unreachable	hfsc.co.uk&
 Hayling Island Sailing Club	site unreachable	hisc.co.uk
-Hemingway International Yacht Club of Cuba	site parked, hijacked or broken	www.hemingwayinternationalyachtclub.com
-Hemmingway International Yacht Club	site unreachable	hemingwaycuba.com
 Hermanus Yacht Club	site unreachable	hermanusyachtclub.com
 Herrington Lake Yacht Club	site unreachable	herringtonlakeyachtclub.com
 Hewlett Point Yacht Club	no website listed	
@@ -406,6 +407,7 @@ Miami Yacht Club	site unreachable	miamiyachtclub.net
 Miamoque Yacht Club (Bridgeport, CT)	Miamogue Yacht Club; site miamogue.com hijacked	
 Middletown Yacht Club (Chester, CT)	renamed Middlesex Yacht Club, already listed	
 Milwaukee Community Sailing Center	not a club (school, charter or business)	www.sailingcenter.org
+Miramar Yacht Club	closed club, memorial site only	miramaryachtclub.com
 Modern Sailing School & Club	no website listed	www.modernsailing.com
 Monomoy Yacht Club	duplicate or parked	www.monomoyyc.org
 Monterey Bay Sailing	not a club (school, charter or business)	www.montereysailing.com

@@ -18,6 +18,8 @@ The clublist.yml file contains a list of yachting and boating clubs, with the 
 * Coordinates (`[latitude, longitude]`)
 * Burgee (name of associated image file, omitted if no burgee was found)
 * Description (what the burgee looks like, to help identify a club from its burgee, omitted with the burgee)
+* Last update (`YYYY-MM-DD`, the date the entry last changed)
+* Last validated (`YYYY-MM-DD`, the date the website last checked out as live, or `unknown` if it has not passed a check)
 
 The images directory contains the burgee image for each club. Some yacht clubs across different states have the same name. In these cases, the state abbreviation has been added to the name.
 
@@ -29,10 +31,10 @@ Devin Beliveau used the data to create a modern website listing clubs across the
 
 ## Status
 
-Devin Beliveau focused on clubs in the US first. The list now covers clubs worldwide, in 76 countries and territories:
+Devin Beliveau focused on clubs in the US first. The list now covers clubs worldwide, in 77 countries and territories:
 
 * North America: USA, Canada, Mexico, Bermuda
-* Central America and the Caribbean: Anguilla, Antigua and Barbuda, Bahamas, Barbados, British Virgin Islands, Cayman Islands, Costa Rica, Curaçao, Honduras, Jamaica, Sint Maarten
+* Central America and the Caribbean: Anguilla, Antigua and Barbuda, Bahamas, Barbados, British Virgin Islands, Cayman Islands, Costa Rica, Cuba, Curaçao, Honduras, Jamaica, Sint Maarten
 * South America: Argentina, Brazil, Chile, Colombia, Ecuador, Peru, Uruguay, Venezuela
 * Europe: Austria, Belgium, Bulgaria, Croatia, Cyprus, Denmark, Estonia, Finland, France, Germany, Greece, Guernsey, Iceland, Ireland, Isle of Man, Italy, Jersey, Malta, Monaco, Montenegro, Netherlands, Norway, Poland, Portugal, Russia, Spain, Sweden, Switzerland, United Kingdom
 * Asia: Brunei, China, India, Indonesia, Malaysia, Philippines, Singapore, Sri Lanka, Thailand
