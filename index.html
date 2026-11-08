@@ -10,6 +10,13 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>Yacht Club Burgees</title>
   <link rel="icon" href="favicon.ico" sizes="any">
+  <link rel="manifest" href="manifest.webmanifest">
+  <link rel="apple-touch-icon" href="icons/apple-touch-icon.png">
+  <meta name="mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-title" content="Burgees">
+  <meta name="theme-color" content="#fcfcfb" media="(prefers-color-scheme: light)">
+  <meta name="theme-color" content="#1a1a19" media="(prefers-color-scheme: dark)">
   <style>
     :root {
       color-scheme: light;
@@ -86,10 +93,22 @@
       gap: 4px 24px; padding-block: 12px;
     }
     .brand { font-size: 18px; font-weight: 650; }
-    .site-nav { display: flex; gap: 20px; }
+    .site-nav { display: flex; flex-wrap: wrap; align-items: center; gap: 4px 20px; }
     .site-nav a { color: var(--text-secondary); text-decoration: none; padding-block: 4px; }
     .site-nav a:hover { color: var(--text-primary); text-decoration: underline; }
     .site-nav a[aria-current="page"] { color: var(--text-primary); font-weight: 600; border-bottom: 2px solid var(--accent); }
+    .install-button {
+      font: inherit; font-size: 14px; font-weight: 600; color: var(--accent); cursor: pointer;
+      background: transparent; border: 1px solid var(--accent); border-radius: 8px; padding: 6px 12px;
+    }
+    .install-button:hover { background: var(--surface-0); }
+    .install-help {
+      max-width: 340px; color: var(--text-primary); background: var(--surface-1);
+      border: 1px solid var(--border); border-radius: 8px; padding: 20px;
+    }
+    .install-help::backdrop { background: rgb(0 0 0 / 0.45); }
+    .install-help h2 { font-size: 18px; margin: 0 0 8px; }
+    .install-help ol { margin: 0 0 16px; padding-left: 20px; }
     main { padding-block: 32px 64px; }
     .site-footer { max-width: 1120px; margin: 0 auto; padding: 0 16px 32px; color: var(--text-muted); font-size: 14px; }
     .site-footer p { margin: 0; border-top: 1px solid var(--border); padding-top: 16px; }
@@ -193,6 +212,7 @@
       <nav class="site-nav" aria-label="Project">
         <a href="https://github.com/edguy3/yachtclublist/blob/HEAD/LICENSE">Open Data (MIT License)</a>
         <a href="https://github.com/edguy3/yachtclublist">GitHub Source Data</a>
+        <button class="install-button" id="install-button" type="button" hidden>Add to Home Screen</button>
       </nav>
     </div>
   </header>
@@ -208,6 +228,15 @@
       <div id="stats"></div>
     </section>
   </main>
+  <dialog class="install-help" id="install-help" aria-labelledby="install-help-heading">
+    <h2 id="install-help-heading">Add to your Home Screen</h2>
+    <ol>
+      <li>In Safari, tap the Share button.</li>
+      <li>Tap <strong>Add to Home Screen</strong>. If you don't see it, scroll down the list.</li>
+      <li>Tap <strong>Add</strong>.</li>
+    </ol>
+    <form method="dialog"><button class="install-button">Close</button></form>
+  </dialog>
   <footer class="site-footer">
     <p>The MIT License covers the data and code. Burgee images and crests remain the property of their clubs.</p>
   </footer>
@@ -845,6 +874,32 @@
         input.addEventListener("input", render);
         render();
       }).catch((error) => ClubData.showLoadError(results.parentElement.querySelector("#count"), error));
+    })();
+
+    // "Add to Home Screen": Chrome, Edge and Android offer a real install prompt.
+    // iPhones and iPads have no such prompt, so the button shows the manual steps.
+    (() => {
+      const button = document.getElementById("install-button");
+      const help = document.getElementById("install-help");
+      const installed = matchMedia("(display-mode: standalone)").matches || navigator.standalone === true;
+      const isIOS = /iPad|iPhone|iPod/.test(navigator.userAgent)
+        || (navigator.platform === "MacIntel" && navigator.maxTouchPoints > 1);
+      let installPrompt = null;
+      if (installed) return;
+      button.hidden = !isIOS;
+      window.addEventListener("beforeinstallprompt", (event) => {
+        event.preventDefault();
+        installPrompt = event;
+        button.hidden = false;
+      });
+      window.addEventListener("appinstalled", () => { installPrompt = null; button.hidden = true; });
+      button.addEventListener("click", async () => {
+        if (!installPrompt) { help.showModal(); return; }
+        installPrompt.prompt();
+        const { outcome } = await installPrompt.userChoice;
+        installPrompt = null;
+        if (outcome === "accepted") button.hidden = true;
+      });
     })();
   </script>
 </body>

@@ -1,0 +1,15 @@
+{
+  "name": "Yacht Club Burgees",
+  "short_name": "Burgees",
+  "description": "Search yacht and boat clubs by name or by what their burgee looks like.",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#f3f3f0",
+  "theme_color": "#1c63ba",
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
