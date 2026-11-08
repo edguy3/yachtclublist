@@ -253,6 +253,8 @@
           country: entry.country || "",
           founded: parseFounded(entry.founded),
           website: entry.website || "",
+          address: entry.address ? String(entry.address) : "",
+          phone: entry.phone ? String(entry.phone) : "",
           coordinates,
           precision: coordinatePrecision(coordinates),
           burgee: entry.burgee ? imagePath + entry.burgee : "",
@@ -476,6 +478,7 @@
           ["Name", count((c) => c.name)], ["Website", count((c) => c.website)], ["Country", count((c) => c.country)],
           ["State or region", count((c) => c.state)], ["City", count((c) => c.city)], ["Coordinates", count((c) => c.coordinates)],
           ["Founding date, exact or approximate", count((c) => c.founded.kind !== "unknown")],
+          ["Address", count((c) => c.address)], ["Phone", count((c) => c.phone)],
           ["Burgee image", withBurgee], ["Burgee description", count((c) => c.description)],
         ];
         panel(fields).append(table(["Field", "Clubs", "Missing", "Complete"],
@@ -790,6 +793,8 @@
         fact(facts, "Location", region || "Not known");
         fact(facts, "Country", club.country || "Not known");
         fact(facts, "Founded", club.founded.label);
+        if (club.address) fact(facts, "Address", club.address);
+        if (club.phone) fact(facts, "Phone", club.phone);
         fact(facts, "Coordinates", coordinatesFact(club));
         if (/^https?:\/\//i.test(club.website)) {
           fact(facts, "Website", externalLink(club.website, club.website.replace(/^https?:\/\/(www\.)?/i, "").replace(/\/$/, "")));

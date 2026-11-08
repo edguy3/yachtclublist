@@ -16,6 +16,8 @@ The clublist.yml file contains a list of yachting and boating clubs, with the 
 * Date founded (a year, `about <year>` if inexact, or `unknown`)
 * Website
 * Coordinates (`[latitude, longitude]`)
+* Address (street or mailing address with postal code, as the club gives it, omitted if not found)
+* Phone (the club's main phone number as the club writes it, omitted if not found)
 * Burgee (name of associated image file, omitted if no burgee was found)
 * Description (what the burgee looks like, to help identify a club from its burgee, omitted with the burgee)
 * Last update (`YYYY-MM-DD`, the date the entry last changed)
@@ -31,16 +33,16 @@ Devin Beliveau used the data to create a modern website listing clubs across the
 
 ## Status
 
-Devin Beliveau focused on clubs in the US first. The list now covers clubs worldwide, in 77 countries and territories:
+Devin Beliveau focused on clubs in the US first. The list now covers clubs worldwide, in 94 countries and territories:
 
 * North America: USA, Canada, Mexico, Bermuda
-* Central America and the Caribbean: Anguilla, Antigua and Barbuda, Bahamas, Barbados, British Virgin Islands, Cayman Islands, Costa Rica, Cuba, Curaçao, Honduras, Jamaica, Sint Maarten
+* Central America and the Caribbean: Anguilla, Antigua and Barbuda, Bahamas, Barbados, British Virgin Islands, Cayman Islands, Costa Rica, Cuba, Curaçao, Dominican Republic, Grenada, Honduras, Jamaica, Martinique, Sint Maarten
 * South America: Argentina, Brazil, Chile, Colombia, Ecuador, Peru, Uruguay, Venezuela
-* Europe: Austria, Belgium, Bulgaria, Croatia, Cyprus, Denmark, Estonia, Finland, France, Germany, Greece, Guernsey, Iceland, Ireland, Isle of Man, Italy, Jersey, Malta, Monaco, Montenegro, Netherlands, Norway, Poland, Portugal, Russia, Spain, Sweden, Switzerland, United Kingdom
-* Asia: Brunei, China, India, Indonesia, Malaysia, Philippines, Singapore, Sri Lanka, Thailand
-* Middle East: Saudi Arabia, Turkey, United Arab Emirates
-* Africa and the South Atlantic: Egypt, Kenya, Namibia, Saint Helena, South Africa
-* Oceania: Australia, Marshall Islands, New Caledonia, New Zealand, Niue, Palau, Papua New Guinea
+* Europe: Austria, Belgium, Bulgaria, Croatia, Cyprus, Czech Republic, Denmark, Estonia, Finland, France, Germany, Greece, Guernsey, Hungary, Iceland, Ireland, Isle of Man, Italy, Jersey, Lithuania, Luxembourg, Malta, Monaco, Montenegro, Netherlands, Norway, Poland, Portugal, Russia, Slovenia, Spain, Sweden, Switzerland, Ukraine, United Kingdom
+* Asia: Brunei, China, India, Indonesia, Japan, Malaysia, Pakistan, Philippines, Singapore, Sri Lanka, Thailand
+* Middle East: Israel, Lebanon, Saudi Arabia, Turkey, United Arab Emirates
+* Africa and the South Atlantic: Egypt, Ghana, Kenya, Mozambique, Namibia, Nigeria, Saint Helena, South Africa
+* Oceania: Australia, French Polynesia, Marshall Islands, New Caledonia, New Zealand, Niue, Palau, Papua New Guinea
 
 ## Contact & usage
 

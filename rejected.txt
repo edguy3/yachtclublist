@@ -1,12 +1,15 @@
 151 Riccione	not a club (school, charter or business)	151riccione.com
+Abaco Club	not a club (school, charter or business)	theabacoclub.com
 Abanico Yacht Club	site unreachable	abanicoyachtclub.com
 Aberdeen Boat Club	site unreachable	aberdeenboatclub.com
 Able Sail	not a club (school, charter or business)	www.ablesail.ca/support.html
+Abu Dhabi Sailing & Yacht Club	site parked, hijacked or broken	adsyc.ae
 Admirals Annapolis Yacht Club	site parked, hijacked or broken	aaycmaryland.com
 Afterguard Sailing Academy	not a club (school, charter or business)	www.afterguard.net
 Agmenticus Yacht Club (York Harbor, ME)	already listed as Agamenticus Yacht Club	
 Airisto Segelsallskap	site unreachable	ass.fi
 Alameda Yacht Club	site unreachable	www.aycinc.org
+Albania Yacht Club	not a club (school, charter or business)	albaniayachtclub.com
 Albatross Yacht Club	site unreachable	www.sailayc.org
 Algoa Bay Yacht Club	site unreachable	home.yebo.co.za
 Alice Springs Yacht Club	site unreachable	aliceyacht.asn.au
@@ -26,6 +29,7 @@ Apponaug Harbor Yacht Club	site unreachable	www.apponaugharbormarina.com
 Aquarius Sail	not a club (school, charter or business)	www.aqsail.com
 Aransas Pass Yacht Club	no website listed	
 Aratu Iate Clube	site unreachable	aratuiateclube.ning.com
+Argo Marina and Yacht Club	not a club (school, charter or business)	argoyc.com
 Arlington Yacht Club	site is a generic template with no club content	arlingtonyachtclub.com
 Ashbridges Bay Yacht Club	site unreachable	abyc.on.ca
 Atlanta Athletic Club Yacht Club	site unreachable	aacyc.com
@@ -40,6 +44,7 @@ Bahrain Yacht Club	site unreachable	fabbahrain.com
 Balboa Island Yacht Club	no website listed	
 Baldwin Harbor Yacht Club (Freeport, NY)	searched, no website found; may be closed	
 Baltimore City Yacht Association	site parked, hijacked or broken	bcya.com
+Barbados Yacht Club	site unreachable	barbadosyachtclub.com
 Barnegat Bay Sailing School	not a club (school, charter or business)	www.barnegatbaysailing.com
 Barnum Bay Yacht Club	site parked, hijacked or broken	www.barnumbayyachtclub.com
 Barrie Yacht Club	site unreachable	byc.on.ca
@@ -53,6 +58,7 @@ Bedford Basin Yacht Club	site unreachable	bbyc.ns.ca
 Belmont 16ft Sailing Club	site unreachable	belmont16footers.com.au
 Belmont Yacht Club	site parked, hijacked or broken	www.belmontyc.org
 Benicia Yacht Club	site parked, hijacked or broken	www.beniciayachtclub.com
+Bequia Sailing Club	site parked, hijacked or broken	bequiasailingclub.com
 Bergens Seilforening	site unreachable	bsail.no
 Bewl Valley Sailing Club	site unreachable	bewl-valley-sc.org.uk
 Bewley Sailing	not a club (school, charter or business)	www.seabc.com
@@ -78,6 +84,7 @@ Broome Sailing Club	site unreachable	broomesailingclub.org.au
 Buccaneer Yacht Club International, Florida	no website listed	
 Buffalo River Yacht Club	site unreachable	bryc.co.za
 California Sailing Cooperative	site unreachable	sailingla.com
+Calvi Nautique Club	site unreachable	calvinc.org
 Cam Sailing Club	site unreachable	cam.net.uk
 Canadian Forces Base Trenton Yacht Club	site unreachable	reach.net
 Canadian Forces Sailing Association (Esquimalt Squadron)	site unreachable	pacificcoast.net
@@ -96,6 +103,10 @@ Cedar Mar Yacht Club	site parked, hijacked or broken	www.cedarmar.org
 Centennial Sailing Club	site unreachable	www.centennialsailingclub.com
 Central Florida Yacht Club	site unreachable	centralfloridayachtclub.com
 Central States Sailing Association	site unreachable	beddow.com
+Central Yacht Club of Latvia	site parked, hijacked or broken	latvijasjahta.lv
+Cercle de La Voile d'Abidjan	site unreachable	cva.website
+Cercle de Voile de Dakar	site parked, hijacked or broken	cvdakar.e-monsite.com
+Cercle Nautique de La Rochelle	site unreachable	cnlr.asso.fr
 Champlain Yacht Club	site unreachable	oyston.com
 Changi Sailing Club	site unreachable	csc.org.sg
 Channel Islands Boating Center	not a club (school, charter or business)	www.ciboating.org
@@ -107,6 +118,7 @@ Chequessett Yacht & Country Club	site parked, hijacked or broken	www.cycc.net
 Chesapeake Region Accessible Boating	not a club (school, charter or business)	crabsailing.org
 Chester Yacht Club	site unreachable	cyc.ns.ca
 Chicago Herritage Boat Club	site unreachable	woodship.com
+Chula Vista Yacht Club	site parked, hijacked or broken	cvyc.org
 Cilento a Vela	not a club (school, charter or business)	www.cilentoavela.com
 City Yacht Club – Riga	site unreachable	andrejsala.lv
 Clear Lake Sailing Club	site unreachable	www.clearlakesailingclub.org
@@ -131,6 +143,7 @@ Club Nautico Deportivo de Ribeira – Santa Uxia de Ribeira	site unreachable	nau
 Club Nautico do Caraminal	site unreachable	muport.es
 Club Nautico Haina	site unreachable	clubnauticohaina.com&
 Club Nautico Mar del Plata	site unreachable	clubnauticomdp.org.ar
+Club Nautico of San Andres	site unreachable	clubnauticosai.org
 Club Nautico Poseidon	site unreachable	clubnauticoposeidon.pe
 Club Nautico Puerto Colon	site unreachable	cnpuertocolon.org
 Club Nautico San Isidro	site unreachable	cnsi.com.ar
@@ -143,6 +156,7 @@ Clube Naval de Lisboa	site parked, hijacked or broken	cnl.pt
 Clube Naval de Portimao	site unreachable	clubenavaldeportimao.pt
 Coastal Carolina Sailing School	not a club (school, charter or business)	www.ccsailingschool.com
 Coasters Harbor Navy Yacht Club	site unreachable	chnyc.us
+Coffs Harbour Yacht Club	site parked, hijacked or broken	whoops.memberjungle.com
 Coldham Hall Sailing Club	site unreachable	coldhamhallsailingclub.co.uk
 College Point Yacht Club	site unreachable	collegepointyc.com
 Colorado Sail and Yacht Club	site unreachable	csyc.org
@@ -169,6 +183,7 @@ Cruising Club de Suisse	site unreachable	ccs-cruising.ch
 Cruising Yacht Club of Australia	site unreachable	cyca.com.au
 Cruising Yacht Club of South Australia	site unreachable	www.cycsa.com.au
 Cuttyhunk Yacht Club	site parked, hijacked or broken	www.cuttyhunkyachtclub.org
+Dale Yacht Club	site parked, hijacked or broken	daleyc.co.uk
 Dangerfield Island Sailing Club	site parked, hijacked or broken	dicf.org
 Dar es Salaam Yacht Club	site unreachable	dyc.co.tz
 Delaware River Yacht Club	no website listed	
@@ -302,6 +317,8 @@ Island Sailing	not a club (school, charter or business)	islandsailing.org/club
 Island Yacht Club of Toronto	site unreachable	iyc.on.ca
 J World Performance Sailing	not a club (school, charter or business)	sailing-jworld.com
 Jachthaven Breskens	not a club (school, charter or business)	jachthavenbreskens.nl
+Jachtklub Morski Neptun	site parked, hijacked or broken	odkrywcaparkownarodowych.pl
+Jakarta Offshore Sailing Club	site parked, hijacked or broken	josc.org
 Jeddah Yacht Club and Marina	site parked, hijacked or broken	jeddahyachtclubandmarina.com
 Jedrilicarski klub Delfin	no website listed	
 Jervis Bay Cruising Yacht Club	no website listed	
@@ -363,6 +380,7 @@ Larnaca Nautical Club	site unreachable	larnacanauticalclub.org
 Lattakia Marina (Syrian Yacht Club)	site unreachable	syrianyachtclub.com
 Learn to Sail San Diego	not a club (school, charter or business)	www.learntosailsandiego.com
 Learn to Sail Texas	not a club (school, charter or business)	www.sailing88.com
+Lebanese Yacht Club	site parked, hijacked or broken	lebaneseyachtclub.org
 Let's Go Sailing	not a club (school, charter or business)	lets-go-sailing.net
 Lewisville Lake Sailing Club	site unreachable	llsailingclub.org
 Libera Yachtclub Chiemsee	site unreachable	segel.de
@@ -417,6 +435,7 @@ Mossel Bay Yacht and Boat Club	site unreachable	mbybc.co.za
 Mount Batten Centre for Watersports	not a club (school, charter or business)	mount-batten-centre.com
 Mount Sinai Sailing Association	site unreachable	mssa.org
 Mounts Bay Sailing Club	site unreachable	mbsc.freeyellow.com
+Musket Cove Yacht Club	not a club (school, charter or business)	musketcovefiji.com
 Mylor Yacht Club	site unreachable	myloryachtclub.org.uk
 Nanaimo Yacht Club	site unreachable	nanaimoyc.ca
 Naok Yacht Club	site unreachable	naok.gr
@@ -501,6 +520,7 @@ Pepperrell Cove Yacht Club (Kittery Point, ME)	searched, no website found
 Peterhead Sailing Club	site unreachable	peterheadsailingclub.org
 Philadelphia Sailing Club	site unreachable	webcom.com
 Philippine Home Boatbuilders Yacht Club	site parked, hijacked or broken	www.pinoyboats.org
+Phuket Cruising Yacht Club	site parked, hijacked or broken	phuketcruisingyachtclub.org
 Pictou Yacht Club	site unreachable	pictouyachtclub.ca
 Pinda Nautica Yacht Club	site unreachable	pindaiateclube.org.br
 Pine Beach Yacht Club	site parked, hijacked or broken	www.pbycnj.com
@@ -514,6 +534,7 @@ Port Arthur Yacht Club	site parked, hijacked or broken	www.payc.us
 Port Elizabeth Beach Yacht Club	site unreachable	pebyc.co.za
 Port Hope Harbour, Marina and Yacht Club	site unreachable	town.porthope.on.ca
 Port Sailing School	not a club (school, charter or business)	www.portsailing.com
+Portaferry Sailing Club	site parked, hijacked or broken	portaferrysailingclub.com
 Portage Lakes Yacht Club	site parked, hijacked or broken	www.sailingakron.org
 Portland Sailing Center	not a club (school, charter or business)	www.portlandsailing.com
 Potomac River Sailing Association	site unreachable	capaccess.org
@@ -529,6 +550,7 @@ Pwllheli Sailing Club	site unreachable	pwllhelisailingclub.co.uk
 Quantico Yacht Club	site unreachable	quanticoyc.org
 Queen Mary Sailing Club	site unreachable	clubs.mariner.co.uk
 Queenborough Yacht Club	site unreachable	queenboroughyc.org.uk
+Quoile Yacht Club	site parked, hijacked or broken	quoileyc.com
 R&R Charters and Sail School	not a club (school, charter or business)	www.randrchartersandsailschool.net
 Rahway Yacht Club (Rahway, NJ)	searched, no website found	
 Ras Al Hamra Boat Club	site unreachable	rahbc.com
@@ -587,6 +609,8 @@ Royal Melbourne Yacht Squadron	site unreachable	rmys.com.au
 Royal Naval Club and Royal Albert Yacht Club	site unreachable	rnc-rayc.co.uk
 Royal New Zealand Yacht Squadron	site unreachable	rnzys.org
 Royal Port Dickson Yacht Club	site unreachable	rpdyc.com.my
+Royal Romanian Yacht Club	site parked, hijacked or broken	ycrr.ro
+Royal Suva Yacht Club	site unreachable	rsyc.org.fj
 Royal Thai Navy Sailing Club	site unreachable	rtnsc.com
 Royal Varuna Yacht Club	site parked, hijacked or broken	royal-varuna-yacht-club.com
 Royal Welsh Yacht Club	site unreachable	royalwelshyachtclub.org.uk
@@ -641,6 +665,7 @@ Selkirk Yacht Club	no website listed
 Setauket Yacht Club (Port Jefferson, NY)	renamed Port Jefferson Yacht Club, already listed	
 Severn River Yacht Club	site unreachable	www.severnriveryachtclub.org
 Severn Sailing Club	site unreachable	users.globalnet.co.uk
+Seychelles Yacht Club	site parked, hijacked or broken	seychellesyachtclub.com
 Shanghai Yacht Club	site unreachable	shanghaibyc.org
 Shearwater Yacht Club	site unreachable	pspmembers.com
 Shelburne Harbour Yacht Club	site parked, hijacked or broken	shelburneharbouryachtclub.com
@@ -701,8 +726,10 @@ Sussex Yacht Club	site unreachable	glenrise.u-net.com
 Swan Creek Yacht Club (Rock Hall, MD)	searched, no website found	
 Swan Yacht Club (East Patchogue, NY)	searched, no website found	
 Swansea Yacht & Sub-Aqua Club	site unreachable	sysac.org.uk
+Tahiti Yacht Club	site parked, hijacked or broken	tahitiyachtclub.com
 Tahoe Sailing School	not a club (school, charter or business)	www.tahoe-sailing.com
 Tahoe Sierra Yacht Club	site unreachable	tahoesierrayachtclub.com
+Taiwan Marine Sailing Club	not a club (school, charter or business)	twmarine.com.tw
 Tanga Yacht Club	site unreachable	tangayachtclub.com
 Tarratine Yacht Club (Islesboro, ME)	already listed as Tarratine Club of Dark Harbor	
 Tasman Bay Cruising Club	site unreachable	tasmanbaycc.co.nz
@@ -711,6 +738,7 @@ Tel Aviv Yacht Club	site unreachable	telavivyachtclub.co.il
 Texas Sailing	not a club (school, charter or business)	www.texassailing.com
 Thames Barge Sailing Club	site unreachable	bargeclub.org
 Thames Sailing Club	site unreachable	thamessailingclub.org.uk
+The Alderney Sailing Club	site unreachable	alderneysailingclub.com
 The CERN Yachting club	site unreachable	cern.web.cern.ch
 The General Zaruski Yachti Basin	site unreachable	gosir.gdynia.pl
 The Great Lakes Cruising Club	site unreachable	glcclub.com
@@ -794,6 +822,7 @@ Yacht Club Ancon	site unreachable	yca.org.pe
 Yacht Club Argentino	site parked, hijacked or broken	yca.org.ar
 Yacht Club Cala de Medici	site unreachable	ycmedici.it
 Yacht Club Capri	site unreachable	yachtclubcapri.it
+Yacht Club d'Antibes	site unreachable	yc-antibes.net
 Yacht Club da Bahia	site unreachable	ycb.com.br
 Yacht Club de Chile	site unreachable	yachtclubdechile.cl﻿
 Yacht Club de Ilhabela	site unreachable	yci.com.br
@@ -803,14 +832,17 @@ Yacht Club de Saint Lunaire	site unreachable	ycstl.fr
 Yacht Club International Saint-Raphaël	site unreachable	www.ycisr.com
 Yacht Club Marina Puntaldia	no website listed	
 Yacht Club Marzamemi	site unreachable	yachtmarzamemi.it
+Yacht Club of Dinard	site parked, hijacked or broken	yacht-club-dinard.com
 Yacht Club of Paros	site unreachable	ycparos.gr
 Yacht Club Of Pleasantville	no website listed	
 Yacht Club Portoroz	site unreachable	jk-burja.si
+Yacht Club Praha	not a club (school, charter or business)	yachtclub.cz
 Yacht Club Punta del Este	site unreachable	ycpe.org.uy
 Yacht Club Roja	site unreachable	rojasjahtklubs.lv
 Yacht Club Rosario	site unreachable	ycrosario.com.ar
 Yacht Club Saint-Pierre (Club de Voile)	site unreachable	voilespm.org﻿
 Yacht Club Sanremo	site unreachable	yachtclubsanremo.it
+Yacht Club Wilhelmshaven	site unreachable	yc-wilhelmshaven.de
 Yacht Club YUG	site unreachable	yachtclub.org.ua
 Yacht Klub Polski w Gdyni	site unreachable	ocean.iopan.gda.pl
 Yacht-Club de Québec	site unreachable	yachting.qc.ca
