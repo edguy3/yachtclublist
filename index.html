@@ -767,6 +767,16 @@
         return line;
       }
 
+      // Builds a tel: link. Numbers written without a country code stay as local dialing.
+      function phoneLink(club) {
+        let number = club.phone.replace(/\(0\)/g, "").replace(/[^\d+]/g, "").replace(/^00/, "+");
+        if (/^\d{10}$/.test(number) && (club.country === "USA" || club.country === "Canada")) number = "+1" + number;
+        const link = document.createElement("a");
+        link.href = "tel:" + number;
+        link.textContent = club.phone;
+        return link;
+      }
+
       function fact(list, term, value) {
         list.append(el("dt", "", term));
         const dd = el("dd");
@@ -823,7 +833,7 @@
         fact(facts, "Country", club.country || "Not known");
         fact(facts, "Founded", club.founded.label);
         if (club.address) fact(facts, "Address", club.address);
-        if (club.phone) fact(facts, "Phone", club.phone);
+        if (club.phone) fact(facts, "Phone", phoneLink(club));
         fact(facts, "Coordinates", coordinatesFact(club));
         if (/^https?:\/\//i.test(club.website)) {
           fact(facts, "Website", externalLink(club.website, club.website.replace(/^https?:\/\/(www\.)?/i, "").replace(/\/$/, "")));
