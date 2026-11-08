@@ -97,6 +97,7 @@
     .site-nav a { color: var(--text-secondary); text-decoration: none; padding-block: 4px; }
     .site-nav a:hover { color: var(--text-primary); text-decoration: underline; }
     .site-nav a[aria-current="page"] { color: var(--text-primary); font-weight: 600; border-bottom: 2px solid var(--accent); }
+    @media (max-width: 640px) { .source-link { display: none; } }
     .install-button {
       font: inherit; font-size: 14px; font-weight: 600; color: var(--accent); cursor: pointer;
       background: transparent; border: 1px solid var(--accent); border-radius: 8px; padding: 6px 12px;
@@ -211,7 +212,7 @@
       <div class="brand">Yacht Club Burgees</div>
       <nav class="site-nav" aria-label="Project">
         <a href="https://github.com/edguy3/yachtclublist/blob/HEAD/LICENSE">Open Data (MIT License)</a>
-        <a href="https://github.com/edguy3/yachtclublist">GitHub Source Data</a>
+        <a class="source-link" href="https://github.com/edguy3/yachtclublist">GitHub Source Data</a>
         <button class="install-button" id="install-button" type="button" hidden>Add to Home Screen</button>
       </nav>
     </div>
