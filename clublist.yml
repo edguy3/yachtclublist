@@ -26918,3 +26918,477 @@
   boat-types: [sail, dinghy]
   last-update: 2026-11-08
   last-validated: 2026-11-08
+- club:
+  name: Macau Yacht Club
+  uuid: b3076cf0-e2d7-46d4-a7c3-ad79ddf315a2
+  city: Macau
+  state: Macau
+  country: China
+  founded: 1949
+  website: http://www.cnm.org.mo/
+  coordinates: [22.18, 113.55]
+  phone: "(853) 2822 1476"
+  ownership: non-profit
+  last-update: 2026-11-08
+  last-validated: 2026-11-08
+- club:
+  name: Hong Kong Hobie Club
+  uuid: c2cc2044-1475-4ca1-a32b-3595d846522c
+  city: Aberdeen
+  state: Hong Kong
+  country: China
+  founded: unknown
+  website: http://www.hobieclub.org.hk/
+  coordinates: [22.25, 114.16]
+  boat-types: [sail, multihull]
+  last-update: 2026-11-08
+  last-validated: 2026-11-08
+- club:
+  name: Tai Po Boat Club
+  uuid: 230c0645-3406-43e5-b925-810c1f9287e9
+  city: Tai Po
+  state: Hong Kong
+  country: China
+  founded: 1963
+  website: http://www.taipoboatclub.com.hk/
+  coordinates: [22.45, 114.17]
+  address: "Tai Mei Tuk, Tai Po, Hong Kong"
+  phone: "2664 3540"
+  last-update: 2026-11-08
+  last-validated: 2026-11-08
+- club:
+  name: Lantau Boat Club
+  uuid: ba51fb1c-ff82-4d4c-9834-fbb47b14199a
+  city: Discovery Bay
+  state: Hong Kong
+  country: China
+  founded: unknown
+  website: http://www.lantauboatclub.com/
+  coordinates: [22.3, 114.01]
+  boat-types: [sail, rowing, paddle]
+  last-update: 2026-11-08
+  last-validated: 2026-11-08
+- club:
+  name: Club Marina Cove
+  uuid: fed01ff3-88a2-4d4a-9729-67a1b28791bc
+  city: Sai Kung
+  state: Hong Kong
+  country: China
+  founded: unknown
+  website: https://www.clubmarinacove.com/
+  coordinates: [22.38, 114.27]
+  address: "380 Hiram's Highway, Sai Kung, Kowloon, Hong Kong"
+  last-update: 2026-11-08
+  last-validated: 2026-11-08
+- club:
+  name: Gold Coast Yacht and Country Club
+  uuid: c22016be-348e-43c2-abb2-747ac85ec22c
+  city: Castle Peak Bay
+  state: Hong Kong
+  country: China
+  founded: unknown
+  website: http://www.goldcoast.com.hk/
+  coordinates: [22.38, 113.98]
+  last-update: 2026-11-08
+  last-validated: 2026-11-08
+- club:
+  name: Oyster Bay Yacht Club
+  uuid: 60965d78-5cfb-45e8-b3fb-71794e1a6537
+  city: Fernandina Beach
+  state: Florida
+  country: USA
+  founded: unknown
+  website: https://www.oysterbayyachtclub.com/
+  coordinates: [30.67, -81.46]
+  phone: "(904) 261-4773"
+  last-update: 2026-11-08
+  last-validated: 2026-11-08
+- club:
+  name: Tarpon Springs Yacht Club
+  uuid: b19653c0-1f06-4f29-807b-73c485a385f4
+  city: Tarpon Springs
+  state: Florida
+  country: USA
+  founded: unknown
+  website: https://www.tarponspringsyachtclub.com/
+  coordinates: [28.15, -82.76]
+  phone: "(727) 934-2136"
+  last-update: 2026-11-08
+  last-validated: 2026-11-08
+- club:
+  name: The Florida Yacht Club
+  uuid: 1844c001-ba42-4495-a124-bf96ba37b258
+  city: Jacksonville
+  state: Florida
+  country: USA
+  founded: unknown
+  website: https://thefloridayachtclub.org/
+  coordinates: [30.33, -81.66]
+  phone: "(904) 387-1653"
+  last-update: 2026-11-08
+  last-validated: 2026-11-08
+- club:
+  name: Upper Keys Sailing Club
+  uuid: ccdccad3-3574-413a-af95-4d21f8e940e0
+  city: Key Largo
+  state: Florida
+  country: USA
+  founded: unknown
+  website: https://www.upperkeyssailingclub.com/
+  coordinates: [25.09, -80.45]
+  address: "100 Ocean Bay Drive, Key Largo, FL 33037"
+  last-update: 2026-11-08
+  last-validated: 2026-11-08
+- club:
+  name: Charlotte Harbor Yacht Club
+  uuid: 0100ec36-ef57-4086-9ff7-cd901497cd73
+  city: Port Charlotte
+  state: Florida
+  country: USA
+  founded: unknown
+  website: https://charlotteharboryc.com/
+  coordinates: [26.98, -82.11]
+  address: "4400 Lister Street Port Charlotte FL. 33952"
+  phone: "(941) 629-5131"
+  last-update: 2026-11-08
+  last-validated: 2026-11-08
+- club:
+  name: Lauderdale Isles Yacht Club
+  uuid: b3214572-427c-4223-ad19-14ad8915340e
+  city: Fort Lauderdale
+  state: Florida
+  country: USA
+  founded: unknown
+  website: http://www.lauderdaleisles.us/
+  coordinates: [26.12, -80.14]
+  last-update: 2026-11-08
+  last-validated: 2026-11-08
+- club:
+  name: Miami Yacht Club
+  uuid: 5f6ac4d2-f597-4658-9cba-eec65d4af15c
+  city: Miami
+  state: Florida
+  country: USA
+  founded: unknown
+  website: https://www.miamiyachtclub.com/
+  coordinates: [25.77, -80.19]
+  address: "1001 MacArthur Causeway, Miami, FL 33132"
+  phone: "(305) 377-9877"
+  last-update: 2026-11-08
+  last-validated: 2026-11-08
+- club:
+  name: Santa Rosa Yacht Club
+  uuid: 8a453b00-5d90-48f5-8cd1-77f797b6d792
+  city: Gulf Breeze
+  state: Florida
+  country: USA
+  founded: unknown
+  website: https://santarosayachtclub.com/
+  coordinates: [30.36, -87.17]
+  address: "300 Pensacola Beach Road, Gulf Breeze, FL 32561"
+  phone: "(850) 934-1005"
+  last-update: 2026-11-08
+  last-validated: 2026-11-08
+- club:
+  name: Shake-A-Leg Miami
+  uuid: ad77bbd0-ce5e-4120-bea2-e7e1a527c76b
+  city: Miami
+  state: Florida
+  country: USA
+  founded: unknown
+  website: https://www.shakealegmiami.org/
+  coordinates: [25.77, -80.19]
+  address: "2620 S Bayshore Dr, Coconut Grove, FL 33133"
+  phone: "(305) 858-5550"
+  type: [sailing-school]
+  last-update: 2026-11-08
+  last-validated: 2026-11-08
+- club:
+  name: Sarasota Sailing Squadron
+  uuid: 6824ef7a-ff63-4b50-b7f9-903cdf8e596d
+  city: Sarasota
+  state: Florida
+  country: USA
+  founded: unknown
+  website: https://www.sarasotasailingsquadron.org/
+  coordinates: [27.34, -82.53]
+  address: "1717 Ken Thompson Parkway, Sarasota, FL 34236"
+  phone: "(941) 388-2355"
+  last-update: 2026-11-08
+  last-validated: 2026-11-08
+- club:
+  name: Clearwater Community Sailing Center
+  uuid: d9ad7678-eedd-4a6b-ae6d-1f042f931dd7
+  city: Clearwater
+  state: Florida
+  country: USA
+  founded: unknown
+  website: https://www.clearwatercommunitysailing.org/
+  coordinates: [27.97, -82.8]
+  address: "1001 Gulf Boulevard, Clearwater, FL 33767-2702"
+  phone: "(727) 517-7776"
+  type: [sailing-school]
+  last-update: 2026-11-08
+  last-validated: 2026-11-08
+- club:
+  name: Dunedin Boat Club
+  uuid: f45891bd-939e-4503-9ef0-2530359eda36
+  city: Dunedin
+  state: Florida
+  country: USA
+  founded: unknown
+  website: https://www.dunedinboatclub.org/
+  coordinates: [28.01, -82.79]
+  address: "51 Marina Plaza, #19, Dunedin, FL 34698"
+  last-update: 2026-11-08
+  last-validated: 2026-11-08
+- club:
+  name: Yacht Club Sanremo
+  uuid: 42b87c80-6cd7-42c2-a770-3b7a8feb3ebe
+  city: Sanremo
+  state: Liguria
+  country: Italy
+  founded: unknown
+  website: https://www.yachtclubsanremo.it/
+  coordinates: [43.82, 7.78]
+  phone: "+39 0184503760"
+  last-update: 2026-11-08
+  last-validated: 2026-11-08
+- club:
+  name: Yacht Club Punta Ala
+  uuid: c63eec21-9dd6-4349-9a06-1b614a68a9bb
+  city: Punta Ala
+  state: Tuscany
+  country: Italy
+  founded: unknown
+  website: https://www.ycpa.it/
+  coordinates: [42.8, 10.75]
+  address: "Località il Porto - 58043 Punta Ala"
+  phone: "0039 0564 923232"
+  last-update: 2026-11-08
+  last-validated: 2026-11-08
+- club:
+  name: Yacht Club Gaeta
+  uuid: bff2ed90-33e9-4c6d-8a5f-4eb4be14475c
+  city: Gaeta
+  state: Lazio
+  country: Italy
+  founded: unknown
+  website: https://www.yachtclubgaeta.it/
+  coordinates: [41.22, 13.56]
+  address: "Lungomare Caboto 93, 04024 Gaeta"
+  phone: "+39 375 903 2550"
+  last-update: 2026-11-08
+  last-validated: 2026-11-08
+- club:
+  name: Yacht Club Olbia
+  uuid: f633c827-3d88-4eb5-917a-27c248464e69
+  city: Olbia
+  state: Sardinia
+  country: Italy
+  founded: unknown
+  website: https://www.yachtclubolbia.it/
+  coordinates: [40.92, 9.5]
+  last-update: 2026-11-08
+  last-validated: 2026-11-08
+- club:
+  name: Yacht Club Portopiccolo
+  uuid: 67d18135-1946-4448-9226-0ee69773ba68
+  city: Sistiana
+  state: Friuli Venezia Giulia
+  country: Italy
+  founded: unknown
+  website: https://www.yachtclubportopiccolo.it/
+  coordinates: [45.77, 13.64]
+  last-update: 2026-11-08
+  last-validated: 2026-11-08
+- club:
+  name: Yacht Club Parma
+  uuid: 30a94bdb-0c7f-47d4-8bce-9682a29ab1ac
+  city: Parma
+  state: Emilia-Romagna
+  country: Italy
+  founded: unknown
+  website: https://www.yachtclubparma.it/it-IT/homepage.aspx
+  coordinates: [44.7, 10.1]
+  address: "Via Cardani 19, 43124 Parma"
+  last-update: 2026-11-08
+  last-validated: 2026-11-08
+- club:
+  name: Circolo Vela Torbole
+  uuid: 8c04a4db-ef1e-4f28-9100-cb644399a6c8
+  city: Torbole
+  state: Trentino-Alto Adige
+  country: Italy
+  founded: unknown
+  website: https://www.circolovelatorbole.com/
+  coordinates: [45.87, 10.88]
+  address: "Lungolago Conca d'Oro, 12, 38069 Torbole"
+  phone: "+39 0464 506240"
+  last-update: 2026-11-08
+  last-validated: 2026-11-08
+- club:
+  name: Circolo Vela Arco
+  uuid: df4183b1-aa7a-4512-a6dc-984b74a552cb
+  city: Arco
+  state: Trentino-Alto Adige
+  country: Italy
+  founded: unknown
+  website: https://www.circolovelaarco.it/
+  coordinates: [45.93, 10.92]
+  last-update: 2026-11-08
+  last-validated: 2026-11-08
+- club:
+  name: Fraglia Vela Riva
+  uuid: 757d8880-f63e-49ee-ab2e-34d4e2586b42
+  city: Riva del Garda
+  state: Trentino-Alto Adige
+  country: Italy
+  founded: unknown
+  website: https://fragliavelariva.it/
+  coordinates: [45.89, 10.85]
+  address: "Via Giancarlo Maroni, 2, 38066 Riva del Garda"
+  phone: "+390464552460"
+  last-update: 2026-11-08
+  last-validated: 2026-11-08
+- club:
+  name: Fraglia Vela Desenzano
+  uuid: 77cc301e-305d-4d48-bba4-493e79377d2b
+  city: Desenzano del Garda
+  state: Lombardy
+  country: Italy
+  founded: unknown
+  website: https://www.fragliavela.it/
+  coordinates: [45.47, 10.54]
+  address: "Porto Maratona – Via Anelli, 1 – 25015 Desenzano del Garda"
+  phone: "+39 030 914 33 43"
+  last-update: 2026-11-08
+  last-validated: 2026-11-08
+- club:
+  name: Circolo Vela Gargnano
+  uuid: a4c8094d-b799-460e-9b4a-e12bab449823
+  city: Gargnano
+  state: Lombardy
+  country: Italy
+  founded: unknown
+  website: https://www.circolovelagargnano.it/
+  coordinates: [45.69, 10.66]
+  address: "Via Alessandro Bettoni, 23, 25084 Gargnano"
+  phone: "0365 71433"
+  last-update: 2026-11-08
+  last-validated: 2026-11-08
+- club:
+  name: Società Canottieri Garda Salò
+  uuid: 065a801e-d333-4e04-9e81-a6be8b0faf31
+  city: Salò
+  state: Lombardy
+  country: Italy
+  founded: unknown
+  website: https://canottierigarda.it/
+  coordinates: [45.61, 10.52]
+  phone: "+39036540030"
+  last-update: 2026-11-08
+  last-validated: 2026-11-08
+- club:
+  name: Società Velica di Barcola e Grignano
+  uuid: 9bd73397-5925-4bc7-a04c-5714f8b32f1f
+  city: Trieste
+  state: Friuli Venezia Giulia
+  country: Italy
+  founded: unknown
+  website: https://www.svbg.it/
+  coordinates: [45.65, 13.78]
+  address: "Viale Miramare 32 – 34135 Trieste"
+  phone: "040 411664"
+  last-update: 2026-11-08
+  last-validated: 2026-11-08
+- club:
+  name: Circolo Nautico Rapallo
+  uuid: 9fa8161f-9226-405b-a02d-0722918edddf
+  city: Rapallo
+  state: Liguria
+  country: Italy
+  founded: unknown
+  website: https://www.circolonauticorapallo.it/
+  coordinates: [44.35, 9.23]
+  address: "Durand de la Penne, 14, 16035 Rapallo"
+  phone: "0185 51281"
+  last-update: 2026-11-08
+  last-validated: 2026-11-08
+- club:
+  name: Club Nautico Rimini
+  uuid: d0b3f092-0cc0-4cf6-827d-05a49f4e9dc3
+  city: Rimini
+  state: Emilia-Romagna
+  country: Italy
+  founded: unknown
+  website: https://www.cnrimini.com/
+  coordinates: [43.95, 12.63]
+  address: "Piazzale Boscovich 12 – 47921 Rimini"
+  phone: "0541 26520"
+  last-update: 2026-11-08
+  last-validated: 2026-11-08
+- club:
+  name: Club Nautico Versilia
+  uuid: ccbc0dfa-b897-4951-8ef1-7312345981a7
+  city: Viareggio
+  state: Tuscany
+  country: Italy
+  founded: unknown
+  website: http://www.clubnauticoversilia.com/
+  coordinates: [43.87, 10.25]
+  address: "P.zza Palombari dell'Artiglio n.1, 55049 Viareggio"
+  last-update: 2026-11-08
+  last-validated: 2026-11-08
+- club:
+  name: Circolo Nautico Cervia
+  uuid: 7c9bd851-2b70-476e-93bd-b5d57f8f416a
+  city: Cervia
+  state: Emilia-Romagna
+  country: Italy
+  founded: unknown
+  website: https://www.circolonauticocervia.it/
+  coordinates: [44.26, 12.35]
+  address: "Via Leoncavallo, 9, 48015 – Cervia"
+  phone: "0544-974125"
+  last-update: 2026-11-08
+  last-validated: 2026-11-08
+- club:
+  name: Società Canottieri Palermo
+  uuid: df93fd4a-fa83-45d8-a3ed-b43300bcd9ec
+  city: Palermo
+  state: Sicily
+  country: Italy
+  founded: unknown
+  website: https://canottieripalermo.it/
+  coordinates: [38.11, 13.35]
+  address: "Via Cala Banchina Lupa, 90133 Palermo"
+  phone: "(+39) 091-328467"
+  last-update: 2026-11-08
+  last-validated: 2026-11-08
+- club:
+  name: Circolo Nautico NIC
+  uuid: 6102e7bd-04f7-41a5-8a3d-e06788baa4a2
+  city: Catania
+  state: Sicily
+  country: Italy
+  founded: unknown
+  website: https://www.circolonauticonic.it/
+  coordinates: [37.5, 15.09]
+  address: "Pennello Molo di Levante, Porto, 95131 Catania"
+  phone: "095 532119"
+  last-update: 2026-11-08
+  last-validated: 2026-11-08
+- club:
+  name: Centro Velico Caprera
+  uuid: 91b346d9-e41a-4886-9d96-b9ec4e44866f
+  city: La Maddalena
+  state: Sardinia
+  country: Italy
+  founded: unknown
+  website: https://www.centrovelicocaprera.it/
+  coordinates: [41.21, 9.41]
+  phone: "0789/738529"
+  type: [sailing-school]
+  last-update: 2026-11-08
+  last-validated: 2026-11-08

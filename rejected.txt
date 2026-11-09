@@ -471,6 +471,7 @@ New York Sailing Club	site parked, hijacked or broken	nysailingclub.com
 New York Yacht Club American Magic	site parked, hijacked or broken	www.americanmagic.com
 New Zealand Multihull Yacht Club	site unreachable	www.multihull.org.nz
 Newport Sailing School and Tours	not a club (school, charter or business)	www.newportsailing.com
+Niceville Yacht Club	site unreachable	nicevilleyc.org
 Nippon Ocean Racing Club	site unreachable	norc.or.jp
 Nippon Yacht Club	site unreachable	nyc.or.jp
 Nockamixon Sailing School	not a club (school, charter or business)	www.nockamixonsailingschool.com
@@ -503,6 +504,7 @@ Offshore Yachting club of Rhodes	site parked, hijacked or broken	www.asiathr.gr
 Olcott Yacht Club	site parked, hijacked or broken	olcottyacht.club
 Old Port Cove Marina & Yacht Club	site unreachable	opch.com
 Olympia Yacht Club	site unreachable	www.olympiayachtclub.org
+On-Board Yacht Sailing Club (Xiamen, China)	site unreachable	onboardclub.cn
 Ontario Sailing	not a club (school, charter or business)	www.ontariosailing.ca
 Oshawa Yacht Club	site unreachable	oshawayachtclub.com
 Outbound Sailing	not a club (school, charter or business)	www.outboundsailing.com
@@ -554,6 +556,7 @@ Prouts Neck Yacht Club	no website listed
 Prouts Neck Yacht Club (Prouts Neck, ME)	searched, no website found	
 Punta Fuego Yacht Club	no website listed	
 Pwllheli Sailing Club	site unreachable	pwllhelisailingclub.co.uk
+Qingdao Maywind Yacht Club (Qingdao, China)	searched, no website found	
 Quantico Yacht Club	site unreachable	quanticoyc.org
 Queen Mary Sailing Club	site unreachable	clubs.mariner.co.uk
 Queenborough Yacht Club	site unreachable	queenboroughyc.org.uk
@@ -829,9 +832,11 @@ Wraysbury Lake Sailing Club	site unreachable	peoplefirst.co.uk
 Wrightsville Performance Sailing	not a club (school, charter or business)	wpsail.com
 Wynnum Manly Yacht Club	site unreachable	wmyc.org.au
 Yacht Club Adriaco	site unreachable	yachtclubadriaco.it
+Yacht Club Alghero	site parked, hijacked or broken	yachtclubalghero.it
 Yacht Club Ancon	site unreachable	yca.org.pe
 Yacht Club Argentino	site parked, hijacked or broken	yca.org.ar
 Yacht Club Cala de Medici	site unreachable	ycmedici.it
+Yacht Club Capri	site parked, hijacked or broken	yachtclubcapri.it
 Yacht Club Capri	site unreachable	yachtclubcapri.it
 Yacht Club d'Antibes	site unreachable	yc-antibes.net
 Yacht Club da Bahia	site unreachable	ycb.com.br
@@ -860,4 +865,5 @@ Yacht-Club de Québec	site unreachable	yachting.qc.ca
 Yachting Vacations	not a club (school, charter or business)	www.yachtingvacations.com
 Yale Corinthian Yacht Club	site unreachable	sportsandrecreation.yale.edu/recreation-centers/mcnay-family-s
 Yankee Cruising Club	site unreachable	yankee-cruising.org
+Yinhai International Yacht Club (Qingdao, China)	site unreachable	yinhai.com.cn
 Yonkers Corinthian Yacht Club	no website listed	
