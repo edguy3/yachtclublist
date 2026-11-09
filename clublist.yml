@@ -12507,14 +12507,14 @@
   city: New Hamburg
   state: New York
   country: USA
-  founded: unknown
+  founded: 1869
   website: https://nhyc1869.com/
   coordinates: [41.58916, -73.95061]
   address: "5 Water Street New Hamburg, NY 12590"
   phone: "(845) 298-1707"
   burgee: new_hamburg_yc.png
   description: White triangular burgee with red triangles along the upper and lower edges and blue letters N.H.Y.C.
-  last-update: 2026-11-07
+  last-update: 2026-11-09
   last-validated: 2026-11-07
 - club:
   name: New Plymouth Yacht Club
@@ -15371,10 +15371,10 @@
   city: St. Augustine
   state: Florida
   country: USA
-  founded: unknown
+  founded: 1873
   website: https://www.sayc.club/
   coordinates: [29.88626, -81.2866]
-  last-update: 2026-11-05
+  last-update: 2026-11-09
   last-validated: 2026-11-07
 - club:
   name: St. Croix Yacht Club
@@ -27557,6 +27557,8 @@
   coordinates: [40.71, -74.01]
   address: "37 West 44th Street, New York, NY"
   phone: "(212) 382-1000"
+  burgee: new_york_yc_44th_street.png
+  description: Navy triangular burgee with a red cross and a white star at the crossing.
   last-update: 2026-11-09
   last-validated: 2026-11-09
 - club:
@@ -27724,5 +27726,126 @@
   coordinates: [-23.55, -46.63]
   address: "R. Edson Regis, 481 - Jardim Guarapiranga, São Paulo - SP, 04770-050"
   phone: "+55 11 5687-8847"
+  last-update: 2026-11-09
+  last-validated: 2026-11-09
+- club:
+  name: Carolina Yacht Club
+  uuid: 389debba-6797-4343-9500-9c9165651f23
+  city: Wrightsville Beach
+  state: North Carolina
+  country: USA
+  founded: 1853
+  website: https://carolinayachtclub.org/
+  coordinates: [34.21, -77.8]
+  last-update: 2026-11-09
+  last-validated: 2026-11-09
+- club:
+  name: Albany Yacht Club
+  uuid: dc74c13f-0b49-4e0f-8a4a-70a0668f1f71
+  city: Rensselaer
+  state: New York
+  country: USA
+  founded: 1873
+  website: https://albanyyachtclub.com/
+  coordinates: [42.64, -73.74]
+  address: "75 Broadway, Rensselaer, NY 12144"
+  last-update: 2026-11-09
+  last-validated: 2026-11-09
+- club:
+  name: The Old Club
+  uuid: 7bf2c390-09cf-4893-ba95-9ffe9d33dd69
+  city: Harsens Island
+  state: Michigan
+  country: USA
+  founded: 1872
+  website: https://www.theoldclub.com/
+  coordinates: [42.58, -82.59]
+  address: "9900 South Channel Drive, Harsens Island, MI 48028"
+  last-update: 2026-11-09
+  last-validated: 2026-11-09
+- club:
+  name: Spring Lake Yacht Club
+  uuid: 8736fcec-8dd5-4897-aab1-e6922e4e22e3
+  city: Spring Lake
+  state: Michigan
+  country: USA
+  founded: unknown
+  website: https://www.springlakeyachtclub.com/
+  coordinates: [43.08, -86.2]
+  last-update: 2026-11-09
+  last-validated: 2026-11-09
+- club:
+  name: Wet Pants Sailing Association
+  uuid: 6dfd32dc-6336-45d4-ba4b-f284e8fbd9a9
+  city: Sayville
+  state: New York
+  country: USA
+  founded: 1934
+  website: https://wetpantssailing.org/
+  coordinates: [40.75, -73.09]
+  address: "395 Foster Avenue, Sayville, NY 11782"
+  phone: "(631) 600-0058"
+  last-update: 2026-11-09
+  last-validated: 2026-11-09
+- club:
+  name: Glen Lake Yacht Club
+  uuid: 4cdcf375-6d5d-4ada-b069-31915f144fc9
+  city: Glen Arbor
+  state: Michigan
+  country: USA
+  founded: unknown
+  website: https://www.glenlakeyachtclub.com/
+  coordinates: [44.9, -85.99]
+  last-update: 2026-11-09
+  last-validated: 2026-11-09
+- club:
+  name: Harbour Ridge Yacht & Country Club
+  uuid: f8d571dc-b8dd-4d43-872d-e664521c9280
+  city: Palm City
+  state: Florida
+  country: USA
+  founded: unknown
+  website: https://harbourridge.com/
+  coordinates: [27.17, -80.28]
+  address: "12600 Harbour Ridge Blvd, Palm City, FL 34990"
+  phone: "(772) 336-3000"
+  last-update: 2026-11-09
+  last-validated: 2026-11-09
+- club:
+  name: Royal Palm Yacht Club
+  uuid: 5107053f-f32e-44b2-ac2a-78314a081d3b
+  city: Fort Myers
+  state: Florida
+  country: USA
+  founded: unknown
+  website: https://rpyc.org/
+  coordinates: [26.64, -81.87]
+  address: "2360 West First Street, Fort Myers, FL 33901"
+  phone: "(239) 334-2176"
+  last-update: 2026-11-09
+  last-validated: 2026-11-09
+- club:
+  name: Lake Beresford Yacht Club
+  uuid: 44d9bc66-f2a5-4a98-8185-d96212480198
+  city: DeLand
+  state: Florida
+  country: USA
+  founded: 1944
+  website: https://lakeberesfordyc.com/
+  coordinates: [29.03, -81.3]
+  address: "1961 Hontoon Rd, DeLand, FL 32720"
+  phone: "(386) 734-3854"
+  last-update: 2026-11-09
+  last-validated: 2026-11-09
+- club:
+  name: Staniel Cay Yacht Club
+  uuid: e1534816-e89a-4592-8000-9fe74e210e8b
+  city: Staniel Cay
+  state: Exuma
+  country: Bahamas
+  founded: 1956
+  website: https://stanielcay.com/
+  coordinates: [24.17, -76.44]
+  phone: "+1 242 355 2024"
   last-update: 2026-11-09
   last-validated: 2026-11-09

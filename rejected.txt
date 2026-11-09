@@ -74,6 +74,7 @@ Blue Marsh Sailing Association	site unreachable	bluemarshsailing.org
 Blue Pacific Yachting	not a club (school, charter or business)	www.bluepacificboating.com
 Blue Water Sailing School	not a club (school, charter or business)	www.bwss.com
 Bodø Seilforening	site unreachable	dips.no
+Bohicket Yacht Club	not a club (school, charter or business)	bohicket.com
 Bonneville School of Sailing	not a club (school, charter or business)	www.bonnevillesailing.com
 Bora Bora Yacht Club	site unreachable	boraborayachtclub.net
 Boston Public Sailing	site unreachable	bostonpublicsailing.org
@@ -333,6 +334,7 @@ JIB SET Sailing Club	site parked, hijacked or broken	v3boats.club
 Joseph Conrad Yacht Club	site parked, hijacked or broken	www.jcycchicago.com
 Julien Dubuque Yacht Club	site unreachable	jdyc.org
 Jumbles Sailing Club	site unreachable	jumbles.org.uk
+Jupiter Yacht Club	not a club (school, charter or business)	jycmarina.com
 Kangaroo Island Yacht Club	site unreachable	nexus.edu.au
 Kansas City Sailing, LLC	not a club (school, charter or business)	www.kansascitysailing.com
 Keauhou Kona Yacht Club	site unreachable	www.keauhoukonayachtclub.org
@@ -520,6 +522,7 @@ Papercourt Sailing Club	site unreachable	papercourt.org.uk
 Parkdale Yacht Club	site parked, hijacked or broken	parkdaleyc.com
 Parramatta River Sailing Club	site unreachable	parramattariversailingclub.com
 Pasagna Yacht Club	site unreachable	huroned.edu.on.ca
+Pass-a-Grille Yacht Club	duplicate of St. Petersburg Yacht Club clubhouse	spyc.org
 Passion Yachts	not a club (school, charter or business)	www.passion-yachts.com
 Peachland Yacht Club	site unreachable	www.peachland.ca/peachland-yacht-club
 Peaks and Tides	not a club (school, charter or business)	www.peaksandtides.com
@@ -798,6 +801,7 @@ Valcour Sailing Club	site unreachable	www.valcoursailingclub.org
 Venture/MacGregor Yacht Club	site parked, hijacked or broken	myplanet.net
 Victoria Sailing School	not a club (school, charter or business)	www.victoriasailingschool.com
 Vigo: Real Club Náutico de Vigo	site unreachable	rcnauticovigo.com&
+VUVW Watersports Club	searched, no website found	
 Wabamun Sailing Club	site unreachable	wabamunsailingclub.ab.ca
 Waikawa Boating Club	site unreachable	waikawaboating.club
 Waikiki Sailing School	not a club (school, charter or business)	www.waikikisailingschool.com
