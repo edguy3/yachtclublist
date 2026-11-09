@@ -93,8 +93,10 @@
     .site-header-inner, main { max-width: 1120px; margin: 0 auto; padding-inline: 16px; }
     .site-header-inner {
       display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between;
-      gap: 4px 24px; padding-block: 12px;
+      gap: 4px 24px; padding-block: 12px; position: relative; padding-right: 80px;
     }
+    .partner-link { position: absolute; top: 10px; right: 16px; line-height: 0; }
+    .partner-link img { width: 52px; height: 52px; border-radius: 12px; }
     .brand { font-size: 22px; font-style: italic; font-weight: 600; color: var(--accent); }
     .site-nav { display: flex; flex-wrap: wrap; align-items: center; gap: 4px 20px; }
     .site-nav a { color: var(--accent); font-style: italic; text-transform: uppercase; font-size: 15px; text-decoration: none; padding-block: 4px; }
@@ -135,6 +137,14 @@
       background: var(--surface-1); border: 1px solid var(--text-muted); border-radius: 15px;
       padding: 12px 14px;
     }
+    .near-controls { display: flex; flex-wrap: wrap; align-items: center; gap: 8px 12px; margin-top: 12px; }
+    .near-controls .install-button { font-size: 15px; padding: 8px 18px; }
+    .near-controls .install-button:disabled { opacity: 0.6; cursor: progress; }
+    .near-radius {
+      font: inherit; font-size: 15px; color: var(--text-primary); background: var(--surface-1);
+      border: 1px solid var(--text-muted); border-radius: 55px; padding: 7px 12px;
+    }
+    .near-note { color: var(--text-secondary); font-size: 14px; margin: 0; }
     .result-count { color: var(--text-secondary); min-height: 24px; margin: 12px 0 16px; }
     .cards {
       list-style: none; margin: 0; padding: 0; display: grid; gap: 16px;
@@ -223,6 +233,9 @@
         <a class="source-link" href="https://github.com/edguy3/yachtclublist">GitHub Source Data</a>
         <button class="install-button" id="install-button" type="button" hidden>Add to Home Screen</button>
       </nav>
+      <a class="partner-link" href="https://neptunes-daughter.com" target="_blank" rel="noopener" aria-label="Neptune's Daughter (opens in a new tab)" title="Neptune's Daughter">
+        <img src="icons/icon-192.png" alt="" width="52" height="52">
+      </a>
     </div>
   </header>
   <section class="hero">
@@ -234,6 +247,19 @@
   <main>
     <input class="search-input" id="search" type="search" autocomplete="off" spellcheck="false" autofocus
            placeholder="Name a club or describe a burgee" aria-label="Name a club or describe a burgee" aria-controls="results">
+    <div class="near-controls">
+      <button class="install-button" id="near-button" type="button">Clubs near me</button>
+      <select class="near-radius" id="near-radius" aria-label="Maximum distance" hidden>
+        <option value="0">Any distance</option>
+        <option value="10">Within 10 miles</option>
+        <option value="25">Within 25 miles</option>
+        <option value="50">Within 50 miles</option>
+        <option value="100">Within 100 miles</option>
+        <option value="250">Within 250 miles</option>
+        <option value="500">Within 500 miles</option>
+      </select>
+      <p class="near-note" id="near-note" role="status">Your browser asks permission first. Your location stays on this device.</p>
+    </div>
     <p class="result-count" id="count" role="status"></p>
     <ul class="cards" id="results"></ul>
     <section id="stats-panel" aria-labelledby="stats-heading" hidden>
@@ -617,6 +643,13 @@
 
     (function () {
       const MAX_RESULTS = 10;
+      const NEAR_RESULTS = 25;
+      const nearButton = document.getElementById("near-button");
+      const nearRadius = document.getElementById("near-radius");
+      const nearNote = document.getElementById("near-note");
+      const NEAR_NOTE = nearNote.textContent;
+      let userLocation = null;
+      let distances = new Map();
       const input = document.getElementById("search");
       const results = document.getElementById("results");
       const count = document.getElementById("count");
@@ -835,6 +868,19 @@
         return span;
       }
 
+      function distanceMiles([lat1, lng1], [lat2, lng2]) {
+        const rad = Math.PI / 180;
+        const a = Math.sin((lat2 - lat1) * rad / 2) ** 2
+          + Math.cos(lat1 * rad) * Math.cos(lat2 * rad) * Math.sin((lng2 - lng1) * rad / 2) ** 2;
+        return 2 * 3958.8 * Math.asin(Math.min(1, Math.sqrt(a)));
+      }
+
+      function distanceFact(club) {
+        const miles = distances.get(club);
+        const shown = (n) => (n < 10 ? n.toFixed(1) : Math.round(n).toLocaleString());
+        return (club.precision === "town" ? "About " : "") + shown(miles) + " mi (" + shown(miles * 1.609344) + " km)";
+      }
+
       function card(club) {
         const item = el("li", "card");
         item.append(burgeePanel(club));
@@ -842,6 +888,7 @@
         body.append(el("h2", "", club.name));
         const facts = el("dl", "facts");
         const region = [club.city, club.state].filter(Boolean).join(", ");
+        if (distances.has(club)) fact(facts, "Distance", distanceFact(club));
         fact(facts, "Location", region || "Not known");
         fact(facts, "Country", club.country || "Not known");
         fact(facts, "Founded", club.founded.label);
@@ -871,16 +918,40 @@
           + byBurgee.toLocaleString() + " by burgee description";
       }
 
+      function nearCountText(query, total, limit, radius) {
+        const noun = (n) => (query ? (n === 1 ? "match" : "matches") + " for “" + query + "”" : (n === 1 ? "club" : "clubs"));
+        const where = radius ? " within " + radius + " miles" : "";
+        if (!total) return "No " + noun(0) + where + ".";
+        return (total <= limit ? total.toLocaleString() : "Nearest " + limit + " of " + total.toLocaleString())
+          + " " + noun(total) + where + ", closest first";
+      }
+
+      /* With a location, the pool is the search matches (or every club) sorted by distance. */
+      function byDistance(pool) {
+        distances = new Map(pool.filter((c) => c.coordinates).map((c) => [c, distanceMiles(userLocation, c.coordinates)]));
+        const radius = Number(nearRadius.value);
+        const away = (c) => (distances.has(c) ? distances.get(c) : Infinity);
+        return pool.filter((c) => (radius ? away(c) <= radius : true))
+          .sort((a, b) => (away(a) === away(b) ? 0 : away(a) - away(b)));
+      }
+
       /* Club name matches come first, then burgee descriptions, each club only once. */
       function render() {
         const query = input.value.trim();
-        statsPanel.hidden = Boolean(query);
+        statsPanel.hidden = Boolean(query) || Boolean(userLocation);
         activeTerms = burgeeTerms(query);
         const byName = nameMatches(query);
         const named = new Set(byName);
         const found = byName.concat(burgeeMatches(activeTerms).filter((club) => !named.has(club)));
-        results.replaceChildren(...found.slice(0, MAX_RESULTS).map(card));
-        count.textContent = countText(query, byName.length, found.length);
+        if (userLocation) {
+          const nearby = byDistance(query ? found : clubs);
+          results.replaceChildren(...nearby.slice(0, NEAR_RESULTS).map(card));
+          count.textContent = nearCountText(query, nearby.length, NEAR_RESULTS, Number(nearRadius.value));
+        } else {
+          distances = new Map();
+          results.replaceChildren(...found.slice(0, MAX_RESULTS).map(card));
+          count.textContent = countText(query, byName.length, found.length);
+        }
         const url = new URL(location.href);
         if (query) url.searchParams.set("q", query);
         else url.searchParams.delete("q");
@@ -888,13 +959,50 @@
         history.replaceState(null, "", url);
       }
 
+      function showLocationState() {
+        nearButton.textContent = userLocation ? "Stop using my location" : "Clubs near me";
+        nearRadius.hidden = !userLocation;
+        if (!userLocation) nearRadius.value = "0";
+      }
+
+      /* Location is requested only from this click, and is kept in memory only. */
+      function toggleLocation() {
+        if (userLocation) {
+          userLocation = null;
+          nearNote.textContent = NEAR_NOTE;
+          showLocationState();
+          render();
+          return;
+        }
+        if (!navigator.geolocation) {
+          nearNote.textContent = "This browser can't share a location.";
+          return;
+        }
+        nearButton.disabled = true;
+        nearNote.textContent = "Finding your location…";
+        navigator.geolocation.getCurrentPosition((position) => {
+          nearButton.disabled = false;
+          userLocation = [position.coords.latitude, position.coords.longitude];
+          nearNote.textContent = "Your location stays on this device.";
+          showLocationState();
+          render();
+        }, (error) => {
+          nearButton.disabled = false;
+          nearNote.textContent = error.code === error.PERMISSION_DENIED
+            ? "Location permission is off. Allow it for this site in your browser settings, then try again."
+            : "Couldn't find your location. Please try again.";
+        }, { timeout: 15000, maximumAge: 300000 });
+      }
+
       ClubData.load(CLUBLIST_PATH, IMAGE_PATH).then((loaded) => {
         clubs = loaded;
         ClubStats.render(clubs, document.getElementById("stats"));
         prepareBurgeeSearch();
-        lede.textContent = "Search " + clubs.length.toLocaleString() + " yacht and boat clubs by name, or by what their burgee looks like.";
+        lede.textContent = "Search " + clubs.length.toLocaleString() + " yacht and boat clubs by name, by what their burgee looks like, or by distance from you.";
         input.value = new URLSearchParams(location.search).get("q") || "";
         input.addEventListener("input", render);
+        nearRadius.addEventListener("change", render);
+        nearButton.addEventListener("click", toggleLocation);
         render();
       }).catch((error) => ClubData.showLoadError(results.parentElement.querySelector("#count"), error));
     })();
