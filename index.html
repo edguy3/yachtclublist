@@ -323,6 +323,10 @@
           website: entry.website || "",
           address: entry.address ? String(entry.address) : "",
           phone: entry.phone ? String(entry.phone) : "",
+          guestMoorings: entry["guest-moorings"] ? String(entry["guest-moorings"]) : "",
+          ownership: entry.ownership ? String(entry.ownership) : "",
+          focus: Array.isArray(entry.focus) ? entry.focus.map(String) : [],
+          types: Array.isArray(entry.type) ? entry.type.map(String) : [],
           coordinates,
           precision: coordinatePrecision(coordinates),
           burgee: entry.burgee ? imagePath + entry.burgee : "",
@@ -547,6 +551,7 @@
           ["State or region", count((c) => c.state)], ["City", count((c) => c.city)], ["Coordinates", count((c) => c.coordinates)],
           ["Founding date, exact or approximate", count((c) => c.founded.kind !== "unknown")],
           ["Address", count((c) => c.address)], ["Phone", count((c) => c.phone)],
+          ["Guest moorings", count((c) => c.guestMoorings)], ["Ownership", count((c) => c.ownership)], ["Focus", count((c) => c.focus.length)], ["Club type", count((c) => c.types.length)],
           ["Burgee image", withBurgee], ["Burgee description", count((c) => c.description)],
         ];
         panel(fields).append(table(["Field", "Clubs", "Missing", "Complete"],
@@ -868,6 +873,16 @@
         return span;
       }
 
+      const CLUB_TYPES = {
+        corinthian: "Corinthian",
+        paper: "Paper club (no clubhouse)",
+        "sailing-school": "Sailing school or community sailing center",
+        junior: "Junior or youth program",
+        collegiate: "Collegiate or university club",
+        military: "Military club",
+      };
+      const sentenceCase = (text) => text.charAt(0).toUpperCase() + text.slice(1);
+
       function distanceMiles([lat1, lng1], [lat2, lng2]) {
         const rad = Math.PI / 180;
         const a = Math.sin((lat2 - lat1) * rad / 2) ** 2
@@ -894,6 +909,10 @@
         fact(facts, "Founded", club.founded.label);
         if (club.address) fact(facts, "Address", club.address);
         if (club.phone) fact(facts, "Phone", phoneLink(club));
+        if (club.guestMoorings) fact(facts, "Guest moorings", club.guestMoorings);
+        if (club.ownership) fact(facts, "Ownership", sentenceCase(club.ownership));
+        if (club.focus.length) fact(facts, "Focus", sentenceCase(club.focus.join(", ")));
+        if (club.types.length) fact(facts, "Club type", club.types.map((t) => CLUB_TYPES[t] || t).join("; "));
         fact(facts, "Coordinates", coordinatesFact(club));
         if (/^https?:\/\//i.test(club.website)) {
           fact(facts, "Website", externalLink(club.website, club.website.replace(/^https?:\/\/(www\.)?/i, "").replace(/\/$/, "")));
@@ -1005,6 +1024,46 @@
         nearButton.addEventListener("click", toggleLocation);
         render();
       }).catch((error) => ClubData.showLoadError(results.parentElement.querySelector("#count"), error));
+    })();
+
+    // A home-screen app can resume from memory with old content and has no reload button.
+    // Once an hour, compare the page and club list with the server; reload only if they changed.
+    (() => {
+      const CHECK_EVERY = 60 * 60 * 1000;
+      let lastCheck = Date.now();
+      let baseline = null;
+      let checking = false;
+
+      async function signature(cache) {
+        const bodies = await Promise.all([location.pathname, CLUBLIST_PATH].map(async (path) => {
+          const response = await fetch(path, { cache });
+          if (!response.ok) throw new Error(path + ": " + response.status);
+          return response.text();
+        }));
+        return bodies.join("\u0000");
+      }
+
+      async function checkForUpdate() {
+        if (checking || document.hidden || Date.now() - lastCheck < CHECK_EVERY) return;
+        checking = true;
+        try {
+          // "no-cache" asks the server, so a reload after this gets the new files.
+          const latest = await signature("no-cache");
+          lastCheck = Date.now();
+          if (baseline !== null && latest !== baseline) { location.reload(); return; }
+          baseline = latest;
+        } catch {
+          // Offline or a failed request: try again the next time the app is opened.
+        } finally {
+          checking = false;
+        }
+      }
+
+      signature("default").then((current) => { baseline = current; }).catch(() => {});
+      document.addEventListener("visibilitychange", checkForUpdate);
+      window.addEventListener("pageshow", checkForUpdate);
+      window.addEventListener("focus", checkForUpdate);
+      setInterval(checkForUpdate, 5 * 60 * 1000);
     })();
 
     // "Add to Home Screen": Chrome, Edge and Android offer a real install prompt.
