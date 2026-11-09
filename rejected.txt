@@ -43,6 +43,7 @@ Baerum Seilforening	site unreachable	bsf.no
 Bahrain Yacht Club	site unreachable	fabbahrain.com
 Balboa Island Yacht Club	no website listed	
 Baldwin Harbor Yacht Club (Freeport, NY)	searched, no website found; may be closed	
+Baltimore Annapolis Sailing Club	site unreachable	mdsailing.com
 Baltimore City Yacht Association	site parked, hijacked or broken	bcya.com
 Barbados Yacht Club	site unreachable	barbadosyachtclub.com
 Barnegat Bay Sailing School	not a club (school, charter or business)	www.barnegatbaysailing.com
@@ -115,6 +116,7 @@ Charleston Yacht Club	site unreachable	charlestonyachtclub.com&
 Charlottetown Yacht Club	site unreachable	cyc.pe.ca﻿
 Chelmarsh Sailing Club	site unreachable	chelmarshsailing.org.uk
 Chequessett Yacht & Country Club	site parked, hijacked or broken	www.cycc.net
+Chesapeake Boating Club	not a club (school, charter or business)	chesapeakeboatingclub.com
 Chesapeake Region Accessible Boating	not a club (school, charter or business)	crabsailing.org
 Chester Yacht Club	site unreachable	cyc.ns.ca
 Chicago Herritage Boat Club	site unreachable	woodship.com
@@ -210,8 +212,10 @@ East Carolina Sailing School	not a club (school, charter or business)	eastcaroli
 East Coast Sailing School	not a club (school, charter or business)	www.eastcoastsailingschool.com
 East Rand Yacht Club	site unreachable	sailrsa.org.za
 East Rockaway Yacht Club (East Rockaway, NY)	reported closed	
+Eastern Shore Sailing Association	site unreachable	essasailing.com
 Eatons Light Yacht Club (Northport, NY)	searched, no website found	
 Edison Sailing Center	not a club (school, charter or business)	www.edisonsailingcenter.org
+Elk River Yacht Club	site unreachable	elkryc.com
 Elton Sailing Club	site unreachable	eltonsailingclub.org.uk
 Emerald Coast Charters	not a club (school, charter or business)	www.ecsailing.com
 Erie Islands Sailing School	not a club (school, charter or business)	www.erieislandssailingschool.com
@@ -307,6 +311,7 @@ Iate Clube do Natal	site unreachable	iateclubedonatal.com.br
 Iate Clube Icarai	site unreachable	iateclubeicarai.com.br
 Ilfracombe Yacht Club	site unreachable	ilfracombeyc.org.uk&
 Illiana Yacht Club	site unreachable	www.illianayachtclub.com
+Inner Harbor Yacht Club	site unreachable	innerharboryc.com
 International Cesme Yacht Club (ICYC)	site unreachable	icyachtclub.com
 International Yacht Club Ittre	site unreachable	interyacht.be
 International Yacht Club of British Columbia	site parked, hijacked or broken	www.iycbc.ca
@@ -392,10 +397,12 @@ Lithuanian Yacht Club	site parked, hijacked or broken	yachtclub.lt
 London Sailing Club	site unreachable	www.london-sailing-club.com
 Longshore Sailing School	not a club (school, charter or business)	www.longshoresailingschool.com
 Lorain Harbor Boat Club	site unreachable	www.lsyc.info
+Lord Calvert Yacht Club	site unreachable	lordcalvertyachtclub.com
 Lough Derg Yacht Club	site unreachable	lderg.ie
 Lough Ree Yacht Club	site unreachable	lrye.ie
 Lymington Yacht Haven	site unreachable	ltsc.org
 Magellan Sailing School	not a club (school, charter or business)	www.magellanyachts.com
+Magothy River Sailing Association	site unreachable	magothysailing.com
 Malmo Segelsallskap	site unreachable	malmoss.se
 Mamaroneck Yacht Club (Mamaroneck, NY)	searched, no website found	
 Manalapan Yacht Club	site unreachable	www.manalapanyc.org
@@ -553,6 +560,7 @@ Queenborough Yacht Club	site unreachable	queenboroughyc.org.uk
 Quoile Yacht Club	site parked, hijacked or broken	quoileyc.com
 R&R Charters and Sail School	not a club (school, charter or business)	www.randrchartersandsailschool.net
 Rahway Yacht Club (Rahway, NJ)	searched, no website found	
+Rainbow Spinnakers Sailing Club	site unreachable	rainbowspinnakers.com
 Ras Al Hamra Boat Club	site unreachable	rahbc.com
 Ras Al Khaimah Sailing Association	site parked, hijacked or broken	raksa.org
 Ready About Sailing	not a club (school, charter or business)	www.readyaboutsailing.com
@@ -572,6 +580,7 @@ Reef Runner Sailing, Maine	not a club (school, charter or business)	www.rrsailin
 Reial Club Martím de Barcelona	site unreachable	filnet.es
 Renton Sailing Center	not a club (school, charter or business)	www.rentonsailing.org
 Republic of Singapore Yacht Club	site unreachable	rsyc.org.sg
+Rhode River Boat Club	site unreachable	rhoderiverbc.org
 Richardson Bay Yacht Club	site unreachable	rbyachtclub.com
 Ringhaddy Cruising Club	site unreachable	www.ringhaddy.co.uk
 Rio Grande Yacht Club	site unreachable	rgyc.com.br
@@ -667,6 +676,7 @@ Severn River Yacht Club	site unreachable	www.severnriveryachtclub.org
 Severn Sailing Club	site unreachable	users.globalnet.co.uk
 Seychelles Yacht Club	site parked, hijacked or broken	seychellesyachtclub.com
 Shanghai Yacht Club	site unreachable	shanghaibyc.org
+Shearwater Sailing Club	site unreachable	shearwatersc.net
 Shearwater Yacht Club	site unreachable	pspmembers.com
 Shelburne Harbour Yacht Club	site parked, hijacked or broken	shelburneharbouryachtclub.com
 Sheridan Shore Yacht Club	site unreachable	wilmetteharbor.org/groups/sheridan-shore-yacht-club
@@ -680,6 +690,7 @@ SmarterSail	not a club (school, charter or business)	www.smartersail.com
 Snug Harbor Yacht Club (Amityville, NY)	searched, no website found	
 Societe des Regates de Marseille	site unreachable	srmarseille.com
 Sodus Bay Jr. Sailing	site unreachable	sbjsa.org
+Somers Cove Yacht Club	site unreachable	scyc.info
 Somers Point Yacht Club	site unreachable	www.somerspointyachtclub.com
 South Bay Catalina Yacht Club	site unreachable	sbcyc.tripod.com/index2-save.html
 South Bay Sailing	not a club (school, charter or business)	www.southbaysailing.com

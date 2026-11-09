@@ -25244,3 +25244,415 @@
   phone: "+357 96377797"
   last-update: 2026-11-07
   last-validated: 2026-11-07
+- club:
+  name: Belvedere Yacht Club
+  uuid: d43a59a9-2142-4162-9f91-74514ce7f5bc
+  city: Arnold
+  state: Maryland
+  country: USA
+  founded: unknown
+  website: https://www.belvedereyachtclub.org/
+  coordinates: [39.04, -76.5]
+  address: "419 Alameda Parkway, Arnold, Maryland 21012"
+  phone: "(410) 647-3594"
+  last-update: 2026-11-08
+  last-validated: 2026-11-08
+- club:
+  name: Chesapeake Corinthian Sailing Club
+  uuid: 7cbeec18-d3e7-4b53-99e7-17efaec4b0ec
+  state: Maryland
+  country: USA
+  founded: unknown
+  website: https://sites.google.com/view/ourccsc/about-us
+  last-update: 2026-11-08
+  last-validated: 2026-11-08
+- club:
+  name: Choptank River Yacht Club
+  uuid: a28b9260-68f9-4e72-95a8-e6e1e90b3569
+  city: Denton
+  state: Maryland
+  country: USA
+  founded: unknown
+  website: https://carolinecryc.com/
+  coordinates: [38.88, -75.83]
+  address: "PO BOX 145, 10287 River Landing Road, Denton, MD 21629"
+  phone: "(410) 479-3460"
+  last-update: 2026-11-08
+  last-validated: 2026-11-08
+- club:
+  name: Corinthian Yacht Club of the Chesapeake
+  uuid: 20a5c874-bca0-42e4-8442-794454010986
+  city: Ridge
+  state: Maryland
+  country: USA
+  founded: 1903
+  website: https://www.cycchesapeake.com/
+  coordinates: [38.12, -76.37]
+  address: "48555 Bean Road, Ridge MD, 20680"
+  phone: "(301) 872-5187"
+  last-update: 2026-11-08
+  last-validated: 2026-11-08
+- club:
+  name: Corsica River Yacht Club
+  uuid: 0a5d4fd6-0d02-4d90-b817-3f8907cf7df8
+  city: Centreville
+  state: Maryland
+  country: USA
+  founded: unknown
+  website: https://cryc.org/
+  coordinates: [39.04, -76.07]
+  address: "589 Conquest Rd., Centreville, MD 21617"
+  last-update: 2026-11-08
+  last-validated: 2026-11-08
+- club:
+  name: Crescent Yacht Club
+  uuid: f4d0b89f-4071-4d5a-a81f-15cca59b0a66
+  city: Essex
+  state: Maryland
+  country: USA
+  founded: unknown
+  website: https://www.crescentyachtclub.org/
+  coordinates: [39.3, -76.44]
+  last-update: 2026-11-08
+  last-validated: 2026-11-08
+- club:
+  name: Cruising Sailors of St. Michaels
+  uuid: 12197b59-cd09-4974-aa58-103fbba2c878
+  city: St. Michaels
+  state: Maryland
+  country: USA
+  founded: unknown
+  website: http://cruisingsailors.org/
+  coordinates: [38.79, -76.22]
+  last-update: 2026-11-08
+  last-validated: 2026-11-08
+- club:
+  name: Downtown Sailing Center
+  uuid: 304be524-71cc-4a07-b4c5-b4c668ef3a15
+  city: Baltimore
+  state: Maryland
+  country: USA
+  founded: 1994
+  website: https://downtownsailing.org/
+  coordinates: [39.29, -76.61]
+  address: "1425 Key Highway Baltimore, MD 21230"
+  phone: "(410) 727-0722"
+  last-update: 2026-11-08
+  last-validated: 2026-11-08
+- club:
+  name: Gibson Island Yacht Squadron
+  uuid: 574c2ac4-6dac-4c68-b929-63d4a7abbebb
+  city: Gibson Island
+  state: Maryland
+  country: USA
+  founded: unknown
+  website: https://gibsonisland.com/yacht-squadron
+  coordinates: [39.08, -76.43]
+  address: "534 Broadwater Way, Gibson Island, Maryland 21056"
+  phone: "(410) 255-1414"
+  last-update: 2026-11-08
+  last-validated: 2026-11-08
+- club:
+  name: Herring Bay Yacht Club
+  uuid: 39d5efb9-cde1-4701-9eca-0f1fd2d06ff9
+  city: Tracys Landing
+  state: Maryland
+  country: USA
+  founded: unknown
+  website: https://hbyc.org/
+  coordinates: [38.78, -76.6]
+  address: "PO Box 47, Tracy's Landing, MD 20779"
+  last-update: 2026-11-08
+  last-validated: 2026-11-08
+- club:
+  name: Herring Island Sailing Fleet
+  uuid: dbde4710-fba7-4f53-a774-24d88b86ec28
+  city: St. Michaels
+  state: Maryland
+  country: USA
+  founded: unknown
+  website: https://www.herringislandsailingfleet.com/
+  coordinates: [38.79, -76.22]
+  last-update: 2026-11-08
+  last-validated: 2026-11-08
+- club:
+  name: Navy Patuxent Sailing Club
+  uuid: c99d3169-e08a-4be5-8948-44676e6d1bd8
+  city: Patuxent River
+  state: Maryland
+  country: USA
+  founded: unknown
+  website: https://npsc.clubexpress.com/
+  coordinates: [38.29, -76.41]
+  last-update: 2026-11-08
+  last-validated: 2026-11-08
+- club:
+  name: North Point Sailing Association
+  uuid: 1a02cb22-eba8-417e-9d64-93ba25fa6d7d
+  state: Maryland
+  country: USA
+  founded: unknown
+  website: https://npsaweb.com/
+  last-update: 2026-11-08
+  last-validated: 2026-11-08
+- club:
+  name: Northern Chesapeake Cruising Club
+  uuid: 287c1c06-2de5-45b6-ad26-949c11484491
+  city: Middle River
+  state: Maryland
+  country: USA
+  founded: unknown
+  website: https://nc3sailing.org/
+  coordinates: [39.34, -76.43]
+  last-update: 2026-11-08
+  last-validated: 2026-11-08
+- club:
+  name: Pirates Cove Race Club
+  uuid: 344e9243-8a73-4513-b976-fa86578c069c
+  city: Galesville
+  state: Maryland
+  country: USA
+  founded: unknown
+  website: http://www.pcrcwestriver.org/
+  coordinates: [38.84, -76.55]
+  last-update: 2026-11-08
+  last-validated: 2026-11-08
+- club:
+  name: Potapskut Sailing Association
+  uuid: 67d189f2-e1c5-4d34-b292-354d9d1d0527
+  city: Pasadena
+  state: Maryland
+  country: USA
+  founded: 1938
+  website: https://www.psasailing.org/
+  coordinates: [39.16, -76.55]
+  phone: "(410) 875-4935"
+  last-update: 2026-11-08
+  last-validated: 2026-11-08
+- club:
+  name: Rock Hall Yacht Club
+  uuid: a99045c5-a1b4-49fa-a2db-87de09814dc0
+  city: Rock Hall
+  state: Maryland
+  country: USA
+  founded: unknown
+  website: https://rockhallyachtclub.org/
+  coordinates: [39.14, -76.23]
+  address: "22759 McKinleyville Road, Rock Hall, MD 21661"
+  phone: "(410) 639-2182"
+  last-update: 2026-11-08
+  last-validated: 2026-11-08
+- club:
+  name: Round Bay Sailing Association
+  uuid: e4e53147-2f55-41b6-aa18-61a31c01a4be
+  city: Severna Park
+  state: Maryland
+  country: USA
+  founded: unknown
+  website: http://roundbaysailing.com/
+  coordinates: [39.08, -76.57]
+  last-update: 2026-11-08
+  last-validated: 2026-11-08
+- club:
+  name: Sassafras River Yacht Club
+  uuid: ca596333-b53f-4deb-b5b6-c90f85d3d007
+  city: Cecilton
+  state: Maryland
+  country: USA
+  founded: 1977
+  website: https://sasryc.org/
+  coordinates: [39.4, -75.87]
+  last-update: 2026-11-08
+  last-validated: 2026-11-08
+- club:
+  name: Selby Bay Yacht Club
+  uuid: a0dd5ae4-bd1a-4b80-ae32-9fe944e75fe4
+  city: Edgewater
+  state: Maryland
+  country: USA
+  founded: unknown
+  website: https://selbybayyc.com/
+  coordinates: [38.94, -76.55]
+  address: "1116 Turkey Point Road, Edgewater, MD 21037"
+  phone: "(410) 798-1415"
+  last-update: 2026-11-08
+  last-validated: 2026-11-08
+- club:
+  name: Singles on Sailboats
+  uuid: b3f2d08e-0d51-4426-a247-ac509678bd59
+  city: Annapolis
+  state: Maryland
+  country: USA
+  founded: unknown
+  website: https://www.singlesonsailboats.org/
+  coordinates: [38.98, -76.49]
+  address: "PO Box 5708, Annapolis, MD 21403"
+  phone: "(410) 798-4098"
+  last-update: 2026-11-08
+  last-validated: 2026-11-08
+- club:
+  name: St. Mary's River Yacht Club
+  uuid: 28007cad-1a1e-4e24-9573-5da2860f89cb
+  city: St. Mary's City
+  state: Maryland
+  country: USA
+  founded: unknown
+  website: https://www.smryc.org/
+  coordinates: [38.19, -76.43]
+  address: "PO Box 6, St. Mary's City, MD 20686"
+  last-update: 2026-11-08
+  last-validated: 2026-11-08
+- club:
+  name: Universal Sailing Club
+  uuid: f1265301-b225-40f2-bb90-292f2be96e0a
+  state: Maryland
+  country: USA
+  founded: 2001
+  website: https://universalsailingclub.clubexpress.com/
+  last-update: 2026-11-08
+  last-validated: 2026-11-08
+- club:
+  name: Wanderlusters Sailing Club
+  uuid: efa4b862-24ef-4ba2-8cd4-8e8dd6a4d188
+  city: Annapolis
+  state: Maryland
+  country: USA
+  founded: unknown
+  website: https://www.wanderlustersailing.org/
+  coordinates: [38.98, -76.49]
+  address: "616 Third St, Annapolis, MD 21403"
+  last-update: 2026-11-08
+  last-validated: 2026-11-08
+- club:
+  name: Yacht Club of Cape St. Claire
+  uuid: b9c08bd9-8468-40e3-bf5e-803e12576d89
+  city: Annapolis
+  state: Maryland
+  country: USA
+  founded: unknown
+  website: https://sites.google.com/site/capeyachtclub
+  coordinates: [38.98, -76.49]
+  address: "1223 River Bay Road, Annapolis, MD 21409"
+  last-update: 2026-11-08
+  last-validated: 2026-11-08
+- club:
+  name: Provincetown Yacht Club
+  uuid: 24916fcc-5e87-4d8f-8dfe-640fe7dd4fe2
+  city: Provincetown
+  state: Massachusetts
+  country: USA
+  founded: unknown
+  website: https://www.provincetownyachtclub.org/
+  coordinates: [42.05, -70.19]
+  address: "Box 909, Provincetown, MA 02657"
+  last-update: 2026-11-08
+  last-validated: 2026-11-08
+- club:
+  name: Courageous Sailing
+  uuid: 88ae9b69-c76a-4534-96af-5e6bf29f4db2
+  city: Boston
+  state: Massachusetts
+  country: USA
+  founded: unknown
+  website: https://courageoussailing.org/
+  coordinates: [42.36, -71.06]
+  type: [sailing-school]
+  last-update: 2026-11-08
+  last-validated: 2026-11-08
+- club:
+  name: Community Boating Center
+  uuid: 6b5ca558-9f78-4ac0-aee3-8e6f71788482
+  city: New Bedford
+  state: Massachusetts
+  country: USA
+  founded: unknown
+  website: https://www.communityboating.org/
+  coordinates: [41.64, -70.93]
+  address: "1641 Padanaram Avenue, New Bedford, MA 02740"
+  phone: "(508) 992-6219"
+  type: [sailing-school]
+  last-update: 2026-11-08
+  last-validated: 2026-11-08
+- club:
+  name: Webster Sailing Association
+  uuid: 2c0cf27e-495c-475f-aac9-132ce15c93e8
+  city: Webster
+  state: Massachusetts
+  country: USA
+  founded: unknown
+  website: https://www.webstersailing.org/
+  coordinates: [42.05, -71.88]
+  address: "4 Bates Point Road, Webster, MA 01570"
+  phone: "(508) 864-6594"
+  last-update: 2026-11-08
+  last-validated: 2026-11-08
+- club:
+  name: Medford Boat Club
+  uuid: e87e4d68-438e-4c6d-9824-94d3e528f95d
+  city: Medford
+  state: Massachusetts
+  country: USA
+  founded: unknown
+  website: https://medfordboatclub.org/
+  coordinates: [42.42, -71.11]
+  address: "PO Box 560006, Medford, Massachusetts 02156"
+  phone: "(781) 648-8726"
+  last-update: 2026-11-08
+  last-validated: 2026-11-08
+- club:
+  name: Blue Water Sailing Club
+  uuid: 2b67db80-f02e-427c-979b-1711904070f2
+  state: Massachusetts
+  country: USA
+  founded: unknown
+  website: https://bluewatersc.clubexpress.com/
+  type: [paper]
+  last-update: 2026-11-08
+  last-validated: 2026-11-08
+- club:
+  name: Pelagic Sailing Club
+  uuid: e822e443-760c-4ac7-a085-6c022bc4081c
+  state: Massachusetts
+  country: USA
+  founded: unknown
+  website: https://pelagicsailingclub.org/
+  phone: "(774) 515-0186"
+  last-update: 2026-11-08
+  last-validated: 2026-11-08
+- club:
+  name: Southern Massachusetts Sailing Association
+  uuid: 86e7d28d-6aec-4364-9057-e062020d15ca
+  state: Massachusetts
+  country: USA
+  founded: 1929
+  website: https://www.southernmasssailing.com/
+  last-update: 2026-11-08
+  last-validated: 2026-11-08
+- club:
+  name: Essex Bay Sailing Club
+  uuid: c40ebfd2-32fe-4d1e-b7f2-d88bdf181c5c
+  city: Essex
+  state: Massachusetts
+  country: USA
+  founded: 2000
+  website: https://www.essexbaysailingclub.org/
+  coordinates: [42.63, -70.78]
+  address: "161 Conomo Point Road, Essex, MA, 01929"
+  phone: "(781) 219-7376"
+  type: [sailing-school]
+  last-update: 2026-11-08
+  last-validated: 2026-11-08
+- club:
+  name: Buzzards Sailing School
+  uuid: 308c6489-f227-485e-860f-cc07e6be61ae
+  city: Pocasset
+  state: Massachusetts
+  country: USA
+  founded: 1965
+  website: https://www.buzzardssailing.org/
+  coordinates: [41.69, -70.62]
+  address: "99 South Rd, Pocasset, MA 02559"
+  phone: "(508) 563-9757"
+  type: [sailing-school]
+  last-update: 2026-11-08
+  last-validated: 2026-11-08
