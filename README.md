@@ -18,6 +18,7 @@ The clublist.yml file contains a list of yachting and boating clubs, with the 
 * Coordinates (`[latitude, longitude]`)
 * Address (street or mailing address with postal code, as the club gives it, omitted if not found)
 * Phone (the club's main phone number as the club writes it, omitted if not found)
+* Email (the club's published general or office contact address, omitted if not found or if it looks like an individual's)
 * Guest-moorings (a short summary of what the club's website says about guest or transient moorings, slips or docks for members of other clubs or the public, including when it says there are none; omitted if the site doesn't say. Check with the club before relying on it, since fees and availability change)
 * Ownership (`member-owned`, `non-equity`, `for-profit`, `non-profit` or `institutional`, only when the club's name or website says so)
 * Focus (any of `racing`, `cruising`, `instruction`, `social`, `youth`, inferred from how often the club's website mentions each, so treat it as approximate)
