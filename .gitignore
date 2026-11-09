@@ -1,3 +1,12 @@
 .DS_Store
 __pycache__
-ycaol*
+DESIGN*
+.claude/
+CLAUDE.md
+AI.MD
+AGENTS.md
+CHATGPT.md
+GEMINI.md
+META.md
+dist/
+neptunes-daughter-burgee/
