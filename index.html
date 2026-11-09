@@ -324,6 +324,7 @@
           address: entry.address ? String(entry.address) : "",
           phone: entry.phone ? String(entry.phone) : "",
           guestMoorings: entry["guest-moorings"] ? String(entry["guest-moorings"]) : "",
+          boatTypes: Array.isArray(entry["boat-types"]) ? entry["boat-types"].map(String) : [],
           ownership: entry.ownership ? String(entry.ownership) : "",
           focus: Array.isArray(entry.focus) ? entry.focus.map(String) : [],
           types: Array.isArray(entry.type) ? entry.type.map(String) : [],
@@ -551,7 +552,7 @@
           ["State or region", count((c) => c.state)], ["City", count((c) => c.city)], ["Coordinates", count((c) => c.coordinates)],
           ["Founding date, exact or approximate", count((c) => c.founded.kind !== "unknown")],
           ["Address", count((c) => c.address)], ["Phone", count((c) => c.phone)],
-          ["Guest moorings", count((c) => c.guestMoorings)], ["Ownership", count((c) => c.ownership)], ["Focus", count((c) => c.focus.length)], ["Club type", count((c) => c.types.length)],
+          ["Guest moorings", count((c) => c.guestMoorings)], ["Ownership", count((c) => c.ownership)], ["Focus", count((c) => c.focus.length)], ["Club type", count((c) => c.types.length)], ["Boat types", count((c) => c.boatTypes.length)],
           ["Burgee image", withBurgee], ["Burgee description", count((c) => c.description)],
         ];
         panel(fields).append(table(["Field", "Clubs", "Missing", "Complete"],
@@ -912,6 +913,7 @@
         if (club.guestMoorings) fact(facts, "Guest moorings", club.guestMoorings);
         if (club.ownership) fact(facts, "Ownership", sentenceCase(club.ownership));
         if (club.focus.length) fact(facts, "Focus", sentenceCase(club.focus.join(", ")));
+        if (club.boatTypes.length) fact(facts, "Boats", sentenceCase(club.boatTypes.join(", ")));
         if (club.types.length) fact(facts, "Club type", club.types.map((t) => CLUB_TYPES[t] || t).join("; "));
         fact(facts, "Coordinates", coordinatesFact(club));
         if (/^https?:\/\//i.test(club.website)) {

@@ -22,6 +22,7 @@ The clublist.yml file contains a list of yachting and boating clubs, with the 
 * Ownership (`member-owned`, `non-equity`, `for-profit`, `non-profit` or `institutional`, only when the club's name or website says so)
 * Focus (any of `racing`, `cruising`, `instruction`, `social`, `youth`, inferred from how often the club's website mentions each, so treat it as approximate)
 * Type (any of `corinthian`, `paper`, `sailing-school`, `junior`, `collegiate`, `military`, only when the club's name or website says so)
+* Boat-types (any of `sail`, `power`, `pontoon`, `dinghy`, `keelboat`, `multihull`, `windsurf`, `rowing`, `paddle`, inferred from what the club's website mentions, so treat it as approximate; `pontoon` means pontoon boats, not docks)
 * Burgee (name of associated image file, omitted if no burgee was found)
 * Description (what the burgee looks like, to help identify a club from its burgee, omitted with the burgee)
 * Last update (`YYYY-MM-DD`, the date the entry last changed)
