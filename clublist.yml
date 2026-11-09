@@ -8121,7 +8121,9 @@
   focus: [racing]
   guest-moorings: "Marked visitor space on the pontoons; request a berth online."
   boat-types: [sail]
-  last-update: 2026-11-08
+  burgee: burntisland_sc.png
+  description: Light blue burgee with a white diamond bearing the red letters B S C.
+  last-update: 2026-11-09
   last-validated: 2026-11-07
 - club:
   name: Butte Sailing Club
@@ -8678,7 +8680,9 @@
   phone: "01412212774"
   focus: [racing, cruising, instruction, youth]
   boat-types: [sail, power, dinghy, keelboat]
-  last-update: 2026-11-08
+  burgee: clyde_cruising_club.png
+  description: Navy pennant edged in yellow with a white saltire and a gold thistle.
+  last-update: 2026-11-09
   last-validated: 2026-11-07
 - club:
   name: Cohasset Sailing Club
@@ -10334,7 +10338,9 @@
   address: "Sandbank, Dunoon, PA23 8QB"
   focus: [racing, cruising, instruction, youth]
   boat-types: [sail, dinghy]
-  last-update: 2026-11-08
+  burgee: holy_loch_sc.png
+  description: Navy burgee edged in gold with a gold thistle.
+  last-update: 2026-11-09
   last-validated: 2026-11-07
 - club:
   name: Homer Yacht Club
@@ -18055,7 +18061,9 @@
   phone: "+44 (0) 1436 820322"
   focus: [racing, social]
   boat-types: [sail, keelboat]
-  last-update: 2026-11-08
+  burgee: royal_northern_clyde_yc.png
+  description: Navy burgee with a white cross, a crown at the crossing, and a gold anchor and gold lion in the hoist.
+  last-update: 2026-11-09
   last-validated: 2026-11-07
 - club:
   name: Royal Ulster Yacht Club
@@ -20515,7 +20523,9 @@
   website: https://www.towardsc.org/
   coordinates: [55.86, -4.98]
   address: "Toward, DUNOON, Argyll, PA237UG"
-  last-update: 2026-11-07
+  burgee: toward_seasports_club.png
+  description: Blue triangular burgee with a yellow lighthouse.
+  last-update: 2026-11-09
   last-validated: 2026-11-07
 - club:
   name: UBC Sailing Club
@@ -22631,7 +22641,9 @@
   focus: [cruising]
   type: [paper]
   boat-types: [sail]
-  last-update: 2026-11-08
+  burgee: royal_highland_yc.png
+  description: Navy pennant with a white saltire and a red and gold crown at the center.
+  last-update: 2026-11-09
   last-validated: 2026-11-07
 - club:
   name: Starcross Yacht Club
@@ -23806,7 +23818,9 @@
   address: "Irvine Road, Largs, North Ayrshire, KA30 8EZ"
   focus: [racing, cruising, instruction, youth, social]
   boat-types: [sail, power, dinghy, keelboat]
-  last-update: 2026-11-08
+  burgee: largs_sc.png
+  description: Navy burgee with a white Viking longship.
+  last-update: 2026-11-09
   last-validated: 2026-11-07
 - club:
   name: Costa Rica Yacht Club
@@ -25139,7 +25153,9 @@
   phone: "01556 620312"
   focus: [racing, cruising, youth, social]
   boat-types: [sail, dinghy]
-  last-update: 2026-11-08
+  burgee: solway_yc.png
+  description: Blue burgee with a white saltire and a red rising sun, above ribbons reading The Solway Yacht Club.
+  last-update: 2026-11-09
   last-validated: 2026-11-07
 - club:
   name: East Dorset Sailing Club
@@ -25183,7 +25199,9 @@
   ownership: non-profit
   focus: [racing, social]
   boat-types: [sail, rowing]
-  last-update: 2026-11-08
+  burgee: lerwick_boating_club.png
+  description: Red flag with a yellow saltire and the letters B L C.
+  last-update: 2026-11-09
   last-validated: 2026-11-07
 - club:
   name: Douglas Bay Yacht Club
@@ -25212,7 +25230,9 @@
   address: "Gallanach Road, Oban, Argyll, PA34 4PD"
   focus: [racing, instruction]
   boat-types: [sail, keelboat]
-  last-update: 2026-11-08
+  burgee: oban_sc.png
+  description: Yellow and black pennant with a black ship and the yellow letters O S C.
+  last-update: 2026-11-09
   last-validated: 2026-11-07
 - club:
   name: Rochester Cruising Club
@@ -25239,7 +25259,9 @@
   website: http://www.wiyc.org.uk/
   coordinates: [56.62, -6.07]
   boat-types: [sail, rowing, paddle]
-  last-update: 2026-11-08
+  burgee: western_isles_yc.png
+  description: White pennant with a red saltire and a black sailing ship on a white disc.
+  last-update: 2026-11-09
   last-validated: 2026-11-07
 - club:
   name: Hemingway International Yacht Club
