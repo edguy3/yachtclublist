@@ -41,6 +41,7 @@ Austin Sailing Society	site unreachable	austinsailingsociety.com
 Aylesford Yacht Club	site unreachable	www.alyc.ca
 Baerum Seilforening	site unreachable	bsf.no
 Bahrain Yacht Club	site unreachable	fabbahrain.com
+Balboa Basin Yacht Club	site unreachable	balboabasinyachtclub.org
 Balboa Island Yacht Club	no website listed	
 Baldwin Harbor Yacht Club (Freeport, NY)	searched, no website found; may be closed	
 Baltimore Annapolis Sailing Club	site unreachable	mdsailing.com
@@ -130,6 +131,7 @@ Club Cienfuegos	no official site found
 Club de Mar Mallorca	site unreachable	clubdemar-mallorca.com
 Club de Mar-Mallorca	site unreachable	www.clubdemar-mallorca.com
 Club de Yates Algarrobo	site unreachable	clubdeyatesalgarrobo.cl
+Club de Yates de Acapulco	site unreachable	clubdeyatesdeacapulco.com
 Club de Yates de Ensenada	site unreachable	clubdeyatesensenada.com
 Club de Yates Valdivia	site unreachable	clubdeyatesvaldivia.cl
 Club de Yates y Pesca de Panama	site unreachable	clubdeyates.com.pa
@@ -864,6 +866,7 @@ Yacht Klub Polski w Gdyni	site unreachable	ocean.iopan.gda.pl
 Yacht-Club de Québec	site unreachable	yachting.qc.ca
 Yachting Vacations	not a club (school, charter or business)	www.yachtingvacations.com
 Yale Corinthian Yacht Club	site unreachable	sportsandrecreation.yale.edu/recreation-centers/mcnay-family-s
+Yalong Bay Yacht Club	site unreachable	syyc.com
 Yankee Cruising Club	site unreachable	yankee-cruising.org
 Yinhai International Yacht Club (Qingdao, China)	site unreachable	yinhai.com.cn
 Yonkers Corinthian Yacht Club	no website listed	

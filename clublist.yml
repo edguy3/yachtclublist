@@ -27405,3 +27405,324 @@
   phone: "(772) 464-2700"
   last-update: 2026-11-08
   last-validated: 2026-11-08
+- club:
+  name: Abbey Springs Yacht Club
+  uuid: f3e739d3-1408-45ee-96e7-c80e400c8538
+  city: Fontana-on-Geneva Lake
+  state: Wisconsin
+  country: USA
+  founded: unknown
+  website: https://www.abbeysprings.org/
+  coordinates: [42.55, -88.58]
+  address: "One Country Club Drive, Fontana, WI"
+  phone: "(262) 275-6113"
+  last-update: 2026-11-09
+  last-validated: 2026-11-09
+- club:
+  name: Abbey Yacht Club
+  uuid: 09751299-8fe7-47a8-8517-0f11cef1a318
+  city: Fontana-on-Geneva Lake
+  state: Wisconsin
+  country: USA
+  founded: unknown
+  website: https://www.abbeymarina.com/
+  coordinates: [42.55, -88.58]
+  address: "271 Fontana Blvd, Fontana, WI"
+  phone: "(262) 394-5544"
+  last-update: 2026-11-09
+  last-validated: 2026-11-09
+- club:
+  name: Catalina Island Yacht Club
+  uuid: 7450db0e-7705-480c-86e4-d0453b0893ab
+  city: Avalon
+  state: California
+  country: USA
+  founded: unknown
+  website: https://www.catalinaislandyachtclub.com/
+  coordinates: [33.34, -118.33]
+  address: "30 Casino Way, Avalon, CA 90704"
+  last-update: 2026-11-09
+  last-validated: 2026-11-09
+- club:
+  name: Cavalier Golf & Yacht Club
+  uuid: fa6c8009-c192-4433-b75f-36f6cada545e
+  city: Virginia Beach
+  state: Virginia
+  country: USA
+  founded: unknown
+  website: https://cavaliergyc.com/
+  coordinates: [36.85, -75.98]
+  address: "1052 Cardinal Road, Virginia Beach, VA"
+  phone: "(757) 428-3131"
+  last-update: 2026-11-09
+  last-validated: 2026-11-09
+- club:
+  name: Columbia River Yacht Club
+  uuid: 0269daaf-16f4-411a-989c-0cdada6cbbd7
+  city: Portland
+  state: Oregon
+  country: USA
+  founded: unknown
+  website: https://www.cryc.com/
+  coordinates: [45.52, -122.67]
+  address: "37 NE Tomahawk Island Drive, Portland, OR"
+  phone: "(503) 289-6561"
+  last-update: 2026-11-09
+  last-validated: 2026-11-09
+- club:
+  name: Coronado Cays Yacht Club
+  uuid: fce9a0f0-8eb9-43bc-8760-6773b421b0e0
+  city: Coronado
+  state: California
+  country: USA
+  founded: unknown
+  website: https://ccyc.org/
+  coordinates: [32.69, -117.18]
+  address: "30 N Caribe Cay Blvd, Coronado, CA 92118"
+  phone: "(619) 429-0133"
+  last-update: 2026-11-09
+  last-validated: 2026-11-09
+- club:
+  name: Coronado Yacht Club
+  uuid: da7d532f-a7a6-4d70-a692-35d4b5292f4c
+  city: Coronado
+  state: California
+  country: USA
+  founded: unknown
+  website: https://www.coronadoyc.org/
+  coordinates: [32.69, -117.18]
+  address: "1631 Strand Way, Coronado, CA 92118"
+  phone: "(619) 435-1848"
+  last-update: 2026-11-09
+  last-validated: 2026-11-09
+- club:
+  name: Del Rey Yacht Club
+  uuid: 85220ef4-4969-4e93-8314-f79890e3aab9
+  city: Marina del Rey
+  state: California
+  country: USA
+  founded: unknown
+  website: https://dryc.org/
+  coordinates: [33.98, -118.45]
+  address: "13900 Palawan Way, Marina del Rey, CA"
+  phone: "(310) 823-4664"
+  last-update: 2026-11-09
+  last-validated: 2026-11-09
+- club:
+  name: Hilo Yacht Club
+  uuid: 047c4e2a-f27b-4e8f-a6a2-073081a3247d
+  city: Hilo
+  state: Hawaii
+  country: USA
+  founded: unknown
+  website: https://www.hiloyachtclub.org/
+  coordinates: [19.71, -155.08]
+  address: "77 Laehala St, Hilo, HI 96720"
+  phone: "(808) 969-6663"
+  last-update: 2026-11-09
+  last-validated: 2026-11-09
+- club:
+  name: Lake Gregory Yacht Club
+  uuid: b6efe914-3f47-448c-8a7e-e63279268253
+  city: Crestline
+  state: California
+  country: USA
+  founded: unknown
+  website: https://lakegregoryyachtclub.com/
+  coordinates: [34.25, -117.29]
+  address: "606 Forest Shade, Crestline, CA"
+  last-update: 2026-11-09
+  last-validated: 2026-11-09
+- club:
+  name: Lake Mirage Yacht Club
+  uuid: f4cc1a9f-cb50-4d6f-824a-838ed18ffa32
+  city: Rancho Mirage
+  state: California
+  country: USA
+  founded: unknown
+  website: https://lakemirageyachtclub.com/
+  coordinates: [33.76, -116.43]
+  address: "195 1/2 Desert Lakes Drive, Rancho Mirage, CA"
+  phone: "(760) 773-3522"
+  last-update: 2026-11-09
+  last-validated: 2026-11-09
+- club:
+  name: New York Yacht Club
+  uuid: 6bc1cd24-0d3e-43a5-9fc0-7efbdbf57607
+  city: New York
+  state: New York
+  country: USA
+  founded: unknown
+  website: https://nyyc.org/
+  coordinates: [40.71, -74.01]
+  address: "37 West 44th Street, New York, NY"
+  phone: "(212) 382-1000"
+  last-update: 2026-11-09
+  last-validated: 2026-11-09
+- club:
+  name: Old Dominion Boat Club
+  uuid: fec7a9cc-ac05-47c0-8984-a16bb6b648b1
+  city: Alexandria
+  state: Virginia
+  country: USA
+  founded: unknown
+  website: https://olddominionboatclub.com/
+  coordinates: [38.81, -77.05]
+  address: "0 Prince Street, Alexandria, VA"
+  phone: "(703) 836-1900"
+  last-update: 2026-11-09
+  last-validated: 2026-11-09
+- club:
+  name: Port Royal Yacht Club
+  uuid: ded006c7-8044-48dd-bc61-20372ee1b194
+  city: Redondo Beach
+  state: California
+  country: USA
+  founded: unknown
+  website: https://pryc.us/
+  coordinates: [33.84, -118.38]
+  address: "555 North Harbor Drive, Redondo Beach, CA"
+  phone: "(310) 372-3960"
+  last-update: 2026-11-09
+  last-validated: 2026-11-09
+- club:
+  name: White River Yacht Club
+  uuid: 245f5209-07d9-4358-8533-6e1f2081f80a
+  city: Indianapolis
+  state: Indiana
+  country: USA
+  founded: unknown
+  website: https://www.wrycindy.com/
+  coordinates: [39.77, -86.16]
+  address: "1400 East 74th Street, Indianapolis, IN"
+  phone: "(317) 251-0344"
+  last-update: 2026-11-09
+  last-validated: 2026-11-09
+- club:
+  name: Circolo della Vela Sicilia
+  uuid: 799d100a-894c-42cf-96fa-5e8dd70d1efb
+  city: Palermo
+  state: Sicily
+  country: Italy
+  founded: unknown
+  website: https://www.circolodellavela.it/
+  coordinates: [38.11, 13.35]
+  address: "Via Colapesce 1, Palermo"
+  phone: "+39 091 450182"
+  last-update: 2026-11-09
+  last-validated: 2026-11-09
+- club:
+  name: Circolo Nautico Riva di Traiano
+  uuid: d361464d-876d-4a49-9cb4-07fd8e8b0963
+  city: Civitavecchia
+  state: Lazio
+  country: Italy
+  founded: unknown
+  website: https://cnrt.it/
+  coordinates: [42.09, 11.79]
+  address: "Km 67.850 Via Aurelia, 00053 Civitavecchia RM"
+  last-update: 2026-11-09
+  last-validated: 2026-11-09
+- club:
+  name: San Carlos Yacht Club
+  uuid: c0e6181b-fb0a-4ec1-9cd2-d12cf7c755e4
+  city: San Carlos
+  state: Sonora
+  country: Mexico
+  founded: 1983
+  website: https://sancarlosyachtclub.com/
+  coordinates: [27.97, -111.03]
+  address: "Marina San Carlos, Nuevo Guaymas, Sonora 85506"
+  phone: "+52 622-226-0163"
+  last-update: 2026-11-09
+  last-validated: 2026-11-09
+- club:
+  name: Kansai Yacht Club
+  uuid: 775c8a14-f6db-41bf-9a35-8b99cfabb21f
+  city: Nishinomiya
+  state: Hyogo
+  country: Japan
+  founded: unknown
+  website: https://kyc.or.jp/
+  coordinates: [34.74, 135.34]
+  address: "4-16-1 Nishinomiyahama, Nishinomiya, Hyogo 662-0934"
+  phone: "+81 798-26-0691"
+  last-update: 2026-11-09
+  last-validated: 2026-11-09
+- club:
+  name: Kelowna Yacht Club
+  uuid: cf6b352b-aef2-4805-b652-e3c7a0bd5f03
+  city: Kelowna
+  state: British Columbia
+  country: Canada
+  founded: unknown
+  website: https://kelownayachtclub.com/
+  coordinates: [49.89, -119.5]
+  address: "1370 Water Street, Kelowna, BC"
+  phone: "(250) 762-3310"
+  last-update: 2026-11-09
+  last-validated: 2026-11-09
+- club:
+  name: Norddeutscher Regatta Verein
+  uuid: 36fa4adb-1fc8-4341-964b-9ffb20bf9b67
+  city: Hamburg
+  state: Hamburg
+  country: Germany
+  founded: unknown
+  website: https://nrv.de/
+  coordinates: [53.55, 10.0]
+  address: "Schöne Aussicht 37, 22085 Hamburg"
+  phone: "+49 40 55 77 99 50"
+  last-update: 2026-11-09
+  last-validated: 2026-11-09
+- club:
+  name: Raffles Marina
+  uuid: 4ebb57df-d316-4459-8397-def8b16c2809
+  city: Singapore
+  country: Singapore
+  founded: unknown
+  website: https://www.rafflesmarina.com.sg/
+  coordinates: [1.36, 103.82]
+  address: "10 Tuas West Drive, Singapore 638404"
+  phone: "+65 6861 8000"
+  last-update: 2026-11-09
+  last-validated: 2026-11-09
+- club:
+  name: Royal Yacht Club of Moscow
+  uuid: 23b7e7f5-b18b-4051-b683-b7a3846621b0
+  city: Moscow
+  state: Moscow
+  country: Russia
+  founded: unknown
+  website: https://www.royalyachtclub.ru/
+  coordinates: [55.75, 37.62]
+  address: "Leningradskoye Shosse 39, Building 7, Moscow"
+  phone: "+7 495 961-88-66"
+  last-update: 2026-11-09
+  last-validated: 2026-11-09
+- club:
+  name: Société des Régates du Havre
+  uuid: 6c992b35-70c1-4ccd-ac53-09e1d8fc3fdb
+  city: Le Havre
+  state: Normandy
+  country: France
+  founded: unknown
+  website: https://www.lesregates.com/
+  coordinates: [49.49, 0.11]
+  address: "Quai Eric Tabarly, 76600 Le Havre"
+  phone: "+33 2 35 42 41 21"
+  last-update: 2026-11-09
+  last-validated: 2026-11-09
+- club:
+  name: Yacht Club Santo Amaro
+  uuid: 13457824-25a7-437e-9c70-38061ccd7274
+  city: São Paulo
+  state: São Paulo
+  country: Brazil
+  founded: unknown
+  website: https://ycsa.com.br/
+  coordinates: [-23.55, -46.63]
+  address: "R. Edson Regis, 481 - Jardim Guarapiranga, São Paulo - SP, 04770-050"
+  phone: "+55 11 5687-8847"
+  last-update: 2026-11-09
+  last-validated: 2026-11-09
