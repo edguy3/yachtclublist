@@ -27392,3 +27392,16 @@
   type: [sailing-school]
   last-update: 2026-11-08
   last-validated: 2026-11-08
+- club:
+  name: Pelican Yacht Club
+  uuid: 15bd52e3-9ba8-4112-b0a1-7233612542bc
+  city: Fort Pierce
+  state: Florida
+  country: USA
+  founded: unknown
+  website: https://www.pelicanyachtclub.com/
+  coordinates: [27.45, -80.33]
+  address: "1120 Seaway Drive, Fort Pierce, FL 34949"
+  phone: "(772) 464-2700"
+  last-update: 2026-11-08
+  last-validated: 2026-11-08
