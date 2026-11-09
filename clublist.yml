@@ -17933,13 +17933,14 @@
   city: Brooklyn
   state: New York
   country: USA
-  founded: unknown
+  founded: 1946
   website: https://www.bycmembership.com/
   coordinates: [40.58836, -73.93065]
   address: "3147 Voorhies Avenue, Brooklyn, NY 11235"
   phone: "(347) 633-4500"
-  last-update: 2026-11-07
-  last-validated: 2026-11-07
+  boat-types: [power]
+  last-update: 2026-11-08
+  last-validated: 2026-11-08
 - club:
   name: East Norwalk Boating & Yacht Club
   uuid: 7aa52cb9-d5d0-48bb-ac99-ccd25b899f13
