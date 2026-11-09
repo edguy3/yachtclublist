@@ -95,7 +95,8 @@
       display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between;
       gap: 4px 24px; padding-block: 12px; position: relative; padding-right: 80px;
     }
-    .partner-link { position: absolute; top: 10px; right: 16px; line-height: 0; }
+    .site-header-inner { min-height: 72px; box-sizing: border-box; }
+    .partner-link { position: absolute; top: 50%; right: 16px; transform: translateY(-50%); line-height: 0; }
     .partner-link img { width: 52px; height: 52px; border-radius: 12px; }
     .brand { font-size: 22px; font-style: italic; font-weight: 600; color: var(--accent); }
     .site-nav { display: flex; flex-wrap: wrap; align-items: center; gap: 4px 20px; }
@@ -329,6 +330,7 @@
           address: entry.address ? String(entry.address) : "",
           phone: entry.phone ? String(entry.phone) : "",
           email: entry.email ? String(entry.email) : "",
+          vhf: entry.vhf ? String(entry.vhf) : "",
           guestMoorings: entry["guest-moorings"] ? String(entry["guest-moorings"]) : "",
           boatTypes: Array.isArray(entry["boat-types"]) ? entry["boat-types"].map(String) : [],
           ownership: entry.ownership ? String(entry.ownership) : "",
@@ -557,7 +559,7 @@
           ["Name", count((c) => c.name)], ["Website", count((c) => c.website)], ["Country", count((c) => c.country)],
           ["State or region", count((c) => c.state)], ["City", count((c) => c.city)], ["Coordinates", count((c) => c.coordinates)],
           ["Founding date, exact or approximate", count((c) => c.founded.kind !== "unknown")],
-          ["Address", count((c) => c.address)], ["Phone", count((c) => c.phone)], ["Email", count((c) => c.email)],
+          ["Address", count((c) => c.address)], ["Phone", count((c) => c.phone)], ["Email", count((c) => c.email)], ["VHF channel", count((c) => c.vhf)],
           ["Guest moorings", count((c) => c.guestMoorings)], ["Ownership", count((c) => c.ownership)], ["Focus", count((c) => c.focus.length)], ["Club type", count((c) => c.types.length)], ["Boat types", count((c) => c.boatTypes.length)],
           ["Burgee image", withBurgee], ["Burgee description", count((c) => c.description)],
         ];
@@ -924,6 +926,7 @@
         if (club.address) fact(facts, "Address", club.address);
         if (club.phone) fact(facts, "Phone", phoneLink(club));
         if (club.email) fact(facts, "Email", emailLink(club));
+        if (club.vhf) fact(facts, "VHF", `Channel ${club.vhf}`);
         if (club.guestMoorings) fact(facts, "Guest moorings", club.guestMoorings);
         if (club.ownership) fact(facts, "Ownership", sentenceCase(club.ownership));
         if (club.focus.length) fact(facts, "Focus", sentenceCase(club.focus.join(", ")));

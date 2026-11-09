@@ -68,12 +68,13 @@
   coordinates: [41.73414, -71.29304]
   address: "25 Barton Avenue, Barrington, RI 02806"
   phone: "(401) 245-1181"
+  vhf: "68"
   focus: [racing, social]
   guest-moorings: "Transient dock or open slips subject to availability; launch service and a dinghy dock for visitors."
   boat-types: [sail, dinghy]
   burgee: east_greenwich_yc.png
   description: Red swallowtail burgee with a deep notch in the fly and a blue star at the center.
-  last-update: 2026-11-08
+  last-update: 2026-11-09
   last-validated: 2026-11-07
 - club:
   name: East Greenwich Yacht Club
@@ -86,12 +87,13 @@
   coordinates: [41.66346, -71.44528]
   address: "10 Water Street, East Greenwich, RI 02818"
   phone: "(401) 884-7700"
+  vhf: "9"
   focus: [racing, cruising, social]
   guest-moorings: "Typically about 10 moorings and a few slips for transient rental."
   boat-types: [sail, power, dinghy]
   burgee: barrington_yc.png
   description: Red and white triangular burgee edged in navy, with a white circle at the hoist bearing a navy cross pattée.
-  last-update: 2026-11-08
+  last-update: 2026-11-09
   last-validated: 2026-11-07
 - club:
   name: Bristol Yacht Club
@@ -155,9 +157,10 @@
   coordinates: [41.48874, -71.31905]
   address: "110 Long Wharf, Newport, RI 02840"
   phone: "(401) 846-9410"
+  vhf: "78"
   burgee: newport_yc.png
   description: Dark slate triangular pennant with a white diagonal band at the hoist bearing a red star.
-  last-update: 2026-11-07
+  last-update: 2026-11-09
   last-validated: 2026-11-07
 - club:
   name: New York Yacht Club Harbor Court
@@ -187,9 +190,10 @@
   coordinates: [41.47631, -71.32503]
   address: "PO Box 479, Newport, RI 02840"
   phone: "(401) 846-1969"
+  vhf: "78A"
   burgee: ida_lewis_yc.png
   description: Red triangular burgee with a blue lighthouse at the hoist and white stars running up the hoist and out to the fly.
-  last-update: 2026-11-07
+  last-update: 2026-11-09
   last-validated: 2026-11-07
 - club:
   name: Conanicut Yacht Club
@@ -202,11 +206,12 @@
   coordinates: [41.50258, -71.36266]
   address: "Box 257, Jamestown, RI 02835"
   phone: "(401) 423-1424"
+  vhf: "72"
   focus: [youth, social]
   boat-types: [sail, power, keelboat]
   burgee: conanicut_yc.png
   description: Black and white flag with a white cross, a white star in the upper hoist, and a black wavy swallowtail fly.
-  last-update: 2026-11-08
+  last-update: 2026-11-09
   last-validated: 2026-11-07
 - club:
   name: Clam Harbor Yacht Club
@@ -266,6 +271,7 @@
   address: "165 Pleasant St, North Kingstown, RI 02852"
   phone: "(401) 294-9010"
   email: "info@wickfordyc.com"
+  vhf: "9"
   focus: [racing, cruising, instruction, social]
   boat-types: [sail]
   burgee: wickford_yc.png
@@ -299,13 +305,14 @@
   coordinates: [41.31023, -71.85902]
   address: "1 Fort Road, Westerly RI 02891"
   phone: "(401) 596-4986"
+  vhf: "10"
   ownership: non-profit
   focus: [racing, cruising, youth, social]
   guest-moorings: "Moorings with launch service for the public and reciprocal members; first-come, first-served, no reservations; register at the launch office."
   boat-types: [sail, keelboat]
   burgee: watch_hill_yc.png
   description: Blue-outlined swallowtail pennant on a brown staff, white with a red diamond at the fly.
-  last-update: 2026-11-08
+  last-update: 2026-11-09
   last-validated: 2026-11-07
 - club:
   name: Westerly Yacht Club
@@ -392,6 +399,7 @@
   address: "68 Bay View Street, Camden, Maine 04843"
   phone: "(207) 236-7033"
   email: "cyc@camdenyachtclub.org"
+  vhf: "68"
   burgee: camden_yc.png
   description: Red triangular burgee with a white inner border and small blue stars at its three corners.
   last-update: 2026-11-09
@@ -502,12 +510,13 @@
   website: https://www.centerboardyachtclub.org/
   coordinates: [43.64883, -70.24448]
   phone: "(207) 799-7084"
+  vhf: "68"
   ownership: non-profit
   focus: [racing, cruising, instruction, youth, social]
   boat-types: [sail, power, paddle]
   burgee: centerboard_yc.png
   description: Blue swallowtail flag on a staff with white letters CYC and a white star.
-  last-update: 2026-11-08
+  last-update: 2026-11-09
   last-validated: 2026-11-07
 - club:
   name: Saco Yacht Club
@@ -550,12 +559,13 @@
   coordinates: [43.84724, -69.64398]
   address: "PO Box 497, West Boothbay Harbor, ME 04575"
   phone: "(207) 633-5750"
+  vhf: "9"
   focus: [racing, cruising, instruction, youth, social]
   guest-moorings: "Guest moorings (1,500 to 5,000 lb) for visitors, reserved through Dockwa."
   boat-types: [sail, power, dinghy, keelboat]
   burgee: boothbay_harbor_yc.png
   description: White triangular burgee with a red saltire crossing the flag and a blue star at the hoist.
-  last-update: 2026-11-08
+  last-update: 2026-11-09
   last-validated: 2026-11-07
 - club:
   name: Northport Yacht Club
@@ -636,6 +646,7 @@
   address: "200 Battle Avenue, PO Box 34, Castine, Maine 04421"
   phone: "(207) 326-8844"
   email: "info@castinegolfclub.com"
+  vhf: "68"
   focus: [racing, instruction, youth, social]
   guest-moorings: "Five guest moorings for visiting yachts, used at owner's risk."
   boat-types: [sail, power, dinghy]
@@ -745,12 +756,13 @@
   coordinates: [44.38351, -68.09194]
   address: "32 Beach St, Winter Harbor, ME, 04693"
   phone: "(207) 963-2275"
+  vhf: "9"
   focus: [racing, youth]
   guest-moorings: "Guest moorings can be reserved by visiting yachts; nightly fee includes launch service."
   boat-types: [sail, dinghy]
   burgee: winter_harbor_me_yc.png
   description: Red triangular burgee with a white center band bearing a red pinwheel of curved arms.
-  last-update: 2026-11-08
+  last-update: 2026-11-09
   last-validated: 2026-11-07
 - club:
   name: Stockton Harbor Yacht Club
@@ -876,6 +888,7 @@
   address: "PO Box 189, New Castle, NH 03854-0189"
   phone: "(603) 436-9877"
   email: "info@portsmouthyc.org"
+  vhf: "9"
   focus: [cruising]
   guest-moorings: "Guest moorings off the club and in Pepperrell Cove; listed at $60 per night."
   boat-types: [paddle]
@@ -984,6 +997,7 @@
   website: https://lcyc.info/
   coordinates: [44.41327, -73.2458]
   email: "lcycsecretary@gmail.com"
+  vhf: "12"
   focus: [racing, cruising, youth, social]
   guest-moorings: "Guest moorings by request form, first-come, first-served, no charge."
   boat-types: [sail, power, keelboat]
@@ -1016,6 +1030,7 @@
   address: "13 Novelty Lane, Essex, CT 06426"
   phone: "(860) 767-8121"
   email: "office@essexyc.com"
+  vhf: "68"
   focus: [racing, cruising, social]
   guest-moorings: "Docks and moorings open to members and reciprocal club members."
   boat-types: [sail, dinghy]
@@ -1035,6 +1050,7 @@
   address: "396 Pequot Avenue, New London, CT 06320"
   phone: "(860) 383-0017"
   email: "secretary@thamesyc.org"
+  vhf: "71"
   focus: [racing, cruising, instruction]
   boat-types: [sail, paddle]
   burgee: thames_yc.png
@@ -1118,12 +1134,13 @@
   coordinates: [41.14677, -73.22414]
   address: "80 Grovers Avenue, Bridgeport, CT 06605"
   phone: "(203) 335-0587"
+  vhf: "14"
   ownership: member-owned
   focus: [racing, youth, social]
   boat-types: [sail, dinghy]
   burgee: bridgeport_yc.png
   description: Tapered pennant with red and white horizontal stripes.
-  last-update: 2026-11-08
+  last-update: 2026-11-09
   last-validated: 2026-11-07
 - club:
   name: Fayerweather Yacht Club
@@ -1204,12 +1221,13 @@
   coordinates: [41.02222, -73.59292]
   address: "102 Club Road, Riverside, CT 06878"
   phone: "(203) 637-1706"
+  vhf: "74"
   focus: [racing, youth, social]
   guest-moorings: "Guest slips and moorings at published rates, requested by form."
   boat-types: [sail, power, dinghy]
   burgee: riverside_ct_yc.png
   description: White swallowtail pennant with a blue border and a red cross pattée on a white circle.
-  last-update: 2026-11-08
+  last-update: 2026-11-09
   last-validated: 2026-11-07
 - club:
   name: Shennecossett Yacht Club
@@ -1223,6 +1241,7 @@
   address: "1010 Shennecossett Road, Groton, CT 06340"
   phone: "(860) 449-8279"
   email: "office@syc-ct.com"
+  vhf: "68A"
   focus: [racing, cruising, instruction, youth, social]
   guest-moorings: "Moorings for transient and visiting yachts, including two for boats up to 50 ft, first-come, first-served; contact the dockmaster."
   boat-types: [sail, power, keelboat]
@@ -1339,6 +1358,7 @@
   address: "156 Cove Street, New Haven, CT, 06512"
   phone: "(203) 469-9608"
   email: "info@nhyachtclub.club"
+  vhf: "68"
   focus: [cruising]
   guest-moorings: "One 400 lb guest mooring for sailboats, in place while the club is open for the season."
   boat-types: [sail]
@@ -1357,12 +1377,13 @@
   coordinates: [41.28118, -72.92975]
   address: "98 SOUTH WATER ST. NEW HAVEN, CT. 06519"
   phone: "(475) 414-8123"
+  vhf: "67"
   focus: [social]
   guest-moorings: "Assigned mooring or slip for visitors, who check in at the clubhouse bar."
   boat-types: [power]
   burgee: pequonnock_yc.png
   description: Waving navy pennant with a white center and red border stripes.
-  last-update: 2026-11-08
+  last-update: 2026-11-09
   last-validated: 2026-11-07
 - club:
   name: Waucoma Yacht Club
@@ -1470,12 +1491,13 @@
   coordinates: [41.21128, -73.04989]
   address: "131 Trumbull Ave, Milford, CT 06460"
   phone: "(203) 783-0060"
+  vhf: "68"
   ownership: non-profit
   focus: [racing, instruction, youth, social]
   boat-types: [sail, power]
   burgee: milford_yc.png
   description: White waving swallowtail with a red chevron-like bolt and a navy star.
-  last-update: 2026-11-08
+  last-update: 2026-11-09
   last-validated: 2026-11-07
 - club:
   name: Valley Yacht Club
@@ -1533,11 +1555,12 @@
   coordinates: [41.13296, -73.2828]
   address: "669 Harbor Road, Southport, CT, 06890"
   phone: "(203) 255-5740"
+  vhf: "69"
   focus: [racing, cruising, youth]
   boat-types: [sail, power, keelboat]
   burgee: pequot_yc.png
   description: White waving pennant with a blue hoist bearing a white star and red stripes running to the fly.
-  last-update: 2026-11-08
+  last-update: 2026-11-09
   last-validated: 2026-11-07
 - club:
   name: Hamburg Cove Yacht Club
@@ -1565,12 +1588,13 @@
   coordinates: [41.01137, -73.62265]
   address: "710 Steamboat Road, Greenwich, CT 06830"
   phone: "(203) 869-2484"
+  vhf: "68"
   focus: [racing, instruction, youth]
   guest-moorings: "Guest and transient moorings; club launch included in the fee."
   boat-types: [sail, dinghy, keelboat]
   burgee: indian_harbor_yc.png
   description: White triangular burgee outlined in red with a large solid red diamond at the center.
-  last-update: 2026-11-08
+  last-update: 2026-11-09
   last-validated: 2026-11-07
 - club:
   name: Greenwich Boat & Yacht Club
@@ -1618,6 +1642,7 @@
   address: "77 Bluff Avenue, Rowayton, Connecticut 06853"
   phone: "(203) 854-0807"
   email: "info@rowaytonyachtclub.com"
+  vhf: "68"
   guest-moorings: "Short-term moorings with launch service for visiting boats up to 30 ft."
   boat-types: [power, paddle]
   burgee: rowayton_yc.png
@@ -1651,11 +1676,12 @@
   coordinates: [41.06458, -73.42958]
   address: "10 Nathan Hale Drive, Norwalk, CT 06854"
   phone: "(203) 866-0941"
+  vhf: "78A"
   focus: [racing, cruising, instruction, youth, social]
   boat-types: [sail, power, dinghy, keelboat, paddle]
   burgee: norwalk_yc.png
   description: White swallowtail pennant with a red border and a navy circle bearing a white letter N.
-  last-update: 2026-11-08
+  last-update: 2026-11-09
   last-validated: 2026-11-07
 - club:
   name: South Norwalk Boat Club
@@ -1704,6 +1730,7 @@
   address: "100 Housatonic Avenue, Stratford, CT 06615"
   phone: "(203) 257-5848"
   email: "admin@pootatuckyc.com"
+  vhf: "71"
   focus: [social]
   burgee: pootatuck_yc.png
   description: White and red burgee with a blue diagonal stripe near the hoist and a red fly.
@@ -1897,12 +1924,13 @@
   coordinates: [41.58446, -70.94332]
   address: "208 Elm Street, South Dartmouth, MA 02748"
   phone: "(508) 997-0762"
+  vhf: "68"
   focus: [racing, cruising, instruction, youth, social]
   guest-moorings: "Visitor slips at $6/ft per night in high season and $4/ft otherwise; visitors using a member mooring pay a $110 nightly club use fee."
   boat-types: [sail, power, dinghy, keelboat, multihull, paddle]
   burgee: new_bedford_yc.png
   description: Red triangular burgee with a white hoist chevron bearing a navy anchor.
-  last-update: 2026-11-08
+  last-update: 2026-11-09
   last-validated: 2026-11-07
 - club:
   name: Low Tide Yacht Club
@@ -1951,12 +1979,13 @@
   coordinates: [42.36839, -70.98691]
   address: "76 Orlando Ave, Winthrop, MA 02152"
   phone: "(617) 846-2792"
+  vhf: "78"
   focus: [racing, cruising, instruction, youth, social]
   guest-moorings: "Guest moorings for registered guests, with launch service."
   boat-types: [sail, power, keelboat]
   burgee: cottage_park_yc.png
   description: Red arrow-shaped burgee on a blue staff with a gold finial, with a white hoist notch bearing a blue star.
-  last-update: 2026-11-08
+  last-update: 2026-11-09
   last-validated: 2026-11-07
 - club:
   name: Pleasant Point Yacht Club
@@ -2015,6 +2044,7 @@
   address: "4 Cliff Street, Marblehead, MA 01945-3006"
   phone: "(781) 631-9771"
   email: "marbleheadyc@gmail.com"
+  vhf: "71"
   focus: [racing, cruising, social]
   boat-types: [sail, power, rowing, paddle]
   burgee: marblehead_yc.png
@@ -2032,11 +2062,12 @@
   coordinates: [42.50206, -70.84964]
   address: "1 Front Street Marblehead, MA, 01945"
   phone: "(781) 631-3100"
+  vhf: "68"
   focus: [racing, cruising, youth, social]
   boat-types: [sail, power, keelboat, paddle]
   burgee: boston_yc.png
   description: White waving pennant with navy stripes and a red cross band bearing a white star.
-  last-update: 2026-11-08
+  last-update: 2026-11-09
   last-validated: 2026-11-07
 - club:
   name: Eastern Yacht Club
@@ -2049,11 +2080,12 @@
   coordinates: [42.49886, -70.83958]
   address: "47 Foster Street, Marblehead, MA 01945"
   phone: "(781) 631-1400"
+  vhf: "9"
   focus: [racing, social]
   boat-types: [sail, power, dinghy, keelboat]
   burgee: eastern_yc.png
   description: Waving burgee with a red hoist bearing a white star and a navy fly, edged in tan.
-  last-update: 2026-11-08
+  last-update: 2026-11-09
   last-validated: 2026-11-07
 - club:
   name: Dolphin Yacht Club
@@ -2084,13 +2116,14 @@
   coordinates: [42.50249, -70.83432]
   address: "Box 401, Marblehead, MA 01945"
   phone: "(781) 631-0005"
+  vhf: "9"
   focus: [racing, cruising, social]
   type: [corinthian]
   guest-moorings: "Guest moorings for a nightly fee, including launch; arrange with club waterfront staff or the Marblehead dockmasters."
   boat-types: [sail, dinghy, keelboat]
   burgee: corinthian_yc.png
   description: White waving pennant with a red diagonal band, a navy star at the hoist and a navy fly.
-  last-update: 2026-11-08
+  last-update: 2026-11-09
   last-validated: 2026-11-07
 - club:
   name: Pleon Yacht Club
@@ -2137,6 +2170,7 @@
   address: "400 Morrissey Blvd., Dorchester, MA 02125"
   phone: "(617) 825-1108"
   email: "commodore@shyc.org"
+  vhf: "68"
   guest-moorings: "No guest moorings; moorings are each member's own responsibility."
   boat-types: [power]
   burgee: savin_hill_yc.png
@@ -2167,11 +2201,12 @@
   coordinates: [41.70309, -70.75963]
   address: "99 Water Street, PO Box 181, Marion, MA 02738"
   phone: "(508) 748-0540"
+  vhf: "68"
   focus: [racing, cruising, youth, social]
   boat-types: [sail, keelboat]
   burgee: beverly_yc.png
   description: Navy swallowtail pennant on a staff with a white center bearing a red star.
-  last-update: 2026-11-08
+  last-update: 2026-11-09
   last-validated: 2026-11-07
 - club:
   name: Quincy Yacht Club
@@ -2254,11 +2289,12 @@
   coordinates: [41.63944, -70.27807]
   address: "490 Ocean Street Hyannis, MA 02601"
   phone: "(508) 778-6100"
+  vhf: "69"
   focus: [racing, instruction, youth, social]
   boat-types: [sail, dinghy, keelboat]
   burgee: hyannis_yc.png
   description: Teal waving pennant with a white letter H between red stars.
-  last-update: 2026-11-08
+  last-update: 2026-11-09
   last-validated: 2026-11-07
 - club:
   name: Hyannis Port Yacht Club
@@ -2493,11 +2529,12 @@
   coordinates: [41.95575, -70.65883]
   address: "34 Union Street, Plymouth MA 02360"
   phone: "(508) 746-7207"
+  vhf: "8"
   focus: [racing, instruction, youth, social]
   boat-types: [sail, power]
   burgee: plymouth_yc.png
   description: Red waving pennant on a red staff with three white stars.
-  last-update: 2026-11-08
+  last-update: 2026-11-09
   last-validated: 2026-11-07
 - club:
   name: Palmers Cove Yacht Club
@@ -2511,6 +2548,7 @@
   address: "74 Leavitt Street, Salem, MA, 01970"
   phone: "(978) 741-2566"
   email: "secretary@pcyc-salem.com"
+  vhf: "69"
   ownership: member-owned
   boat-types: [sail]
   burgee: palmers_cove_yc.png
@@ -2560,6 +2598,7 @@
   address: "300R Merrimac Street, Newburyport, MA 01950"
   phone: "(978) 463-9911"
   email: "dockmaster@newburyportyachtclub.com"
+  vhf: "71"
   focus: [social]
   boat-types: [power]
   burgee: newburyport_yc.png
@@ -2578,6 +2617,7 @@
   address: "115R Water Street, Newburyport, MA 01950"
   phone: "(978) 465-9053"
   email: "commodore@americanyachtclub.org"
+  vhf: "72"
   focus: [racing, instruction]
   boat-types: [sail, dinghy, keelboat]
   burgee: american_yc.png
@@ -2691,6 +2731,7 @@
   address: "1 Broadway, Chelsea, MA 02150"
   phone: "(617) 884-9864"
   email: "chelseayachtclub@gmail.com"
+  vhf: "9"
   burgee: chelsea_yc.png
   description: Red pennant on a black staff with a navy circle bearing a white star.
   last-update: 2026-11-09
@@ -2876,12 +2917,13 @@
   website: https://woodsholeyachtclub.org/
   coordinates: [41.52, -70.67]
   phone: "(508) 548-9205"
+  vhf: "69"
   focus: [racing, youth]
   guest-moorings: "Guest mooring for rent to visitors, who check in with the Steward."
   boat-types: [sail, power]
   burgee: woods_hole_harbor_yc.png
   description: Red triangular burgee with white radiating lines and a blue circle ringed in white.
-  last-update: 2026-11-08
+  last-update: 2026-11-09
   last-validated: 2026-11-07
 - club:
   name: Winter Hill Yacht Club
@@ -2906,10 +2948,11 @@
   website: https://columbiayc.godaddysites.com/
   coordinates: [42.33202, -71.02759]
   phone: "(617) 268-1564"
+  vhf: "9"
   focus: [social]
   burgee: columbia_yc.png
   description: White grommeted burgee with a red upper half and a navy diamond bearing a white anchor.
-  last-update: 2026-11-08
+  last-update: 2026-11-09
   last-validated: 2026-11-07
 - club:
   name: Lynn Yacht Club
@@ -2955,12 +2998,13 @@
   coordinates: [41.54318, -70.60527]
   address: "290 Clinton Avenue, Falmouth, MA 02541"
   phone: "(508) 548-3865"
+  vhf: "72"
   focus: [racing, instruction, youth, social]
   guest-moorings: "Visiting yachts may use the dock Monday to Thursday at management's discretion."
   boat-types: [sail, power, dinghy, keelboat]
   burgee: falmouth_yc.png
   description: Navy burgee with a white letter F blending into a red fly.
-  last-update: 2026-11-08
+  last-update: 2026-11-09
   last-validated: 2026-11-07
 - club:
   name: Quissett Yacht Club
@@ -3060,12 +3104,13 @@
   coordinates: [42.56664, -70.77869]
   address: "Box 266, Manchester-by-the-Sea, MA 01944"
   phone: "(978) 526-4595"
+  vhf: "78"
   focus: [racing, cruising, youth]
   guest-moorings: "Transient moorings or dockage may be available from local sources listed on the club site."
   boat-types: [sail]
   burgee: manchester_by_the_sea_yc.png
   description: White burgee with a thick navy border and saltire and a navy star at the hoist.
-  last-update: 2026-11-08
+  last-update: 2026-11-09
   last-validated: 2026-11-07
 - club:
   name: Milton Yacht Club
@@ -3158,11 +3203,12 @@
   coordinates: [42.62, -70.66]
   address: "125 Eastern Point Blvd., Gloucester, MA 01930"
   phone: "(978) 283-3520"
+  vhf: "71"
   focus: [racing, youth, social]
   boat-types: [sail, power]
   burgee: eastern_point_yc.png
   description: Navy waving pennant with a red saltire and tan border on a dark staff.
-  last-update: 2026-11-08
+  last-update: 2026-11-09
   last-validated: 2026-11-07
 - club:
   name: Duxbury Yacht Club
@@ -3175,11 +3221,12 @@
   coordinates: [42.03767, -70.68112]
   address: "70 Fairway Lane, Duxbury, MA 02332"
   phone: "(781) 934-2122"
+  vhf: "11"
   focus: [racing, instruction]
   boat-types: [sail, dinghy]
   burgee: duxbury_yc.png
   description: White tapered pennant with a blue upper hoist, a navy star and a red lower fly.
-  last-update: 2026-11-08
+  last-update: 2026-11-09
   last-validated: 2026-11-07
 - club:
   name: Chatham Yacht Club
@@ -3306,6 +3353,7 @@
   address: "692 Quincy Shore Drive, Quincy, MA 02170"
   phone: "(617) 477-8448"
   email: "membership@wollastonyc.com"
+  vhf: "69"
   focus: [social]
   burgee: wollaston_yc.png
   description: White burgee with a navy border and a large red letter W.
@@ -3337,11 +3385,12 @@
   coordinates: [40.4393, -74.19826]
   address: "115 First Street, Keyport, NJ 07735"
   phone: "(732) 739-0727"
+  vhf: "9"
   focus: [racing, cruising, instruction, youth, social]
   boat-types: [sail]
   burgee: keyport_yc.png
   description: Red pennant with a navy edge and a white key.
-  last-update: 2026-11-08
+  last-update: 2026-11-09
   last-validated: 2026-11-07
 - club:
   name: Cooper River Yacht Club
@@ -3370,11 +3419,12 @@
   coordinates: [40.06692, -74.04869]
   address: "111 Metcalfe Street, Bay Head, NJ 08742"
   phone: "(732) 899-2000"
+  vhf: "71"
   focus: [social]
   boat-types: [sail]
   burgee: bay_head_yc.png
   description: White waving swallowtail edged in navy on a navy staff, with a navy star.
-  last-update: 2026-11-08
+  last-update: 2026-11-09
   last-validated: 2026-11-07
 - club:
   name: Island Heights Yacht Club
@@ -3472,12 +3522,13 @@
   coordinates: [40.5026, -74.26468]
   address: "160 Water Street, Perth Amboy, NJ 08861"
   phone: "(732) 826-2277"
+  vhf: "9"
   ownership: member-owned
   focus: [racing, cruising, instruction, youth, social]
   boat-types: [sail, dinghy, rowing]
   burgee: raritan_yc.png
   description: White pennant with a red cross on a white staff.
-  last-update: 2026-11-08
+  last-update: 2026-11-09
   last-validated: 2026-11-07
 - club:
   name: Yacht Club of Sea Isle City
@@ -4087,6 +4138,7 @@
   address: "417 Hunter Avenue, Bronx, NY 10464-1332"
   phone: "(718) 885-3078"
   email: "info@hyc.org"
+  vhf: "72"
   focus: [racing, cruising, instruction, social]
   guest-moorings: "Guest moorings up to 1,000 lb for visiting yachts; arrange by email."
   boat-types: [sail, power, keelboat]
@@ -4105,12 +4157,13 @@
   coordinates: [40.83759, -73.72028]
   address: "73 Orchard Beach Blvd, Port Washington, NY 11050"
   phone: "(516) 767-1760"
+  vhf: "78"
   focus: [racing, cruising, instruction, youth, social]
   guest-moorings: "Several guest moorings."
   boat-types: [sail, power, paddle]
   burgee: north_shore_yc.png
   description: Red pennant with white stripes running toward the fly.
-  last-update: 2026-11-08
+  last-update: 2026-11-09
   last-validated: 2026-11-07
 - club:
   name: Woodmere Bay Yacht Club
@@ -4177,6 +4230,7 @@
   address: "Box 211, Glen Cove, NY 11542"
   phone: "(516) 676-9450"
   email: "gcyc1960@gmail.com"
+  vhf: "69"
   burgee: glen_cove_yc.png
   description: Navy burgee with a yellow eagle head and wing.
   last-update: 2026-11-09
@@ -4192,12 +4246,13 @@
   coordinates: [40.92452, -73.74552]
   address: "1 Woodbine Ave., Larchmont, NY 10538"
   phone: "(914) 834-2440"
+  vhf: "72"
   focus: [racing, instruction, youth]
   guest-moorings: "Guest moorings by reservation for members' guests and members of reciprocal clubs only."
   boat-types: [sail, dinghy, keelboat]
   burgee: larchmont_yc.png
   description: Waving white pennant with broad navy vertical stripes.
-  last-update: 2026-11-08
+  last-update: 2026-11-09
   last-validated: 2026-11-07
 - club:
   name: Manhasset Bay Yacht Club
@@ -4210,11 +4265,12 @@
   coordinates: [40.8277, -73.70365]
   address: "455 Main St, Port Washington, NY 11050"
   phone: "(516) 767-2150"
+  vhf: "73"
   focus: [racing, instruction, youth, social]
   boat-types: [sail, dinghy, keelboat]
   burgee: manhasset_bay_yc.png
   description: Red pennant with white chevrons.
-  last-update: 2026-11-08
+  last-update: 2026-11-09
   last-validated: 2026-11-07
 - club:
   name: Miramar Yacht Club
@@ -4228,6 +4284,7 @@
   address: "3050 Emmons Avenue, Brooklyn, NY 11235-2242"
   phone: "(718) 769-3548"
   email: "info@miramaryc.com"
+  vhf: "68"
   focus: [racing, instruction, social]
   boat-types: [sail, power, dinghy, paddle]
   burgee: miramar_yc.png
@@ -4279,12 +4336,13 @@
   coordinates: [40.823, -73.70404]
   address: "1 Yacht Club Dr, Port Washington, NY 11050"
   phone: "(516) 767-1614"
+  vhf: "74"
   focus: [racing, youth, social]
   guest-moorings: "Moorings for members' guests and members of reciprocal clubs."
   boat-types: [sail, power, dinghy, keelboat]
   burgee: port_washington_yc.png
   description: Blue waving pennant with a red chevron and a white star on a blue hoist.
-  last-update: 2026-11-08
+  last-update: 2026-11-09
   last-validated: 2026-11-07
 - club:
   name: Rockaway Point Yacht Club
@@ -4312,6 +4370,7 @@
   coordinates: [40.58363, -73.93623]
   phone: "(718) 891-0991"
   email: "sheepsheadbayyc@gmail.com"
+  vhf: "68"
   burgee: sheepshead_bay_yc.png
   description: Long tapered pennant with stripes of rust red, white and navy on a dark staff.
   last-update: 2026-11-09
@@ -4363,11 +4422,12 @@
   coordinates: [40.94161, -73.69654]
   address: "499 Stuyvesant Avenue Rye, NY 10580"
   phone: "(914) 967-4800"
+  vhf: "71"
   focus: [racing, social]
   boat-types: [sail]
   burgee: american_ny_yc.png
   description: Blue triangular burgee with a red border and a white square bearing a blue-outlined cross at the hoist.
-  last-update: 2026-11-08
+  last-update: 2026-11-09
   last-validated: 2026-11-07
 - club:
   name: Babylon Yacht Club
@@ -4397,10 +4457,11 @@
   coordinates: [41.00184, -72.2908]
   address: "Box 2601, 51 Bay Street, Sag Harbor, NY 11963"
   phone: "(631) 725-4604"
+  vhf: "9"
   boat-types: [sail]
   burgee: breakwater_yc.png
   description: Navy swallowtail pennant with white wavy stripes and a black diagonal band.
-  last-update: 2026-11-08
+  last-update: 2026-11-09
   last-validated: 2026-11-07
 - club:
   name: Huguenot Yacht Club
@@ -4427,12 +4488,13 @@
   coordinates: [40.89632, -73.42102]
   address: "95 East Shore Road, Huntington, New York 11743"
   phone: "(631) 427-4949"
+  vhf: "68"
   focus: [racing, youth, social]
   guest-moorings: "Moorings listed at $55 per day; pool use costs extra."
   boat-types: [sail, power]
   burgee: huntington_yc.png
   description: Navy waving pennant on a gray staff with two red diagonal stripes and a white star.
-  last-update: 2026-11-08
+  last-update: 2026-11-09
   last-validated: 2026-11-07
 - club:
   name: Keuka Yacht Club
@@ -4511,13 +4573,14 @@
   coordinates: [43.25339, -77.60534]
   address: "5555 St Paul Blvd, Rochester, NY 14617"
   phone: "(585) 342-5511"
+  vhf: "16"
   ownership: member-owned
   focus: [racing, instruction, youth, social]
   guest-moorings: "Slip reservations can be requested by visiting boaters."
   boat-types: [sail, power, dinghy, keelboat]
   burgee: rochester_yc.png
   description: Blue pennant with a red border and a white letter R.
-  last-update: 2026-11-08
+  last-update: 2026-11-09
   last-validated: 2026-11-07
 - club:
   name: Sagamore Yacht Club
@@ -4531,6 +4594,7 @@
   address: "Head Of Bay Ave, Oyster Bay, NY 11771"
   phone: "(516) 922-0555"
   email: "secretary@sagamoreyc.com"
+  vhf: "78A"
   focus: [racing, cruising, instruction, youth, social]
   guest-moorings: "Guest moorings at $75 per night or $55 per day, including launch, bookable up to 24 hours ahead; a reciprocal member privilege."
   boat-types: [sail, power]
@@ -4549,12 +4613,13 @@
   coordinates: [40.90215, -73.51395]
   address: "314 Yacht Club Road, Oyster Bay NY 11771"
   phone: "(516) 922-6200"
+  vhf: "10"
   focus: [racing, cruising, youth, social]
   type: [corinthian]
   boat-types: [sail, keelboat]
   burgee: seawanhaka_corinthian_yc.png
   description: Navy ship's wheel seal around a navy burgee with a white dotted cross and a white star.
-  last-update: 2026-11-08
+  last-update: 2026-11-09
   last-validated: 2026-11-07
 - club:
   name: Seneca Yacht Club
@@ -4634,12 +4699,13 @@
   website: https://www.columbiayachtclub.org/
   coordinates: [41.88394, -87.61198]
   phone: "(312) 938-3625"
+  vhf: "78"
   focus: [racing, cruising, instruction, youth, social]
   guest-moorings: "Transient dock space for visiting yachts on the south side of the ship in Monroe Harbor."
   boat-types: [sail, power, keelboat]
   burgee: columbia_il_yc.png
   description: Red waving pennant with a large white interlocking C and Y monogram.
-  last-update: 2026-11-08
+  last-update: 2026-11-09
   last-validated: 2026-11-07
 - club:
   name: Jackson Park Yacht Club
@@ -4706,6 +4772,7 @@
   address: "700 Marina Boulevard San Francisco, CA 94123"
   phone: "(415) 563-6363"
   email: "frontdesk@stfyc.com"
+  vhf: "69"
   focus: [racing, instruction, youth]
   guest-moorings: "Guest docks at the far west end of the SF Small Craft Harbor, $1 per foot per night, with a deposit."
   boat-types: [sail, dinghy, keelboat, windsurf]
@@ -4988,12 +5055,13 @@
   coordinates: [32.71829, -117.22913]
   address: "1011 Anchorage Lane, San Diego, CA 92106"
   phone: "(619) 221-8400"
+  vhf: "69"
   focus: [racing, youth, social]
   guest-moorings: "Guest dock and slips at $2.50 per foot per night; call the Dockmaster to confirm space."
   boat-types: [sail, power, dinghy, keelboat]
   burgee: san_diego_yc.png
   description: White triangular burgee with a blue border and a red star.
-  last-update: 2026-11-08
+  last-update: 2026-11-09
   last-validated: 2026-11-07
 - club:
   name: Mission Bay Yacht Club
@@ -5053,12 +5121,13 @@
   coordinates: [33.60543, -117.90969]
   address: "720 W Bay Ave, Newport Beach, CA 92661"
   phone: "(949) 673-7730"
+  vhf: "71"
   focus: [racing, youth, social]
   guest-moorings: "No visitor slips and very limited dock space; several guest moorings with shore boat service; call on VHF 71."
   boat-types: [sail]
   burgee: newport_harbor_yc.png
   description: Navy burgee with an orange ring around a white letter N.
-  last-update: 2026-11-08
+  last-update: 2026-11-09
   last-validated: 2026-11-07
 - club:
   name: Balboa Yacht Club
@@ -5107,12 +5176,13 @@
   coordinates: [33.75302, -118.11391]
   address: "Appian Way, Long Beach, CA 90803"
   phone: "(562) 598-9401"
+  vhf: "9"
   focus: [racing, instruction, youth, social]
   guest-moorings: "Berthing on the Long Dock by reservation for members of approved reciprocal clubs."
   boat-types: [sail, power, keelboat]
   burgee: long_beach_yc.png
   description: Yellow burgee with a black Y-shaped chevron and a red star.
-  last-update: 2026-11-08
+  last-update: 2026-11-09
   last-validated: 2026-11-07
 - club:
   name: Los Angeles Yacht Club
@@ -5141,12 +5211,13 @@
   coordinates: [38.97396, -76.48529]
   address: "2 Compromise Street, Annapolis, MD 21401"
   phone: "(410) 263-9279"
+  vhf: "68"
   focus: [racing, cruising, instruction, youth, social]
   guest-moorings: "Three to five floating slips, plus vacant member slips, for reciprocal guests."
   boat-types: [sail, power, dinghy, windsurf, rowing, paddle]
   burgee: annapolis_yc.png
   description: Maroon triangular burgee with a gold and black checkered Maryland-style diamond.
-  last-update: 2026-11-08
+  last-update: 2026-11-09
   last-validated: 2026-11-07
 - club:
   name: Severn Sailing Association
@@ -5176,13 +5247,14 @@
   coordinates: [38.83753, -76.53]
   address: "4943 Hine Drive, Shady Side, MD, 20764-9636"
   phone: "(410) 867-1500"
+  vhf: "78A"
   ownership: member-owned
   focus: [youth, social]
   guest-moorings: "Transient docking on request by phone or email."
   boat-types: [sail, power, multihull]
   burgee: chesapeake_yc.png
   description: Round white seal ringed in gold with blue lettering around a yellow and blue wave burgee.
-  last-update: 2026-11-08
+  last-update: 2026-11-09
   last-validated: 2026-11-07
 - club:
   name: Grosse Pointe Yacht Club
@@ -5423,11 +5495,12 @@
   coordinates: [25.7321, -80.23012]
   address: "2484 South Bayshore Drive Miami, Florida 33133"
   phone: "(305) 858-1733"
+  vhf: "71"
   focus: [racing, cruising, youth, social]
   boat-types: [sail]
   burgee: coral_reef_yc.png
   description: Orange and blue waving pennant on a gold staff above a gold 70-year medal knot.
-  last-update: 2026-11-08
+  last-update: 2026-11-09
   last-validated: 2026-11-07
 - club:
   name: Key Biscayne Yacht Club
@@ -5440,12 +5513,13 @@
   coordinates: [25.69901, -80.16996]
   address: "180 Harbor Drive, Key Biscayne, FL 33149"
   phone: "(305) 361-9171"
+  vhf: "16"
   focus: [racing, instruction, youth, social]
   guest-moorings: "Courtesy docks for visiting guests."
   boat-types: [sail]
   burgee: key_biscayne_yc.png
   description: Round white seal with navy lettering around a navy burgee bearing a gold lighthouse and key.
-  last-update: 2026-11-08
+  last-update: 2026-11-09
   last-validated: 2026-11-07
 - club:
   name: St. Petersburg Yacht Club
@@ -6249,11 +6323,12 @@
   coordinates: [27.52497, -82.61103]
   address: "4307 13th Street West, Palmetto, FL 34221"
   phone: "(941) 722-5936"
+  vhf: "16"
   focus: [social]
   guest-moorings: "185-ft transient dock with 30/50 amp power for members and FCYC visitors."
   burgee: bradenton_yc.png
   description: Blue waving swallowtail with a red and white diagonal stripe and a white star on the blue hoist.
-  last-update: 2026-11-08
+  last-update: 2026-11-09
   last-validated: 2026-11-07
 - club:
   name: Buzzards Yacht Club
@@ -6441,6 +6516,7 @@
   address: "Lakeshore Blvd., PO Box 505, Dunkirk, NY 14048"
   phone: "(716) 366-9789"
   email: "secretary@dunkirkyachtclub.org"
+  vhf: "16"
   guest-moorings: "Guest docks mentioned for people on the club's waiting list; approach is via the inner break-wall."
   boat-types: [sail]
   burgee: dunkirk_yc.png
@@ -6771,6 +6847,7 @@
   address: "1500 Fairview Beach Road, Pasadena, MD 21122-3219"
   phone: "(410) 255-4444"
   email: "manager@mdyc.org"
+  vhf: "9"
   focus: [cruising, social]
   boat-types: [sail, power, multihull]
   burgee: maryland_yc.png
@@ -6837,11 +6914,12 @@
   coordinates: [26.13802, -81.78884]
   address: "896 River Point Drive, Naples, FL 34102"
   phone: "(239) 774-0424"
+  vhf: "16"
   focus: [social]
   boat-types: [sail]
   burgee: naples_sailing_yc.png
   description: Yellow waving swallowtail outlined in blue with a blue letter N, a white sailboat and blue waves.
-  last-update: 2026-11-08
+  last-update: 2026-11-09
   last-validated: 2026-11-07
 - club:
   name: Nawiliwili Yacht Club
@@ -7059,12 +7137,13 @@
   coordinates: [41.10586, -73.38209]
   address: "6 Great Marsh Road, Westport, CT 06880"
   phone: "(203) 454-3004"
+  vhf: "71"
   focus: [racing, cruising, social]
   guest-moorings: "Guest slips by reservation for members of listed reciprocal clubs; form required."
   boat-types: [sail, power]
   burgee: saugatuck_harbor_yc.png
   description: Round navy seal ringed in gold with gold lettering around a blue, green and white burgee on a gold staff.
-  last-update: 2026-11-08
+  last-update: 2026-11-09
   last-validated: 2026-11-07
 - club:
   name: Seaford Yacht Club
@@ -7113,11 +7192,12 @@
   coordinates: [40.0669, -74.08271]
   address: "2410 Sylvan Drive, Point Pleasant, NJ 08742"
   phone: "(732) 965-2841"
+  vhf: "9"
   ownership: member-owned
   focus: [cruising, social]
   burgee: shore_haven_yc.png
   description: White grommeted burgee with navy letters SHYC and a navy ship's wheel.
-  last-update: 2026-11-08
+  last-update: 2026-11-09
   last-validated: 2026-11-07
 - club:
   name: Smyrna Yacht Club
@@ -7285,6 +7365,7 @@
   address: "2951 Marina Bay Drive, #130-204, League City, TX 77573"
   phone: "(281) 334-4400"
   email: "commodore@waterfordyc.com"
+  vhf: "16"
   focus: [cruising, social]
   boat-types: [sail, power]
   burgee: waterford_yc.png
@@ -7337,10 +7418,11 @@
   coordinates: [40.86334, -73.4627]
   address: "150 Harbor Road, Cold Spring Harbor, NY 11724"
   phone: "(631) 367-9822"
+  vhf: "68"
   focus: [social]
   burgee: whalers_cove_yc.png
   description: Tan compass rose behind a white burgee bearing a black whale and red letters.
-  last-update: 2026-11-08
+  last-update: 2026-11-09
   last-validated: 2026-11-07
 - club:
   name: Wicomico Yacht Club
@@ -7537,10 +7619,11 @@
   website: https://annisquamyc.org/index.cfm
   coordinates: [42.65191, -70.67921]
   phone: "(978) 283-4507"
+  vhf: "68"
   focus: [racing, instruction, youth]
   guest-moorings: "Five transient moorings: two up to 42 ft and three up to 50 ft."
   boat-types: [sail, power, dinghy, paddle]
-  last-update: 2026-11-08
+  last-update: 2026-11-09
   last-validated: 2026-11-07
 - club:
   name: Apalachee Bay Yacht Club
@@ -8737,9 +8820,10 @@
   website: https://www.cycrr.org/
   coordinates: [41.48775, -81.83472]
   phone: "(440) 333-1155"
+  vhf: "9"
   focus: [racing, social]
   boat-types: [sail, power]
-  last-update: 2026-11-08
+  last-update: 2026-11-09
   last-validated: 2026-11-07
 - club:
   name: Club at Westpoint
@@ -8767,6 +8851,7 @@
   website: https://www.clubcruceros.net/
   coordinates: [24.15437, -110.32622]
   email: "crucerosdelapaz@gmail.com"
+  vhf: "22"
   focus: [cruising, social]
   guest-moorings: "No moorage for visiting yachts; the club refers visitors to nearby marinas."
   boat-types: [sail]
@@ -8848,6 +8933,7 @@
   coordinates: [42.11651, 3.14782]
   phone: "(+34) 972 77 00 16"
   email: "club@nauticescala.com"
+  vhf: "9"
   last-update: 2026-11-09
   last-validated: 2026-11-07
 - club:
@@ -9209,6 +9295,7 @@
   address: "697 Windmill Road, Dartmouth, Nova Scotia, B3B 1B7"
   phone: "(902) 468-6050"
   email: "gm@dartmouthyachtclub.ca"
+  vhf: "68"
   ownership: non-profit
   focus: [racing, instruction, youth, social]
   boat-types: [sail, power, keelboat]
@@ -9506,6 +9593,7 @@
   address: "PO Box 288 New Rochelle, NY 10802-0288"
   phone: "(914) 260-0620"
   email: "echobayyachtclub@gmail.com"
+  vhf: "69"
   last-update: 2026-11-09
   last-validated: 2026-11-07
 - club:
@@ -9908,9 +9996,10 @@
   coordinates: [43.2501, -77.60944]
   address: "Box 12771, 10 Marina Drive, Rochester NY 14612"
   phone: "(585) 266-9796"
+  vhf: "16"
   focus: [racing, cruising, instruction, youth, social]
   boat-types: [sail]
-  last-update: 2026-11-08
+  last-update: 2026-11-09
   last-validated: 2026-11-07
 - club:
   name: Gibsons Yacht Club
@@ -10686,6 +10775,7 @@
   coordinates: [53.58158, -0.11305]
   address: "Meridian Quay, Fish Docks, Grimsby, DN31 3SD"
   email: "info@humbercruisingassociation.com"
+  vhf: "74"
   focus: [cruising, social]
   guest-moorings: "Berths for visiting boats, with forms and fees handled by the association."
   last-update: 2026-11-09
@@ -10776,9 +10866,10 @@
   coordinates: [37.69863, -76.33891]
   address: "362 Club Drive, Kilmarnock, VA 22482"
   phone: "(804) 435-1340"
+  vhf: "16"
   focus: [racing, cruising, instruction, youth, social]
   boat-types: [sail, power, dinghy]
-  last-update: 2026-11-08
+  last-update: 2026-11-09
   last-validated: 2026-11-07
 - club:
   name: Indian Lake Yacht Club
@@ -10897,6 +10988,7 @@
   coordinates: [21.64981, 39.10092]
   address: "Al Kurnaysh Br Rd, Ash Shati, Jeddah 23613"
   email: "info@jeddahyc.com"
+  vhf: "17"
   focus: [instruction, social]
   guest-moorings: "Range of visitor berthing options at the club and marina."
   boat-types: [sail, power]
@@ -11174,12 +11266,13 @@
   coordinates: [41.67744, -70.61522]
   address: "Box 408, Cataumet, MA 02534"
   phone: "(508) 563-7136"
+  vhf: "71"
   focus: [cruising, social]
   guest-moorings: "Reciprocal slips and moorings at Kingman Yacht Center at 50% off the normal rate, including launch, subject to availability."
   boat-types: [power]
   burgee: kingman_yc.png
   description: Triangular burgee with a yellow hoist and blue fly, lettered KYC in blue and yellow.
-  last-update: 2026-11-08
+  last-update: 2026-11-09
   last-validated: 2026-11-07
 - club:
   name: Kingsmill Yacht Club
@@ -11981,6 +12074,7 @@
   address: "80 Harbour Front Drive, Hamilton, Ontario. L8L 1M8"
   phone: "(905) 529-9205"
   email: "secretary@mbyc-hamilton.org"
+  vhf: "68"
   focus: [racing, instruction, social]
   guest-moorings: "Visitor slips limited to members' slips vacated while cruising; larger boats should confirm first."
   boat-types: [sail, power]
@@ -12351,6 +12445,7 @@
   address: "5330 Coronada Dr, Mentor, OH 44060"
   phone: "(440) 257-7214"
   email: "membership@mhyc.us"
+  vhf: "9"
   focus: [cruising, youth, social]
   guest-moorings: "Floating docks for members and visitors."
   boat-types: [power]
@@ -12445,6 +12540,7 @@
   coordinates: [-36.76596, 174.76586]
   phone: "09 489 6837"
   email: "manager@milfordcruising.co.nz"
+  vhf: "16"
   focus: [racing, cruising, instruction, youth, social]
   boat-types: [sail, power, dinghy, multihull]
   burgee: milford_cruising_club.png
@@ -12473,9 +12569,10 @@
   coordinates: [43.61832, -79.47967]
   address: "200 Humber Bay Park Road West Toronto, Ontario M8V 3X7"
   phone: "(416) 252-7737"
+  vhf: "68"
   focus: [racing, cruising, social]
   boat-types: [sail, power]
-  last-update: 2026-11-08
+  last-update: 2026-11-09
   last-validated: 2026-11-07
 - club:
   name: Minnetonka Yacht Club
@@ -12620,6 +12717,7 @@
   address: "244 Harbor Beach Road, Mount Sinai, NY 11766"
   phone: "(631) 473-2993"
   email: "msycwebsite@gmail.com"
+  vhf: "71"
   focus: [social]
   burgee: mount_sinai_yc.png
   description: White disc lettered Mount Sinai Yacht Club around a teal and navy pennant bearing white sail shapes.
@@ -12712,6 +12810,7 @@
   address: "714 Highway 17 North, Little River, SC, 29566"
   phone: "(843) 249-5376"
   email: "info@myrtlebeachyachtclub.com"
+  vhf: "16"
   focus: [social]
   guest-moorings: "Transient slips with water, electric, pump-out and Wi-Fi."
   last-update: 2026-11-09
@@ -13071,11 +13170,12 @@
   website: https://njk.fi/
   coordinates: [60.16297, 24.84804]
   phone: "(09) 675 007"
+  vhf: "68"
   focus: [racing]
   boat-types: [sail]
   burgee: nylandska_jaktklubben.png
   description: White rectangular flag with a blue Nordic cross and a small crest in the upper hoist.
-  last-update: 2026-11-08
+  last-update: 2026-11-09
   last-validated: 2026-11-07
 - club:
   name: Oak Harbor Yacht Club
@@ -13384,6 +13484,7 @@
   address: "325 Boston Post Road, Mamaroneck, NY 10543"
   phone: "(914) 698-9858"
   email: "secretary@orientayachtclub.com"
+  vhf: "68"
   focus: [racing, instruction, social]
   guest-moorings: "Guest moorings for visiting yachts at nominal prices."
   boat-types: [sail]
@@ -14012,6 +14113,7 @@
   address: "PO Box 138, Port Jefferson, NY 11777"
   phone: "(631) 473-9650"
   email: "info@portjeffersonyachtclub.com"
+  vhf: "68"
   focus: [racing, cruising, instruction, social]
   guest-moorings: "Guest moorings, docks and slips for overnight and day-trip cruisers."
   boat-types: [sail, power, paddle]
@@ -14265,6 +14367,7 @@
   address: "121 George Hills Way, Prince Rupert, BC, V8J 1A3"
   phone: "(250) 624-4317"
   email: "info@prryc.com"
+  vhf: "73"
   focus: [social]
   guest-moorings: "Guest moorage and slips."
   boat-types: [rowing]
@@ -14283,6 +14386,7 @@
   coordinates: [13.50341, 120.9492]
   phone: "+63 43 351-2035"
   email: "clubhouse@pgyc.org"
+  vhf: "68"
   focus: [racing, cruising, instruction, youth, social]
   guest-moorings: "28 visitor moorings near the southern end of Muelle Bay."
   boat-types: [sail, power, dinghy, keelboat, multihull, windsurf, paddle]
@@ -14516,6 +14620,7 @@
   coordinates: [36.54062, -6.28516]
   address: "Punta de San Felipe, S/N, 11004 Cádiz"
   email: "nautico-cadiz@rcncadiz.com"
+  vhf: "9"
   focus: [instruction]
   last-update: 2026-11-09
   last-validated: 2026-11-07
@@ -14531,6 +14636,7 @@
   address: "Puerto Deportivo Juan Carlos I, 26, 36960 Sanxenxo"
   phone: "986 803 400"
   email: "info@rcnsanxenxo.com"
+  vhf: "9"
   focus: [racing]
   last-update: 2026-11-09
   last-validated: 2026-11-07
@@ -15663,12 +15769,13 @@
   coordinates: [42.40434, -86.27583]
   address: "401 Williams St, South Haven, MI 49090"
   phone: "(269) 637-2305"
+  vhf: "9"
   focus: [racing, social]
   guest-moorings: "Transient docks at times in summer, when members are cruising."
   boat-types: [sail]
   burgee: south_haven_yc.png
   description: Red, white and blue horizontally divided triangular burgee with a zigzag edge between the colors.
-  last-update: 2026-11-08
+  last-update: 2026-11-09
   last-validated: 2026-11-07
 - club:
   name: South Shore Yacht Club
@@ -16206,6 +16313,7 @@
   website: https://torontoislandmarina.com/
   coordinates: [43.62365, -79.38159]
   email: "marina@torontoislandmarina.com"
+  vhf: "68"
   last-update: 2026-11-09
   last-validated: 2026-11-07
 - club:
@@ -16350,10 +16458,11 @@
   coordinates: [43.31465, -78.83612]
   address: "5 Shore Dr, Wilson, NY 14172"
   phone: "(716) 751-9975"
+  vhf: "68"
   focus: [racing, cruising, social]
   guest-moorings: "No dedicated visitor slips; visitors tie up at the gas dock and register with the Stewards."
   boat-types: [sail, power, paddle]
-  last-update: 2026-11-08
+  last-update: 2026-11-09
   last-validated: 2026-11-07
 - club:
   name: Two Rivers Yacht Club
@@ -16518,6 +16627,7 @@
   coordinates: [27.65715, -80.3693]
   phone: "(772) 231-2211"
   email: "vbyc@verobeachyachtclub.com"
+  vhf: "16"
   ownership: non-profit
   focus: [cruising, social]
   boat-types: [pontoon]
@@ -17830,6 +17940,7 @@
   address: "Royal Plain, Lowestoft, Suffolk, NR33 0AQ"
   phone: "+44(0)1502 566 726"
   email: "admin@rnsyc.org.uk"
+  vhf: "80"
   focus: [racing, cruising, instruction, youth, social]
   guest-moorings: "Pontoon berths in the 100-berth marina, with some for visitors."
   boat-types: [sail, power, keelboat]
@@ -17861,6 +17972,7 @@
   coordinates: [3.00528, 101.38998]
   phone: "60331686964"
   email: "enquiry@rsyc.com.my"
+  vhf: "72"
   focus: [racing, social]
   guest-moorings: "Limited berths for visiting yachts; book ahead."
   boat-types: [sail, power, dinghy, keelboat]
@@ -17963,10 +18075,11 @@
   coordinates: [48.45256, -123.29521]
   address: "3475 Ripon Rd., Victoria, BC V8R 6H1"
   phone: "(250) 592-2441"
+  vhf: "9A"
   focus: [racing, cruising, instruction, social]
   guest-moorings: "Visitor moorage for approved reciprocal clubs at Cadboro Bay, April to October; none at Tsehum or Long Harbour."
   boat-types: [sail, keelboat, paddle]
-  last-update: 2026-11-08
+  last-update: 2026-11-09
   last-validated: 2026-11-07
 - club:
   name: Tacoma Yacht Club
@@ -18207,6 +18320,7 @@
   coordinates: [41.27, -72.00]
   phone: "(631) 788-7036"
   email: "office@fiyc.net"
+  vhf: "10"
   focus: [racing, instruction, youth]
   boat-types: [sail, dinghy, keelboat]
   last-update: 2026-11-09
@@ -18279,10 +18393,11 @@
   website: https://www.siyc.com/
   coordinates: [41.08665, -72.35237]
   phone: "(631) 749-0888"
+  vhf: "74"
   focus: [racing, cruising, youth, social]
   guest-moorings: "Transient moorings for reciprocal members."
   boat-types: [sail, dinghy, keelboat]
-  last-update: 2026-11-08
+  last-update: 2026-11-09
   last-validated: 2026-11-07
 - club:
   name: Beach Haven Yacht Club
@@ -18448,9 +18563,10 @@
   coordinates: [-33.85, 151.22]
   address: "33 Peel Street Kirribilli NSW 2061"
   phone: "+61 2 9955 7171"
+  vhf: "73"
   focus: [racing, cruising, instruction, social]
   boat-types: [sail, keelboat]
-  last-update: 2026-11-08
+  last-update: 2026-11-09
   last-validated: 2026-11-07
 - club:
   name: Royal Burnham Yacht Club
@@ -18767,6 +18883,7 @@
   address: "Via della marina, 07021, Porto Cervo"
   phone: "+39 0789 902200"
   email: "info@yccs.it"
+  vhf: "74"
   focus: [racing, instruction]
   boat-types: [sail, keelboat]
   burgee: yc_costa_smeralda.png
@@ -19034,6 +19151,7 @@
   address: "Gins Clubhouse, Gins Lane, St Leonard’s, Hampshire, SO42 7XG"
   phone: "023 8022 3352"
   email: "gm@rsyc.org.uk"
+  vhf: "77"
   focus: [racing, cruising, social]
   guest-moorings: "Visitors may occasionally be given a berth alongside the mid-river pontoon."
   boat-types: [sail, paddle]
@@ -19180,6 +19298,7 @@
   address: "Town Quay, Tivat 85320"
   phone: "+382 (0) 32 660 970"
   email: "pmyc@portomontenegro.com"
+  vhf: "71"
   focus: [racing, instruction, social]
   boat-types: [sail, power, rowing, paddle]
   last-update: 2026-11-09
@@ -19379,6 +19498,7 @@
   address: "75 Burgee Run, Halifax, NS, B3P 0C9"
   phone: "(902) 477-4617"
   email: "secretary@armdaleyachtclub.ns.ca"
+  vhf: "68"
   focus: [racing, social]
   guest-moorings: "Marina and mooring assignment for visitors; call the Dockmaster on VHF 68."
   boat-types: [sail, power]
@@ -19662,6 +19782,7 @@
   address: "211 West 22nd Street, San Pedro, CA 90731"
   phone: "(310) 519-1694"
   email: "office@cbyc.org"
+  vhf: "16"
   ownership: member-owned
   focus: [racing, cruising, instruction, youth, social]
   guest-moorings: "Guest dock limit of two nights, up to seven if slips are free; leave by 10:00 am."
@@ -19965,7 +20086,8 @@
   coordinates: [41.5, -81.69]
   address: "6700 Cleveland Memorial Shoreway, Cleveland, Ohio 44102"
   phone: "(216) 281-6470"
-  last-update: 2026-11-07
+  vhf: "9"
+  last-update: 2026-11-09
   last-validated: 2026-11-07
 - club:
   name: Erith Yacht Club
@@ -20132,6 +20254,7 @@
   address: "4707 Victoria Boulevard, Hampton, VA 23669-4141"
   phone: "(757) 722-0711"
   email: "manager@hamptonyc.com"
+  vhf: "79"
   focus: [racing, cruising, instruction, youth, social]
   boat-types: [sail, power, dinghy]
   burgee: hampton_yc.png
@@ -20267,6 +20390,7 @@
   address: "1 Maitland Street, Kingston, Ontario, Canada K7L 2V3"
   phone: "(613) 548-3052"
   email: "manager@kingstonyachtclub.ca"
+  vhf: "68"
   focus: [racing, cruising, instruction, youth, social]
   boat-types: [sail, keelboat, paddle]
   last-update: 2026-11-09
@@ -21084,6 +21208,7 @@
   coordinates: [43.65, -79.38]
   address: "1391 Lake Shore Blvd West, Toronto ON M6K 3C1"
   email: "club.manager@tscc.net"
+  vhf: "72"
   focus: [racing, cruising, instruction]
   boat-types: [sail, dinghy, keelboat, paddle]
   last-update: 2026-11-09
@@ -21362,7 +21487,8 @@
   coordinates: [18.47, -77.92]
   address: "P.O.Box 1133, Montego Bay"
   phone: "+1 (876) 979-8038"
-  last-update: 2026-11-07
+  vhf: "16"
+  last-update: 2026-11-09
   last-validated: 2026-11-07
 - club:
   name: Royal BVI Yacht Club
@@ -21604,6 +21730,7 @@
   address: "Catharines, ON L2N 7P5"
   phone: "(905) 934-8325"
   email: "office@dalhousieyachtclub.com"
+  vhf: "68"
   last-update: 2026-11-09
   last-validated: 2026-11-07
 - club:
@@ -21618,6 +21745,7 @@
   address: "635 Breezy Drive, Pickering, ON L1W 2X4"
   phone: "(905) 831-7899"
   email: "info@fbyc.ca"
+  vhf: "68"
   burgee: frenchmans_bay_yc.png
   description: Yellow and black swallow-tailed pennant with a black fleur-de-lis.
   last-update: 2026-11-09
@@ -21889,9 +22017,10 @@
   coordinates: [6.32, 99.85]
   address: "Jalan Dato Syed Omar, 07000, Kuah"
   phone: "+60125174078"
+  vhf: "69"
   focus: [racing, cruising, social]
   boat-types: [sail, multihull]
-  last-update: 2026-11-08
+  last-update: 2026-11-09
   last-validated: 2026-11-07
 - club:
   name: Royal Bali Yacht Club
@@ -22208,8 +22337,9 @@
   coordinates: [41.38, 2.18]
   address: "CH 9 VHF, Moll d’Espanya, s/n, 08039 – Barcelona"
   phone: "+34932217394"
+  vhf: "9"
   focus: [racing]
-  last-update: 2026-11-08
+  last-update: 2026-11-09
   last-validated: 2026-11-07
 - club:
   name: Real Club Mediterráneo
@@ -22342,13 +22472,14 @@
   website: https://rafyc.org.uk/
   coordinates: [50.87, -1.33]
   address: "Rope Walk, Hamble, Southampton, SO31 4HD"
+  vhf: "77"
   ownership: institutional
   type: [military]
   guest-moorings: "Three visitor or short-term berths at Prince Philip Yacht Haven."
   boat-types: [power]
   burgee: royal_air_force_yc.png
   description: Light blue swallow-tailed pennant with a Royal Air Force roundel.
-  last-update: 2026-11-08
+  last-update: 2026-11-09
   last-validated: 2026-11-07
 - club:
   name: Parkstone Yacht Club
@@ -22898,9 +23029,10 @@
   coordinates: [-39.49, 176.92]
   address: "63 West Quay, Napier, Hawke's Bay Region, 4110"
   phone: "06 835 3811"
+  vhf: "77"
   focus: [racing, instruction, youth, social]
   boat-types: [sail, power, dinghy]
-  last-update: 2026-11-08
+  last-update: 2026-11-09
   last-validated: 2026-11-07
 - club:
   name: Jedriličarski klub Split
@@ -23086,6 +23218,7 @@
   address: "Los Nietos, 30383 Cartagena, Murcia"
   phone: "+34 968 13 33 00"
   email: "info@cnlosnietos.com"
+  vhf: "9"
   focus: [racing, instruction]
   last-update: 2026-11-09
   last-validated: 2026-11-07
@@ -23143,6 +23276,7 @@
   coordinates: [37.03, 15.21]
   phone: "+393384450946"
   email: "informazioni@yachtclublakkios.com"
+  vhf: "74"
   boat-types: [windsurf, paddle]
   last-update: 2026-11-09
   last-validated: 2026-11-07
@@ -23170,6 +23304,7 @@
   address: "Moll de Llevant, 287 - 07701 Mahón"
   phone: "+34 971 36 50 22"
   email: "info@clubmaritimomahon.com"
+  vhf: "9"
   focus: [racing]
   last-update: 2026-11-09
   last-validated: 2026-11-07
@@ -23195,6 +23330,7 @@
   website: https://cnciutadella.com/
   coordinates: [39.99, 3.9]
   email: "info@cnciutadella.com"
+  vhf: "9"
   focus: [youth, social]
   boat-types: [dinghy]
   last-update: 2026-11-09
@@ -23728,6 +23864,7 @@
   address: "Halvemaanstraat 2b, 8620 Nieuwpoort"
   phone: "+3258 23 36 41"
   email: "info@wsklum.be"
+  vhf: "72"
   last-update: 2026-11-09
   last-validated: 2026-11-07
 - club:
@@ -23756,6 +23893,7 @@
   website: https://www.bzyc.be/
   coordinates: [51.21, 3.23]
   email: "info@bzyc.be"
+  vhf: "12"
   last-update: 2026-11-09
   last-validated: 2026-11-07
 - club:
@@ -23770,6 +23908,7 @@
   address: "Watersportlaan 11 – B-8620 Nieuwpoort"
   phone: "+32496611672"
   email: "info@vynieuwpoort.be"
+  vhf: "8"
   last-update: 2026-11-09
   last-validated: 2026-11-07
 - club:
@@ -23794,7 +23933,8 @@
   website: https://www.rcnportopetro.com/
   coordinates: [39.36, 3.21]
   phone: "+34 971 65 76 57"
-  last-update: 2026-11-07
+  vhf: "9"
+  last-update: 2026-11-09
   last-validated: 2026-11-07
 - club:
   name: Club Nàutic Portocolom
@@ -24103,10 +24243,11 @@
   coordinates: [51.82, 1.01]
   address: "Waterside, Brightlingsea, Essex, CO70AX"
   phone: "01206302594"
+  vhf: "68"
   focus: [racing, cruising, instruction, youth, social]
   guest-moorings: "Visitors' moorings and pontoons run by Brightlingsea Harbour Commissioners, with water taxi."
   boat-types: [sail, power, keelboat]
-  last-update: 2026-11-08
+  last-update: 2026-11-09
   last-validated: 2026-11-07
 - club:
   name: Lochaber Yacht Club
@@ -24541,7 +24682,8 @@
   website: http://www.costaricayachtclub.com/
   coordinates: [9.98, -84.83]
   phone: "(506) 2661-0784"
-  last-update: 2026-11-07
+  vhf: "6"
+  last-update: 2026-11-09
   last-validated: 2026-11-07
 - club:
   name: Iate Clube Armação de Búzios
@@ -25226,11 +25368,12 @@
   website: http://rbycpalau.blogspot.com/
   coordinates: [7.23, 134.13]
   phone: "488-2628"
+  vhf: "16"
   focus: [racing, cruising, social]
   boat-types: [sail, multihull, paddle]
   burgee: royal_belau_yc.png
   description: Light blue pennant with a yellow moon and a black sailboat.
-  last-update: 2026-11-08
+  last-update: 2026-11-09
   last-validated: 2026-11-07
 - club:
   name: Kaneohe Yacht Club
@@ -25782,6 +25925,7 @@
   coordinates: [41.07, 1.07]
   address: "Passeig Miramar, 44, 43850 Cambrils"
   email: "info@clubnauticcambrils.com"
+  vhf: "9"
   focus: [racing, cruising, instruction, youth, social]
   boat-types: [dinghy]
   last-update: 2026-11-09
@@ -26606,9 +26750,10 @@
   coordinates: [43.3, 5.38]
   address: "Quai Marcel Pagnol, 13007 Marseille"
   phone: "04 91 59 82 00"
+  vhf: "77"
   focus: [racing, cruising, instruction, social]
   boat-types: [sail]
-  last-update: 2026-11-08
+  last-update: 2026-11-09
   last-validated: 2026-11-07
 - club:
   name: Club Nautique de la Croisette
@@ -26690,9 +26835,10 @@
   founded: unknown
   website: https://www.ycca.net/
   coordinates: [47.55, -2.89]
+  vhf: "9"
   focus: [racing, cruising]
   boat-types: [keelboat]
-  last-update: 2026-11-08
+  last-update: 2026-11-09
   last-validated: 2026-11-07
 - club:
   name: Yacht Club du Calaisis
@@ -26782,6 +26928,7 @@
   address: "482 Avenida Fernández Juncos, San Juan, PR 00901"
   phone: "(787) 722-0177"
   email: "marina@nauticodesanjuan.com"
+  vhf: "8"
   focus: [racing, youth, social]
   boat-types: [sail, dinghy]
   last-update: 2026-11-09
@@ -26914,6 +27061,7 @@
   coordinates: [39.51, 2.48]
   phone: "+34 971 694 950"
   email: "cnsp@cnsp.es"
+  vhf: "9"
   last-update: 2026-11-09
   last-validated: 2026-11-07
 - club:
@@ -27422,8 +27570,9 @@
   coordinates: [39.08, -76.43]
   address: "534 Broadwater Way, Gibson Island, Maryland 21056"
   phone: "(410) 255-1414"
+  vhf: "78A"
   boat-types: [sail, dinghy, keelboat, windsurf]
-  last-update: 2026-11-08
+  last-update: 2026-11-09
   last-validated: 2026-11-08
 - club:
   name: Herring Bay Yacht Club
@@ -28729,5 +28878,6 @@
   coordinates: [24.17, -76.44]
   phone: "+1 242 355 2024"
   email: "info@stanielcay.com"
+  vhf: "16"
   last-update: 2026-11-09
   last-validated: 2026-11-09
