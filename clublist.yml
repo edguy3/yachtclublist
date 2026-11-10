@@ -8121,7 +8121,9 @@
   coordinates: [33.45365, -86.32915]
   address: "147 Merrill Road, Vincent, AL 35178"
   boat-types: [sail]
-  last-update: 2026-11-08
+  burgee: birmingham_sc.png
+  description: Red and blue burgee with the white letters B S C.
+  last-update: 2026-11-09
   last-validated: 2026-11-07
 - club:
   name: Blackbeard Sailing Club
@@ -8733,7 +8735,9 @@
   focus: [racing, cruising, instruction, youth]
   type: [corinthian]
   boat-types: [sail, power]
-  last-update: 2026-11-08
+  burgee: chicago_corinthian_yc.png
+  description: White burgee with a light blue swallowtail bar and two red stars.
+  last-update: 2026-11-09
   last-validated: 2026-11-07
 - club:
   name: Chichester Cruiser Racing Club
@@ -9176,6 +9180,8 @@
   email: "membership@crescentsail.org"
   focus: [racing, instruction, youth, social]
   boat-types: [sail, dinghy, keelboat, multihull, paddle]
+  burgee: crescent_sail_yc.png
+  description: Navy burgee with a yellow crescent and the letters S Y C.
   last-update: 2026-11-09
   last-validated: 2026-11-07
 - club:
@@ -9808,7 +9814,9 @@
   focus: [racing, cruising, instruction, youth, social]
   guest-moorings: "Visitors dock at the end of A dock in the West Basin."
   boat-types: [sail, power, keelboat]
-  last-update: 2026-11-08
+  burgee: ford_yc.png
+  description: Navy burgee with the white letters F Y C.
+  last-update: 2026-11-09
   last-validated: 2026-11-07
 - club:
   name: Forest City Yacht Club
@@ -10080,7 +10088,9 @@
   website: https://www.grandlakeyachtclub.com/Sys/Login
   coordinates: [40.2501, -105.8171]
   address: "1128 Lake Avenue, Grand Lake CO, PO Box 2288, Grand Lake CO 80447"
-  last-update: 2026-11-07
+  burgee: grand_lake_yc.png
+  description: Red interlocking letters G L.
+  last-update: 2026-11-09
   last-validated: 2026-11-07
 - club:
   name: Grand River Yacht Club
@@ -10747,6 +10757,8 @@
   email: "info@horseshoeharbor.org"
   focus: [racing, instruction, youth]
   boat-types: [sail, keelboat, paddle]
+  burgee: horseshoe_harbor_yc.png
+  description: Navy burgee with a white horseshoe.
   last-update: 2026-11-09
   last-validated: 2026-11-07
 - club:
@@ -10926,6 +10938,8 @@
   email: "commodore@islandcruisingclub.co.uk"
   focus: [cruising, instruction]
   boat-types: [sail, power, keelboat]
+  burgee: island_cruising_club.png
+  description: Green burgee with a gold monogram.
   last-update: 2026-11-09
   last-validated: 2026-11-07
 - club:
@@ -11121,7 +11135,9 @@
   phone: "(262) 652-2320"
   focus: [racing, cruising, instruction, social]
   boat-types: [sail, power]
-  last-update: 2026-11-08
+  burgee: kenosha_yc.png
+  description: Navy and white diagonal burgee with the letters K Y C.
+  last-update: 2026-11-09
   last-validated: 2026-11-07
 - club:
   name: Kent Island Yacht Club
@@ -11451,7 +11467,9 @@
   coordinates: [42.82595, -88.36707]
   address: "N9220 East Shore Road, East Troy, WI 53120"
   focus: [social]
-  last-update: 2026-11-08
+  burgee: lake_beulah_yc.png
+  description: White and red burgee with the letters L B.
+  last-update: 2026-11-09
   last-validated: 2026-11-07
 - club:
   name: Lake Charles Yacht Club
@@ -12857,6 +12875,8 @@
   email: "manager@nyc.ie"
   focus: [racing, cruising, instruction, youth, social]
   boat-types: [sail, power, dinghy, keelboat]
+  burgee: national_yc.png
+  description: White and navy burgee with a red cross.
   last-update: 2026-11-09
   last-validated: 2026-11-07
 - club:
@@ -14036,7 +14056,9 @@
   focus: [racing, cruising, instruction, youth, social]
   guest-moorings: "Temporary visitor berths throughout the summer."
   boat-types: [sail, dinghy]
-  last-update: 2026-11-08
+  burgee: poole_yc.png
+  description: White burgee with a red cross edged in blue.
+  last-update: 2026-11-09
   last-validated: 2026-11-07
 - club:
   name: Port Alberni Yacht Club
@@ -14622,6 +14644,8 @@
   email: "nautico-cadiz@rcncadiz.com"
   vhf: "9"
   focus: [instruction]
+  burgee: real_club_nautico_de_cadiz.png
+  description: Red burgee with crossed anchors in gold and white.
   last-update: 2026-11-09
   last-validated: 2026-11-07
 - club:
@@ -14638,6 +14662,8 @@
   email: "info@rcnsanxenxo.com"
   vhf: "9"
   focus: [racing]
+  burgee: real_club_nautico_de_sanxenxo.png
+  description: Green rectangular flag with a compass star and a canton of the Spanish flag.
   last-update: 2026-11-09
   last-validated: 2026-11-07
 - club:
@@ -14931,6 +14957,8 @@
   email: "club@rpyc.com.au"
   focus: [racing, instruction, youth, social]
   boat-types: [sail, power, dinghy, keelboat, windsurf]
+  burgee: royal_perth_yc.png
+  description: White burgee with a red cross and a crown in the upper hoist.
   last-update: 2026-11-09
   last-validated: 2026-11-07
 - club:
@@ -14947,6 +14975,8 @@
   focus: [instruction, social]
   type: [corinthian]
   boat-types: [sail, power]
+  burgee: royal_plymouth_corinthian_yc.png
+  description: Navy burgee with a crown above a shield in a wreath.
   last-update: 2026-11-09
   last-validated: 2026-11-07
 - club:
@@ -14963,6 +14993,8 @@
   focus: [racing, cruising, instruction, youth, social]
   guest-moorings: "Berthing and moorings for members and visitors; check with the marina."
   boat-types: [sail, power, dinghy, keelboat, multihull]
+  burgee: royal_prince_alfred_yc.png
+  description: Navy burgee with a red cross and a crown in the upper hoist.
   last-update: 2026-11-09
   last-validated: 2026-11-07
 - club:
@@ -14996,7 +15028,9 @@
   phone: "+61 (0)7 3396 8666"
   focus: [racing, cruising, instruction, youth, social]
   boat-types: [sail, power, dinghy, keelboat, multihull, windsurf]
-  last-update: 2026-11-08
+  burgee: royal_queensland_yacht_squadron.png
+  description: Navy burgee with a white hoist bearing a crown.
+  last-update: 2026-11-09
   last-validated: 2026-11-07
 - club:
   name: Royal Western Nova Scotia Yacht Club
@@ -16565,7 +16599,9 @@
   founded: unknown
   website: https://www.varbergssegelsallskap.se/
   coordinates: [57.11315, 12.22639]
-  last-update: 2026-11-05
+  burgee: varbergs_segelsallskap.png
+  description: Blue burgee with the white letters V S S.
+  last-update: 2026-11-09
   last-validated: 2026-11-07
 - club:
   name: Venice Yacht Club
@@ -16891,6 +16927,8 @@
   phone: "(410) 867-9772"
   email: "membership@westriversc.com"
   boat-types: [sail]
+  burgee: west_river_sc.png
+  description: Green burgee with a red center diamond.
   last-update: 2026-11-09
   last-validated: 2026-11-07
 - club:
@@ -17667,7 +17705,9 @@
   phone: "+351 21 483 01 25"
   focus: [racing, youth]
   boat-types: [dinghy, keelboat, windsurf]
-  last-update: 2026-11-08
+  burgee: clube_naval_de_cascais.png
+  description: Navy burgee with a gold seahorse.
+  last-update: 2026-11-09
   last-validated: 2026-11-07
 - club:
   name: Cochin Yacht Club
@@ -17879,6 +17919,8 @@
   focus: [racing, social]
   guest-moorings: "Reciprocal members may not berth without express permission; unauthorized mooring is treated as trespass."
   boat-types: [sail, power, keelboat]
+  burgee: royal_london_yc.png
+  description: Navy burgee with a crown above a white shield with a red cross.
   last-update: 2026-11-09
   last-validated: 2026-11-07
 - club:
@@ -17944,6 +17986,8 @@
   focus: [racing, cruising, instruction, youth, social]
   guest-moorings: "Pontoon berths in the 100-berth marina, with some for visitors."
   boat-types: [sail, power, keelboat]
+  burgee: royal_norfolk_suffolk_yc.png
+  description: Red burgee with white Prince of Wales feathers.
   last-update: 2026-11-09
   last-validated: 2026-11-07
 - club:
@@ -18062,6 +18106,8 @@
   email: "reception@varuna.org"
   focus: [racing, instruction, youth, social]
   boat-types: [sail, dinghy, multihull]
+  burgee: royal_varuna_yc.png
+  description: Navy burgee with a gold royal monogram.
   last-update: 2026-11-09
   last-validated: 2026-11-07
 - club:
@@ -18079,6 +18125,8 @@
   focus: [racing, cruising, instruction, social]
   guest-moorings: "Visitor moorage for approved reciprocal clubs at Cadboro Bay, April to October; none at Tsehum or Long Harbour."
   boat-types: [sail, keelboat, paddle]
+  burgee: royal_victoria_yc.png
+  description: Navy burgee edged in red with a crown.
   last-update: 2026-11-09
   last-validated: 2026-11-07
 - club:
@@ -18112,7 +18160,9 @@
   phone: "(416) 967-7245"
   focus: [racing, social]
   boat-types: [sail]
-  last-update: 2026-11-08
+  burgee: royal_canadian_yc.png
+  description: Navy burgee with a white cross, a crown and a gold beaver in the hoist.
+  last-update: 2026-11-09
   last-validated: 2026-11-07
 - club:
   name: Royal Fowey Yacht Club
@@ -18128,7 +18178,9 @@
   focus: [racing, cruising, social]
   guest-moorings: "Pontoon for members and visiting yachts."
   boat-types: [sail]
-  last-update: 2026-11-08
+  burgee: royal_fowey_yc.png
+  description: Red burgee with a crown above a black shield with gold discs.
+  last-update: 2026-11-09
   last-validated: 2026-11-07
 - club:
   name: Royal Yacht Club of Tasmania
@@ -18442,7 +18494,9 @@
   coordinates: [38.6926, -76.17574]
   address: "Box 337, Oxford, MD 21654"
   phone: "(410) 226-5269"
-  last-update: 2026-11-07
+  burgee: tred_avon_yc.png
+  description: Navy burgee with a white horizontal wedge.
+  last-update: 2026-11-09
   last-validated: 2026-11-07
 - club:
   name: Southampton Yacht Club
@@ -18481,7 +18535,9 @@
   coordinates: [41.10092, -73.36833]
   address: "1 Bluff Point Westport CT 06880"
   phone: "(203) 226-7411"
-  last-update: 2026-11-07
+  burgee: cedar_point_yc.png
+  description: Red and white striped burgee with three blue stars.
+  last-update: 2026-11-09
   last-validated: 2026-11-07
 - club:
   name: Castaways Yacht Club
@@ -18566,6 +18622,8 @@
   vhf: "73"
   focus: [racing, cruising, instruction, social]
   boat-types: [sail, keelboat]
+  burgee: royal_sydney_yacht_squadron.png
+  description: Navy burgee with a white cross and a crown in the upper hoist.
   last-update: 2026-11-09
   last-validated: 2026-11-07
 - club:
@@ -18599,6 +18657,8 @@
   focus: [racing, cruising, youth, social]
   guest-moorings: "Visitors on a visitor's mooring can be ferried to the club and must sign in."
   boat-types: [sail, power, paddle]
+  burgee: royal_cornwall_yc.png
+  description: Navy burgee with white Prince of Wales feathers.
   last-update: 2026-11-09
   last-validated: 2026-11-07
 - club:
@@ -18615,6 +18675,8 @@
   email: "admin@royaldart.co.uk"
   focus: [racing, cruising, instruction, youth, social]
   boat-types: [sail, power, paddle]
+  burgee: royal_dart_yc.png
+  description: Red burgee with a crown and a gold horizontal staff.
   last-update: 2026-11-09
   last-validated: 2026-11-07
 - club:
@@ -18644,6 +18706,8 @@
   email: "manager@rniyc.org"
   focus: [racing, instruction, social]
   boat-types: [sail]
+  burgee: royal_north_of_ireland_yc.png
+  description: Navy burgee with a crown above a gold shamrock.
   last-update: 2026-11-09
   last-validated: 2026-11-07
 - club:
@@ -18742,7 +18806,9 @@
   website: https://www.bryc.net/
   coordinates: [50.84, 4.37]
   focus: [racing, social]
-  last-update: 2026-11-08
+  burgee: bruxelles_royal_yc.png
+  description: Green burgee with a red center point bearing a gold crown.
+  last-update: 2026-11-09
   last-validated: 2026-11-07
 - club:
   name: Royal Yacht Club van België
@@ -18757,7 +18823,9 @@
   phone: "+32 3 303 75 54"
   focus: [racing, youth]
   boat-types: [dinghy]
-  last-update: 2026-11-08
+  burgee: royal_yc_van_belgie.png
+  description: Red burgee with a white center bearing a crown.
+  last-update: 2026-11-09
   last-validated: 2026-11-07
 - club:
   name: Royal Bermuda Yacht Club
@@ -18770,7 +18838,9 @@
   phone: "+1-441-295-2214"
   focus: [racing, instruction, social]
   boat-types: [sail, power]
-  last-update: 2026-11-08
+  burgee: royal_bermuda_yc.png
+  description: Navy burgee with a crown.
+  last-update: 2026-11-09
   last-validated: 2026-11-07
 - club:
   name: Iate Clube do Rio de Janeiro
@@ -18813,6 +18883,8 @@
   email: "office@rciyc.je"
   focus: [racing, instruction, social]
   boat-types: [sail, multihull]
+  burgee: royal_channel_islands_yc.png
+  description: Navy burgee with a crown above a red shield with gold lions.
   last-update: 2026-11-09
   last-validated: 2026-11-07
 - club:
@@ -18828,6 +18900,8 @@
   phone: "+45 2710 8742"
   email: "kdy@kdy.dk"
   focus: [cruising]
+  burgee: kongelig_dansk_yachtklub.png
+  description: White burgee with a crown above three red stars.
   last-update: 2026-11-09
   last-validated: 2026-11-07
 - club:
@@ -18869,7 +18943,9 @@
   coordinates: [51.92, 4.48]
   address: "Veerdam 1, 3016 DD Rotterdam"
   focus: [youth]
-  last-update: 2026-11-08
+  burgee: koninklijke_roei_en_zeilvereniging_de_maas.png
+  description: White burgee with a dark red cross and a crown on a white diamond.
+  last-update: 2026-11-09
   last-validated: 2026-11-07
 - club:
   name: Yacht Club Costa Smeralda
@@ -18932,7 +19008,9 @@
   website: https://www.compagniadellavela.org/
   coordinates: [45.44, 12.33]
   focus: [racing, instruction]
-  last-update: 2026-11-08
+  burgee: compagnia_della_vela.png
+  description: White burgee with a green upper hoist and red lower quarters.
+  last-update: 2026-11-09
   last-validated: 2026-11-07
 - club:
   name: Kongelig Norsk Seilforening
@@ -18948,6 +19026,8 @@
   email: "info@kns.no"
   focus: [racing, youth]
   boat-types: [sail, dinghy, keelboat]
+  burgee: kongelig_norsk_seilforening.png
+  description: Light blue and white burgee with the gold letters K N S and a crown.
   last-update: 2026-11-09
   last-validated: 2026-11-07
 - club:
@@ -18962,7 +19042,9 @@
   phone: "+ 353 87 948 1707"
   focus: [cruising, social]
   boat-types: [sail]
-  last-update: 2026-11-08
+  burgee: royal_irish_yc.png
+  description: Navy burgee with a crown above a gold harp.
+  last-update: 2026-11-09
   last-validated: 2026-11-07
 - club:
   name: Royal St. George Yacht Club
@@ -19010,6 +19092,8 @@
   phone: "93 221 65 21"
   email: "info@rcnb.com"
   focus: [social]
+  burgee: real_club_nautico_de_barcelona.png
+  description: Blue burgee with a royal crest and a canton in white, blue, red and yellow.
   last-update: 2026-11-09
   last-validated: 2026-11-07
 - club:
@@ -19026,6 +19110,8 @@
   email: "secretaria@rcnp.es"
   focus: [racing, cruising, youth]
   boat-types: [dinghy]
+  burgee: real_club_nautico_de_palma.png
+  description: Navy burgee with a red cross and a canton of the Spanish flag bearing a crown.
   last-update: 2026-11-09
   last-validated: 2026-11-07
 - club:
@@ -19040,6 +19126,8 @@
   phone: "94 463 76 00"
   email: "informacion@rcmarsc.es"
   focus: [racing, instruction, social]
+  burgee: real_club_maritimo_del_abra.png
+  description: Red burgee with a crown and a white upper hoist bearing a red star.
   last-update: 2026-11-09
   last-validated: 2026-11-07
 - club:
@@ -19055,7 +19143,9 @@
   phone: "08 - 556 166 80"
   focus: [racing]
   boat-types: [sail, dinghy]
-  last-update: 2026-11-08
+  burgee: kungliga_svenska_segel_sallskapet.png
+  description: White swallowtail burgee edged in blue with a crown and the letters S S S.
+  last-update: 2026-11-09
   last-validated: 2026-11-07
 - club:
   name: Göteborgs Kungliga Segel Sällskap
@@ -19105,6 +19195,8 @@
   focus: [racing, cruising, social]
   guest-moorings: "Visitor berthing at £3.30 per metre per night."
   boat-types: [sail, keelboat]
+  burgee: royal_forth_yc.png
+  description: Navy burgee with a crown above a gold cross.
   last-update: 2026-11-09
   last-validated: 2026-11-07
 - club:
@@ -19155,6 +19247,8 @@
   focus: [racing, cruising, social]
   guest-moorings: "Visitors may occasionally be given a berth alongside the mid-river pontoon."
   boat-types: [sail, paddle]
+  burgee: royal_southampton_yc.png
+  description: Navy burgee with a crown above a shield with red roses.
   last-update: 2026-11-09
   last-validated: 2026-11-07
 - club:
@@ -19203,7 +19297,9 @@
   phone: "(54-11) 4732-7000"
   focus: [racing, youth]
   boat-types: [dinghy]
-  last-update: 2026-11-08
+  burgee: club_nautico_san_isidro.png
+  description: Blue burgee with a red diagonal band and a gold star.
+  last-update: 2026-11-09
   last-validated: 2026-11-07
 - club:
   name: Nassau Yacht Club
@@ -19232,7 +19328,9 @@
   coordinates: [-23.96, -46.32]
   phone: "1131554400"
   focus: [racing]
-  last-update: 2026-11-08
+  burgee: iate_clube_de_santos.png
+  description: Navy burgee edged in yellow with a yellow seahorse.
+  last-update: 2026-11-09
   last-validated: 2026-11-07
 - club:
   name: Salinas Yacht Club
@@ -19243,7 +19341,9 @@
   founded: unknown
   website: https://salinasyachtclub.com/
   coordinates: [-2.26, -80.92]
-  last-update: 2026-11-06
+  burgee: salinas_yc.png
+  description: Navy burgee with a gold center stripe.
+  last-update: 2026-11-09
   last-validated: 2026-11-07
 - club:
   name: Yacht Club de Cannes
@@ -19258,6 +19358,8 @@
   email: "info@yachtclubdecannes.com"
   focus: [racing, instruction, youth, social]
   boat-types: [sail, dinghy, windsurf]
+  burgee: yc_de_cannes.png
+  description: Blue, white and red burgee with a blue star.
   last-update: 2026-11-09
   last-validated: 2026-11-07
 - club:
@@ -19285,6 +19387,8 @@
   coordinates: [41.03, 9.55]
   address: "Piazza Yacht Club Porto Rotondo, 1 - 07026 Porto Rotondo"
   email: "info@ycpr.it"
+  burgee: yc_porto_rotondo.png
+  description: White burgee with a red cross and a crest at the crossing.
   last-update: 2026-11-09
   last-validated: 2026-11-07
 - club:
@@ -19329,6 +19433,8 @@
   email: "info@byc.de"
   focus: [racing, instruction, youth]
   boat-types: [sail, dinghy, keelboat]
+  burgee: bayerischer_yacht_club.png
+  description: Burgee with a black hoist bearing a gold lion and a field of blue and white lozenges.
   last-update: 2026-11-09
   last-validated: 2026-11-07
 - club:
@@ -19378,6 +19484,8 @@
   email: "mail@rys.org.uk"
   focus: [racing, cruising, social]
   boat-types: [sail]
+  burgee: royal_yacht_squadron.png
+  description: White burgee with a red cross and a crown at the crossing.
   last-update: 2026-11-09
   last-validated: 2026-11-07
 - club:
@@ -19502,6 +19610,8 @@
   focus: [racing, social]
   guest-moorings: "Marina and mooring assignment for visitors; call the Dockmaster on VHF 68."
   boat-types: [sail, power]
+  burgee: armdale_yc.png
+  description: Light blue burgee with a yellow hoist bearing a blue anchor.
   last-update: 2026-11-09
   last-validated: 2026-11-07
 - club:
@@ -19517,7 +19627,9 @@
   phone: "(512) 266-1336"
   focus: [racing, cruising, instruction, youth, social]
   boat-types: [sail, power, dinghy, multihull]
-  last-update: 2026-11-08
+  burgee: austin_yc.png
+  description: Navy burgee with an orange letter A and a white bird.
+  last-update: 2026-11-09
   last-validated: 2026-11-07
 - club:
   name: Balmain Sailing Club
@@ -19532,6 +19644,8 @@
   email: "info@balmainsailingclub.com"
   focus: [racing, instruction, social]
   boat-types: [sail, dinghy, keelboat]
+  burgee: balmain_sc.png
+  description: Black burgee with a yellow cross.
   last-update: 2026-11-09
   last-validated: 2026-11-07
 - club:
@@ -19707,6 +19821,8 @@
   email: "secretary@bhyc.on.ca"
   focus: [racing, cruising, instruction, youth, social]
   boat-types: [sail, power, paddle]
+  burgee: bronte_harbour_yc.png
+  description: Blue burgee with white diagonal stripes.
   last-update: 2026-11-09
   last-validated: 2026-11-07
 - club:
@@ -19737,7 +19853,9 @@
   ownership: non-profit
   focus: [racing, cruising, instruction, youth, social]
   boat-types: [sail, dinghy, keelboat]
-  last-update: 2026-11-08
+  burgee: buffalo_yc.png
+  description: Navy burgee with a white star.
+  last-update: 2026-11-09
   last-validated: 2026-11-07
 - club:
   name: Burgenländischer Yacht-Club
@@ -20073,7 +20191,9 @@
   phone: "(410) 267-9549"
   focus: [racing, cruising, instruction, youth, social]
   boat-types: [sail, power, dinghy, keelboat, paddle]
-  last-update: 2026-11-08
+  burgee: eastport_yc.png
+  description: White burgee edged in red.
+  last-update: 2026-11-09
   last-validated: 2026-11-07
 - club:
   name: Edgewater Yacht Club
@@ -20087,6 +20207,8 @@
   address: "6700 Cleveland Memorial Shoreway, Cleveland, Ohio 44102"
   phone: "(216) 281-6470"
   vhf: "9"
+  burgee: edgewater_yc.png
+  description: Blue and red burgee with a white hoist bearing a blue crescent and star.
   last-update: 2026-11-09
   last-validated: 2026-11-07
 - club:
@@ -20119,6 +20241,8 @@
   email: "gm@fwbc.com"
   focus: [racing, instruction, youth, social]
   boat-types: [sail, power, dinghy, keelboat]
+  burgee: fort_worth_boat_club.png
+  description: White burgee edged in navy with a red longhorn head.
   last-update: 2026-11-09
   last-validated: 2026-11-07
 - club:
@@ -20240,7 +20364,9 @@
   phone: "+49 40 2802400"
   focus: [racing, youth, social]
   boat-types: [sail]
-  last-update: 2026-11-08
+  burgee: hamburger_segel_club.png
+  description: White burgee with a red cross edged in black and a black disc at the crossing.
+  last-update: 2026-11-09
   last-validated: 2026-11-07
 - club:
   name: Hampton Yacht Club
@@ -20439,7 +20565,9 @@
   coordinates: [34.19, -83.93]
   address: "6206 Commodore Drive Flowery Branch, Georgia 30542"
   boat-types: [sail]
-  last-update: 2026-11-08
+  burgee: lake_lanier_sc.png
+  description: Red burgee with a white border and lettering.
+  last-update: 2026-11-09
   last-validated: 2026-11-07
 - club:
   name: Lake Shore Yacht Club
@@ -20528,7 +20656,9 @@
   address: "Buller St, East Looe, Cornwall, PL13 1AS"
   focus: [racing, instruction, youth]
   boat-types: [sail, dinghy]
-  last-update: 2026-11-08
+  burgee: looe_sc.png
+  description: Red and yellow diagonal striped burgee with a black ship.
+  last-update: 2026-11-09
   last-validated: 2026-11-07
 - club:
   name: Lower Mainland Yacht Cooperative
@@ -20831,7 +20961,9 @@
   phone: "(850) 433-8804"
   focus: [racing, cruising, youth, social]
   boat-types: [sail, power, dinghy]
-  last-update: 2026-11-08
+  burgee: pensacola_yc.png
+  description: White burgee edged in navy with the letters P Y C.
+  last-update: 2026-11-09
   last-validated: 2026-11-07
 - club:
   name: Pointe-Claire Yacht Club
@@ -20971,7 +21103,9 @@
   coordinates: [45.45, -73.75]
   address: "chemin Bord-du-Lac, Dorval, (Québec) H9S 2E3"
   phone: "(514) 631-2720"
-  last-update: 2026-11-07
+  burgee: royal_st_lawrence_yc.png
+  description: Navy and red burgee with a crown on a white saltire at the hoist.
+  last-update: 2026-11-09
   last-validated: 2026-11-07
 - club:
   name: Rush Creek Yacht Club
@@ -21068,6 +21202,8 @@
   focus: [racing, instruction, youth, social]
   guest-moorings: "Many visitor moorings for members of other clubs, bookable in advance; closed until 30 April 2027."
   boat-types: [sail, power, dinghy]
+  burgee: sea_view_yc.png
+  description: White burgee edged in dark red with a black quatrefoil.
   last-update: 2026-11-09
   last-validated: 2026-11-07
 - club:
@@ -21178,6 +21314,8 @@
   email: "office@sasc.com.au"
   focus: [racing, cruising, social]
   boat-types: [sail, keelboat]
+  burgee: sydney_amateur_sc.png
+  description: White burgee with a navy cross.
   last-update: 2026-11-09
   last-validated: 2026-11-07
 - club:
@@ -21361,6 +21499,8 @@
   phone: "(530) 539-4471"
   email: "whiskeytownsailing@gmail.com"
   boat-types: [sail]
+  burgee: whiskeytown_sc.png
+  description: Blue burgee with a moonshine jug and the letters W S C.
   last-update: 2026-11-09
   last-validated: 2026-11-07
 - club:
@@ -21374,7 +21514,9 @@
   coordinates: [45.52, -122.67]
   address: "6336 S Beaver Ave, Portland, OR 97239"
   boat-types: [sail]
-  last-update: 2026-11-08
+  burgee: willamette_sc.png
+  description: Red burgee with a white letter W in a circle.
+  last-update: 2026-11-09
   last-validated: 2026-11-07
 - club:
   name: Windycrest Sailing Club
@@ -21387,7 +21529,9 @@
   coordinates: [36.16, -95.99]
   focus: [racing, cruising, instruction, youth, social]
   boat-types: [sail, dinghy, keelboat]
-  last-update: 2026-11-08
+  burgee: windycrest_sc.png
+  description: Red and yellow burgee with a red device.
+  last-update: 2026-11-09
   last-validated: 2026-11-07
 - club:
   name: Yacht-Club Lister
@@ -21451,6 +21595,8 @@
   email: "office@shyc.je"
   focus: [racing, cruising, instruction, social]
   boat-types: [sail]
+  burgee: st_helier_yc.png
+  description: White burgee with a red saltire and crossed keys on a navy shield.
   last-update: 2026-11-09
   last-validated: 2026-11-07
 - club:
@@ -21532,6 +21678,8 @@
   focus: [racing, cruising, youth, social]
   guest-moorings: "Guest docks with Dockmaster approval; no transient slips during a major repair project."
   boat-types: [sail, keelboat, multihull]
+  burgee: davis_island_yc.png
+  description: Narrow blue and red burgee.
   last-update: 2026-11-09
   last-validated: 2026-11-07
 - club:
@@ -21669,7 +21817,9 @@
   phone: "(905) 894-2750"
   focus: [racing, instruction, social]
   boat-types: [sail, dinghy, keelboat, paddle]
-  last-update: 2026-11-08
+  burgee: buffalo_canoe_club.png
+  description: Blue burgee with a white chevron.
+  last-update: 2026-11-09
   last-validated: 2026-11-07
 - club:
   name: Royal Hamilton Yacht Club
@@ -21702,6 +21852,8 @@
   focus: [racing, cruising, instruction, youth, social]
   guest-moorings: "Visitor dock for reciprocal clubs, first-come, first-served; room for about 5 boats."
   boat-types: [sail, power, keelboat]
+  burgee: bay_of_quinte_yc.png
+  description: Red burgee with a white letter Q.
   last-update: 2026-11-09
   last-validated: 2026-11-07
 - club:
@@ -21921,6 +22073,8 @@
   coordinates: [-34.91, -56.19]
   phone: "+598 91 062 873"
   email: "info@ycu.org.uy"
+  burgee: yc_uruguayo.png
+  description: Blue and white striped burgee with a red anchor emblem.
   last-update: 2026-11-09
   last-validated: 2026-11-07
 - club:
@@ -21933,7 +22087,9 @@
   website: https://www.higuerillas.cl/
   coordinates: [-32.92, -71.52]
   phone: "+56322816831"
-  last-update: 2026-11-07
+  burgee: club_de_yates_higuerillas.png
+  description: Yellow burgee with a white compass star on a navy disc.
+  last-update: 2026-11-09
   last-validated: 2026-11-07
 - club:
   name: Cofradía Náutica del Pacífico
@@ -21949,6 +22105,8 @@
   email: "contacto@cofradianautica.cl"
   focus: [racing, youth, social]
   boat-types: [dinghy]
+  burgee: cofradia_nautica_del_pacifico.png
+  description: Blue burgee with three gold crowns.
   last-update: 2026-11-09
   last-validated: 2026-11-07
 - club:
@@ -21990,7 +22148,9 @@
   phone: "+55 81 3436-2626"
   focus: [youth, social]
   boat-types: [dinghy, multihull]
-  last-update: 2026-11-08
+  burgee: cabanga_iate_clube.png
+  description: Light blue burgee with a dark blue hoist and a white sailboat.
+  last-update: 2026-11-09
   last-validated: 2026-11-07
 - club:
   name: Aberdeen Marina Club
@@ -22101,7 +22261,9 @@
   phone: "39622934"
   focus: [youth]
   boat-types: [dinghy, keelboat, windsurf]
-  last-update: 2026-11-08
+  burgee: hellerup_sejlklub.png
+  description: White burgee with a red saltire.
+  last-update: 2026-11-09
   last-validated: 2026-11-07
 - club:
   name: Kjøbenhavns Amatør-Sejlklub
@@ -22130,6 +22292,8 @@
   phone: "+45 2621 1498"
   email: "mail@aarhussejlklub.dk"
   boat-types: [sail, keelboat]
+  burgee: aarhus_sejlklub.png
+  description: White burgee with a green anchor inside a gray ring.
   last-update: 2026-11-09
   last-validated: 2026-11-07
 - club:
@@ -22145,6 +22309,8 @@
   phone: "40 21 61 05"
   email: "mail@skovshovedsejlklub.dk"
   boat-types: [keelboat, multihull]
+  burgee: skovshoved_sejlklub.png
+  description: White burgee with a red forked device and a yellow star.
   last-update: 2026-11-09
   last-validated: 2026-11-07
 - club:
@@ -22160,7 +22326,9 @@
   phone: "035-5823363"
   focus: [youth]
   boat-types: [dinghy]
-  last-update: 2026-11-08
+  burgee: koninklijke_watersport_vereeniging_loosdrecht.png
+  description: Green and yellow burgee with a green crown.
+  last-update: 2026-11-09
   last-validated: 2026-11-07
 - club:
   name: Royal Belgian Sailing Club
@@ -22175,6 +22343,8 @@
   phone: "+32 50 54 49 03"
   email: "info@rbsc.be"
   boat-types: [sail, multihull, paddle]
+  burgee: royal_belgian_sc.png
+  description: Black and white burgee with a crown at the center.
   last-update: 2026-11-09
   last-validated: 2026-11-07
 - club:
@@ -22297,6 +22467,8 @@
   phone: "+34986447441"
   email: "info@rcnauticovigo.com"
   focus: [racing, social]
+  burgee: real_club_nautico_de_vigo.png
+  description: White and navy burgee with a red cross of St James and a red and white hoist.
   last-update: 2026-11-09
   last-validated: 2026-11-07
 - club:
@@ -22413,6 +22585,8 @@
   email: "secretary@royalanglesey.org.uk"
   focus: [racing, instruction, youth, social]
   boat-types: [sail, power, rowing]
+  burgee: royal_anglesey_yc.png
+  description: Navy burgee with a red dragon.
   last-update: 2026-11-09
   last-validated: 2026-11-07
 - club:
@@ -22443,7 +22617,9 @@
   focus: [racing, social]
   guest-moorings: "Watchkeeper directs visiting craft to a berth; registration form required."
   boat-types: [sail]
-  last-update: 2026-11-08
+  burgee: royal_yorkshire_yc.png
+  description: Navy burgee with a crown above a white rose.
+  last-update: 2026-11-09
   last-validated: 2026-11-07
 - club:
   name: Royal Cinque Ports Yacht Club
@@ -22526,7 +22702,9 @@
   phone: "01983 872237"
   focus: [racing, cruising, instruction, social]
   boat-types: [sail, power, keelboat]
-  last-update: 2026-11-08
+  burgee: bembridge_sc.png
+  description: White burgee edged in blue with a red outline of the Isle of Wight.
+  last-update: 2026-11-09
   last-validated: 2026-11-07
 - club:
   name: Hamble River Sailing Club
@@ -22559,6 +22737,8 @@
   focus: [racing, cruising, instruction, youth, social]
   guest-moorings: "Deep-water visitor moorings and a visitors' pontoon nearby, from the Harbour Master."
   boat-types: [sail, power, dinghy, keelboat, rowing, paddle]
+  burgee: itchenor_sc.png
+  description: Navy burgee with a white center bearing a shield.
   last-update: 2026-11-09
   last-validated: 2026-11-07
 - club:
@@ -22590,7 +22770,9 @@
   phone: "020 7236 7729"
   focus: [cruising, social]
   boat-types: [sail, power]
-  last-update: 2026-11-08
+  burgee: little_ship_club.png
+  description: Light blue over navy burgee with a white triangle.
+  last-update: 2026-11-09
   last-validated: 2026-11-07
 - club:
   name: Royal Cruising Club
@@ -22604,7 +22786,9 @@
   address: "Wellingborough, Northants, NN8 6BW"
   focus: [cruising]
   boat-types: [sail]
-  last-update: 2026-11-08
+  burgee: royal_cruising_club.png
+  description: White and red burgee with a crown on a blue square.
+  last-update: 2026-11-09
   last-validated: 2026-11-07
 - club:
   name: Tamesis Club
@@ -22649,7 +22833,9 @@
   address: "Lower Upnor, Rochester, Kent, ME2 4XB"
   focus: [racing, cruising, instruction, youth, social]
   boat-types: [sail]
-  last-update: 2026-11-08
+  burgee: medway_yc.png
+  description: Red burgee with a white horse.
+  last-update: 2026-11-09
   last-validated: 2026-11-07
 - club:
   name: Burnham Sailing Club
@@ -22933,6 +23119,8 @@
   phone: "083 295 5805"
   email: "admin@tyc.co.za"
   boat-types: [sail, power]
+  burgee: transvaal_yc.png
+  description: Purple, green and orange burgee with a white diamond.
   last-update: 2026-11-09
   last-validated: 2026-11-07
 - club:
@@ -23047,6 +23235,8 @@
   email: "info@jk-split.hr"
   focus: [racing, youth]
   boat-types: [dinghy]
+  burgee: jedrilicarski_klub_split.png
+  description: Navy burgee with a white horizontal wedge.
   last-update: 2026-11-09
   last-validated: 2026-11-07
 - club:
@@ -23220,6 +23410,8 @@
   email: "info@cnlosnietos.com"
   vhf: "9"
   focus: [racing, instruction]
+  burgee: club_nautico_los_nietos.png
+  description: Green and white burgee with the letters C N N.
   last-update: 2026-11-09
   last-validated: 2026-11-07
 - club:
@@ -23306,6 +23498,8 @@
   email: "info@clubmaritimomahon.com"
   vhf: "9"
   focus: [racing]
+  burgee: club_maritimo_de_mahon.png
+  description: Yellow burgee with a blue cross and an emblem at the crossing.
   last-update: 2026-11-09
   last-validated: 2026-11-07
 - club:
@@ -23826,6 +24020,8 @@
   address: "Roeckstraße 54, 23568 Lübeck"
   email: "lyc@lyc.de"
   focus: [youth]
+  burgee: lubecker_yacht_club.png
+  description: White burgee with red and black chevrons.
   last-update: 2026-11-09
   last-validated: 2026-11-07
 - club:
@@ -23850,7 +24046,9 @@
   founded: unknown
   website: http://www.ryco.be/
   coordinates: [51.23, 2.92]
-  last-update: 2026-11-06
+  burgee: royal_yc_oostende.png
+  description: Yellow burgee with a red center point bearing a gold crown.
+  last-update: 2026-11-09
   last-validated: 2026-11-07
 - club:
   name: WSKLuM
@@ -23881,6 +24079,8 @@
   email: "info@rnsyc.be"
   focus: [racing]
   boat-types: [sail, multihull]
+  burgee: royal_north_sea_yc.png
+  description: White burgee with a red cross edged in yellow and black and a crown in the upper hoist.
   last-update: 2026-11-09
   last-validated: 2026-11-07
 - club:
@@ -23921,7 +24121,9 @@
   website: https://clubregatascartagena.es/
   coordinates: [37.62, -0.99]
   focus: [racing]
-  last-update: 2026-11-08
+  burgee: real_club_de_regatas_de_cartagena.png
+  description: Red burgee with a white cross and a black monogram.
+  last-update: 2026-11-09
   last-validated: 2026-11-07
 - club:
   name: Reial Club Nàutic Portopetro
@@ -24327,7 +24529,9 @@
   phone: "07952 157316"
   focus: [racing]
   boat-types: [sail, dinghy]
-  last-update: 2026-11-08
+  burgee: restronguet_sc.png
+  description: Navy burgee with a white scallop shell.
+  last-update: 2026-11-09
   last-validated: 2026-11-07
 - club:
   name: North Haven Yacht Club
@@ -24388,6 +24592,8 @@
   phone: "01752 845988"
   email: "enquiries@saltashsailingclub.co.uk"
   boat-types: [sail]
+  burgee: saltash_sc.png
+  description: Red burgee with a crowned white shield.
   last-update: 2026-11-09
   last-validated: 2026-11-07
 - club:
@@ -24477,6 +24683,8 @@
   focus: [instruction]
   guest-moorings: "Five mooring buoys around the islands for visiting yachts."
   boat-types: [sail]
+  burgee: orkney_sc.png
+  description: Blue burgee with a white saltire and a white ring at the center.
   last-update: 2026-11-09
   last-validated: 2026-11-07
 - club:
@@ -24853,6 +25061,8 @@
   email: "info@wmyc.org.uk"
   focus: [racing, cruising, instruction, social]
   boat-types: [sail, keelboat]
+  burgee: west_mersea_yc.png
+  description: White and red burgee with a blue shield.
   last-update: 2026-11-09
   last-validated: 2026-11-07
 - club:
@@ -24947,6 +25157,8 @@
   phone: "+34 637478128"
   email: "info@clubregatasmarmenor.com"
   focus: [racing]
+  burgee: club_de_regatas_mar_menor.png
+  description: Red burgee with a white cross.
   last-update: 2026-11-09
   last-validated: 2026-11-07
 - club:
@@ -25078,7 +25290,9 @@
   address: "Albert Pier, Penzance, Cornwall, TR18 2LL"
   focus: [racing, instruction]
   boat-types: [sail, dinghy]
-  last-update: 2026-11-08
+  burgee: penzance_sc.png
+  description: Black burgee with a white cross and a skull and crossbones.
+  last-update: 2026-11-09
   last-validated: 2026-11-07
 - club:
   name: Royal Port Pirie Yacht Club
@@ -25153,6 +25367,8 @@
   phone: "981 226 880"
   email: "secretaria@rcncoruna.com"
   focus: [racing]
+  burgee: real_club_nautico_de_la_coruna.png
+  description: Red burgee with a gold crown and a white canton bearing a blue diagonal.
   last-update: 2026-11-09
   last-validated: 2026-11-07
 - club:
@@ -25240,7 +25456,9 @@
   address: "Rua da Ponte, nº 2 – Apartado 24, 4490-523 Póvoa de Varzim"
   focus: [racing, youth]
   boat-types: [dinghy]
-  last-update: 2026-11-08
+  burgee: clube_naval_povoense.png
+  description: Red burgee with an emblem in the hoist.
+  last-update: 2026-11-09
   last-validated: 2026-11-07
 - club:
   name: Clube Naval da Nazaré
@@ -25401,6 +25619,8 @@
   email: "rycsailing418@gmail.com"
   focus: [racing]
   boat-types: [sail]
+  burgee: rio_yc.png
+  description: White burgee with a red cross.
   last-update: 2026-11-09
   last-validated: 2026-11-07
 - club:
@@ -25591,6 +25811,8 @@
   email: "secretariaat@klyc.be"
   focus: [youth]
   boat-types: [sail, dinghy, keelboat]
+  burgee: koninklijke_liberty_yc.png
+  description: Red and white burgee with a red star at the hoist.
   last-update: 2026-11-09
   last-validated: 2026-11-07
 - club:
@@ -25772,6 +25994,8 @@
   phone: "+55-21-2714-8252"
   email: "secretaria@icb.org.br"
   focus: [racing]
+  burgee: iate_clube_brasileiro.png
+  description: Red burgee with three white stars.
   last-update: 2026-11-09
   last-validated: 2026-11-07
 - club:
@@ -25846,6 +26070,8 @@
   ownership: non-profit
   focus: [racing, cruising, instruction, social]
   boat-types: [sail, power, keelboat, rowing]
+  burgee: greenwich_yc.png
+  description: Red burgee on a blue square with a trident on a navy shield.
   last-update: 2026-11-09
   last-validated: 2026-11-07
 - club:
@@ -26015,6 +26241,8 @@
   email: "tmsc1891@gmail.com"
   focus: [racing, instruction, social]
   boat-types: [sail]
+  burgee: torpoint_mosquito_sc.png
+  description: Navy and white burgee with a red diamond at the center.
   last-update: 2026-11-09
   last-validated: 2026-11-07
 - club:
@@ -26527,6 +26755,8 @@
   email: "office@stmawessailing.co.uk"
   focus: [racing, instruction, youth, social]
   boat-types: [sail, power, dinghy]
+  burgee: st_mawes_sc.png
+  description: Red and white quartered burgee with a black shield with gold discs.
   last-update: 2026-11-09
   last-validated: 2026-11-07
 - club:
@@ -26559,6 +26789,8 @@
   email: "brokey@brokey.is"
   guest-moorings: "Guest pontoons with power, water and showers, first-come, first-served, no reservations."
   boat-types: [sail]
+  burgee: brokey_yc.png
+  description: Red burgee with a white stylized sail.
   last-update: 2026-11-09
   last-validated: 2026-11-07
 - club:
@@ -26753,6 +26985,8 @@
   vhf: "77"
   focus: [racing, cruising, instruction, social]
   boat-types: [sail]
+  burgee: cercle_nautique_et_touristique_du_lacydon.png
+  description: Navy burgee with a light blue panel and the letters C N T L.
   last-update: 2026-11-09
   last-validated: 2026-11-07
 - club:
@@ -26931,6 +27165,8 @@
   vhf: "8"
   focus: [racing, youth, social]
   boat-types: [sail, dinghy]
+  burgee: club_nautico_de_san_juan.png
+  description: Blue burgee with a white hoist bearing a red anchor and the letters C N.
   last-update: 2026-11-09
   last-validated: 2026-11-07
 - club:
@@ -27002,7 +27238,9 @@
   phone: "971 74 50 76"
   focus: [racing, instruction, youth, social]
   boat-types: [windsurf]
-  last-update: 2026-11-08
+  burgee: club_maritimo_san_antonio_de_la_playa.png
+  description: Red and yellow striped burgee with a white ship's wheel on a blue hoist.
+  last-update: 2026-11-09
   last-validated: 2026-11-07
 - club:
   name: Club Náutico de Altea
@@ -27211,7 +27449,9 @@
   founded: 1867
   website: https://www.byc.hu/
   coordinates: [46.96, 17.89]
-  last-update: 2026-11-07
+  burgee: balatonfuredi_yc.png
+  description: Red burgee with a green cross edged in white and a crest at the crossing.
+  last-update: 2026-11-09
   last-validated: 2026-11-07
 - club:
   name: Jadralni klub Pirat Portorož
@@ -27422,6 +27662,8 @@
   email: "info@antiguayachtclub.com"
   focus: [racing, instruction, youth, social]
   boat-types: [sail, power, dinghy]
+  burgee: antigua_yc.png
+  description: Blue pennant with a yellow cannon above a yellow battlement.
   last-update: 2026-11-09
   last-validated: 2026-11-07
 - club:
@@ -27586,6 +27828,8 @@
   address: "PO Box 47, Tracy's Landing, MD 20779"
   email: "info@hbyc.org"
   boat-types: [power]
+  burgee: herring_bay_yc.png
+  description: White burgee edged in navy with a rose.
   last-update: 2026-11-09
   last-validated: 2026-11-08
 - club:
@@ -28021,7 +28265,9 @@
   website: https://thefloridayachtclub.org/
   coordinates: [30.33, -81.66]
   phone: "(904) 387-1653"
-  last-update: 2026-11-08
+  burgee: the_florida_yc.png
+  description: White burgee edged in red with a blue letter F.
+  last-update: 2026-11-09
   last-validated: 2026-11-08
 - club:
   name: Upper Keys Sailing Club
@@ -28034,6 +28280,8 @@
   coordinates: [25.09, -80.45]
   address: "100 Ocean Bay Drive, Key Largo, FL 33037"
   email: "info@upperkeyssailingclub.com"
+  burgee: upper_keys_sc.png
+  description: Red and blue burgee with a white sail.
   last-update: 2026-11-09
   last-validated: 2026-11-08
 - club:
@@ -28073,6 +28321,8 @@
   address: "1001 MacArthur Causeway, Miami, FL 33132"
   phone: "(305) 377-9877"
   email: "office@miamiyachtclub.com"
+  burgee: miami_yc.png
+  description: Orange and blue burgee with a white wave.
   last-update: 2026-11-09
   last-validated: 2026-11-08
 - club:
@@ -28156,6 +28406,8 @@
   coordinates: [43.82, 7.78]
   phone: "+39 0184503760"
   email: "segreteria@yachtclubsanremo.it"
+  burgee: yc_sanremo.png
+  description: Navy burgee with a white canton bearing a red cross and a gold monogram.
   last-update: 2026-11-09
   last-validated: 2026-11-08
 - club:
@@ -28170,6 +28422,8 @@
   address: "Località il Porto - 58043 Punta Ala"
   phone: "0039 0564 923232"
   email: "ycpa@ycpa.it"
+  burgee: yc_punta_ala.png
+  description: Navy burgee edged in yellow with a yellow stylized stroke.
   last-update: 2026-11-09
   last-validated: 2026-11-08
 - club:
@@ -28207,6 +28461,8 @@
   website: https://www.yachtclubportopiccolo.it/
   coordinates: [45.77, 13.64]
   email: "info@yachtclubportopiccolo.it"
+  burgee: yc_portopiccolo.png
+  description: Green, white and navy striped burgee with a gold monogram.
   last-update: 2026-11-09
   last-validated: 2026-11-08
 - club:
@@ -28234,6 +28490,8 @@
   address: "Lungolago Conca d'Oro, 12, 38069 Torbole"
   phone: "+39 0464 506240"
   email: "info@circolovelatorbole.com"
+  burgee: circolo_vela_torbole.png
+  description: Blue burgee with yellow diagonal stripes and a red ship's wheel in a white hoist.
   last-update: 2026-11-09
   last-validated: 2026-11-08
 - club:
@@ -28287,6 +28545,8 @@
   address: "Via Alessandro Bettoni, 23, 25084 Gargnano"
   phone: "0365 71433"
   email: "info@circolovelagargnano.it"
+  burgee: circolo_vela_gargnano.png
+  description: Blue burgee with a white diagonal stripe and the letters c v g.
   last-update: 2026-11-09
   last-validated: 2026-11-08
 - club:
@@ -28312,7 +28572,9 @@
   coordinates: [45.65, 13.78]
   address: "Viale Miramare 32 – 34135 Trieste"
   phone: "040 411664"
-  last-update: 2026-11-08
+  burgee: societa_velica_di_barcola_e_grignano.png
+  description: Red burgee with a white and black forked device.
+  last-update: 2026-11-09
   last-validated: 2026-11-08
 - club:
   name: Circolo Nautico Rapallo
@@ -28366,6 +28628,8 @@
   address: "Via Leoncavallo, 9, 48015 – Cervia"
   phone: "0544-974125"
   email: "info@circolonauticocervia.it"
+  burgee: circolo_nautico_cervia.png
+  description: Blue burgee with a yellow cross.
   last-update: 2026-11-09
   last-validated: 2026-11-08
 - club:
@@ -28512,6 +28776,8 @@
   coordinates: [32.69, -117.18]
   address: "1631 Strand Way, Coronado, CA 92118"
   phone: "(619) 435-1848"
+  burgee: coronado_yc.png
+  description: Navy burgee with a gold and red crown.
   last-update: 2026-11-09
   last-validated: 2026-11-09
 - club:
@@ -28634,6 +28900,8 @@
   address: "Via Colapesce 1, Palermo"
   phone: "+39 091 450182"
   email: "info@circolodellavela.it"
+  burgee: circolo_della_vela_sicilia.png
+  description: Blue burgee with a yellow cross and a gold triskelion.
   last-update: 2026-11-09
   last-validated: 2026-11-09
 - club:
@@ -28673,6 +28941,8 @@
   address: "4-16-1 Nishinomiyahama, Nishinomiya, Hyogo 662-0934"
   phone: "+81 798-26-0691"
   email: "office@kyc.or.jp"
+  burgee: kansai_yc.png
+  description: Red burgee with a blue center stripe bearing the letters K Y C.
   last-update: 2026-11-09
   last-validated: 2026-11-09
 - club:
@@ -28699,6 +28969,8 @@
   coordinates: [53.55, 10.0]
   address: "Schöne Aussicht 37, 22085 Hamburg"
   phone: "+49 40 55 77 99 50"
+  burgee: norddeutscher_regatta_verein.png
+  description: Red burgee with a black saltire edged in white.
   last-update: 2026-11-09
   last-validated: 2026-11-09
 - club:
@@ -28738,6 +29010,8 @@
   coordinates: [49.49, 0.11]
   address: "Quai Eric Tabarly, 76600 Le Havre"
   phone: "+33 2 35 42 41 21"
+  burgee: societe_des_regates_du_havre.png
+  description: Red and blue burgee with a white diamond bearing an anchor and the letters R H.
   last-update: 2026-11-09
   last-validated: 2026-11-09
 - club:
@@ -28751,6 +29025,8 @@
   coordinates: [-23.55, -46.63]
   address: "R. Edson Regis, 481 - Jardim Guarapiranga, São Paulo - SP, 04770-050"
   phone: "+55 11 5687-8847"
+  burgee: yc_santo_amaro.png
+  description: White burgee with red and black chevrons and a red cross in the hoist.
   last-update: 2026-11-09
   last-validated: 2026-11-09
 - club:
@@ -28879,5 +29155,68 @@
   phone: "+1 242 355 2024"
   email: "info@stanielcay.com"
   vhf: "16"
+  last-update: 2026-11-09
+  last-validated: 2026-11-09
+- club:
+  name: Yankee Cruising Club
+  uuid: 76233f93-0291-4503-8f02-ccd4f6b227bf
+  country: USA
+  founded: 1983
+  website: https://yankeecruisingclub.weebly.com/
+  focus: [cruising, social]
+  description: New England LGBTQ boat club with members and events from Maine to New York.
+  last-update: 2026-11-09
+  last-validated: 2026-11-09
+- club:
+  name: Barbary Coast Boating Club
+  uuid: 882f7f29-7ebd-4fd0-8578-1e1ed5d97af6
+  city: Alameda
+  state: California
+  country: USA
+  founded: 1982
+  website: https://bcbc.net/
+  coordinates: [37.77, -122.24]
+  focus: [social]
+  boat-types: [sail, power, dinghy]
+  description: Northern California LGBTQ+ boating club on San Francisco Bay and the Delta. Monthly dinner meetings are held at the Encinal Yacht Club. The burgee is blue and orange.
+  last-update: 2026-11-09
+  last-validated: 2026-11-09
+- club:
+  name: Horizon Yacht Club
+  uuid: cd2b980b-0868-4cf8-a530-7decbe2ed86b
+  state: California
+  country: USA
+  founded: 1978
+  website: https://horizonyc.org/
+  focus: [cruising]
+  boat-types: [sail, power]
+  description: Southern California LGBT boating club with members from Marina del Rey to San Diego Bay. All club activities take place on the water.
+  last-update: 2026-11-09
+  last-validated: 2026-11-09
+- club:
+  name: Olympic Yacht Club
+  uuid: 68cc6dbb-4ac5-4b1e-9464-a57b33d53f79
+  city: Seattle
+  state: Washington
+  country: USA
+  founded: 1979
+  website: https://www.oycnw.org/
+  coordinates: [47.61, -122.33]
+  address: "7001 Seaview Ave. NW, Suite 160, PMB 890, Seattle WA 98117"
+  focus: [cruising, social]
+  boat-types: [sail, power]
+  description: Puget Sound LGBTQ+ boating club.
+  last-update: 2026-11-09
+  last-validated: 2026-11-09
+- club:
+  name: WSV Pinxeel
+  uuid: edf66732-31c8-4a53-9e25-6f648eabe827
+  country: Netherlands
+  founded: unknown
+  website: https://www.pinxeel.nl/
+  email: "info@pinxeel.nl"
+  focus: [cruising, social]
+  boat-types: [sail, power]
+  description: Gay watersports association, most active around the Markermeer and IJsselmeer. Members fly the rainbow flag.
   last-update: 2026-11-09
   last-validated: 2026-11-09

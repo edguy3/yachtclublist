@@ -125,6 +125,9 @@
     .site-footer p { margin: 0; border-top: 1px solid var(--border); padding-top: 16px; }
     .footer-links { display: flex; flex-wrap: wrap; gap: 4px 20px; margin-top: 8px; }
     .footer-links a { color: var(--accent); padding-block: 4px; }
+    .footer-links .service-link { display: inline-flex; align-items: center; gap: 6px; }
+    .service-link img { border-radius: 4px; }
+    @media (min-width: 420px) { .footer-links .service-link { margin-left: auto; } }
     h1, h2, h3 { font-style: italic; font-weight: 500; }
     h1 { font-size: 30px; line-height: 1.2; margin: 0 0 8px; }
     .lede { color: var(--text-secondary); margin: 0 0 24px; }
@@ -162,6 +165,22 @@
       background: #ffffff; border-bottom: 1px solid var(--border);
     }
     .card-burgee img { width: 170px; height: 170px; object-fit: contain; display: block; }
+    .burgee-zoom { all: unset; cursor: zoom-in; display: block; border-radius: 8px; }
+    .burgee-zoom:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
+    .burgee-view {
+      width: 100vw; height: 100dvh; max-width: none; max-height: none; margin: 0; padding: 0; border: 0;
+      background: #ffffff; color: #1a1a1a; cursor: zoom-out;
+    }
+    .burgee-view[open] { display: flex; flex-direction: column; }
+    .burgee-view::backdrop { background: #ffffff; }
+    .burgee-view-bar { display: flex; align-items: center; gap: 12px; padding: 12px 16px; margin: 0; }
+    .burgee-view-bar h2 { flex: 1; min-width: 0; font-size: 20px; margin: 0; overflow-wrap: anywhere; }
+    .burgee-view-close {
+      font: inherit; font-size: 32px; line-height: 1; width: 48px; height: 48px; border-radius: 24px;
+      border: 1px solid #d0d7de; background: #ffffff; color: #1a1a1a; cursor: pointer; flex: none;
+    }
+    .burgee-view img { flex: 1; min-height: 0; width: 100%; object-fit: contain; padding: 0 16px; box-sizing: border-box; }
+    .burgee-view-desc { margin: 0 auto; padding: 12px 16px 20px; max-width: 70ch; text-align: center; color: #4a4a4a; font-size: 15px; }
     .card-burgee.is-empty { background: var(--surface-0); color: var(--text-muted); font-size: 14px; }
     .card-body { padding: 16px; }
     .card h2 { font-size: 19px; line-height: 1.25; margin: 0 0 12px; overflow-wrap: anywhere; }
@@ -278,11 +297,20 @@
     </ol>
     <form method="dialog"><button class="install-button">Close</button></form>
   </dialog>
+  <dialog class="burgee-view" id="burgee-view" aria-labelledby="burgee-view-heading">
+    <form method="dialog" class="burgee-view-bar">
+      <h2 id="burgee-view-heading"></h2>
+      <button class="burgee-view-close" aria-label="Close">&times;</button>
+    </form>
+    <img alt="">
+    <p class="burgee-view-desc"></p>
+  </dialog>
   <footer class="site-footer">
     <p>The MIT License covers the data and code. Burgee images and crests remain the property of their clubs.</p>
     <nav class="footer-links" aria-label="More">
-      <a href="mailto:worldyachtclubs@gmail.com?subject=Yacht%20club%20suggestion%20or%20correction&amp;body=Club%20name%3A%0ACity%20and%20country%3A%0AOfficial%20website%20or%20Facebook%20page%3A%0AWhat%20should%20be%20added%20or%20changed%3A%0A" title="Email worldyachtclubs@gmail.com">Suggest a Club</a>
+      <a href="mailto:worldyachtclubs@gmail.com?subject=Yacht%20club%20suggestion%20or%20correction&amp;body=Club%20name%3A%0ACity%20and%20country%3A%0AOfficial%20website%20or%20Facebook%20page%3A%0AWhat%20should%20be%20added%20or%20changed%3A%0A" title="Email worldyachtclubs@gmail.com">Corrections / Suggestions</a>
       <a class="source-link" href="https://github.com/edguy3/yachtclublist">GitHub Source Data</a>
+      <a class="service-link" href="https://neptunes-daughter.com"><img src="icons/icon-192.png" alt="" width="20" height="20">A Neptune's Daughter Service</a>
     </nav>
   </footer>
   <!-- js-yaml 4.1.0, MIT license -->
@@ -307,7 +335,16 @@
         return part ? part.length : 0;
       }
 
+      /* Small words a club's initials may skip: "Royal Yacht Club of Victoria" is RYCV or RYCOV. */
+      const NAME_LINKS = new Set(["of", "the", "and", "de", "del", "di", "du", "la", "le", "van", "der", "et", "y", "e"]);
+
       /* Town-level coordinates are stored with 2 decimals; points have up to 5. */
+      function initials(name) {
+        const first = (words) => words.map((word) => word[0]).join("");
+        const words = fold(name).split(" ").filter(Boolean);
+        return [first(words), first(words.filter((word) => !NAME_LINKS.has(word)))];
+      }
+
       function coordinatePrecision(coordinates) {
         if (!Array.isArray(coordinates) || coordinates.length !== 2) return "none";
         return Math.max(decimals(coordinates[0]), decimals(coordinates[1])) >= 3 ? "point" : "town";
@@ -341,6 +378,7 @@
           burgee: entry.burgee ? imagePath + entry.burgee : "",
           description: entry.description || "",
           searchName: fold(entry.name),
+          searchInitials: initials(entry.name),
         };
       }
 
@@ -681,19 +719,31 @@
         return node;
       }
 
+      /* "R.Y.C." means the same as "RYC". */
+      const undotted = (query) => (/^(\p{L}\.)+\p{L}?$/u.test(query) ? query.replace(/\./g, "") : query);
+
       function terms(query) {
-        return ClubData.fold(query.replace(/\byc\b/gi, "yacht club").replace(/\bsc\b/gi, "sailing club"))
+        return ClubData.fold(undotted(query).replace(/\byc\b/gi, "yacht club").replace(/\bsc\b/gi, "sailing club"))
           .split(" ").filter(Boolean);
       }
 
-      /* Lower is better: name starts with the query, then a word does, then anywhere. */
-      function rank(club, words) {
+      /* "RYC" or "R.Y.C." becomes "ryc". Three letters at least, so "YC" keeps its own meaning. */
+      function initialsQuery(query) {
+        const letters = undotted(query);
+        return /^[\p{L}\p{N}]{3,}$/u.test(letters) ? ClubData.fold(letters) : "";
+      }
+
+      /* Lower is better: name starts with the query, then a word does, then the club's
+         initials, then anywhere. */
+      function rank(club, words, abbreviation) {
         const name = club.searchName;
         const parts = name.split(" ");
-        if (!words.every((word) => name.includes(word))) return -1;
+        const byInitials = Boolean(abbreviation) && club.searchInitials.includes(abbreviation);
+        if (!words.every((word) => name.includes(word))) return byInitials ? 1.5 : -1;
         const phrase = words.join(" ");
         if (name.startsWith(phrase)) return 0;
         if (name.includes(" " + phrase)) return 1;
+        if (byInitials) return 1.5;
         if (words.every((word) => parts.some((part) => part.startsWith(word)))) return 2;
         return 3;
       }
@@ -701,8 +751,9 @@
       function nameMatches(query) {
         const words = terms(query);
         if (!words.length) return [];
+        const abbreviation = initialsQuery(query);
         return clubs
-          .map((club) => ({ club, score: rank(club, words) }))
+          .map((club) => ({ club, score: rank(club, words, abbreviation) }))
           .filter((match) => match.score >= 0)
           .sort((a, b) => a.score - b.score || a.club.name.length - b.club.name.length ||
             a.club.name.localeCompare(b.club.name))
@@ -874,9 +925,25 @@
           panel.classList.add("is-empty");
           panel.textContent = "Burgee image missing";
         });
-        panel.append(image);
+        const zoom = el("button", "burgee-zoom");
+        zoom.type = "button";
+        zoom.setAttribute("aria-label", "Show the " + club.name + " burgee full screen");
+        zoom.addEventListener("click", () => showBurgee(club));
+        zoom.append(image);
+        panel.append(zoom);
         return panel;
       }
+
+      function showBurgee(club) {
+        const view = document.getElementById("burgee-view");
+        const image = view.querySelector("img");
+        image.src = club.burgee;
+        image.alt = club.description || "Burgee of " + club.name;
+        view.querySelector("h2").textContent = club.name;
+        view.querySelector(".burgee-view-desc").textContent = club.description || "";
+        view.showModal();
+      }
+      document.getElementById("burgee-view").addEventListener("click", (event) => event.currentTarget.close());
 
       function coordinatesFact(club) {
         if (!club.coordinates) return "Not known";
@@ -977,7 +1044,7 @@
       function render() {
         const query = input.value.trim();
         statsPanel.hidden = Boolean(query) || Boolean(userLocation);
-        activeTerms = burgeeTerms(query);
+        activeTerms = burgeeTerms(undotted(query));
         const byName = nameMatches(query);
         const named = new Set(byName);
         const found = byName.concat(burgeeMatches(activeTerms).filter((club) => !named.has(club)));

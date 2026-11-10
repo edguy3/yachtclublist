@@ -1,4 +1,6 @@
 
+include $(wildcard Makefile.*)
+
 help:
 	@echo "Available targets:"
 	@echo "  help - Show this help"
