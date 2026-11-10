@@ -29220,3 +29220,713 @@
   description: Gay watersports association, most active around the Markermeer and IJsselmeer. Members fly the rainbow flag.
   last-update: 2026-11-09
   last-validated: 2026-11-09
+- club:
+  name: Associação Naval de Lisboa
+  uuid: 03cad374-75b4-4d33-a72f-181c78cc6b12
+  city: Lisbon
+  state: Lisbon
+  country: Portugal
+  founded: 1856
+  website: https://anl.pt/
+  coordinates: [38.72, -9.14]
+  last-update: 2026-11-09
+  last-validated: 2026-11-09
+- club:
+  name: Clube Naval de Lisboa
+  uuid: 9477d3a3-1165-4a46-b52a-a7972bfcd57f
+  city: Lisbon
+  state: Lisbon
+  country: Portugal
+  founded: unknown
+  website: https://clubenavaldelisboa.pt/
+  coordinates: [38.72, -9.14]
+  phone: "+351 213 469 354"
+  email: "info@clubenavaldelisboa.pt"
+  last-update: 2026-11-09
+  last-validated: 2026-11-09
+- club:
+  name: Clube de Vela Atlântico
+  uuid: a3a370b0-0fa8-4463-8bff-9e0b44bd661d
+  city: Leça da Palmeira
+  state: Porto
+  country: Portugal
+  founded: unknown
+  website: https://clubevelaatlantico.pt/
+  coordinates: [41.19, -8.7]
+  last-update: 2026-11-09
+  last-validated: 2026-11-09
+- club:
+  name: Clube Naval Setubalense
+  uuid: 484f230f-148f-4d91-904c-e89244eb27d5
+  city: Setúbal
+  state: Setúbal
+  country: Portugal
+  founded: unknown
+  website: https://clubenavalsetubalense.pt/
+  coordinates: [38.52, -8.89]
+  phone: "+351 265 523 915"
+  email: "sede@clubenavalsetubalense.pt"
+  last-update: 2026-11-09
+  last-validated: 2026-11-09
+- club:
+  name: Clube de Vela do Sado
+  uuid: 0c528da8-5642-4e55-83ff-ded2ad3b50f6
+  city: Setúbal
+  state: Setúbal
+  country: Portugal
+  founded: unknown
+  website: https://cvsado.pt/
+  coordinates: [38.52, -8.89]
+  email: "cvsado@gmail.com"
+  last-update: 2026-11-09
+  last-validated: 2026-11-09
+- club:
+  name: Clube Naval de Sesimbra
+  uuid: be1a6100-8791-42fd-9e40-3b2129deb958
+  city: Sesimbra
+  state: Setúbal
+  country: Portugal
+  founded: 1930
+  website: https://www.naval-sesimbra.pt/
+  coordinates: [38.44, -9.1]
+  last-update: 2026-11-09
+  last-validated: 2026-11-09
+- club:
+  name: Clube de Vela de Lagos
+  uuid: 819dc28f-500d-4851-afdc-5a6075f4cd38
+  city: Lagos
+  state: Faro
+  country: Portugal
+  founded: unknown
+  website: https://www.cvlagos.com/
+  coordinates: [37.1, -8.67]
+  phone: "+351 282 762 256"
+  email: "clubevelalagos@gmail.com"
+  last-update: 2026-11-09
+  last-validated: 2026-11-09
+- club:
+  name: Yacht Club de Toulon
+  uuid: f72f2da6-c705-4e11-895d-8281863b5bb5
+  city: Toulon
+  state: Provence-Alpes-Côte d'Azur
+  country: France
+  founded: unknown
+  website: https://yctoulon.fr/
+  coordinates: [43.12, 5.93]
+  last-update: 2026-11-09
+  last-validated: 2026-11-09
+- club:
+  name: Cercle d'Organisation de Yachting de Compétition Hyérois
+  uuid: 445bb617-dc8e-460e-b24c-571dfaf51ca9
+  city: Hyères
+  state: Provence-Alpes-Côte d'Azur
+  country: France
+  founded: unknown
+  website: https://www.coych.org/
+  coordinates: [43.12, 6.13]
+  last-update: 2026-11-09
+  last-validated: 2026-11-09
+- club:
+  name: Société Nautique de Marseille
+  uuid: 22634150-ac75-475f-a055-61f9ed3109bc
+  city: Marseille
+  state: Provence-Alpes-Côte d'Azur
+  country: France
+  founded: 1887
+  website: https://www.lanautique.com/
+  coordinates: [43.3, 5.37]
+  last-update: 2026-11-09
+  last-validated: 2026-11-09
+- club:
+  name: Yacht Club de La Grande Motte
+  uuid: f03e8026-28d3-449f-ba73-cc9242449a97
+  city: La Grande-Motte
+  state: Occitanie
+  country: France
+  founded: unknown
+  website: https://www.ycgm.fr/
+  coordinates: [43.56, 4.08]
+  phone: "+33 4 67 56 19 10"
+  email: "ycgm@ycgm.fr"
+  last-update: 2026-11-09
+  last-validated: 2026-11-09
+- club:
+  name: Société des Régates de Douarnenez
+  uuid: 19fbe692-b00b-4a37-a726-c9dde27b5d0e
+  city: Douarnenez
+  state: Brittany
+  country: France
+  founded: 1883
+  website: https://www.srdouarnenez.com/
+  coordinates: [48.09, -4.33]
+  phone: "02 98 74 36 84"
+  email: "contact@srdouarnenez.com"
+  last-update: 2026-11-09
+  last-validated: 2026-11-09
+- club:
+  name: Yacht Club de Carnac
+  uuid: b61ae34f-824e-4609-9c7d-0de412b47655
+  city: Carnac
+  state: Brittany
+  country: France
+  founded: unknown
+  website: https://www.yccarnac.com/
+  coordinates: [47.58, -3.08]
+  phone: "02 97 52 10 98"
+  last-update: 2026-11-09
+  last-validated: 2026-11-09
+- club:
+  name: Yacht Club de Dinard
+  uuid: a20a33ef-59ff-44cc-909b-5dab84958aca
+  city: Dinard
+  state: Brittany
+  country: France
+  founded: 1928
+  website: https://yacht-club-dinard.fr/
+  coordinates: [48.63, -2.06]
+  last-update: 2026-11-09
+  last-validated: 2026-11-09
+- club:
+  name: Club Nautique de Nice
+  uuid: 70bc69d8-55b6-42f6-9d32-f7dade48c77d
+  city: Nice
+  state: Provence-Alpes-Côte d'Azur
+  country: France
+  founded: 1883
+  website: https://cnnice.fr/
+  coordinates: [43.7, 7.27]
+  phone: "04 93 89 39 78"
+  email: "info@cnnice.fr"
+  last-update: 2026-11-09
+  last-validated: 2026-11-09
+- club:
+  name: Société Nautique d'Ajaccio
+  uuid: cbef1dab-f169-4992-810a-6e65c4baa026
+  city: Ajaccio
+  state: Corsica
+  country: France
+  founded: 1867
+  website: https://snajaccio.fr/
+  coordinates: [41.92, 8.74]
+  last-update: 2026-11-09
+  last-validated: 2026-11-09
+- club:
+  name: Société des Régates d'Antibes
+  uuid: 289c89b4-dc93-4293-b1ac-46a150f8dc03
+  city: Antibes
+  state: Provence-Alpes-Côte d'Azur
+  country: France
+  founded: unknown
+  website: https://www.sr-antibes.fr/
+  coordinates: [43.58, 7.12]
+  last-update: 2026-11-09
+  last-validated: 2026-11-09
+- club:
+  name: Cercle de la Voile d'Arcachon
+  uuid: 767b6432-c3e7-4b9a-bff7-272bc78d5a02
+  city: Arcachon
+  state: Nouvelle-Aquitaine
+  country: France
+  founded: unknown
+  website: https://www.voile-arcachon.fr/
+  coordinates: [44.66, -1.17]
+  phone: "05 56 83 05 92"
+  email: "contact@voile-arcachon.org"
+  last-update: 2026-11-09
+  last-validated: 2026-11-09
+- club:
+  name: Cercle de la Voile de Paris
+  uuid: aa570c92-dde3-4631-8584-ce350df1bdfa
+  city: Les Mureaux
+  state: Île-de-France
+  country: France
+  founded: 1858
+  website: https://cercledelavoiledeparis.fr/
+  coordinates: [48.99, 1.91]
+  phone: "01 34 74 04 80"
+  email: "contact@cercledelavoiledeparis.fr"
+  last-update: 2026-11-09
+  last-validated: 2026-11-09
+- club:
+  name: Société des Régates à Voile d'Annecy
+  uuid: b3fe5f62-2d9c-420b-a5ff-26900b57b6a1
+  city: Annecy
+  state: Auvergne-Rhône-Alpes
+  country: France
+  founded: 1954
+  website: https://www.srva.info/
+  coordinates: [45.9, 6.13]
+  email: "srva@srva.info"
+  last-update: 2026-11-09
+  last-validated: 2026-11-09
+- club:
+  name: La Rochelle Nautique
+  uuid: 28ff5dea-4356-40f4-bfcf-0097e2f93e41
+  city: La Rochelle
+  state: Nouvelle-Aquitaine
+  country: France
+  founded: 2021
+  website: https://www.larochellenautique.com/
+  coordinates: [46.16, -1.15]
+  phone: "05 46 44 49 20"
+  last-update: 2026-11-09
+  last-validated: 2026-11-09
+- club:
+  name: Cattewater Cruising Club
+  uuid: d5a64dca-71f0-48b0-a6ca-7783157d9b48
+  city: Plymouth
+  state: England
+  country: United Kingdom
+  founded: unknown
+  website: https://cattewatercruisingclub.org.uk/
+  coordinates: [50.37, -4.14]
+  last-update: 2026-11-09
+  last-validated: 2026-11-09
+- club:
+  name: Chelmarsh Sailing Club
+  uuid: 76fac91f-f480-4bae-86ad-983f5cb076e5
+  city: Highley
+  state: England
+  country: United Kingdom
+  founded: unknown
+  website: https://chelmarshsailing.org.uk/
+  coordinates: [52.46, -2.41]
+  last-update: 2026-11-09
+  last-validated: 2026-11-09
+- club:
+  name: Coldham Hall Sailing Club
+  uuid: 6caa93b0-dfba-4c73-bcdc-bac009d3a735
+  city: Surlingham
+  state: England
+  country: United Kingdom
+  founded: unknown
+  website: https://coldhamhallsailingclub.co.uk/
+  coordinates: [52.6, 1.42]
+  last-update: 2026-11-09
+  last-validated: 2026-11-09
+- club:
+  name: Creeksea Sailing Club
+  uuid: df5285d5-02fc-4212-9c53-cc58f7bd5afa
+  city: Burnham-on-Crouch
+  state: England
+  country: United Kingdom
+  founded: unknown
+  website: https://creeksea.org.uk/
+  coordinates: [51.63, 0.81]
+  last-update: 2026-11-09
+  last-validated: 2026-11-09
+- club:
+  name: Fowey Gallants Sailing Club
+  uuid: b686662d-1a06-4aaa-bce1-4ae2e4127ba6
+  city: Fowey
+  state: England
+  country: United Kingdom
+  founded: unknown
+  website: https://www.foweygallantssc.co.uk/
+  coordinates: [50.33, -4.64]
+  last-update: 2026-11-09
+  last-validated: 2026-11-09
+- club:
+  name: Gravesend Sailing Club
+  uuid: 434c8085-8f7a-4b0f-9b72-9fbf8a688eb8
+  city: Gravesend
+  state: England
+  country: United Kingdom
+  founded: unknown
+  website: https://www.gravesendsailingclub.co.uk/
+  coordinates: [51.44, 0.37]
+  last-update: 2026-11-09
+  last-validated: 2026-11-09
+- club:
+  name: Hayling Island Sailing Club
+  uuid: a805b189-782a-4242-89fe-099895f7bab3
+  city: Hayling Island
+  state: England
+  country: United Kingdom
+  founded: unknown
+  website: https://hisc.co.uk/
+  coordinates: [50.78, -0.97]
+  last-update: 2026-11-09
+  last-validated: 2026-11-09
+- club:
+  name: Marchwood Yacht Club
+  uuid: d6991b30-98fc-470d-a431-19a07e0abc15
+  city: Marchwood
+  state: England
+  country: United Kingdom
+  founded: unknown
+  website: https://marchwoodyc.org.uk/
+  coordinates: [50.89, -1.44]
+  last-update: 2026-11-09
+  last-validated: 2026-11-09
+- club:
+  name: Mylor Yacht Club
+  uuid: dfc89c48-e7bf-4710-8e7e-382d18a7e8a4
+  city: Mylor
+  state: England
+  country: United Kingdom
+  founded: unknown
+  website: https://myloryachtclub.org.uk/
+  coordinates: [50.18, -5.05]
+  last-update: 2026-11-09
+  last-validated: 2026-11-09
+- club:
+  name: Norfolk Broads Yacht Club
+  uuid: e2d7e0bd-fefc-4ae9-b6b7-8a8b0607f346
+  city: Wroxham
+  state: England
+  country: United Kingdom
+  founded: unknown
+  website: https://nbyc.co.uk/
+  coordinates: [52.7, 1.4]
+  last-update: 2026-11-09
+  last-validated: 2026-11-09
+- club:
+  name: Pwllheli Sailing Club
+  uuid: 8a061552-1de1-4543-9029-b75397f882a7
+  city: Pwllheli
+  state: Wales
+  country: United Kingdom
+  founded: unknown
+  website: https://pwllhelisailingclub.co.uk/
+  coordinates: [52.89, -4.41]
+  last-update: 2026-11-09
+  last-validated: 2026-11-09
+- club:
+  name: Royal Corinthian Yacht Club
+  uuid: b5741bbc-dd21-4a82-8abb-ca99e3e292d6
+  city: Burnham-on-Crouch
+  state: England
+  country: United Kingdom
+  founded: unknown
+  website: https://www.royalcorinthian.co.uk/
+  coordinates: [51.63, 0.81]
+  last-update: 2026-11-09
+  last-validated: 2026-11-09
+- club:
+  name: Royal Welsh Yacht Club
+  uuid: bdaa9acc-cb4a-41ac-8be8-7a3f6d3aaa97
+  city: Caernarfon
+  state: Wales
+  country: United Kingdom
+  founded: unknown
+  website: https://www.royal-welsh.com/
+  coordinates: [53.14, -4.27]
+  last-update: 2026-11-09
+  last-validated: 2026-11-09
+- club:
+  name: Rutland Sailing Club
+  uuid: 63e1b533-2542-4402-9908-fe206bc4f758
+  city: Edith Weston
+  state: England
+  country: United Kingdom
+  founded: unknown
+  website: https://www.rutlandsailingclub.co.uk/
+  coordinates: [52.64, -0.63]
+  last-update: 2026-11-09
+  last-validated: 2026-11-09
+- club:
+  name: Strangford Lough Yacht Club
+  uuid: aec08116-ad7a-42c6-9fa9-50c952d575ca
+  city: Whiterock
+  state: Northern Ireland
+  country: United Kingdom
+  founded: unknown
+  website: https://slyc.co.uk/
+  coordinates: [54.48, -5.64]
+  last-update: 2026-11-09
+  last-validated: 2026-11-09
+- club:
+  name: Royal Gourock Yacht Club
+  uuid: b72fbf04-524f-4e0a-967e-e9f9a154de23
+  city: Gourock
+  state: Scotland
+  country: United Kingdom
+  founded: unknown
+  website: https://rgyc.org.uk/
+  coordinates: [55.96, -4.82]
+  last-update: 2026-11-09
+  last-validated: 2026-11-09
+- club:
+  name: Hill Head Sailing Club
+  uuid: 0422bacf-f2b8-4630-bf48-3053e16af3cb
+  city: Fareham
+  state: England
+  country: United Kingdom
+  founded: unknown
+  website: https://www.hillheadsc.org.uk/
+  coordinates: [50.82, -1.24]
+  last-update: 2026-11-09
+  last-validated: 2026-11-09
+- club:
+  name: Whitstable Yacht Club
+  uuid: 0f19a274-83b3-43fa-a3c9-575a1d413d44
+  city: Whitstable
+  state: England
+  country: United Kingdom
+  founded: unknown
+  website: https://www.wyc.org.uk/
+  coordinates: [51.36, 1.03]
+  last-update: 2026-11-09
+  last-validated: 2026-11-09
+- club:
+  name: Grafham Water Sailing Club
+  uuid: 66ab9c55-db9d-4d4a-97a0-7f4305c78316
+  city: Perry
+  state: England
+  country: United Kingdom
+  founded: unknown
+  website: https://www.grafham.org/
+  coordinates: [52.29, -0.33]
+  last-update: 2026-11-09
+  last-validated: 2026-11-09
+- club:
+  name: Bristol Corinthian Yacht Club
+  uuid: 3c40e4b5-3251-4517-8811-32e6d8434097
+  city: Axbridge
+  state: England
+  country: United Kingdom
+  founded: unknown
+  website: https://www.bcyc.org.uk/
+  coordinates: [51.28, -2.8]
+  last-update: 2026-11-09
+  last-validated: 2026-11-09
+- club:
+  name: Leigh & Lowton Sailing Club
+  uuid: a014a9d3-e08a-4c2f-8798-a0ef7c2604a1
+  city: Leigh
+  state: England
+  country: United Kingdom
+  founded: unknown
+  website: https://llsc.org.uk/
+  coordinates: [53.49, -2.54]
+  last-update: 2026-11-09
+  last-validated: 2026-11-09
+- club:
+  name: Chipstead Sailing Club
+  uuid: 36e182ae-6730-4b72-b082-9a82a83fcaa7
+  city: Sevenoaks
+  state: England
+  country: United Kingdom
+  founded: unknown
+  website: https://chipsteadsc.org.uk/
+  coordinates: [51.28, 0.16]
+  last-update: 2026-11-09
+  last-validated: 2026-11-09
+- club:
+  name: Royal Victoria Yacht Club
+  uuid: 449252a9-89dc-46f6-a10d-8e80cc317758
+  city: Fishbourne
+  state: England
+  country: United Kingdom
+  founded: unknown
+  website: https://www.rvyc.org.uk/
+  coordinates: [50.73, -1.21]
+  last-update: 2026-11-09
+  last-validated: 2026-11-09
+- club:
+  name: Lee on Solent Sailing Club
+  uuid: 89f1a814-eb50-4886-970b-ef3b7449fee5
+  city: Lee-on-the-Solent
+  state: England
+  country: United Kingdom
+  founded: unknown
+  website: https://www.lossc.org.uk/
+  coordinates: [50.8, -1.2]
+  last-update: 2026-11-09
+  last-validated: 2026-11-09
+- club:
+  name: Paignton Sailing Club
+  uuid: a03f6636-a74b-4595-887f-38b77ee93b89
+  city: Paignton
+  state: England
+  country: United Kingdom
+  founded: unknown
+  website: https://www.paigntonsailingclub.co.uk/
+  coordinates: [50.43, -3.56]
+  last-update: 2026-11-09
+  last-validated: 2026-11-09
+- club:
+  name: Barry Yacht Club
+  uuid: 93338128-a557-4673-8ab7-ef35bc020fd9
+  city: Barry
+  state: Wales
+  country: United Kingdom
+  founded: unknown
+  website: https://barryyachtclub.co.uk/
+  coordinates: [51.4, -3.27]
+  last-update: 2026-11-09
+  last-validated: 2026-11-09
+- club:
+  name: South Caernarvonshire Yacht Club
+  uuid: 0b96d8b3-f493-4cc8-9b3e-212ee1390991
+  city: Abersoch
+  state: Wales
+  country: United Kingdom
+  founded: unknown
+  website: https://www.scyc.co.uk/
+  coordinates: [52.82, -4.5]
+  last-update: 2026-11-09
+  last-validated: 2026-11-09
+- club:
+  name: Seglervereinigung Altona-Oevelgönne
+  uuid: 8bd4d32f-6292-4808-a21a-9e18ac288233
+  city: Hamburg
+  state: Hamburg
+  country: Germany
+  founded: unknown
+  website: https://www.svaoe.de/
+  coordinates: [53.55, 9.99]
+  phone: "040 881 14 40"
+  email: "info@svaoe.de"
+  last-update: 2026-11-09
+  last-validated: 2026-11-09
+- club:
+  name: Flensburger Segel-Club
+  uuid: 4271b487-d9d2-4751-b945-22ddb6df914d
+  city: Glücksburg
+  state: Schleswig-Holstein
+  country: Germany
+  founded: unknown
+  website: https://www.fsc.de/
+  coordinates: [54.83, 9.55]
+  last-update: 2026-11-09
+  last-validated: 2026-11-09
+- club:
+  name: Bodensee-Yacht-Club Überlingen
+  uuid: bcfd9da8-1563-444e-b9a6-531985ceb118
+  city: Überlingen
+  state: Baden-Württemberg
+  country: Germany
+  founded: unknown
+  website: https://www.bycue.club/
+  coordinates: [47.77, 9.16]
+  email: "bycue@bycue.de"
+  last-update: 2026-11-09
+  last-validated: 2026-11-09
+- club:
+  name: Hannoverscher Yacht-Club
+  uuid: bf9634f9-43dc-4f40-8b23-542649dccbae
+  city: Steinhude
+  state: Lower Saxony
+  country: Germany
+  founded: 1906
+  website: https://www.hyc.de/
+  coordinates: [52.45, 9.36]
+  email: "info@hyc.de"
+  last-update: 2026-11-09
+  last-validated: 2026-11-09
+- club:
+  name: Düsseldorfer Yachtclub
+  uuid: dfd52d2b-6f8a-4ac7-bb90-838a6c69782d
+  city: Düsseldorf
+  state: North Rhine-Westphalia
+  country: Germany
+  founded: 1908
+  website: https://www.dyc.de/
+  coordinates: [51.23, 6.78]
+  email: "info@dyc.de"
+  last-update: 2026-11-09
+  last-validated: 2026-11-09
+- club:
+  name: Münchner Yacht-Club
+  uuid: 1e156ba0-7c67-4bbc-bae9-59d45b2507c3
+  city: Starnberg
+  state: Bavaria
+  country: Germany
+  founded: unknown
+  website: https://www.myc.de/
+  coordinates: [48.0, 11.34]
+  email: "info@myc.de"
+  last-update: 2026-11-09
+  last-validated: 2026-11-09
+- club:
+  name: Yachtclub Berlin-Grünau
+  uuid: 7abfc2fb-8807-4517-98ff-9a289b6520c0
+  city: Berlin
+  state: Berlin
+  country: Germany
+  founded: unknown
+  website: https://www.ycbg.de/
+  coordinates: [52.42, 13.57]
+  last-update: 2026-11-09
+  last-validated: 2026-11-09
+- club:
+  name: Yachtclub Möhnesee
+  uuid: b983f2cd-d542-4a91-a4aa-d507f30e3bcc
+  city: Möhnesee
+  state: North Rhine-Westphalia
+  country: Germany
+  founded: unknown
+  website: https://www.ycm.de/
+  coordinates: [51.49, 8.13]
+  last-update: 2026-11-09
+  last-validated: 2026-11-09
+- club:
+  name: Württembergischer Yacht-Club
+  uuid: bba5d531-c636-40dc-b054-d8cde4d942e4
+  city: Friedrichshafen
+  state: Baden-Württemberg
+  country: Germany
+  founded: unknown
+  website: https://www.wyc-fn.de/
+  coordinates: [47.65, 9.48]
+  last-update: 2026-11-09
+  last-validated: 2026-11-09
+- club:
+  name: Konstanzer Yacht Club
+  uuid: d9181f4b-2f0c-43cb-b922-8744eb00c621
+  city: Konstanz
+  state: Baden-Württemberg
+  country: Germany
+  founded: unknown
+  website: https://www.konstanzer-yacht-club.de/
+  coordinates: [47.66, 9.18]
+  last-update: 2026-11-09
+  last-validated: 2026-11-09
+- club:
+  name: Blankeneser Segel-Club
+  uuid: 079067f7-3eee-41c5-88b5-b0737f03af3e
+  city: Hamburg
+  state: Hamburg
+  country: Germany
+  founded: unknown
+  website: https://www.bsc-hamburg.de/
+  coordinates: [53.56, 9.8]
+  last-update: 2026-11-09
+  last-validated: 2026-11-09
+- club:
+  name: Segelclub Hansa Münster
+  uuid: 98a82247-33f2-4902-abd4-d2b31477ec6a
+  city: Münster
+  state: North Rhine-Westphalia
+  country: Germany
+  founded: unknown
+  website: https://www.segelclub-hansa.de/
+  coordinates: [51.96, 7.63]
+  last-update: 2026-11-09
+  last-validated: 2026-11-09
+- club:
+  name: Deutscher Touring Yacht-Club
+  uuid: 5394356f-0782-4709-a116-bdd16ee68475
+  city: Tutzing
+  state: Bavaria
+  country: Germany
+  founded: unknown
+  website: https://www.dtyc.de/
+  coordinates: [47.91, 11.28]
+  email: "info@dtyc.de"
+  last-update: 2026-11-09
+  last-validated: 2026-11-09
+- club:
+  name: Spandauer Yacht-Club
+  uuid: 767d6a3a-71c2-431d-85c7-b91920c1a8d8
+  city: Berlin
+  state: Berlin
+  country: Germany
+  founded: unknown
+  website: https://www.spyc.de/
+  coordinates: [52.53, 13.2]
+  email: "info@spyc.de"
+  last-update: 2026-11-09
+  last-validated: 2026-11-09
