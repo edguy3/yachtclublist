@@ -123,6 +123,7 @@
     .hero .lede { color: #ffffff; font-style: italic; font-size: 18px; margin: 0; }
     .site-footer { max-width: 1120px; margin: 0 auto; padding: 0 16px 32px; color: var(--text-muted); font-size: 14px; }
     .site-footer p { margin: 0; border-top: 1px solid var(--border); padding-top: 16px; }
+    .build-stamp { float: right; margin-left: 12px; font-variant-numeric: tabular-nums; }
     .footer-links { display: flex; flex-wrap: wrap; gap: 4px 20px; margin-top: 8px; }
     .footer-links a { color: var(--accent); padding-block: 4px; }
     .footer-links .service-link { display: inline-flex; align-items: center; gap: 6px; }
@@ -306,7 +307,7 @@
     <p class="burgee-view-desc"></p>
   </dialog>
   <footer class="site-footer">
-    <p>The MIT License covers the data and code. Burgee images and crests remain the property of their clubs.</p>
+    <p>The MIT License covers the data and code. Burgee images and crests remain the property of their clubs.<span class="build-stamp" id="build-stamp" hidden></span></p>
     <nav class="footer-links" aria-label="More">
       <a href="mailto:worldyachtclubs@gmail.com?subject=Yacht%20club%20suggestion%20or%20correction&amp;body=Club%20name%3A%0ACity%20and%20country%3A%0AOfficial%20website%20or%20Facebook%20page%3A%0AWhat%20should%20be%20added%20or%20changed%3A%0A" title="Email worldyachtclubs@gmail.com">Corrections / Suggestions</a>
       <a class="source-link" href="https://github.com/edguy3/yachtclublist">GitHub Source Data</a>
@@ -1110,6 +1111,23 @@
         nearButton.addEventListener("click", toggleLocation);
         render();
       }).catch((error) => ClubData.showLoadError(results.parentElement.querySelector("#count"), error));
+    })();
+
+    // Footer stamp: when the page or club list was last committed or published, as MMDDHHMM in UTC.
+    // GitHub Pages and the rsync mirror both send Last-Modified, so this needs no build step.
+    (async () => {
+      const stamp = document.getElementById("build-stamp");
+      const headers = await Promise.all([location.pathname, CLUBLIST_PATH].map((path) =>
+        fetch(path, { method: "HEAD", cache: "no-cache" })
+          .then((response) => response.headers.get("last-modified"))
+          .catch(() => null)));
+      const times = headers.map((value) => Date.parse(value)).filter(Number.isFinite);
+      if (!times.length) return;
+      const time = new Date(Math.max(...times));
+      const two = (n) => String(n).padStart(2, "0");
+      stamp.textContent = two(time.getUTCMonth() + 1) + two(time.getUTCDate()) + two(time.getUTCHours()) + two(time.getUTCMinutes());
+      stamp.title = "Updated " + time.toISOString().slice(0, 16).replace("T", " ") + " UTC";
+      stamp.hidden = false;
     })();
 
     // A home-screen app can resume from memory with old content and has no reload button.
