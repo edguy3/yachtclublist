@@ -39,7 +39,6 @@ Atlas Yacht Club (Bayonne, NJ)	searched, no website found
 Au Gres Yacht Club	site unreachable	www.augresyachtclubinc.com
 Austin Sailing Society	site unreachable	austinsailingsociety.com
 Aylesford Yacht Club	site unreachable	www.alyc.ca
-Baerum Seilforening	site unreachable	bsf.no
 Bahrain Yacht Club	site unreachable	fabbahrain.com
 Balboa Basin Yacht Club	site unreachable	balboabasinyachtclub.org
 Balboa Island Yacht Club	no website listed	
@@ -73,7 +72,6 @@ Blown Away Sailing	not a club (school, charter or business)	www.sailingblownaway
 Blue Marsh Sailing Association	site unreachable	bluemarshsailing.org
 Blue Pacific Yachting	not a club (school, charter or business)	www.bluepacificboating.com
 Blue Water Sailing School	not a club (school, charter or business)	www.bwss.com
-Bodø Seilforening	site unreachable	dips.no
 Bohicket Yacht Club	not a club (school, charter or business)	bohicket.com
 Bonneville School of Sailing	not a club (school, charter or business)	www.bonnevillesailing.com
 Bora Bora Yacht Club	site unreachable	boraborayachtclub.net
@@ -110,7 +108,6 @@ Cercle de La Voile d'Abidjan	site unreachable	cva.website
 Cercle de Voile de Dakar	site parked, hijacked or broken	cvdakar.e-monsite.com
 Cercle Nautique de La Rochelle	site unreachable	cnlr.asso.fr
 Champlain Yacht Club	site unreachable	oyston.com
-Changi Sailing Club	site unreachable	csc.org.sg
 Channel Islands Boating Center	not a club (school, charter or business)	www.ciboating.org
 Chapman School of Seamanship	not a club (school, charter or business)	www.chapman.org
 Charleston Yacht Club	site unreachable	charlestonyachtclub.com&
@@ -266,9 +263,7 @@ GT Sailing School	not a club (school, charter or business)	www.gtsailing.com
 Guayaquil Yacht Club	site unreachable	guayaquilyachtclub.com
 Gulf Atlantic Yacht Club	site unreachable	adventureclub.info
 Gulf Sailing Club	site unreachable	ww4.choice.net
-Haapsalu Yacht Club (HJK)	site unreachable	jahta.ee
 Halcyon Sailing	not a club (school, charter or business)	halcyonsailing.net
-Hankø Yacht Club	site unreachable	hanko.no
 Harbor Country Yacht Club	site unreachable	www.themooringsassociation.com/hcyc
 Harbor Island Yacht Club, California	site parked, hijacked or broken	www.harboryc.com
 Harbor Point Yacht Club	duplicate or parked	www.harborpoint.us
@@ -568,7 +563,6 @@ Reef Runner Sailing, Florida	not a club (school, charter or business)	www.rrsail
 Reef Runner Sailing, Maine	not a club (school, charter or business)	www.rrsailing.com/maine
 Reial Club Martím de Barcelona	site unreachable	filnet.es
 Renton Sailing Center	not a club (school, charter or business)	www.rentonsailing.org
-Republic of Singapore Yacht Club	site unreachable	rsyc.org.sg
 Rhode River Boat Club	site unreachable	rhoderiverbc.org
 Richardson Bay Yacht Club	site unreachable	rbyachtclub.com
 Ringhaddy Cruising Club	site unreachable	www.ringhaddy.co.uk

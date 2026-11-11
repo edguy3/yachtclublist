@@ -30138,3 +30138,218 @@
   email: "biuro@chkz.pl"
   last-update: 2026-11-10
   last-validated: 2026-11-10
+- club:
+  name: Bærum Seilforening
+  uuid: 936fbbac-f520-4633-bf7c-5753198c0625
+  city: Bærum
+  state: Akershus
+  country: Norway
+  founded: 1921
+  website: https://www.bseil.no/
+  coordinates: [59.89, 10.52]
+  email: "post@bseil.no"
+  last-update: 2026-11-11
+  last-validated: 2026-11-11
+- club:
+  name: Bodø Seilforening
+  uuid: 916c8a13-d5e8-4596-ace8-8ea04eb607c7
+  city: Bodø
+  state: Nordland
+  country: Norway
+  founded: unknown
+  website: https://bodo-seilforening.no/
+  coordinates: [67.28, 14.4]
+  last-update: 2026-11-11
+  last-validated: 2026-11-11
+- club:
+  name: Hankø Yacht Club
+  uuid: 2597a9ba-b819-423b-99b4-9478dcfd13f2
+  city: Fredrikstad
+  state: Østfold
+  country: Norway
+  founded: unknown
+  website: https://hankoyachtclub.no/
+  coordinates: [59.2, 10.82]
+  last-update: 2026-11-11
+  last-validated: 2026-11-11
+- club:
+  name: Stavanger Seilforening
+  uuid: e28f54e3-5fdc-434f-8ee2-333c1c3c2780
+  city: Stavanger
+  state: Rogaland
+  country: Norway
+  founded: unknown
+  website: https://www.stavangerseilforening.no/
+  coordinates: [58.97, 5.73]
+  last-update: 2026-11-11
+  last-validated: 2026-11-11
+- club:
+  name: Tønsberg Seilforening
+  uuid: 016b337e-35ca-42db-aef9-306dff071d23
+  city: Tønsberg
+  state: Vestfold
+  country: Norway
+  founded: unknown
+  website: https://www.tonsbergseilforening.no/
+  coordinates: [59.27, 10.41]
+  last-update: 2026-11-11
+  last-validated: 2026-11-11
+- club:
+  name: Moss Seilforening
+  uuid: 9fbd9f70-0be4-4362-b5d8-97817c88c6c9
+  city: Moss
+  state: Østfold
+  country: Norway
+  founded: unknown
+  website: https://www.moss-seilforening.no/
+  coordinates: [59.43, 10.66]
+  email: "post@moss-seilforening.no"
+  last-update: 2026-11-11
+  last-validated: 2026-11-11
+- club:
+  name: Sandefjord Seilforening
+  uuid: 513c4a21-262f-42df-a38b-a57346c04da7
+  city: Sandefjord
+  state: Vestfold
+  country: Norway
+  founded: unknown
+  website: https://www.sandefjordseilforening.no/
+  coordinates: [59.13, 10.22]
+  last-update: 2026-11-11
+  last-validated: 2026-11-11
+- club:
+  name: Risør Seilforening
+  uuid: 1f3976c1-1087-44c8-8562-0e66d4cf00a2
+  city: Risør
+  state: Agder
+  country: Norway
+  founded: unknown
+  website: https://www.risorseilforening.no/
+  coordinates: [58.72, 9.23]
+  last-update: 2026-11-11
+  last-validated: 2026-11-11
+- club:
+  name: Oslo Seilforening
+  uuid: c3578874-1f90-4183-82db-e33240c37740
+  city: Oslo
+  state: Oslo
+  country: Norway
+  founded: unknown
+  website: https://www.osloseilforening.no/
+  coordinates: [59.91, 10.75]
+  email: "post@osloseilforening.no"
+  last-update: 2026-11-11
+  last-validated: 2026-11-11
+- club:
+  name: Haugesund Seilforening
+  uuid: c247644e-0005-466e-9f00-b2236ec87550
+  city: Haugesund
+  state: Rogaland
+  country: Norway
+  founded: unknown
+  website: https://haugesundsf.spond.club/
+  coordinates: [59.41, 5.27]
+  last-update: 2026-11-11
+  last-validated: 2026-11-11
+- club:
+  name: Changi Sailing Club
+  uuid: 16764974-5bc7-4935-a185-cf4423672fa5
+  city: Singapore
+  country: Singapore
+  founded: unknown
+  website: https://www.csc.org.sg/
+  coordinates: [1.39, 103.99]
+  last-update: 2026-11-11
+  last-validated: 2026-11-11
+- club:
+  name: Republic of Singapore Yacht Club
+  uuid: 0a372732-3b7d-4e54-b927-ee23b50ebedc
+  city: Singapore
+  country: Singapore
+  founded: unknown
+  website: https://rsyc.org.sg/
+  coordinates: [1.29, 103.76]
+  email: "info@rsyc.org.sg"
+  last-update: 2026-11-11
+  last-validated: 2026-11-11
+- club:
+  name: Haapsalu Jahtklubi
+  uuid: e0ccfdbe-eb8e-4f80-8bd2-6e0f8dac76c4
+  city: Haapsalu
+  state: Lääne County
+  country: Estonia
+  founded: 1888
+  website: https://hjk.ee/
+  coordinates: [58.94, 23.54]
+  phone: "+372 53 016 492"
+  email: "info@hjk.ee"
+  last-update: 2026-11-11
+  last-validated: 2026-11-11
+- club:
+  name: Jahtklubi Dago
+  uuid: 96d8be54-7c5a-4982-aaf5-2dddf54147e2
+  city: Kärdla
+  state: Hiiu County
+  country: Estonia
+  founded: unknown
+  website: https://jkdago.ee/
+  coordinates: [59.0, 22.75]
+  last-update: 2026-11-11
+  last-validated: 2026-11-11
+- club:
+  name: Nõuni Purjeklubi
+  uuid: 5af625de-3004-4f20-b553-d4d191ad9042
+  city: Nõuni
+  state: Tartu County
+  country: Estonia
+  founded: unknown
+  website: http://www.purjeklubi.ee/
+  email: "puri@purjeklubi.ee"
+  last-update: 2026-11-11
+  last-validated: 2026-11-11
+- club:
+  name: Ruhnu Jahtklubi
+  uuid: d9efab03-63bd-4811-9d8d-7dfa41263587
+  city: Ruhnu
+  state: Pärnu County
+  country: Estonia
+  founded: unknown
+  website: http://jahtklubi.ruhnu.ee/
+  coordinates: [57.8, 23.25]
+  phone: "+372 5333 4100"
+  email: "jahtklubi@ruhnu.ee"
+  last-update: 2026-11-11
+  last-validated: 2026-11-11
+- club:
+  name: Saaremaa Merispordi Selts
+  uuid: e75bc696-5219-477f-aa82-8594f6d937dc
+  city: Kuressaare
+  state: Saare County
+  country: Estonia
+  founded: unknown
+  website: https://www.saaremaamerispordiselts.ee/
+  coordinates: [58.25, 22.48]
+  last-update: 2026-11-11
+  last-validated: 2026-11-11
+- club:
+  name: Tartu Kalevi Jahtklubi
+  uuid: d33b80d2-e3d8-4650-87dc-e29d95081968
+  city: Saadjärve
+  state: Tartu County
+  country: Estonia
+  founded: unknown
+  website: https://www.tkj.ee/
+  coordinates: [58.53, 26.65]
+  last-update: 2026-11-11
+  last-validated: 2026-11-11
+- club:
+  name: Tilgu Sadama Jahtklubi
+  uuid: 8676a76a-d799-4fac-a59e-327bd10ec462
+  city: Tilgu
+  state: Harju
+  country: Estonia
+  founded: unknown
+  website: https://tmyc.ee/
+  coordinates: [59.35, 24.0]
+  last-update: 2026-11-11
+  last-validated: 2026-11-11
