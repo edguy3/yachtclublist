@@ -29930,3 +29930,211 @@
   email: "info@spyc.de"
   last-update: 2026-11-09
   last-validated: 2026-11-09
+- club:
+  name: Kinsale Yacht Club
+  uuid: 67021e2b-4b77-4cb1-9116-c33e8549a32e
+  city: Kinsale
+  state: County Cork
+  country: Ireland
+  founded: unknown
+  website: https://www.kyc.ie/
+  coordinates: [51.71, -8.52]
+  phone: "+353 21 477 3433"
+  email: "info@kyc.ie"
+  last-update: 2026-11-10
+  last-validated: 2026-11-10
+- club:
+  name: Royal Cork Yacht Club
+  uuid: 826de049-b1fa-426d-8d2f-4a7b12363e3f
+  city: Crosshaven
+  state: County Cork
+  country: Ireland
+  founded: 1720
+  website: https://www.royalcork.com/
+  coordinates: [51.8, -8.29]
+  phone: "+353 21 483 1023"
+  last-update: 2026-11-10
+  last-validated: 2026-11-10
+- club:
+  name: Cove Sailing Club
+  uuid: 9014b6d7-4814-444c-a030-001dc811369c
+  city: Cobh
+  state: County Cork
+  country: Ireland
+  founded: unknown
+  website: https://www.covesailingclub.ie/
+  coordinates: [51.85, -8.3]
+  last-update: 2026-11-10
+  last-validated: 2026-11-10
+- club:
+  name: Monkstown Bay Sailing Club
+  uuid: 9928e845-c3a8-4891-97db-0b5c3f879e2b
+  city: Monkstown
+  state: County Cork
+  country: Ireland
+  founded: unknown
+  website: https://mbsc.ie/
+  coordinates: [51.84, -8.33]
+  last-update: 2026-11-10
+  last-validated: 2026-11-10
+- club:
+  name: Waterford Harbour Sailing Club
+  uuid: e308af59-2cfd-484c-a8c9-9fb7cd34160f
+  city: Dunmore East
+  state: County Waterford
+  country: Ireland
+  founded: unknown
+  website: https://whsc.ie/
+  coordinates: [52.15, -6.99]
+  last-update: 2026-11-10
+  last-validated: 2026-11-10
+- club:
+  name: Dungarvan Harbour Sailing Club
+  uuid: 2b4c93c2-c900-4c9e-9b6d-fcf97f08ac80
+  city: Dungarvan
+  state: County Waterford
+  country: Ireland
+  founded: 1946
+  website: https://dhsc.ie/
+  coordinates: [52.09, -7.62]
+  email: "sec.dhsc@gmail.com"
+  last-update: 2026-11-10
+  last-validated: 2026-11-10
+- club:
+  name: Lough Derg Yacht Club
+  uuid: dfe3333a-dedb-43f5-8ed3-32b184030a21
+  city: Dromineer
+  state: County Tipperary
+  country: Ireland
+  founded: unknown
+  website: https://www.ldyc.ie/
+  coordinates: [52.93, -8.28]
+  last-update: 2026-11-10
+  last-validated: 2026-11-10
+- club:
+  name: Lough Ree Yacht Club
+  uuid: e566452c-08da-408a-b5a1-1d0e0c91dfb2
+  city: Athlone
+  state: County Westmeath
+  country: Ireland
+  founded: unknown
+  website: https://www.lryc.ie/
+  coordinates: [53.46, -7.93]
+  last-update: 2026-11-10
+  last-validated: 2026-11-10
+- club:
+  name: Foynes Yacht Club
+  uuid: 7a9485db-f60a-465b-9814-81993c802ca5
+  city: Foynes
+  state: County Limerick
+  country: Ireland
+  founded: unknown
+  website: https://www.foynesyachtclub.com/
+  coordinates: [52.61, -9.11]
+  email: "info@foynesyc.ie"
+  last-update: 2026-11-10
+  last-validated: 2026-11-10
+- club:
+  name: Dublin Bay Sailing Club
+  uuid: 2c0b3bae-fd13-4936-ba18-637e69c0ec62
+  city: Dún Laoghaire
+  state: County Dublin
+  country: Ireland
+  founded: unknown
+  website: https://dbsc.ie/
+  coordinates: [53.29, -6.13]
+  last-update: 2026-11-10
+  last-validated: 2026-11-10
+- club:
+  name: Sutton Dinghy Club
+  uuid: d36c5139-76bb-4306-b4c6-40a93f86d199
+  city: Sutton
+  state: County Dublin
+  country: Ireland
+  founded: unknown
+  website: https://sdc.ie/
+  coordinates: [53.39, -6.11]
+  last-update: 2026-11-10
+  last-validated: 2026-11-10
+- club:
+  name: Bray Sailing Club
+  uuid: 4dec6903-22ea-42bb-9b87-4da25616a7da
+  city: Bray
+  state: County Wicklow
+  country: Ireland
+  founded: unknown
+  website: https://www.braysailingclub.ie/
+  coordinates: [53.2, -6.1]
+  last-update: 2026-11-10
+  last-validated: 2026-11-10
+- club:
+  name: Greystones Sailing Club
+  uuid: a5734f49-b535-4296-9710-a66629208280
+  city: Greystones
+  state: County Wicklow
+  country: Ireland
+  founded: unknown
+  website: https://gsc.ie/
+  coordinates: [53.14, -6.06]
+  last-update: 2026-11-10
+  last-validated: 2026-11-10
+- club:
+  name: Yacht Klub Polski
+  uuid: 4202095b-c16a-4908-8242-d256ef6743cd
+  city: Warsaw
+  state: Masovia
+  country: Poland
+  founded: 1924
+  website: https://ykp.pl/
+  coordinates: [52.23, 21.01]
+  phone: "+48 602 773 990"
+  email: "biuro@ykp.pl"
+  last-update: 2026-11-10
+  last-validated: 2026-11-10
+- club:
+  name: Yacht Klub Polski Szczecin
+  uuid: 24b91bc2-76f1-4bf3-926d-07acb6dd0a81
+  city: Szczecin
+  state: West Pomerania
+  country: Poland
+  founded: unknown
+  website: https://ykp.szczecin.pl/
+  coordinates: [53.43, 14.55]
+  email: "biuro@ykp.szczecin.pl"
+  last-update: 2026-11-10
+  last-validated: 2026-11-10
+- club:
+  name: Jacht Klub Marynarki Wojennej Kotwica
+  uuid: ed0d2ae2-d216-4cf5-88ec-4f0a331868cf
+  city: Gdynia
+  state: Pomerania
+  country: Poland
+  founded: unknown
+  website: https://jkmw-kotwica.pl/
+  coordinates: [54.52, 18.53]
+  email: "biuro@jkmw-kotwica.pl"
+  last-update: 2026-11-10
+  last-validated: 2026-11-10
+- club:
+  name: Jachtklub Stoczni Gdańskiej
+  uuid: 4f1e0558-70c1-4cc5-9c26-27d76637a01e
+  city: Gdańsk
+  state: Pomerania
+  country: Poland
+  founded: unknown
+  website: https://www.jsg.com.pl/
+  coordinates: [54.35, 18.65]
+  last-update: 2026-11-10
+  last-validated: 2026-11-10
+- club:
+  name: Chojnicki Klub Żeglarski
+  uuid: 8f6f3cca-8799-4f11-a990-f62696806e44
+  city: Chojnice
+  state: Pomerania
+  country: Poland
+  founded: unknown
+  website: https://www.chkz.pl/
+  coordinates: [53.7, 17.56]
+  email: "biuro@chkz.pl"
+  last-update: 2026-11-10
+  last-validated: 2026-11-10

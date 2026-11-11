@@ -202,7 +202,6 @@ Dobson Yacht Club	site unreachable	dobsonyachtclub.ca
 Dog Town Yacht Club	site unreachable	dtyc.org
 Dominica Yacht Club	site parked, hijacked or broken	dominicayachtclub.com
 Down Cruising Club	site unreachable	www.downcruisingclub.co.uk
-Dublin Bay Sailing Club	site unreachable	ireland.iol.ie
 Duluth Community Sailing Association	site unreachable	computerpro.com
 Duncan Bay Boat Club	site unreachable	duncanbay.org
 East Carolina Sailing School	not a club (school, charter or business)	eastcarolinasailing.com
@@ -237,7 +236,6 @@ Frensham Pond Sailability	not a club (school, charter or business)	www.sailfrens
 Galway Lake Sailing Club	site unreachable	www.galwaysailing.org
 Garden Island Yacht Club (GIYC)	site unreachable	giyc.net
 Gatineau River Yacht Club	site unreachable	gryc.net
-Gdansk Shipyard Yacht Club	site unreachable	jachtklub.nsm.pl
 Geneva Lake Keelboat Club	site parked, hijacked or broken	glkc.clubexpress.com
 Genval Yacht Club	site unreachable	users.swing.be
 Georgetown Yacht Club	site unreachable	georgetownyachtclub.netfirms.com
@@ -337,13 +335,11 @@ Kilifi Boat Club	site unreachable	kilifiboatclub.com
 Killyleagh Yacht Club	site unreachable	killyleaghyachtclub.com
 Kingdom Yachts Sailing Club	site unreachable	andrews.com
 Kingston Beach Sailing Club	site unreachable	southcom.com.au
-Kinsale Yacht Club	site unreachable	kyc.ie
 Kircubbin Sailing Club	site unreachable	kircubbinsailingclub.co.uk
 Kiser Lake Sailing Club	site unreachable	kiserlakesailingclub.org
 Knickerbocker Yacht Club (Port Washington, NY)	defunct, closed in 2009	
 Kona Kai International Yacht Club	no website listed	
 Koninklijke Yachtclub Nieuwpoort	site parked, hijacked or broken	www.kycn.be/en
-Kotwica Navy Yacht Club	site unreachable	mw.mil.pl
 Kuala Belait Boat Club	site unreachable	panagaclub.com/pages/kuala-belait-boat-club
 Kuwait Offshore Sailing Association	site unreachable	www.kosakwt.com
 L'Union Nationale pour la Course au Large (closed)	not a club (school, charter or business)	
@@ -393,8 +389,6 @@ London Sailing Club	site unreachable	www.london-sailing-club.com
 Longshore Sailing School	not a club (school, charter or business)	www.longshoresailingschool.com
 Lorain Harbor Boat Club	site unreachable	www.lsyc.info
 Lord Calvert Yacht Club	site unreachable	lordcalvertyachtclub.com
-Lough Derg Yacht Club	site unreachable	lderg.ie
-Lough Ree Yacht Club	site unreachable	lrye.ie
 Lymington Yacht Haven	site unreachable	ltsc.org
 Magellan Sailing School	not a club (school, charter or business)	www.magellanyachts.com
 Magothy River Sailing Association	site unreachable	magothysailing.com
@@ -848,7 +842,6 @@ Yacht Club Saint-Pierre (Club de Voile)	site unreachable	voilespm.org﻿
 Yacht Club Sanremo	site unreachable	yachtclubsanremo.it
 Yacht Club Wilhelmshaven	site unreachable	yc-wilhelmshaven.de
 Yacht Club YUG	site unreachable	yachtclub.org.ua
-Yacht Klub Polski w Gdyni	site unreachable	ocean.iopan.gda.pl
 Yacht-Club de Québec	site unreachable	yachting.qc.ca
 Yachting Vacations	not a club (school, charter or business)	www.yachtingvacations.com
 Yale Corinthian Yacht Club	site unreachable	sportsandrecreation.yale.edu/recreation-centers/mcnay-family-s
