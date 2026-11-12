@@ -578,6 +578,7 @@ Rosey Yacht Club	site parked, hijacked or broken	www.rosey-yacht-club.com
 Royal Akarana Yacht Club	site unreachable	rayc.org.nz
 Royal Albert Yacht Club	site unreachable	royalalbertyachtclub.org.uk
 Royal Artillery Yacht Club	site unreachable	rayc.org.uk
+Royal Bahamas Yacht Squadron	searched, no website found	
 Royal Channel Islands Yacht Club - Guernsey	site unreachable	rciyc.com
 Royal Club Nautique Sambre et Meuse	site unreachable	rcnsm.be
 Royal Clyde Yacht Club	site unreachable	royalclyde.org

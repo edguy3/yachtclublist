@@ -21634,7 +21634,9 @@
   address: "P.O.Box 1133, Montego Bay"
   phone: "+1 (876) 979-8038"
   vhf: "16"
-  last-update: 2026-11-09
+  burgee: montego_bay_yc.png
+  description: Round embroidered crest with a gold fouled anchor on a black disc inside a blue ring lettered M, Y, B and C in gold.
+  last-update: 2026-11-11
   last-validated: 2026-11-07
 - club:
   name: Royal BVI Yacht Club
@@ -30575,5 +30577,48 @@
   focus: [racing, social]
   burgee: barbados_yc.png
   description: Navy burgee with a gold chevron pointing to the hoist and a white trident-headed anchor fouled with a dotted gold rope that coils below it.
+  last-update: 2026-11-11
+  last-validated: 2026-11-11
+- club:
+  name: Club Nautique Neptune
+  uuid: 91b2d3d7-5d83-45c2-ac6b-fc20db095f23
+  city: Le Lamentin
+  state: Martinique
+  country: Martinique
+  founded: unknown
+  website: https://www.facebook.com/clubnautiqueneptune
+  coordinates: [14.61, -61.03]
+  phone: "+596 596 51 73 24"
+  email: "clubnautiqueneptune@gmail.com"
+  focus: [racing, cruising, instruction]
+  last-update: 2026-11-11
+  last-validated: 2026-11-11
+- club:
+  name: Saint Barth Yacht Club
+  uuid: 89d13a02-c1bf-4d75-ae24-896c87327ee8
+  city: Gustavia
+  state: Saint Barthélemy
+  country: France
+  founded: 1985
+  website: https://www.stbarthyachtclub.com/
+  coordinates: [17.90, -62.85]
+  phone: "+590 590 27 70 41"
+  email: "moniteurs.sbyc@gmail.com"
+  focus: [racing, instruction, youth]
+  boat-types: [dinghy]
+  last-update: 2026-11-11
+  last-validated: 2026-11-11
+- club:
+  name: West End Yacht Club
+  uuid: 67052a25-a814-404a-a3bd-c82fe707b04d
+  city: West End
+  state: Tortola
+  country: British Virgin Islands
+  founded: 1978
+  website: https://www.facebook.com/west.end.yacht.club.bvi/
+  coordinates: [18.39, -64.70]
+  phone: "+1 284 345 2161"
+  email: "westendyachtclub@gmail.com"
+  focus: [racing, social]
   last-update: 2026-11-11
   last-validated: 2026-11-11
