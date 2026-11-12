@@ -30415,7 +30415,6 @@
   website: https://www.famagustanauticalclub.com/
   coordinates: [34.98, 34.01]
   phone: "+357 25 879767"
-  description: Founded in Famagusta in 1960, moved to Limassol after 1974, and returned to the Famagusta district at Ayia Napa Marina in 2026.
   last-update: 2026-11-11
   last-validated: 2026-11-11
 - club:
@@ -30513,7 +30512,6 @@
   coordinates: [13.14, 123.75]
   address: "Legazpi Boulevard, Legazpi City, Albay"
   email: "info@albayyachtclub.org"
-  description: Founded in 1907 and restarted in 2018.
   last-update: 2026-11-11
   last-validated: 2026-11-11
 - club:
@@ -30560,5 +30558,22 @@
   founded: unknown
   website: https://www.facebook.com/people/Bohol-Yacht-Club/100072382446371/
   coordinates: [10.14, 124.38]
+  last-update: 2026-11-11
+  last-validated: 2026-11-11
+- club:
+  name: Barbados Yacht Club
+  uuid: 3c7c4c05-7af5-4a43-828b-750c4fc7ba31
+  city: Bridgetown
+  state: Saint Michael
+  country: Barbados
+  founded: 1924
+  website: https://barbadosyachtclub.com/
+  coordinates: [13.08, -59.61]
+  address: "Bay Street, St. Michael"
+  phone: "+1 (246) 427-1125"
+  email: "officebyc@barbadosyachtclub.com"
+  focus: [racing, social]
+  burgee: barbados_yc.png
+  description: Navy burgee with a gold chevron pointing to the hoist and a white trident-headed anchor fouled with a gold rope.
   last-update: 2026-11-11
   last-validated: 2026-11-11
