@@ -217,7 +217,6 @@ Excelsior Yacht Club (Brooklyn, NY)	searched, no website found
 Exe Sailing Club	site unreachable	exe-sailing-club.org&
 Fair Wind Sailing School and Charters	not a club (school, charter or business)	www.fairwindsailing.com
 Fairlie Yacht Club	site unreachable	fairlieyachtclub.org.uk
-Famagusta Nautical Club	site unreachable	fnc.com.cy
 Fishers Island Yacht Club	site unreachable	fiyc.net
 Flagship Sailing School	not a club (school, charter or business)	www.flagshipsailing.com
 Fleetwood Harbour Yacht Club	site unreachable	fleetwoodharbouryachtclub.com
@@ -816,7 +815,6 @@ Yacht Club Capri	site parked, hijacked or broken	yachtclubcapri.it
 Yacht Club Capri	site unreachable	yachtclubcapri.it
 Yacht Club d'Antibes	site unreachable	yc-antibes.net
 Yacht Club da Bahia	site unreachable	ycb.com.br
-Yacht Club de Chile	site unreachable	yachtclubdechile.cl﻿
 Yacht Club de Ilhabela	site unreachable	yci.com.br
 Yacht Club de la Haute-Meuse	site parked, hijacked or broken	ychm.com
 Yacht Club de Morlaix (YCM)	site unreachable	y.c-morlaix.com

@@ -30353,3 +30353,212 @@
   coordinates: [59.35, 24.0]
   last-update: 2026-11-11
   last-validated: 2026-11-11
+- club:
+  name: Club de Yates Antofagasta
+  uuid: a2761e50-d1a6-4921-ae25-2799f605d60c
+  city: Antofagasta
+  state: Antofagasta
+  country: Chile
+  founded: unknown
+  website: https://cdya.cl/
+  coordinates: [-23.66, -70.40]
+  address: "Av. Balmaceda 2705, Antofagasta"
+  email: "secretaria@cdya.cl"
+  focus: [racing, instruction]
+  last-update: 2026-11-11
+  last-validated: 2026-11-11
+- club:
+  name: Yacht Club de Chile
+  uuid: 9be85561-68f0-4902-a9b0-2a6df872c8a6
+  city: Viña del Mar
+  state: Valparaíso
+  country: Chile
+  founded: 1941
+  website: https://yachtclubdechile.cl/
+  coordinates: [-33.03, -71.57]
+  phone: "+56 32 262 1344"
+  email: "secretaria@ycch.cl"
+  last-update: 2026-11-11
+  last-validated: 2026-11-11
+- club:
+  name: Club de Yates de Algarrobo
+  uuid: 478db0a5-21e5-4440-bad4-2d5256ae95d7
+  city: Algarrobo
+  state: Valparaíso
+  country: Chile
+  founded: 1945
+  website: https://www.cya.cl/
+  coordinates: [-33.36, -71.67]
+  address: "Avenida Carlos Alessandri 2447, Algarrobo"
+  phone: "+56 35 248 3438"
+  email: "contacto@cya.cl"
+  last-update: 2026-11-11
+  last-validated: 2026-11-11
+- club:
+  name: Club Náutico de Taltal
+  uuid: d9b368da-88fc-44d2-a617-dd024691b55d
+  city: Taltal
+  state: Antofagasta
+  country: Chile
+  founded: unknown
+  website: https://www.facebook.com/cntaltal/
+  coordinates: [-25.40, -70.48]
+  last-update: 2026-11-11
+  last-validated: 2026-11-11
+- club:
+  name: Famagusta Nautical Club
+  uuid: e3e58bfd-2909-487d-a6dc-c763983943f0
+  city: Ayia Napa
+  state: Famagusta
+  country: Cyprus
+  founded: 1960
+  website: https://www.famagustanauticalclub.com/
+  coordinates: [34.98, 34.01]
+  phone: "+357 25 879767"
+  description: Founded in Famagusta in 1960, moved to Limassol after 1974, and returned to the Famagusta district at Ayia Napa Marina in 2026.
+  last-update: 2026-11-11
+  last-validated: 2026-11-11
+- club:
+  name: Paphos International Sailing Club
+  uuid: 72e8c090-5b7a-4624-bff5-3597fb8641be
+  city: Peyia
+  state: Paphos
+  country: Cyprus
+  founded: 1999
+  website: https://pisc.org.cy/
+  coordinates: [34.90, 32.33]
+  focus: [racing, social]
+  boat-types: [dinghy]
+  last-update: 2026-11-11
+  last-validated: 2026-11-11
+- club:
+  name: Siglingaklúbburinn Þytur
+  uuid: b85740b8-a858-42fb-88b9-00e3e0b68123
+  city: Hafnarfjörður
+  state: Capital Region
+  country: Iceland
+  founded: 1975
+  website: https://www.sailing.is/
+  coordinates: [64.07, -21.96]
+  address: "Strandgata 88, 220 Hafnarfjörður"
+  phone: "+354 555 3422"
+  email: "sailing@sailing.is"
+  last-update: 2026-11-11
+  last-validated: 2026-11-11
+- club:
+  name: Siglingafélagið Ýmir
+  uuid: ff6dfefe-f3b6-45f2-a110-40ecc8b23f59
+  city: Kópavogur
+  state: Capital Region
+  country: Iceland
+  founded: unknown
+  website: https://www.siglingafelag.is/
+  coordinates: [64.11, -21.92]
+  address: "Naustavör 14, 200 Kópavogur"
+  email: "siglingafelag@siglingafelag.is"
+  last-update: 2026-11-11
+  last-validated: 2026-11-11
+- club:
+  name: Siglingafélagið Hafliði
+  uuid: 50803a91-e8e5-4384-8fc5-d15b1a4d9eae
+  city: Hafnarfjörður
+  state: Capital Region
+  country: Iceland
+  founded: unknown
+  website: https://www.facebook.com/haflidi.is
+  coordinates: [64.07, -21.96]
+  last-update: 2026-11-11
+  last-validated: 2026-11-11
+- club:
+  name: Sigurfari – siglingafélag Akraness
+  uuid: 2d46c475-1a08-443b-81ba-d8804a35440d
+  city: Akranes
+  state: Western Region
+  country: Iceland
+  founded: unknown
+  website: https://www.facebook.com/sigurfari
+  coordinates: [64.32, -22.08]
+  last-update: 2026-11-11
+  last-validated: 2026-11-11
+- club:
+  name: Siglingafélagið Knörr
+  uuid: 3c257e65-c773-458f-a64b-4d4d4187aeea
+  city: Reykjanesbær
+  state: Southern Peninsula
+  country: Iceland
+  founded: unknown
+  website: https://www.facebook.com/KnorrSailing/
+  coordinates: [64.00, -22.56]
+  last-update: 2026-11-11
+  last-validated: 2026-11-11
+- club:
+  name: Siglingaklúbbur Austurlands
+  uuid: 0a5c80e4-8370-40a9-a70c-2910ccab73b9
+  city: Eskifjörður
+  state: Eastern Region
+  country: Iceland
+  founded: unknown
+  website: https://www.facebook.com/siglingaklubbur.austurlands
+  coordinates: [65.07, -14.02]
+  last-update: 2026-11-11
+  last-validated: 2026-11-11
+- club:
+  name: Albay Yacht & Sailing Club
+  uuid: 8ae55d52-a2ba-40b2-9e8b-f4230cbae7b5
+  city: Legazpi
+  state: Albay
+  country: Philippines
+  founded: 1907
+  website: https://albaysailing.com/
+  coordinates: [13.14, 123.75]
+  address: "Legazpi Boulevard, Legazpi City, Albay"
+  email: "info@albayyachtclub.org"
+  description: Founded in 1907 and restarted in 2018.
+  last-update: 2026-11-11
+  last-validated: 2026-11-11
+- club:
+  name: Layag Bugsay Dabaw
+  uuid: e9b42337-51d0-4de9-9732-4a32af4e2d53
+  city: Island Garden City of Samal
+  state: Davao del Norte
+  country: Philippines
+  founded: unknown
+  website: https://www.layagbugsay.org/
+  coordinates: [7.07, 125.71]
+  email: "info@layagbugsay.org"
+  focus: [instruction, youth]
+  last-update: 2026-11-11
+  last-validated: 2026-11-11
+- club:
+  name: Cebu Yacht Club
+  uuid: 5b76a7fc-250d-4b53-b005-33080ccd1f49
+  city: Lapu-Lapu City
+  state: Cebu
+  country: Philippines
+  founded: unknown
+  website: https://www.facebook.com/cebuyachtclubph/
+  coordinates: [10.31, 123.95]
+  last-update: 2026-11-11
+  last-validated: 2026-11-11
+- club:
+  name: Davao Boat and Leisure Club
+  uuid: ee16dc8f-0436-46e3-b115-144019ae31c8
+  city: Davao City
+  state: Davao del Sur
+  country: Philippines
+  founded: unknown
+  website: https://www.facebook.com/davaoboatclubofficial/
+  coordinates: [7.10, 125.65]
+  last-update: 2026-11-11
+  last-validated: 2026-11-11
+- club:
+  name: Bohol Yacht Club
+  uuid: 48228997-0fc4-47e3-ace6-40ed09204ba1
+  city: Bien Unido
+  state: Bohol
+  country: Philippines
+  founded: unknown
+  website: https://www.facebook.com/people/Bohol-Yacht-Club/100072382446371/
+  coordinates: [10.14, 124.38]
+  last-update: 2026-11-11
+  last-validated: 2026-11-11
