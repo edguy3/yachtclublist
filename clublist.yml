@@ -7827,13 +7827,16 @@
   founded: 1957
   website: https://www.barbadoscruisingclub.org/
   coordinates: [13.08231, -59.60954]
+  address: "Aquatic Gap, St Michael"
   phone: "+1 (246) 426-4434"
   email: "frontdesk@barbadoscruisingclub.org"
   ownership: non-profit
   focus: [cruising, instruction, social]
   boat-types: [sail, paddle]
-  last-update: 2026-11-09
-  last-validated: 2026-11-07
+  burgee: barbados_cruising_club.png
+  description: Burgee divided blue over teal, with a light blue disc showing the island of Barbados and a flying fish.
+  last-update: 2026-11-11
+  last-validated: 2026-11-11
 - club:
   name: Barbour River Yacht Club
   uuid: 30f58752-8bc6-4c3e-8889-74d57542e4ae
@@ -21631,13 +21634,16 @@
   founded: unknown
   website: https://www.mobayyachtclub.com/
   coordinates: [18.47, -77.92]
-  address: "P.O.Box 1133, Montego Bay"
+  address: "Montego Freeport, P.O. Box 1133, Montego Bay"
   phone: "+1 (876) 979-8038"
   vhf: "16"
+  focus: [racing, social]
+  guest-moorings: "Stern-to berths on a T-head pier in 6 to 20 feet, or anchor in the basin off the club; customs and immigration clear boats at the club. Call on VHF 16 on arrival."
+  boat-types: [sail, power]
   burgee: montego_bay_yc.png
   description: Round embroidered crest with a gold fouled anchor on a black disc inside a blue ring lettered M, Y, B and C in gold.
   last-update: 2026-11-11
-  last-validated: 2026-11-07
+  last-validated: 2026-11-11
 - club:
   name: Royal BVI Yacht Club
   uuid: b4ab13f3-95aa-4776-b11f-c8e7b83c6d80
