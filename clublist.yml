@@ -30591,9 +30591,10 @@
   city: Le Lamentin
   state: Martinique
   country: Martinique
-  founded: unknown
-  website: https://www.facebook.com/clubnautiqueneptune
+  founded: 1973
+  website: https://clubnautiqueneptune.org/
   coordinates: [14.61, -61.03]
+  address: "Morne Cabri, 97232 Le Lamentin"
   phone: "+596 596 51 73 24"
   email: "clubnautiqueneptune@gmail.com"
   focus: [racing, cruising, instruction]
@@ -30626,5 +30627,144 @@
   phone: "+1 284 345 2161"
   email: "westendyachtclub@gmail.com"
   focus: [racing, social]
+  last-update: 2026-11-11
+  last-validated: 2026-11-11
+- club:
+  name: St. Croix Yacht Club
+  uuid: dca1b545-be0e-4b71-b45c-ae155eb8293f
+  city: Christiansted
+  state: U.S. Virgin Islands
+  country: USA
+  founded: 1952
+  website: https://www.stcroixyc.com/
+  coordinates: [17.76, -64.61]
+  address: "5100 Teague Bay, Christiansted, VI 00820"
+  phone: "+1 340-773-9531"
+  email: "concierge@stcroixyc.com"
+  focus: [racing, social]
+  boat-types: [sail, power]
+  last-update: 2026-11-11
+  last-validated: 2026-11-11
+- club:
+  name: Phuket Cruising Yacht Club
+  uuid: b70a0105-076e-45b6-8b68-e2c5e345967a
+  city: Chalong
+  state: Phuket
+  country: Thailand
+  founded: unknown
+  website: https://phuketcruisingyachtclub.com/
+  coordinates: [7.82, 98.35]
+  focus: [cruising, racing, instruction, social]
+  last-update: 2026-11-11
+  last-validated: 2026-11-11
+- club:
+  name: Sailing Club Hua Hin
+  uuid: 852c43cb-9299-4bbf-a20b-8574fe9aca05
+  city: Cha-am
+  state: Phetchaburi
+  country: Thailand
+  founded: 2015
+  website: https://huahinsailing.com/
+  coordinates: [12.80, 99.97]
+  email: "info@huahinsailing.com"
+  focus: [instruction, youth]
+  last-update: 2026-11-11
+  last-validated: 2026-11-11
+- club:
+  name: Moda Deniz Kulübü
+  uuid: 1b4e101f-8daa-4656-8224-2f57d0efb48e
+  city: Istanbul
+  state: Istanbul
+  country: Turkey
+  founded: 1935
+  website: https://www.modadenizkulubu.org.tr/
+  coordinates: [40.98, 29.03]
+  email: "info@modadenizkulubu.org.tr"
+  focus: [social]
+  last-update: 2026-11-11
+  last-validated: 2026-11-11
+- club:
+  name: Ege Açıkdeniz Yat Kulübü
+  uuid: 00fe5c86-3a05-403f-9820-4bf0a545ec65
+  city: Çeşme
+  state: İzmir
+  country: Turkey
+  founded: 2000
+  website: https://eayk.org/
+  coordinates: [38.32, 26.30]
+  address: "1016 Sok. No:2/24, 35930 Çeşme, İzmir"
+  email: "eayk@eayk.org"
+  focus: [racing]
+  last-update: 2026-11-11
+  last-validated: 2026-11-11
+- club:
+  name: Ankara Yelken Kulübü
+  uuid: 2c26e841-4e61-4690-a6f0-1ab18bc0074c
+  city: Ankara
+  state: Ankara
+  country: Turkey
+  founded: unknown
+  website: https://www.ankarayelken.org.tr/
+  coordinates: [39.93, 32.86]
+  email: "ankarayelken@ankarayelken.org.tr"
+  last-update: 2026-11-11
+  last-validated: 2026-11-11
+- club:
+  name: Jedriličarski klub Delfin
+  uuid: 81e67277-7bf5-49ee-ba2f-7825e14b1c92
+  city: Tivat
+  country: Montenegro
+  founded: 1951
+  website: https://www.jkdelfin.me/en
+  coordinates: [42.43, 18.70]
+  address: "Šetalište Seljanovo 8, Tivat"
+  phone: "+382 67 307 183"
+  email: "delfin.jk@gmail.com"
+  focus: [racing, instruction, youth]
+  boat-types: [dinghy]
+  last-update: 2026-11-11
+  last-validated: 2026-11-11
+- club:
+  name: Velaclub Palermo
+  uuid: a9135628-fa38-4cee-8dfe-8445d2e6797f
+  city: Palermo
+  state: Sicily
+  country: Italy
+  founded: 1978
+  website: https://www.velaclubpalermo.it/
+  coordinates: [38.12, 13.36]
+  phone: "+39 091 6840002"
+  email: "info@velaclubpalermo.it"
+  focus: [racing, instruction]
+  last-update: 2026-11-11
+  last-validated: 2026-11-11
+- club:
+  name: Diporto Velico Veneziano
+  uuid: f64fd761-fa9a-4b9b-afe1-f3db84a0ea68
+  city: Venice
+  state: Veneto
+  country: Italy
+  founded: 1950
+  website: https://www.dvv.it/
+  coordinates: [45.43, 12.36]
+  address: "Porticciolo E. De Zottis, 30132 S. Elena, Venezia"
+  phone: "+39 041 52 31 927"
+  email: "info@dvv.it"
+  focus: [racing, instruction, youth]
+  last-update: 2026-11-11
+  last-validated: 2026-11-11
+- club:
+  name: Società Canottieri Lario
+  uuid: 1ec43abc-c31f-42d0-89fe-5793856302dd
+  city: Como
+  state: Lombardy
+  country: Italy
+  founded: 1891
+  website: https://www.canottierilario.it/
+  coordinates: [45.81, 9.08]
+  address: "Viale Puecher 6, 22100 Como"
+  phone: "+39 031 574720"
+  email: "info@canottierilario.it"
+  boat-types: [rowing]
   last-update: 2026-11-11
   last-validated: 2026-11-11

@@ -1,4 +1,5 @@
 151 Riccione	not a club (school, charter or business)	151riccione.com
+700 Yacht Club	site unreachable	700yachtclub.com
 Abaco Club	not a club (school, charter or business)	theabacoclub.com
 Abanico Yacht Club	site unreachable	abanicoyachtclub.com
 Aberdeen Boat Club	site unreachable	aberdeenboatclub.com
@@ -311,6 +312,7 @@ Jachtklub Morski Neptun	site parked, hijacked or broken	odkrywcaparkownarodowych
 Jakarta Offshore Sailing Club	site parked, hijacked or broken	josc.org
 Jeddah Yacht Club and Marina	site parked, hijacked or broken	jeddahyachtclubandmarina.com
 Jedrilicarski klub Delfin	no website listed	
+Jedriličarski klub Lahor	site behind a bot check	jklahor.com
 Jervis Bay Cruising Yacht Club	no website listed	
 JIB SET Sailing Club	site parked, hijacked or broken	v3boats.club
 Joseph Conrad Yacht Club	site parked, hijacked or broken	www.jcycchicago.com
@@ -509,7 +511,6 @@ Pepperrell Cove Yacht Club (Kittery Point, ME)	searched, no website found
 Peterhead Sailing Club	site unreachable	peterheadsailingclub.org
 Philadelphia Sailing Club	site unreachable	webcom.com
 Philippine Home Boatbuilders Yacht Club	site parked, hijacked or broken	www.pinoyboats.org
-Phuket Cruising Yacht Club	site parked, hijacked or broken	phuketcruisingyachtclub.org
 Pictou Yacht Club	site unreachable	pictouyachtclub.ca
 Pinda Nautica Yacht Club	site unreachable	pindaiateclube.org.br
 Pine Beach Yacht Club	site parked, hijacked or broken	www.pbycnj.com
@@ -687,7 +688,6 @@ Spinnaker Island Yacht Club (Hull, MA)	searched, no website found
 Spinnaker Sailing, California	not a club (school, charter or business)	www.spinnaker-sailing.com
 Spinnaker Yacht Club	site unreachable	www.spinnakeryachtclub.org
 Squamish Yacht Club	site unreachable	squamishyachtclub.com
-St Thomas Yacht Club	site unreachable	styc.club
 St. Augustine Sailing	not a club (school, charter or business)	www.sta-sail.com
 St. Bart's Sailing	site unreachable	stbartssailing.org
 St. Clair Yacht Club	no website listed	
@@ -812,13 +812,13 @@ Yacht Club Ancon	site unreachable	yca.org.pe
 Yacht Club Argentino	site parked, hijacked or broken	yca.org.ar
 Yacht Club Cala de Medici	site unreachable	ycmedici.it
 Yacht Club Capri	site parked, hijacked or broken	yachtclubcapri.it
-Yacht Club Capri	site unreachable	yachtclubcapri.it
 Yacht Club d'Antibes	site unreachable	yc-antibes.net
 Yacht Club da Bahia	site unreachable	ycb.com.br
 Yacht Club de Ilhabela	site unreachable	yci.com.br
 Yacht Club de la Haute-Meuse	site parked, hijacked or broken	ychm.com
 Yacht Club de Morlaix (YCM)	site unreachable	y.c-morlaix.com
 Yacht Club de Saint Lunaire	site unreachable	ycstl.fr
+Yacht Club Imperia	site shows no club content	yachtclubimperia.it
 Yacht Club International Saint-Raphaël	site unreachable	www.ycisr.com
 Yacht Club Marina Puntaldia	no website listed	
 Yacht Club Marzamemi	site unreachable	yachtmarzamemi.it
@@ -831,7 +831,7 @@ Yacht Club Punta del Este	site unreachable	ycpe.org.uy
 Yacht Club Roja	site unreachable	rojasjahtklubs.lv
 Yacht Club Rosario	site unreachable	ycrosario.com.ar
 Yacht Club Saint-Pierre (Club de Voile)	site unreachable	voilespm.org﻿
-Yacht Club Sanremo	site unreachable	yachtclubsanremo.it
+Yacht Club Venezia	site in maintenance mode	yachtclubvenezia.it
 Yacht Club Wilhelmshaven	site unreachable	yc-wilhelmshaven.de
 Yacht Club YUG	site unreachable	yachtclub.org.ua
 Yacht-Club de Québec	site unreachable	yachting.qc.ca
