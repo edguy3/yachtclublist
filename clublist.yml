@@ -30768,3 +30768,317 @@
   boat-types: [rowing]
   last-update: 2026-11-11
   last-validated: 2026-11-11
+- club:
+  name: Horsens Sejlklub
+  uuid: fb2bb35c-9d8d-4762-b2c3-53795666af6d
+  city: Horsens
+  state: Central Jutland
+  country: Denmark
+  founded: unknown
+  website: https://horsens-sejlklub.dk/
+  coordinates: [55.86, 9.85]
+  email: "admin@horsens-sejlklub.dk"
+  last-update: 2026-11-13
+  last-validated: 2026-11-13
+- club:
+  name: Fredericia Sejlklub
+  uuid: c89890da-d268-4664-a581-2b1b6db441c7
+  city: Fredericia
+  state: Region of Southern Denmark
+  country: Denmark
+  founded: unknown
+  website: https://fredericiasejlklub.dk/
+  coordinates: [55.57, 9.75]
+  email: "info@fredericiasejlklub.dk"
+  last-update: 2026-11-13
+  last-validated: 2026-11-13
+- club:
+  name: Odense Sejlklub
+  uuid: e1b57928-c5c2-4712-a493-8156b069187e
+  city: Odense
+  state: Region of Southern Denmark
+  country: Denmark
+  founded: unknown
+  website: https://odensesejlklub.dk/
+  coordinates: [55.40, 10.39]
+  last-update: 2026-11-13
+  last-validated: 2026-11-13
+- club:
+  name: Aalborg Sejlklub
+  uuid: 510a2ee3-7c06-484b-b937-3859d6818d28
+  city: Aalborg
+  state: North Jutland
+  country: Denmark
+  founded: unknown
+  website: http://www.aalborgsejlklub.dk/
+  coordinates: [57.05, 9.92]
+  email: "kontor@aalborg-sejlklub.dk"
+  last-update: 2026-11-13
+  last-validated: 2026-11-13
+- club:
+  name: Nyborg Sejlforening
+  uuid: 9c451e02-c131-44c7-9f23-2150b2518d22
+  city: Nyborg
+  state: Region of Southern Denmark
+  country: Denmark
+  founded: unknown
+  website: https://nyborgsejlforening.dk/
+  coordinates: [55.31, 10.79]
+  focus: [racing, cruising, instruction, social]
+  last-update: 2026-11-13
+  last-validated: 2026-11-13
+- club:
+  name: Rungsted Sejlklub
+  uuid: e00f3e9d-077e-49b6-9c13-4b4b7e1ec103
+  city: Rungsted
+  state: Capital Region
+  country: Denmark
+  founded: unknown
+  website: https://www.rungstedsejlklub.dk/
+  coordinates: [55.88, 12.54]
+  last-update: 2026-11-13
+  last-validated: 2026-11-13
+- club:
+  name: Kolding Sejlklub
+  uuid: 984c8e52-276f-4305-a862-025af4642234
+  city: Kolding
+  state: Region of Southern Denmark
+  country: Denmark
+  founded: unknown
+  website: https://www.koldingsejlklub.dk/
+  coordinates: [55.49, 9.48]
+  email: "mail@koldingsejlklub.dk"
+  last-update: 2026-11-13
+  last-validated: 2026-11-13
+- club:
+  name: Skive Sejlklub
+  uuid: 21404116-a253-45bf-bdaf-fa4bf3026497
+  city: Skive
+  state: Central Jutland
+  country: Denmark
+  founded: unknown
+  website: https://skivesejlklub.dk/
+  coordinates: [56.57, 9.03]
+  last-update: 2026-11-13
+  last-validated: 2026-11-13
+- club:
+  name: Egå Sejlklub
+  uuid: 362a2edd-87ea-41e8-a803-62edbe61bf02
+  city: Egå
+  state: Central Jutland
+  country: Denmark
+  founded: unknown
+  website: https://www.egaasejlklub.dk/
+  coordinates: [56.210, 10.292]
+  last-update: 2026-11-13
+  last-validated: 2026-11-13
+- club:
+  name: Yacht Club Bielersee
+  uuid: 3979fcd5-81c7-4f9f-9189-585cd1e84018
+  city: Twann
+  state: Bern
+  country: Switzerland
+  founded: unknown
+  website: https://www.ycb.ch/
+  coordinates: [47.09, 7.15]
+  address: "Clubhaus Wingreis, Strandweg 67, 2513 Twann"
+  email: "info@ycb.ch"
+  focus: [racing, youth]
+  last-update: 2026-11-13
+  last-validated: 2026-11-13
+- club:
+  name: Segelclub Tribschenhorn Luzern
+  uuid: e8bf9e91-9f74-4b93-b5d3-1cc824272771
+  city: Lucerne
+  state: Lucerne
+  country: Switzerland
+  founded: unknown
+  website: https://www.sct.ch/
+  coordinates: [47.04, 8.31]
+  last-update: 2026-11-13
+  last-validated: 2026-11-13
+- club:
+  name: Yacht-Club Luzern
+  uuid: 14ec1419-eda5-4022-8f96-10aea8b290ba
+  city: Lucerne
+  state: Lucerne
+  country: Switzerland
+  founded: unknown
+  website: https://www.ycl.ch/
+  coordinates: [47.05, 8.31]
+  focus: [racing, instruction, youth]
+  last-update: 2026-11-13
+  last-validated: 2026-11-13
+- club:
+  name: See-Club Zug
+  uuid: bee5640e-ad48-490f-af75-ba09a7d02b57
+  city: Zug
+  state: Zug
+  country: Switzerland
+  founded: 1882
+  website: https://www.scz.ch/
+  coordinates: [47.17, 8.52]
+  boat-types: [rowing]
+  last-update: 2026-11-13
+  last-validated: 2026-11-13
+- club:
+  name: Cercle de la Voile de Vidy
+  uuid: 19ccf7b4-9362-4d88-8612-d6d6657b461d
+  city: Lausanne
+  state: Vaud
+  country: Switzerland
+  founded: 1953
+  website: https://www.cvvidy.ch/
+  coordinates: [46.52, 6.60]
+  phone: "+41 21 616 52 11"
+  focus: [racing, instruction]
+  last-update: 2026-11-13
+  last-validated: 2026-11-13
+- club:
+  name: Club Nautique de Versoix
+  uuid: 977b9952-5268-4f26-9f08-4dd7f691e18f
+  city: Versoix
+  state: Geneva
+  country: Switzerland
+  founded: unknown
+  website: https://www.cnv.ch/
+  coordinates: [46.28, 6.17]
+  phone: "+41 22 735 35 00"
+  focus: [racing, instruction]
+  last-update: 2026-11-13
+  last-validated: 2026-11-13
+- club:
+  name: Yacht Club Arbon
+  uuid: 6c9a0945-6a3c-4c46-9470-722a0cf68615
+  city: Arbon
+  state: Thurgau
+  country: Switzerland
+  founded: unknown
+  website: https://www.yca.ch/
+  coordinates: [47.52, 9.44]
+  focus: [racing, youth]
+  last-update: 2026-11-13
+  last-validated: 2026-11-13
+- club:
+  name: Yacht-Club Spiez
+  uuid: 234f433a-58d5-4a9e-9a75-5cd81c6ea824
+  city: Spiez
+  state: Bern
+  country: Switzerland
+  founded: unknown
+  website: https://www.ycspiez.ch/
+  coordinates: [46.69, 7.68]
+  focus: [racing, youth, social]
+  last-update: 2026-11-13
+  last-validated: 2026-11-13
+- club:
+  name: Cercle de la Voile de Moratel-Cully
+  uuid: 852ebd74-9218-4dfd-b68a-a72cd7f1f5b3
+  city: Cully
+  state: Vaud
+  country: Switzerland
+  founded: unknown
+  website: https://www.cvmc.ch/
+  coordinates: [46.49, 6.73]
+  focus: [racing, instruction, youth]
+  last-update: 2026-11-13
+  last-validated: 2026-11-13
+- club:
+  name: Des Moines Yacht Club
+  uuid: 9bc992eb-a83a-4f73-9a22-4f5009ae1c2d
+  city: Des Moines
+  state: Washington
+  country: USA
+  founded: 1957
+  website: https://www.desmoinesyachtclub.com/
+  coordinates: [47.40, -122.33]
+  email: "admin@desmoinesyachtclub.com"
+  focus: [cruising, social]
+  last-update: 2026-11-13
+  last-validated: 2026-11-13
+- club:
+  name: Sloop Tavern Yacht Club
+  uuid: 1a0b18e3-d85c-4ffc-b689-3037dea19647
+  city: Seattle
+  state: Washington
+  country: USA
+  founded: 1976
+  website: https://www.styc.org/
+  coordinates: [47.67, -122.38]
+  address: "2442 NW Market St #94, Seattle, WA 98107"
+  ownership: non-profit
+  focus: [racing]
+  boat-types: [sail]
+  last-update: 2026-11-13
+  last-validated: 2026-11-13
+- club:
+  name: Southern Idaho Sailing Association
+  uuid: 9c4b0846-3899-4b06-bd78-02fb76e7f8d3
+  city: Boise
+  state: Idaho
+  country: USA
+  founded: 1969
+  website: https://idahosailing.org/
+  coordinates: [43.62, -116.20]
+  focus: [racing, cruising, social]
+  boat-types: [sail]
+  last-update: 2026-11-13
+  last-validated: 2026-11-13
+- club:
+  name: Sandpoint Sailing Association
+  uuid: b3ae4e94-1a46-4881-ab6e-bd08ce2a2a75
+  city: Sandpoint
+  state: Idaho
+  country: USA
+  founded: unknown
+  website: https://www.sandpointsailing.org/
+  coordinates: [48.28, -116.55]
+  email: "sandpoint.sailing.info@gmail.com"
+  focus: [racing, instruction]
+  boat-types: [sail, keelboat]
+  last-update: 2026-11-13
+  last-validated: 2026-11-13
+- club:
+  name: Park City Sailing Association
+  uuid: a98a5a18-3b01-4269-bd5c-973b2e1d17fb
+  city: Park City
+  state: Utah
+  country: USA
+  founded: unknown
+  website: https://sailpc.org/
+  coordinates: [40.65, -111.50]
+  focus: [instruction, youth, racing]
+  last-update: 2026-11-13
+  last-validated: 2026-11-13
+- club:
+  name: Club Náutico Avándaro
+  uuid: 9f27d39a-3cb8-4e6f-876f-176ba7401e3f
+  city: Valle de Bravo
+  state: State of Mexico
+  country: Mexico
+  founded: unknown
+  website: https://www.facebook.com/ClubNauticoAvandaro
+  coordinates: [19.19, -100.13]
+  last-update: 2026-11-13
+  last-validated: 2026-11-13
+- club:
+  name: Yacht Club Sozopol
+  uuid: 326e6213-2141-435a-bced-557e123da1c9
+  city: Sozopol
+  country: Bulgaria
+  founded: unknown
+  website: https://www.yachtclubsozopol.com/
+  coordinates: [42.42, 27.70]
+  last-update: 2026-11-13
+  last-validated: 2026-11-13
+- club:
+  name: Royal Port Dickson Yacht Club
+  uuid: 0b14bd73-08bc-453d-8605-a1cbfbfbaa0e
+  city: Port Dickson
+  state: Negeri Sembilan
+  country: Malaysia
+  founded: unknown
+  website: https://www.facebook.com/RPDYC/
+  coordinates: [2.52, 101.80]
+  last-update: 2026-11-13
+  last-validated: 2026-11-13
