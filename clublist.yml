@@ -31082,3 +31082,168 @@
   coordinates: [2.52, 101.80]
   last-update: 2026-11-13
   last-validated: 2026-11-13
+- club:
+  name: Yacht Club Carmelo
+  uuid: c8e8c396-a6b6-4fde-81d2-31e921d0cd75
+  city: Carmelo
+  state: Colonia
+  country: Uruguay
+  founded: about 1943
+  website: https://yachtclubcarmelo.com/
+  coordinates: [-34.0096, -58.2904]
+  address: "Av. Rodó s/n, 70100 Carmelo, Colonia"
+  phone: "+598 4542 2340"
+  email: "yachtclubcarmelo@hotmail.com"
+  focus: [social]
+  last-update: 2026-11-15
+  last-validated: 2026-11-15
+- club:
+  name: Yacht Club Paysandú
+  uuid: aa68023e-7d6f-46ea-bd36-b907edd60f5d
+  city: Paysandú
+  state: Paysandú
+  country: Uruguay
+  founded: 1945
+  website: https://ycp.org.uy/
+  coordinates: [-32.32, -58.08]
+  address: "Av. Salto y Costanera, Paysandú"
+  phone: "+598 4722 2059"
+  email: "ycpaysandu@gmail.com"
+  vhf: "74"
+  focus: [racing, instruction, youth]
+  boat-types: [sail, dinghy]
+  last-update: 2026-11-15
+  last-validated: 2026-11-15
+- club:
+  name: Yacht Club Punta del Este
+  uuid: 3ca5b3f5-0245-4877-ab77-d0844c24560f
+  city: Punta del Este
+  state: Maldonado
+  country: Uruguay
+  founded: unknown
+  website: https://www.facebook.com/YachtClubPuntaDelEste/
+  coordinates: [-34.96, -54.95]
+  last-update: 2026-11-15
+  last-validated: 2026-11-15
+- club:
+  name: Enoshima Yacht Club
+  uuid: 54eed60e-2f60-4f01-a65e-2d98678449b5
+  city: Fujisawa
+  state: Kanagawa
+  country: Japan
+  founded: 1964
+  website: https://eyc.jp/
+  coordinates: [35.30, 139.48]
+  address: "1-12-2 Enoshima, Fujisawa, Kanagawa 251-0036"
+  phone: "+81 466-22-0261"
+  email: "eyc-mail@cityfujisawa.ne.jp"
+  focus: [racing, youth]
+  boat-types: [keelboat, dinghy]
+  last-update: 2026-11-15
+  last-validated: 2026-11-15
+- club:
+  name: Tokyo Yacht Club
+  uuid: 06ceb19c-8815-4d00-a656-2c345b8ffda9
+  city: Tokyo
+  state: Tokyo
+  country: Japan
+  founded: 1992
+  website: https://www.tyc.gr.jp/
+  coordinates: [35.65, 139.83]
+  ownership: non-profit
+  focus: [racing, cruising]
+  boat-types: [sail, power]
+  last-update: 2026-11-15
+  last-validated: 2026-11-15
+- club:
+  name: Ruhunu Sailing Association
+  uuid: d6dc744b-73b6-47fa-ab69-49f6ff65d532
+  city: Mirissa
+  state: Southern Province
+  country: Sri Lanka
+  founded: unknown
+  website: https://www.facebook.com/ruhunusailing/
+  coordinates: [5.95, 80.46]
+  last-update: 2026-11-15
+  last-validated: 2026-11-15
+- club:
+  name: Hobcaw Yacht Club
+  uuid: f2fa6ac5-a36c-479b-81fc-dc02743f619c
+  city: Mount Pleasant
+  state: South Carolina
+  country: USA
+  founded: unknown
+  website: https://www.hobcawyachtclub.com/
+  coordinates: [32.79, -79.86]
+  address: "180 Hobcaw Drive, Mt. Pleasant, SC 29464"
+  boat-types: [sail]
+  last-update: 2026-11-15
+  last-validated: 2026-11-15
+- club:
+  name: Beaufort Yacht and Sailing Club
+  uuid: 3a3ffaff-bcd0-4f55-9059-a73a831ad851
+  city: Beaufort
+  state: South Carolina
+  country: USA
+  founded: unknown
+  website: https://www.facebook.com/beaufortyachtandsailingclub/
+  coordinates: [32.43, -80.67]
+  last-update: 2026-11-15
+  last-validated: 2026-11-15
+- club:
+  name: Indian River Yacht Club
+  uuid: 0cae865c-35a0-4473-85c2-6128dd8be65f
+  city: Millsboro
+  state: Delaware
+  country: USA
+  founded: 1941
+  website: https://www.indianriveryachtclub.org/
+  coordinates: [38.59, -75.29]
+  phone: "+1 302-945-3606"
+  focus: [social]
+  last-update: 2026-11-15
+  last-validated: 2026-11-15
+- club:
+  name: Rehoboth Bay Sailing Association
+  uuid: 68853b5e-4aae-425b-9b7d-019ede7c9dd8
+  city: Dewey Beach
+  state: Delaware
+  country: USA
+  founded: unknown
+  website: https://www.rbsa.org/
+  coordinates: [38.68, -75.08]
+  address: "38767 Rehoboth Bay Sailing Assoc. Lane, Dewey Beach, DE 19971"
+  email: "info@rbsa.org"
+  ownership: non-profit
+  focus: [instruction, racing, youth]
+  boat-types: [dinghy, multihull, paddle]
+  last-update: 2026-11-15
+  last-validated: 2026-11-15
+- club:
+  name: New Castle Sailing Club
+  uuid: a7b91ad7-497b-485b-8461-caaecb81aa1e
+  city: New Castle
+  state: Delaware
+  country: USA
+  founded: unknown
+  website: https://www.newcastlesailingclub.org/
+  coordinates: [39.66, -75.57]
+  address: "614 South St, New Castle, DE 19720"
+  email: "MemberNCSC@gmail.com"
+  focus: [instruction, racing, cruising]
+  boat-types: [sail]
+  last-update: 2026-11-15
+  last-validated: 2026-11-15
+- club:
+  name: Lake Monroe Sailing Association
+  uuid: b56e4d34-2cd1-4889-b1cc-c08f99fa8c33
+  city: Bloomington
+  state: Indiana
+  country: USA
+  founded: unknown
+  website: https://www.lakemonroesailing.com/
+  coordinates: [39.17, -86.53]
+  focus: [racing, instruction, youth]
+  boat-types: [sail]
+  last-update: 2026-11-15
+  last-validated: 2026-11-15

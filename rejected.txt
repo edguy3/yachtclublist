@@ -59,6 +59,7 @@ Bedford Basin Yacht Club	site unreachable	bbyc.ns.ca
 Belmont 16ft Sailing Club	site unreachable	belmont16footers.com.au
 Belmont Yacht Club	site parked, hijacked or broken	www.belmontyc.org
 Benicia Yacht Club	site parked, hijacked or broken	www.beniciayachtclub.com
+Bentota Windsurfing Club	searched, no website found	
 Bequia Sailing Club	site parked, hijacked or broken	bequiasailingclub.com
 Bergens Seilforening	site unreachable	bsail.no
 Bewl Valley Sailing Club	site unreachable	bewl-valley-sc.org.uk
@@ -197,6 +198,7 @@ Discovery Bay Marina Club	site unreachable	dbmc.com.hk
 Dobroyd Aquatic Club	site unreachable	sydney.dialix.oz.au
 Dobson Yacht Club	site unreachable	dobsonyachtclub.ca
 Dog Town Yacht Club	site unreachable	dtyc.org
+Doha Sailing Club	searched, no website found	
 Dominica Yacht Club	site parked, hijacked or broken	dominicayachtclub.com
 Down Cruising Club	site unreachable	www.downcruisingclub.co.uk
 Duluth Community Sailing Association	site unreachable	computerpro.com
@@ -281,7 +283,6 @@ High Rock Yacht Club	site unreachable	greensboro.com
 High Seas Sailing Club	site parked, hijacked or broken	www.hssc.org.uk
 Highland Yacht Club (Scarborough, ON)	highlandyachtclub.org is a Tennessee club; no site for the Ontario club	
 Hobart Sailing Club	site unreachable	sandybaysailing.org.au
-Hobcaw Yacht Club	site parked, hijacked or broken	www.hycclub.org
 Hollywood Yacht Club	site unreachable	hollywoodyachtclub.org
 Holmes Lake Sailing Club	site unreachable	eteamz.com
 Holyhead Sailing Club	site unreachable	holyheadsc.org.uk
@@ -320,6 +321,7 @@ Joseph Conrad Yacht Club	site parked, hijacked or broken	www.jcycchicago.com
 Julien Dubuque Yacht Club	site unreachable	jdyc.org
 Jumbles Sailing Club	site unreachable	jumbles.org.uk
 Jupiter Yacht Club	not a club (school, charter or business)	jycmarina.com
+Kalpitiya Windsports Club	searched, no website found	
 Kangaroo Island Yacht Club	site unreachable	nexus.edu.au
 Kansas City Sailing, LLC	not a club (school, charter or business)	www.kansascitysailing.com
 Keauhou Kona Yacht Club	site unreachable	www.keauhoukonayachtclub.org
@@ -359,7 +361,6 @@ Lake Jindabyne Sailing Club	site unreachable	blamac.com.au
 Lake Juliette Trailer Sailors Club	site unreachable	lakejuliettesailingclub.org
 Lake Macbride Sailing Club	site unreachable	lakemacbridesailingclub.org
 Lake Monona Sailing Club	site unreachable	lakemononasailing.org
-Lake Monroe Sailing Assoc.	site unreachable	bloomington.in.us
 Lake Pend Oreille Yacht Club	site parked, hijacked or broken	lpoyc.org
 Lake Pleasant Sailing Club	site unreachable	clubs.sailnet.com
 Lake St. Clair Sailing School	not a club (school, charter or business)	www.lakestclairsailingschool.com
@@ -588,6 +589,7 @@ Royal Bahamas Yacht Squadron	searched, no website found
 Royal Channel Islands Yacht Club - Guernsey	site unreachable	rciyc.com
 Royal Club Nautique Sambre et Meuse	site unreachable	rcnsm.be
 Royal Clyde Yacht Club	site unreachable	royalclyde.org
+Royal Colombo Yacht Club	searched, no website found	
 Royal Cork Yacht Club	site unreachable	royalcork.com
 Royal Darwin Sailing Club	site unreachable	dwnsail.com.au
 Royal Dee Yacht Club	site unreachable	royaldee.org.uk
@@ -833,7 +835,6 @@ Yacht Club of Paros	site unreachable	ycparos.gr
 Yacht Club Of Pleasantville	no website listed	
 Yacht Club Portoroz	site unreachable	jk-burja.si
 Yacht Club Praha	not a club (school, charter or business)	yachtclub.cz
-Yacht Club Punta del Este	site unreachable	ycpe.org.uy
 Yacht Club Roja	site unreachable	rojasjahtklubs.lv
 Yacht Club Rosario	site unreachable	ycrosario.com.ar
 Yacht Club Saint-Pierre (Club de Voile)	site unreachable	voilespm.org﻿
