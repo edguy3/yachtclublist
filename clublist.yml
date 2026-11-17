@@ -31247,3 +31247,282 @@
   boat-types: [sail]
   last-update: 2026-11-15
   last-validated: 2026-11-15
+- club:
+  name: Koninklijke Watersportvereniging De Kaag
+  uuid: f1b1cc9d-1c6f-45de-a3e4-73fc35e4eedd
+  city: Kaag
+  state: South Holland
+  country: Netherlands
+  founded: 1910
+  website: https://www.kwvdekaag.nl/
+  coordinates: [52.21, 4.55]
+  focus: [racing, youth]
+  boat-types: [sail, keelboat, rowing]
+  last-update: 2026-11-16
+  last-validated: 2026-11-16
+- club:
+  name: Koninklijke Watersport-Vereniging Sneek
+  uuid: f3c3f6e2-3380-4ff2-92f3-ae576530f678
+  city: Sneek
+  state: Friesland
+  country: Netherlands
+  founded: 1851
+  website: https://www.kws-sneek.nl/
+  coordinates: [53.03, 5.66]
+  email: "bestuur@kws-sneek.nl"
+  focus: [racing, instruction]
+  boat-types: [sail]
+  last-update: 2026-11-16
+  last-validated: 2026-11-16
+- club:
+  name: Koninklijke Zeil- en Roeivereniging Hollandia
+  uuid: 50cc1cc6-fd47-4585-8747-549a0e57cfb2
+  city: Medemblik
+  state: North Holland
+  country: Netherlands
+  founded: 1882
+  website: https://kzrvhollandia.nl/
+  coordinates: [52.77, 5.11]
+  focus: [racing, instruction]
+  boat-types: [sail, rowing]
+  last-update: 2026-11-16
+  last-validated: 2026-11-16
+- club:
+  name: Watersportvereniging Hoorn
+  uuid: 67f604b4-e8dc-4c44-a000-4fee29e92d9d
+  city: Hoorn
+  state: North Holland
+  country: Netherlands
+  founded: unknown
+  website: https://wsvhoorn.nl/
+  coordinates: [52.64, 5.06]
+  phone: "+31 229 213540"
+  focus: [racing, youth]
+  boat-types: [sail, rowing]
+  last-update: 2026-11-16
+  last-validated: 2026-11-16
+- club:
+  name: Túravitorlás Sportklub
+  uuid: 1143bfed-60de-40c5-981d-c0239db46c19
+  city: Budapest
+  state: Budapest
+  country: Hungary
+  founded: 1964
+  website: https://www.tvsk.hu/
+  email: "tvsk@tvsk.hu"
+  focus: [cruising, racing, youth]
+  boat-types: [sail]
+  last-update: 2026-11-16
+  last-validated: 2026-11-16
+- club:
+  name: Jedriličarski klub Palić
+  uuid: b929f935-552d-4b6e-9a25-a75d5958b674
+  city: Palić
+  state: Vojvodina
+  country: Serbia
+  founded: unknown
+  website: https://www.facebook.com/JKPalic/
+  coordinates: [46.10, 19.76]
+  last-update: 2026-11-16
+  last-validated: 2026-11-16
+- club:
+  name: Jedriličarski klub Zemun
+  uuid: cffbb320-14e2-4c7e-b1a2-ed8c6acc7821
+  city: Belgrade
+  state: Belgrade
+  country: Serbia
+  founded: unknown
+  website: https://www.facebook.com/jkzemun/
+  coordinates: [44.84, 20.41]
+  last-update: 2026-11-16
+  last-validated: 2026-11-16
+- club:
+  name: SailMaine
+  uuid: bd1de080-102f-4d5e-8ce4-dfbda03366bb
+  city: Portland
+  state: Maine
+  country: USA
+  founded: unknown
+  website: https://www.sailmaine.org/
+  coordinates: [43.65, -70.26]
+  address: "Amethyst Lot Park, end of Commercial St and Thames St, Portland, ME 04101"
+  focus: [instruction, youth, racing]
+  boat-types: [sail]
+  last-update: 2026-11-16
+  last-validated: 2026-11-16
+- club:
+  name: Buckeye Lake Yacht Club
+  uuid: 167a49c3-de73-461c-8d3b-225773aa7799
+  city: Buckeye Lake
+  state: Ohio
+  country: USA
+  founded: 1906
+  website: https://buckeyelakeyc.com/
+  coordinates: [39.93, -82.48]
+  last-update: 2026-11-16
+  last-validated: 2026-11-16
+- club:
+  name: Vermilion Boat Club
+  uuid: bd0700e5-5b05-49e0-bb20-10e093372486
+  city: Vermilion
+  state: Ohio
+  country: USA
+  founded: unknown
+  website: https://vermilionboatclub.com/
+  coordinates: [41.42, -82.36]
+  address: "5416 Liberty Ave., Vermilion, OH 44089"
+  phone: "+1 440-967-6634"
+  focus: [social, youth]
+  boat-types: [sail, power]
+  last-update: 2026-11-16
+  last-validated: 2026-11-16
+- club:
+  name: Bay View Yacht Club
+  uuid: 355dd5c5-2806-4af5-9279-dd5ed39918fc
+  city: Toledo
+  state: Ohio
+  country: USA
+  founded: unknown
+  website: https://www.bvyc.org/
+  coordinates: [41.70, -83.47]
+  address: "3902 N Summit Street, Toledo, OH 43611"
+  phone: "+1 419-729-0731"
+  focus: [social]
+  last-update: 2026-11-16
+  last-validated: 2026-11-16
+- club:
+  name: Bay Boat Club
+  uuid: 6550e18e-9498-41f5-b122-d0562e24b76b
+  city: Bay Village
+  state: Ohio
+  country: USA
+  founded: unknown
+  website: https://www.bayboatclub.org/
+  coordinates: [41.48, -81.92]
+  last-update: 2026-11-16
+  last-validated: 2026-11-16
+- club:
+  name: Conneaut Boat Club
+  uuid: 9cc5b65c-4d2f-44a4-9264-c0f86551410a
+  city: Conneaut
+  state: Ohio
+  country: USA
+  founded: unknown
+  website: https://www.conneautboatclub.com/
+  coordinates: [41.96, -80.55]
+  address: "1301 Marina Drive, Conneaut, OH 44030"
+  phone: "+1 440-593-6162"
+  last-update: 2026-11-16
+  last-validated: 2026-11-16
+- club:
+  name: Fairport Harbor Yacht Club
+  uuid: f90b2de0-7e96-4bec-a12e-fea5527d179c
+  city: Fairport Harbor
+  state: Ohio
+  country: USA
+  founded: unknown
+  website: https://www.fhyc.com/
+  coordinates: [41.75, -81.27]
+  address: "1177 High Street, Fairport Harbor, OH 44077"
+  email: "admin@fhyc.com"
+  last-update: 2026-11-16
+  last-validated: 2026-11-16
+- club:
+  name: Indian Hill Boat Club
+  uuid: ccf14d1e-bd4f-4e90-b9f5-87ff6e6fb7bf
+  city: Maumee
+  state: Ohio
+  country: USA
+  founded: unknown
+  website: https://indianhillbc.com/
+  coordinates: [41.56, -83.65]
+  address: "1032 River Road, Maumee, OH 43537"
+  focus: [social]
+  last-update: 2026-11-16
+  last-validated: 2026-11-16
+- club:
+  name: Jolly Roger Sailing Club
+  uuid: 32ee5c9d-86ef-4c38-975e-40f031ba005b
+  city: Toledo
+  state: Ohio
+  country: USA
+  founded: 1946
+  website: https://www.jollyrogersailingclub.com/
+  coordinates: [41.66, -83.56]
+  focus: [racing, instruction, youth]
+  boat-types: [sail]
+  last-update: 2026-11-16
+  last-validated: 2026-11-16
+- club:
+  name: Lakefront Yacht Club
+  uuid: 56fe2d2a-9336-4580-81a3-35d6a348a9a8
+  city: Port Clinton
+  state: Ohio
+  country: USA
+  founded: unknown
+  website: https://www.lakefrontyachtclub.com/
+  coordinates: [41.523, -82.974]
+  address: "1805 W. Lakeshore Dr., Port Clinton, OH"
+  last-update: 2026-11-16
+  last-validated: 2026-11-16
+- club:
+  name: Lake County Yacht Club
+  uuid: addb2476-77ce-46ab-b7ec-090e827142ab
+  city: Eastlake
+  state: Ohio
+  country: USA
+  founded: 1965
+  website: https://lcycohio.com/
+  coordinates: [41.65, -81.45]
+  address: "35979 Lakeshore Blvd, Eastlake, OH"
+  last-update: 2026-11-16
+  last-validated: 2026-11-16
+- club:
+  name: Middle Bass Island Yacht Club
+  uuid: 604eaca4-aef0-42cb-ba49-70778ea94587
+  city: Middle Bass
+  state: Ohio
+  country: USA
+  founded: 1989
+  website: https://www.mbiyc.com/
+  coordinates: [41.68, -82.81]
+  address: "1679 Fox Road, Middle Bass, OH 43446"
+  vhf: "9"
+  last-update: 2026-11-16
+  last-validated: 2026-11-16
+- club:
+  name: Put-in-Bay Yacht Club
+  uuid: 7e4f1b49-a4eb-4175-ac46-a8ac65da4188
+  city: Put-in-Bay
+  state: Ohio
+  country: USA
+  founded: unknown
+  website: https://www.pibyc.org/
+  coordinates: [41.65, -82.82]
+  address: "536 W. Bayview Avenue, Put-in-Bay, OH 43456"
+  last-update: 2026-11-16
+  last-validated: 2026-11-16
+- club:
+  name: Point Place Boat Club
+  uuid: fb56378b-4cd1-4f38-a5ff-55020fbb56d9
+  city: Toledo
+  state: Ohio
+  country: USA
+  founded: unknown
+  website: https://www.facebook.com/people/Point-Place-Boat-Club-Toledo-OH/100034847962046/
+  coordinates: [41.70, -83.48]
+  last-update: 2026-11-16
+  last-validated: 2026-11-16
+- club:
+  name: River View Yacht Club
+  uuid: 73c27876-3a07-4583-b820-e7bee0a44cd9
+  city: Toledo
+  state: Ohio
+  country: USA
+  founded: unknown
+  website: https://rvyc.us/
+  coordinates: [41.70, -83.49]
+  ownership: member-owned
+  guest-moorings: "Seven guest slips at the club's 249-dock marina on the Ottawa River."
+  last-update: 2026-11-16
+  last-validated: 2026-11-16

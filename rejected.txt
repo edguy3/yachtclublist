@@ -2,7 +2,6 @@
 700 Yacht Club	site unreachable	700yachtclub.com
 Abaco Club	not a club (school, charter or business)	theabacoclub.com
 Abanico Yacht Club	site unreachable	abanicoyachtclub.com
-Aberdeen Boat Club	site unreachable	aberdeenboatclub.com
 Able Sail	not a club (school, charter or business)	www.ablesail.ca/support.html
 Abu Dhabi Sailing & Yacht Club	site parked, hijacked or broken	adsyc.ae
 Admirals Annapolis Yacht Club	site parked, hijacked or broken	aaycmaryland.com
@@ -43,6 +42,7 @@ Aylesford Yacht Club	site unreachable	www.alyc.ca
 Bahrain Yacht Club	site unreachable	fabbahrain.com
 Balboa Basin Yacht Club	site unreachable	balboabasinyachtclub.org
 Balboa Island Yacht Club	no website listed	
+Balboa Yacht Club, Panama	balboayachtclub.com is a California club; no site for the Panama club	
 Baldwin Harbor Yacht Club (Freeport, NY)	searched, no website found; may be closed	
 Baltimore Annapolis Sailing Club	site unreachable	mdsailing.com
 Baltimore City Yacht Association	site parked, hijacked or broken	bcya.com
@@ -205,6 +205,7 @@ Duluth Community Sailing Association	site unreachable	computerpro.com
 Duncan Bay Boat Club	site unreachable	duncanbay.org
 East Carolina Sailing School	not a club (school, charter or business)	eastcarolinasailing.com
 East Coast Sailing School	not a club (school, charter or business)	www.eastcoastsailingschool.com
+East Light Yacht Club	site parked, hijacked or broken	eastlightyachtclub.com
 East Rand Yacht Club	site unreachable	sailrsa.org.za
 East Rockaway Yacht Club (East Rockaway, NY)	reported closed	
 Eastern Shore Sailing Association	site unreachable	essasailing.com
@@ -294,6 +295,7 @@ Hudson River Yacht Club	no website listed
 Hull Sailing Club	site unreachable	karoo.net
 Humber Bay Sailing Centre	not a club (school, charter or business)	hbsailing.com
 Humber Yawl Club	site unreachable	hisnet.u-net.com
+Huron Yacht Club	site parked, hijacked or broken	huronyachtclub.com
 Iate Clube do Espirito Santo	site unreachable	icesvitoria.com.br
 Iate Clube do Natal	site unreachable	iateclubedonatal.com.br
 Iate Clube Icarai	site unreachable	iateclubeicarai.com.br
@@ -363,6 +365,7 @@ Lake Macbride Sailing Club	site unreachable	lakemacbridesailingclub.org
 Lake Monona Sailing Club	site unreachable	lakemononasailing.org
 Lake Pend Oreille Yacht Club	site parked, hijacked or broken	lpoyc.org
 Lake Pleasant Sailing Club	site unreachable	clubs.sailnet.com
+Lake Region Sailing Club	searched, no website found	
 Lake St. Clair Sailing School	not a club (school, charter or business)	www.lakestclairsailingschool.com
 Lake Tahoe Windjammers Yacht Club	site unreachable	tahoewindjammers.com
 Lake Townsend Yacht Club	site unreachable	laketownsendyachtclub.com
@@ -411,6 +414,7 @@ Martinon Yacht Club	no website listed
 Maryland Capital Yacht Club (Annapolis, MD)	already listed as Annapolis Maryland Capital Yacht Club	
 Maryland School of Sailing and Seamanship	not a club (school, charter or business)	www.mdschool.com
 Maui Boat and Yacht Club	site unreachable	www.mauiboatandyachtclub.com
+Maumee River Yacht Club	site parked, hijacked or broken	maumeeriveryachtclub.com
 Mayflower Sailing Club	site unreachable	mayflowersc.org.uk&
 McCrae Yacht Club	site unreachable	surf.net.au
 Medicine Lake Sailing Club	site unreachable	medicinelakesailingclub.org
@@ -484,6 +488,7 @@ Nottingham Sailing Club	site unreachable	homepages.rya-online.net
 Nur Shrine Yacht Club	no website listed	
 Nynäshamns Segelsällskap	site parked, hijacked or broken	nynashamnssegelsallskap.nu
 Oceans 101 Sailing School	not a club (school, charter or business)	www.oceans101.com
+Oconee Sailing and Yacht Club	searched, no website found	
 Odyssey Sailing School	not a club (school, charter or business)	www.odysseysailing.com
 Offshore Sailing School	not a club (school, charter or business)	www.offshoresailing.com
 Offshore Yachting club of Rhodes	site parked, hijacked or broken	www.asiathr.gr
@@ -687,6 +692,7 @@ South Coast Sailing Adventures	not a club (school, charter or business)	www.sout
 South Minneford Yacht Club	site parked, hijacked or broken	www.southminneford.com
 South Port Sailing Club	site unreachable	southportsailingclub.on.ca
 South Portland Sailing Center	not a club (school, charter or business)	southportlandsailingcenter.com
+South Shore Cruising Club	site parked, hijacked or broken	southshorecruisingclub.homestead.com
 South Sound Sailing Society	site unreachable	olywa.net
 Southern Most Sailing School	not a club (school, charter or business)	southernmostsailingschool.com
 Southern Sailing Club	site unreachable	www.southernsailing.org
@@ -785,12 +791,15 @@ Waikiki Sailing School	not a club (school, charter or business)	www.waikikisaili
 Wallaroo Sailing Club	site unreachable	websites.sportstg.com
 Warwick Sailing Club	site unreachable	halenet.com.au
 Wasa Segelförening -Yacht Club	site unreachable	wasasegelforening.com
+West Channel Yacht Club	site parked, hijacked or broken	west-channel.com
 West Coast Multihulls	not a club (school, charter or business)	www.charter-catamaran.com
 West Cove Yacht Club	no website listed	
 West Kootenay Sailing Club	site parked, hijacked or broken	ciao.org
+West Point Lake Sailing Club	searched, no website found	
 West Seattle Yacht Club	duplicate or parked	www.westseattleyachtclub.org
 Western Beach Boat Club	site unreachable	geelongwesternbeachboatclub.com
 Western Yacht Club	site unreachable	westernyachtclub.com&
+Westlake Yachting Club	site parked, hijacked or broken	westlakeyachtingclub.com
 Weymouth & Portland National Sailing Academy	not a club (school, charter or business)	www.wpnsa.org.uk
 Whangarei Cruising Club	site unreachable	whangareicruisingclub.org.nz
 White Cliffs Motor & Yacht Club	site unreachable	wcmyc.co.uk&
