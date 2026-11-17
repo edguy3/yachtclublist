@@ -31526,3 +31526,431 @@
   guest-moorings: "Seven guest slips at the club's 249-dock marina on the Ottawa River."
   last-update: 2026-11-16
   last-validated: 2026-11-16
+- club:
+  name: Yacht Club Bregenz
+  uuid: b2ce1bd0-ab6b-4311-9b22-58fd6cfa9201
+  city: Bregenz
+  state: Vorarlberg
+  country: Austria
+  founded: 1925
+  website: https://www.ycb.at/
+  coordinates: [47.50, 9.74]
+  address: "Seglerweg 7, 6900 Bregenz"
+  email: "ycb@ycb.at"
+  focus: [racing, youth, social]
+  boat-types: [sail, keelboat, dinghy]
+  last-update: 2026-11-17
+  last-validated: 2026-11-17
+- club:
+  name: Yachtclub Zell am See
+  uuid: 02aba8d5-f4ef-4baa-bce5-ba477188b865
+  city: Zell am See
+  state: Salzburg
+  country: Austria
+  founded: 1959
+  website: https://www.yachtclub-zell.at/
+  coordinates: [47.32, 12.80]
+  email: "vorstand@yachtclub-zell.at"
+  ownership: non-profit
+  focus: [racing, youth]
+  boat-types: [sail, dinghy]
+  last-update: 2026-11-17
+  last-validated: 2026-11-17
+- club:
+  name: Yacht-Club Weiden
+  uuid: fd30b430-84e3-48fd-8f4f-b6d56e1995c5
+  city: Weiden am See
+  state: Burgenland
+  country: Austria
+  founded: 1983
+  website: https://www.ycw.at/
+  coordinates: [47.92, 16.87]
+  address: "Seebad 3, 7121 Weiden am See"
+  email: "ahoi@ycw.at"
+  focus: [racing, cruising, youth, social]
+  boat-types: [sail, multihull]
+  last-update: 2026-11-17
+  last-validated: 2026-11-17
+- club:
+  name: Yachtclub Oggau
+  uuid: f63740c5-f1ae-4aad-b4a5-b47f2da91aac
+  city: Oggau
+  state: Burgenland
+  country: Austria
+  founded: 1999
+  website: https://www.ycog.at/
+  coordinates: [47.83, 16.67]
+  email: "info@ycog.at"
+  ownership: non-profit
+  focus: [racing, social]
+  boat-types: [sail]
+  last-update: 2026-11-17
+  last-validated: 2026-11-17
+- club:
+  name: Segelclub Kammersee
+  uuid: 73733580-2f6a-4dd3-b9e1-cc2671fb5d13
+  city: Seewalchen am Attersee
+  state: Upper Austria
+  country: Austria
+  founded: 1967
+  website: https://sck.at/
+  coordinates: [47.95, 13.58]
+  address: "Inselweg 13, 4863 Seewalchen am Attersee"
+  email: "office@sck.at"
+  focus: [racing, youth]
+  boat-types: [sail, dinghy, keelboat]
+  last-update: 2026-11-17
+  last-validated: 2026-11-17
+- club:
+  name: Segelsportclub Podersdorf
+  uuid: 059819c6-58df-4402-919c-a34cf1d187d9
+  city: Podersdorf am See
+  state: Burgenland
+  country: Austria
+  founded: unknown
+  website: https://www.scpodo.at/
+  coordinates: [47.85, 16.83]
+  email: "office@scpodo.at"
+  focus: [youth]
+  boat-types: [sail, dinghy, multihull, windsurf]
+  last-update: 2026-11-17
+  last-validated: 2026-11-17
+- club:
+  name: Union Yacht Club Wolfgangsee
+  uuid: 0243910e-f7f4-45da-8f1f-9a772ebd052a
+  city: St. Gilgen
+  state: Salzburg
+  country: Austria
+  founded: 1901
+  website: https://www.uyc-wolfgangsee.at/
+  coordinates: [47.77, 13.37]
+  address: "Mondseestraße 27, 5340 St. Gilgen"
+  phone: "+43 6227 2542"
+  email: "office@uyc-wolfgangsee.at"
+  focus: [racing, youth, instruction]
+  boat-types: [sail, dinghy]
+  last-update: 2026-11-17
+  last-validated: 2026-11-17
+- club:
+  name: Union-Yacht-Club Attersee
+  uuid: ea35cd4a-da45-4b7c-92cc-41f9f81f51b1
+  city: Attersee am Attersee
+  state: Upper Austria
+  country: Austria
+  founded: 1886
+  website: https://www.uycas.at/
+  coordinates: [47.92, 13.54]
+  address: "Aufham 35, 4864 Attersee am Attersee"
+  phone: "+43 7666 7362"
+  email: "sekretariat@uycas.at"
+  focus: [racing, youth, instruction, social]
+  boat-types: [sail, dinghy, keelboat]
+  last-update: 2026-11-17
+  last-validated: 2026-11-17
+- club:
+  name: Union-Yacht-Club Mondsee
+  uuid: a8d6f516-39b0-4e31-8aed-1d39098fb88b
+  city: Mondsee
+  state: Upper Austria
+  country: Austria
+  founded: 1908
+  website: https://www.uyc-mondsee.at/
+  coordinates: [47.86, 13.35]
+  address: "Am Ostufer 245, 5310 Mondsee"
+  email: "club@uyc-mondsee.at"
+  focus: [racing, youth]
+  boat-types: [sail]
+  last-update: 2026-11-17
+  last-validated: 2026-11-17
+- club:
+  name: Union Yacht Club Wörthersee
+  uuid: b20e97f7-379a-4feb-a6d9-1f2baf79e57c
+  city: Maria Wörth
+  state: Carinthia
+  country: Austria
+  founded: 1886
+  website: https://uycwoe.at/
+  coordinates: [46.62, 14.15]
+  address: "Wörthersee Süduferstraße 236, 9082 Maria Wörth"
+  email: "office@uycwoe.at"
+  focus: [racing, youth, instruction, social]
+  boat-types: [sail]
+  last-update: 2026-11-17
+  last-validated: 2026-11-17
+- club:
+  name: Wiener Yacht Club
+  uuid: c0f96b5e-79fe-4f81-8689-9aab80ee4f2c
+  city: Vienna
+  state: Vienna
+  country: Austria
+  founded: 1924
+  website: https://www.wyc.at/
+  coordinates: [48.24, 16.42]
+  address: "An der Oberen Alten Donau 92, 1210 Wien"
+  phone: "+43 1 2786385"
+  email: "office@wyc.at"
+  ownership: non-profit
+  focus: [racing, youth]
+  boat-types: [sail, dinghy]
+  last-update: 2026-11-17
+  last-validated: 2026-11-17
+- club:
+  name: Kärntner Yachtclub Ossiacher See
+  uuid: f4eb55ef-e22d-4eb4-be0d-013db1e883db
+  city: Bodensdorf
+  state: Carinthia
+  country: Austria
+  founded: unknown
+  website: https://www.kyco.at/
+  coordinates: [46.69, 13.97]
+  address: "Helmut Wobischweg 90, 9551 Bodensdorf"
+  email: "office@kyco.at"
+  ownership: non-profit
+  focus: [racing, youth]
+  boat-types: [sail]
+  last-update: 2026-11-17
+  last-validated: 2026-11-17
+- club:
+  name: Yachtclub Hard
+  uuid: 9a871315-a3c2-4604-b843-e80121b4e783
+  city: Hard
+  state: Vorarlberg
+  country: Austria
+  founded: 1926
+  website: https://ych.at/
+  coordinates: [47.49, 9.69]
+  address: "Lochbachstraße 14, 6971 Hard"
+  ownership: non-profit
+  focus: [racing, youth, cruising]
+  boat-types: [sail]
+  last-update: 2026-11-17
+  last-validated: 2026-11-17
+- club:
+  name: Union Yacht Club Neusiedlersee
+  uuid: f3bd321b-539c-4cc8-a0df-2d3f25ccf9c4
+  city: Neusiedl am See
+  state: Burgenland
+  country: Austria
+  founded: unknown
+  website: https://www.uycns.at/
+  coordinates: [47.94, 16.83]
+  address: "Seegelände 4, 7100 Neusiedl am See"
+  phone: "+43 670 6073887"
+  email: "office@uycns.at"
+  focus: [racing, youth]
+  boat-types: [sail]
+  last-update: 2026-11-17
+  last-validated: 2026-11-17
+- club:
+  name: Seehamer Segelclub
+  uuid: e21603e0-25b8-49ff-9a67-e05c8ed51a3e
+  city: Seeham
+  state: Salzburg
+  country: Austria
+  founded: 1961
+  website: https://www.ssc-seeham.at/
+  coordinates: [47.97, 13.08]
+  address: "Hauptstraße 72, 5164 Seeham"
+  email: "office@ssc-seeham.at"
+  ownership: non-profit
+  focus: [racing, youth]
+  boat-types: [sail]
+  last-update: 2026-11-17
+  last-validated: 2026-11-17
+- club:
+  name: Petite Calivigny Yacht Club
+  uuid: 21701600-7f2e-46d4-b31e-5e59d09a4e40
+  city: Egmont
+  state: Saint George
+  country: Grenada
+  founded: 2010
+  website: https://pcycgrenada.com/
+  coordinates: [12.01, -61.73]
+  address: "Le Phare Bleu, Egmont, Grenada"
+  phone: "+1 473-534-0893"
+  email: "pcycgrenada@gmail.com"
+  focus: [racing, instruction, youth]
+  boat-types: [sail, multihull]
+  last-update: 2026-11-17
+  last-validated: 2026-11-17
+- club:
+  name: Casper Boat Club
+  uuid: aca0cc41-872e-450a-9572-c4e839e2b766
+  city: Alcova
+  state: Wyoming
+  country: USA
+  founded: unknown
+  website: https://casperboatclub.com/
+  coordinates: [42.55, -106.72]
+  focus: [racing, social]
+  boat-types: [sail]
+  last-update: 2026-11-17
+  last-validated: 2026-11-17
+- club:
+  name: Saylorville Yacht Club
+  uuid: 8f29949e-5d84-4048-a16c-93907f56fbc5
+  city: Polk City
+  state: Iowa
+  country: USA
+  founded: unknown
+  website: https://saylorvilleyachtclub.wildapricot.org/
+  coordinates: [41.77, -93.71]
+  address: "PO Box 403, Polk City, IA 50226"
+  focus: [racing, cruising, social, instruction]
+  boat-types: [sail]
+  last-update: 2026-11-17
+  last-validated: 2026-11-17
+- club:
+  name: Julien Dubuque Yacht Club
+  uuid: 6beab06d-1edf-4ddf-841a-8dc65f2aeaae
+  city: Dubuque
+  state: Iowa
+  country: USA
+  founded: 1960
+  website: https://jdyc.org/
+  coordinates: [42.50, -90.66]
+  focus: [social, cruising]
+  last-update: 2026-11-17
+  last-validated: 2026-11-17
+- club:
+  name: Twin Lakes Sailing Association
+  uuid: 63ab0a4e-1e13-434b-98c2-4762ea9eb57b
+  city: Twin Lakes
+  state: Iowa
+  country: USA
+  founded: 1974
+  website: http://twinlakessailing.com/
+  coordinates: [42.48, -94.64]
+  focus: [racing, social]
+  boat-types: [sail, dinghy, multihull]
+  last-update: 2026-11-17
+  last-validated: 2026-11-17
+- club:
+  name: Pine Beach Yacht Club
+  uuid: eae7f9b0-cc01-4b6d-813f-102fdd494e1b
+  city: Pine Beach
+  state: New Jersey
+  country: USA
+  founded: unknown
+  website: https://www.pbycnj.org/
+  coordinates: [39.93, -74.17]
+  address: "700 Riverside Drive, Pine Beach, NJ 08741"
+  email: "inquiries@pbycnj.org"
+  focus: [racing, instruction, youth, social]
+  boat-types: [sail]
+  last-update: 2026-11-17
+  last-validated: 2026-11-17
+- club:
+  name: Haven Beach Club
+  uuid: 2ef533f1-7c73-48cb-a31f-fd156914f696
+  city: Long Beach Township
+  state: New Jersey
+  country: USA
+  founded: unknown
+  website: https://hbc1947.clubexpress.com/
+  coordinates: [39.57, -74.23]
+  focus: [racing, instruction, youth, social]
+  boat-types: [sail]
+  last-update: 2026-11-17
+  last-validated: 2026-11-17
+- club:
+  name: Princeton Sailing
+  uuid: c54b6b24-f58e-4efc-ad74-5bccaac3ac64
+  city: Princeton
+  state: New Jersey
+  country: USA
+  founded: 1928
+  website: https://princetonsailing.campusrec.princeton.edu/
+  coordinates: [40.35, -74.66]
+  focus: [racing]
+  type: [collegiate]
+  boat-types: [sail, dinghy]
+  last-update: 2026-11-17
+  last-validated: 2026-11-17
+- club:
+  name: Sandy Hook Bay Catamaran Club
+  uuid: 86872f3f-a375-4c91-8849-4e7b1d5d1e2b
+  city: Atlantic Highlands
+  state: New Jersey
+  country: USA
+  founded: unknown
+  website: https://www.fleet250.org/
+  coordinates: [40.41, -74.04]
+  address: "130 Center Ave, Atlantic Highlands, NJ 07716"
+  email: "shbccmembers@gmail.com"
+  focus: [racing, social]
+  boat-types: [sail, multihull]
+  last-update: 2026-11-17
+  last-validated: 2026-11-17
+- club:
+  name: SEAS Morris
+  uuid: 23536fc7-528c-4b44-a5b2-4ac5f055a895
+  city: Budd Lake
+  state: New Jersey
+  country: USA
+  founded: 1975
+  website: https://seas-morris.squarespace.com/
+  coordinates: [40.87, -74.73]
+  email: "seasmorris@gmail.com"
+  focus: [instruction, cruising, social]
+  boat-types: [sail, dinghy, keelboat, multihull]
+  last-update: 2026-11-17
+  last-validated: 2026-11-17
+- club:
+  name: SEAS Bergen
+  uuid: e7bb6aca-aedb-46c4-9ff9-7754beb454b8
+  city: Maywood
+  state: New Jersey
+  country: USA
+  founded: unknown
+  website: https://seas-bergen.squarespace.com/
+  coordinates: [40.90, -74.06]
+  email: "seasbergen@outlook.com"
+  focus: [instruction, cruising, social]
+  boat-types: [sail, dinghy, keelboat]
+  last-update: 2026-11-17
+  last-validated: 2026-11-17
+- club:
+  name: SEAS Monmouth
+  uuid: 51f5c1e1-dd2e-457e-9428-0936d0315502
+  city: Keyport
+  state: New Jersey
+  country: USA
+  founded: 1986
+  website: https://sailseas.com/Monmouth/
+  coordinates: [40.43, -74.20]
+  email: "seasmonmouth@yahoo.com"
+  ownership: non-profit
+  focus: [instruction, cruising, social]
+  boat-types: [sail, dinghy, keelboat]
+  last-update: 2026-11-17
+  last-validated: 2026-11-17
+- club:
+  name: Red Dragon Canoe Club
+  uuid: 232858f7-6068-483f-8e1f-fd54c6b72b30
+  city: Edgewater Park
+  state: New Jersey
+  country: USA
+  founded: unknown
+  website: https://rdcc.clubexpress.com/
+  coordinates: [40.05, -74.91]
+  address: "221 Edgewater Ave, Edgewater Park, NJ 08010"
+  focus: [racing, social]
+  boat-types: [paddle, sail]
+  last-update: 2026-11-17
+  last-validated: 2026-11-17
+- club:
+  name: Salem Boating Club
+  uuid: 4b804950-2a68-4937-83b5-19beba2c226c
+  city: Pennsville
+  state: New Jersey
+  country: USA
+  founded: unknown
+  website: https://salemboatingclub.org/
+  coordinates: [39.65, -75.52]
+  address: "P.O. Box 304, Pennsville, NJ 08070"
+  phone: "(856) 935-7822"
+  focus: [social]
+  boat-types: [power, sail]
+  last-update: 2026-11-17
+  last-validated: 2026-11-17
